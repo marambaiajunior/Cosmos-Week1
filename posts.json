@@ -38,14 +38,14 @@
     "date": "18 ago 2026",
     "date_pt": "18 ago 2026",
     "date_en": "18 Aug 2026",
-    "time": "19h53",
-    "time_pt": "19h53",
-    "time_en": "19:53 UTC",
+    "time": "20h34",
+    "time_pt": "20h34",
+    "time_en": "20:34 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-18T19:53:28.181592+00:00",
-    "lastModifiedIso": "2026-08-18T19:53:28.181592+00:00",
+    "publishedIso": "2026-08-18T20:34:49.728082+00:00",
+    "lastModifiedIso": "2026-08-18T20:34:49.728082+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -143,14 +143,14 @@
     "date": "18 ago 2026",
     "date_pt": "18 ago 2026",
     "date_en": "18 Aug 2026",
-    "time": "19h53",
-    "time_pt": "19h53",
-    "time_en": "19:53 UTC",
+    "time": "20h34",
+    "time_pt": "20h34",
+    "time_en": "20:34 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-18T19:53:28.181531+00:00",
-    "lastModifiedIso": "2026-08-18T19:53:28.181531+00:00",
+    "publishedIso": "2026-08-18T20:34:49.728021+00:00",
+    "lastModifiedIso": "2026-08-18T20:34:49.728021+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -248,14 +248,14 @@
     "date": "18 ago 2026",
     "date_pt": "18 ago 2026",
     "date_en": "18 Aug 2026",
-    "time": "19h53",
-    "time_pt": "19h53",
-    "time_en": "19:53 UTC",
+    "time": "20h34",
+    "time_pt": "20h34",
+    "time_en": "20:34 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-18T19:53:28.181479+00:00",
-    "lastModifiedIso": "2026-08-18T19:53:28.181479+00:00",
+    "publishedIso": "2026-08-18T20:34:49.727968+00:00",
+    "lastModifiedIso": "2026-08-18T20:34:49.727968+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -356,14 +356,14 @@
     "date": "18 ago 2026",
     "date_pt": "18 ago 2026",
     "date_en": "18 Aug 2026",
-    "time": "19h53",
-    "time_pt": "19h53",
-    "time_en": "19:53 UTC",
+    "time": "20h34",
+    "time_pt": "20h34",
+    "time_en": "20:34 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-18T19:53:28.181423+00:00",
-    "lastModifiedIso": "2026-08-18T19:53:28.181423+00:00",
+    "publishedIso": "2026-08-18T20:34:49.727914+00:00",
+    "lastModifiedIso": "2026-08-18T20:34:49.727914+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -461,14 +461,14 @@
     "date": "18 ago 2026",
     "date_pt": "18 ago 2026",
     "date_en": "18 Aug 2026",
-    "time": "19h53",
-    "time_pt": "19h53",
-    "time_en": "19:53 UTC",
+    "time": "20h34",
+    "time_pt": "20h34",
+    "time_en": "20:34 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-18T19:53:28.181371+00:00",
-    "lastModifiedIso": "2026-08-18T19:53:28.181371+00:00",
+    "publishedIso": "2026-08-18T20:34:49.727861+00:00",
+    "lastModifiedIso": "2026-08-18T20:34:49.727861+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -529,6 +529,133 @@
   },
   {
     "id": 6,
+    "slug": "even-near-a-supermassive-black-hole-stars-enrich-the-interstellar-medium",
+    "cat": "Astrofísica",
+    "catCls": "astrofisica",
+    "img": "https://www.universetoday.com/article_images/IRS_3_Field_NIRCam_and_MIRI_image_20260818_184735.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.universetoday.com/article_images/aa60243-26-fig1_20260818_191318.jpg",
+        "caption": "Esta é uma imagem infravermelha média da região em torno do IRS 3 da pesquisa. Um × amarelo marca o SMBH Sgr A* e IRS 3 está rotulado dentro de sua caixa de texto explicativo. A distância entre Sgr A* e IRS 3 é de cerca de 0,17 parsecs. “A emissão do IRS.",
+        "caption_pt": "Esta é uma imagem infravermelha média da região em torno do IRS 3 da pesquisa. Um × amarelo marca o SMBH Sgr A* e IRS 3 está rotulado dentro de sua caixa de texto explicativo. A distância entre Sgr A* e IRS 3 é de cerca de 0,17 parsecs. “A emissão do IRS.",
+        "caption_en": "This is a mid-infrared image of the region around IRS 3 from the research. A yellow × marks the SMBH Sgr A*, and IRS 3 is labelled inside its callout box. The distance between Sgr A* and IRS 3 is about 0.17 parsecs. \"The emission from IRS.",
+        "alt": "Esta é uma imagem infravermelha média da região em torno do IRS 3 da pesquisa. Um × amarelo marca o SMBH Sgr A* e IRS 3 está rotulado dentro de sua caixa de texto explicativo. A distância entre Sgr A* e IRS 3 é de cerca de 0,17 parsecs. “A emissão do IRS.",
+        "alt_pt": "Esta é uma imagem infravermelha média da região em torno do IRS 3 da pesquisa. Um × amarelo marca o SMBH Sgr A* e IRS 3 está rotulado dentro de sua caixa de texto explicativo. A distância entre Sgr A* e IRS 3 é de cerca de 0,17 parsecs. “A emissão do IRS.",
+        "alt_en": "This is a mid-infrared image of the region around IRS 3 from the research. A yellow × marks the SMBH Sgr A*, and IRS 3 is labelled inside its callout box. The distance between Sgr A* and IRS 3 is about 0.17 parsecs. \"The emission from IRS."
+      },
+      {
+        "src": "https://www.universetoday.com/assets/patreon-plus-thumb.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Mesmo perto de um buraco negro supermassivo, estrelas enriquecem o meio interestelar",
+    "title_pt": "Mesmo perto de um buraco negro supermassivo, estrelas enriquecem o meio interestelar",
+    "title_en": "Even Near a Supermassive Black Hole, Stars Enrich the Interstellar Medium",
+    "sub": "Os astrónomos sabem que as estrelas AGB evoluídas perdem as suas camadas exteriores, contribuindo para a composição do meio interestelar. Mas novas observações do JWST mostram que.",
+    "sub_pt": "Os astrónomos sabem que as estrelas AGB evoluídas perdem as suas camadas exteriores, contribuindo para a composição do meio interestelar. Mas novas observações do JWST mostram que.",
+    "sub_en": "Astronomers know that evolved AGB stars shed their outer layers, contributing to the makeup of the interstellar medium. But new JWST observations show this can happen even near a.",
+    "excerpt": "Os astrónomos sabem que as estrelas AGB evoluídas perdem as suas camadas exteriores, contribuindo para a composição do meio interestelar. Mas novas observações do JWST mostram que isto pode acontecer mesmo perto de um buraco negro supermassivo, onde poderia.",
+    "excerpt_pt": "Os astrónomos sabem que as estrelas AGB evoluídas perdem as suas camadas exteriores, contribuindo para a composição do meio interestelar. Mas novas observações do JWST mostram que isto pode acontecer mesmo perto de um buraco negro supermassivo, onde poderia.",
+    "excerpt_en": "Astronomers know that evolved AGB stars shed their outer layers, contributing to the makeup of the interstellar medium. But new JWST observations show this can happen even near a supermassive black hole, where powerful radiation could.",
+    "body": "<p>Os astrónomos sabem que as estrelas AGB evoluídas perdem as suas camadas exteriores, contribuindo para a composição do meio interestelar. Mas novas observações do JWST mostram que isto pode acontecer mesmo perto de um buraco negro supermassivo, onde poderia ocorrer radiação. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Mas novas observações do JWST mostram que isto pode acontecer mesmo perto de um buraco negro supermassivo, onde uma radiação poderosa pode destruir moléculas. A estrela chama-se IRS 3 e é uma estrela AGB altamente evoluída, a apenas cerca de 0,55 anos-luz do massivo SMBH.</p><p>Em uma nova pesquisa publicada na Astronomy and Astrophysics, os astrônomos usaram o JWST para observar o IRS 3 e a área ao seu redor. A investigação desta relação no ambiente extremo dominado pela radiação que rodeia Sgr A*, o centro da nossa própria galáxia, revela como tais condições podem influenciar a.</p><p>Os pesquisadores usaram o NIRCam do JWST para obter imagens da região, e seu Instrumento de Infravermelho Médio (MIRI) e seu espectrômetro de resolução média para estudar o IRS3. Nosso objetivo é realizar uma análise espectral abrangente para restringir mais rigorosamente a composição da poeira e as espécies emissoras de linhas dentro do envelope do IRS 3.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/even-near-a-supermassive-black-hole-stars-enrich-the-interstellar-medium\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Os astrónomos sabem que as estrelas AGB evoluídas perdem as suas camadas exteriores, contribuindo para a composição do meio interestelar. Mas novas observações do JWST mostram que isto pode acontecer mesmo perto de um buraco negro supermassivo, onde poderia ocorrer radiação. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Mas novas observações do JWST mostram que isto pode acontecer mesmo perto de um buraco negro supermassivo, onde uma radiação poderosa pode destruir moléculas. A estrela chama-se IRS 3 e é uma estrela AGB altamente evoluída, a apenas cerca de 0,55 anos-luz do massivo SMBH.</p><p>Em uma nova pesquisa publicada na Astronomy and Astrophysics, os astrônomos usaram o JWST para observar o IRS 3 e a área ao seu redor. A investigação desta relação no ambiente extremo dominado pela radiação que rodeia Sgr A*, o centro da nossa própria galáxia, revela como tais condições podem influenciar a.</p><p>Os pesquisadores usaram o NIRCam do JWST para obter imagens da região, e seu Instrumento de Infravermelho Médio (MIRI) e seu espectrômetro de resolução média para estudar o IRS3. Nosso objetivo é realizar uma análise espectral abrangente para restringir mais rigorosamente a composição da poeira e as espécies emissoras de linhas dentro do envelope do IRS 3.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/even-near-a-supermassive-black-hole-stars-enrich-the-interstellar-medium\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Astronomers know that evolved AGB stars shed their outer layers, contributing to the makeup of the interstellar medium. But new JWST observations show this can happen even near a supermassive black hole, where powerful radiation could. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. But new JWST observations show this can happen even near a supermassive black hole, where powerful radiation could obliterate molecules. The star is named IRS 3, and it&#x27;s a highly-evolved AGB star only about 0.55 light years from the massive SMBH.</p><p>In new research published in Astronomy and Astrophysics, astronomers used the JWST to observe IRS 3 and the area around it. Investigating this relationship in the extreme, radiation-dominated environment surrounding Sgr A*, the center of our own galaxy, reveals how such conditions might influence dust.</p><p>The researchers used the JWST&#x27;s NIRCam to image the region, and its Mid-Infrared Instrument (MIRI) and its medium resolution spectrometer to study IRS3. We aim to conduct a comprehensive spectral analysis to more tightly constrain the dust composition and line-emitting species within the envelope of IRS 3 in the immediate vicinity.</p><p>For the first time, we find clear signs of water in the envelope of IRS 3,&quot; they write. “With Webb, we can directly observe how stars behave under these conditions and see that dust production remains remarkably resilient.” Astronomers&#x27; interest in IRS 3 goes back.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>Based on the JWST&#x27;s spectroscopic data, the star&#x27;s dusty envelope has a shell-like distribution shaped by a temperature gradient. The temperature changes from approximately 1200 Kelvin close to the star, to about 100 Kelvin in the outer regions.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/even-near-a-supermassive-black-hole-stars-enrich-the-interstellar-medium\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Os astrónomos sabem que as estrelas AGB evoluídas perdem as suas camadas exteriores, contribuindo para a composição do meio interestelar. Mas novas.",
+      "Dado-chave: Mas novas observações do JWST mostram que isto pode acontecer mesmo perto de um buraco negro supermassivo, onde uma radiação poderosa pode.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Os astrónomos sabem que as estrelas AGB evoluídas perdem as suas camadas exteriores, contribuindo para a composição do meio interestelar. Mas novas.",
+      "Dado-chave: Mas novas observações do JWST mostram que isto pode acontecer mesmo perto de um buraco negro supermassivo, onde uma radiação poderosa pode.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Astronomers know that evolved AGB stars shed their outer layers, contributing to the makeup of the interstellar medium. But new JWST observations.",
+      "Key detail: But new JWST observations show this can happen even near a supermassive black hole, where powerful radiation could obliterate molecules.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "18 ago 2026",
+    "date_pt": "18 ago 2026",
+    "date_en": "18 Aug 2026",
+    "time": "20h03",
+    "time_pt": "20h03",
+    "time_en": "20:03 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-18T20:03:32+00:00",
+    "lastModifiedIso": "2026-08-18T20:03:32+00:00",
+    "source": "Universe Today",
+    "sourceDomain": "www.universetoday.com",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astrofísica",
+      "Universe Today",
+      "Cosmos Week",
+      "Mesmo perto de um buraco negro supermassivo",
+      "estrelas enriquecem o meio interestelar"
+    ],
+    "keywords_pt": [
+      "Astrofísica",
+      "Universe Today",
+      "Cosmos Week",
+      "Mesmo perto de um buraco negro supermassivo",
+      "estrelas enriquecem o meio interestelar"
+    ],
+    "keywords_en": [
+      "Astrophysics",
+      "Universe Today",
+      "Cosmos Week",
+      "Even close to a supermassive black hole",
+      "stars enrich the interstellar medium"
+    ],
+    "srcUrl": "https://www.universetoday.com/articles/even-near-a-supermassive-black-hole-stars-enrich-the-interstellar-medium",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=even-near-a-supermassive-black-hole-stars-enrich-the-interstellar-medium",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=even-near-a-supermassive-black-hole-stars-enrich-the-interstellar-medium",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=even-near-a-supermassive-black-hole-stars-enrich-the-interstellar-medium&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 77,
+    "scoreBreakdown": {
+      "source": 73,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
     "slug": "nasa-s-lro-images-falcon-9-crater-on-moon-learns-new-details",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -660,7 +787,7 @@
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -674,7 +801,7 @@
     }
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "nasa-student-aviation-challenge-focuses-on-nation-s-infrastructure",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -779,7 +906,7 @@
     }
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "astronomers-finally-see-the-twisted-magnetic-fields-that-drive-protostar-jets",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -903,7 +1030,7 @@
     }
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "nasa-s-skyfall-mars-helicopters-will-feature-a-revolutionary-antenna-design",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1049,139 +1176,6 @@
     }
   },
   {
-    "id": 10,
-    "slug": "iss-hosts-first-spacewalk-by-a-frenchwoman",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/this-frame-grab-from-a.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/this-frame-grab-from-a.jpg",
-        "caption": "Esta captura de quadro de uma transmissão de vídeo ao vivo da NASA mostra os astronautas Anil Menon (L) e Sophie Adenot (R) no início de sua caminhada espacial fora da Estação Espacial Internacional (ISS).",
-        "caption_pt": "Esta captura de quadro de uma transmissão de vídeo ao vivo da NASA mostra os astronautas Anil Menon (L) e Sophie Adenot (R) no início de sua caminhada espacial fora da Estação Espacial Internacional (ISS).",
-        "caption_en": "This frame grab from a NASA live video stream shows astronauts Anil Menon (L) and and Sophie Adenot (R) at the start of their spacewalk outside the International Space Station (ISS).",
-        "alt": "Esta captura de quadro de uma transmissão de vídeo ao vivo da NASA mostra os astronautas Anil Menon (L) e Sophie Adenot (R) no início de sua caminhada espacial fora da Estação Espacial Internacional (ISS)",
-        "alt_pt": "Esta captura de quadro de uma transmissão de vídeo ao vivo da NASA mostra os astronautas Anil Menon (L) e Sophie Adenot (R) no início de sua caminhada espacial fora da Estação Espacial Internacional (ISS)",
-        "alt_en": "This frame grab from a NASA live video stream shows astronauts Anil Menon (L) and and Sophie Adenot (R) at the start of their spacewalk outside the International Space Station (ISS)"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/sophie-adenot-is-set-t.jpg",
-        "caption": "Sophie Adenot está prestes a se tornar a primeira astronauta francesa a realizar uma caminhada espacial.",
-        "caption_pt": "Sophie Adenot está prestes a se tornar a primeira astronauta francesa a realizar uma caminhada espacial.",
-        "caption_en": "Sophie Adenot is set to become the first French female astronaut to conduct a spacewalk.",
-        "alt": "Sophie Adenot está prestes a se tornar a primeira astronauta francesa a realizar uma caminhada espacial",
-        "alt_pt": "Sophie Adenot está prestes a se tornar a primeira astronauta francesa a realizar uma caminhada espacial",
-        "alt_en": "Sophie Adenot is set to become the first French female astronaut to conduct a spacewalk"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/8b33bc1b4d9f6b4c.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "ISS organiza primeira caminhada espacial de uma francesa",
-    "title_pt": "ISS organiza primeira caminhada espacial de uma francesa",
-    "title_en": "ISS hosts first spacewalk by a Frenchwoman",
-    "sub": "Sophie Adenot se tornou a primeira astronauta francesa a se aventurar fora da Estação Espacial Internacional para uma caminhada espacial na terça-feira, acompanhada pelo.",
-    "sub_pt": "Sophie Adenot se tornou a primeira astronauta francesa a se aventurar fora da Estação Espacial Internacional para uma caminhada espacial na terça-feira, acompanhada pelo.",
-    "sub_en": "Sophie Adenot became the first French woman astronaut to venture outside the International Space Station for a spacewalk Tuesday, accompanied by American astronaut Anil Menon.",
-    "excerpt": "Sophie Adenot se tornou a primeira astronauta francesa a se aventurar fora da Estação Espacial Internacional para uma caminhada espacial na terça-feira, acompanhada pelo astronauta americano Anil Menon.",
-    "excerpt_pt": "Sophie Adenot se tornou a primeira astronauta francesa a se aventurar fora da Estação Espacial Internacional para uma caminhada espacial na terça-feira, acompanhada pelo astronauta americano Anil Menon.",
-    "excerpt_en": "Sophie Adenot became the first French woman astronaut to venture outside the International Space Station for a spacewalk Tuesday, accompanied by American astronaut Anil Menon.",
-    "body": "<p>Sophie Adenot se tornou a primeira astronauta francesa a se aventurar fora da Estação Espacial Internacional para uma caminhada espacial na terça-feira, acompanhada pelo astronauta americano Anil Menon. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida Esta captura de quadro de uma transmissão de.</p><p>Durante a missão de seis horas e meia, os dois astronautas substituíram uma antena que permite à ISS se comunicar com o controle da missão em Houston, segundo a NASA. Estou fora&quot;, disse Adenot, 44 anos, depois de sair da ISS, a cerca de 400 quilómetros (250 milhas) acima da Terra.</p><p>Sinto-me muito bem agora.&quot; Adenot tornou-se a segunda mulher europeia a realizar uma caminhada espacial depois da missão de 2022 da astronauta italiana Samantha Cristoforetti.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-iss-hosts-spacewalk-frenchwoman.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Sophie Adenot se tornou a primeira astronauta francesa a se aventurar fora da Estação Espacial Internacional para uma caminhada espacial na terça-feira, acompanhada pelo astronauta americano Anil Menon. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida Esta captura de quadro de uma transmissão de.</p><p>Durante a missão de seis horas e meia, os dois astronautas substituíram uma antena que permite à ISS se comunicar com o controle da missão em Houston, segundo a NASA. Estou fora&quot;, disse Adenot, 44 anos, depois de sair da ISS, a cerca de 400 quilómetros (250 milhas) acima da Terra.</p><p>Sinto-me muito bem agora.&quot; Adenot tornou-se a segunda mulher europeia a realizar uma caminhada espacial depois da missão de 2022 da astronauta italiana Samantha Cristoforetti.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-iss-hosts-spacewalk-frenchwoman.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Sophie Adenot became the first French woman astronaut to venture outside the International Space Station for a spacewalk Tuesday, accompanied by American astronaut Anil Menon. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. This article has been reviewed according to Science X&#x27;s editorial process and policies. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source This frame grab from a NASA live video stream shows astronauts.</p><p>During the six-and-a-half-hour mission, the two astronauts replaced an antenna that allows the ISS to communicate with mission control in Houston, according to NASA. I&#x27;m out,&quot; Adenot, 44, said after exiting the ISS, some 400 kilometers (250 miles) above Earth.</p><p>I feel very good now.&quot; Adenot became the second European woman to conduct a spacewalk after Italian astronaut Samantha Cristoforetti&#x27;s 2022 mission. The two astronauts could be heard chatting and laughing in NASA footage of their adventure.</p><p>President Emmanuel Macron hailed Adenot&#x27;s spacewalk as a cause for &quot;French pride,&quot; leading a chorus of praise from political leaders in her home country. After helping their colleagues don spacesuits, they monitored them and operated a robotic arm to assist with the antenna repair.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>A successful (spacewalk) starts long before the hatch opens, and that&#x27;s where my focus has been these past few days: rehearsing, preparing and focusing,&quot; Adenot said on X on. While the spacewalkers are the ones out in the spotlight, (extravehicular activities) are very much a team effort, and it&#x27;s always a privilege to support the crew from within,&quot;.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-iss-hosts-spacewalk-frenchwoman.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Sophie Adenot se tornou a primeira astronauta francesa a se aventurar fora da Estação Espacial Internacional para uma caminhada espacial na.",
-      "Dado-chave: Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Sophie Adenot se tornou a primeira astronauta francesa a se aventurar fora da Estação Espacial Internacional para uma caminhada espacial na.",
-      "Dado-chave: Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Sophie Adenot became the first French woman astronaut to venture outside the International Space Station for a spacewalk Tuesday, accompanied by.",
-      "Key detail: This article has been reviewed according to Science X's editorial process and policies.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "18 ago 2026",
-    "date_pt": "18 ago 2026",
-    "date_en": "18 Aug 2026",
-    "time": "15h31",
-    "time_pt": "15h31",
-    "time_en": "15:31 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-18T15:31:02+00:00",
-    "lastModifiedIso": "2026-08-18T15:31:02+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "watch",
-    "editorialBandLabel": "Leitura monitorada",
-    "editorialBandLabel_pt": "Leitura monitorada",
-    "editorialBandLabel_en": "Watchlist",
-    "keywords": [
-      "Astronomia",
-      "Phys.org Space",
-      "Cosmos Week",
-      "ISS organiza primeira caminhada espacial de uma francesa"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "Phys.org Space",
-      "Cosmos Week",
-      "ISS organiza primeira caminhada espacial de uma francesa"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "Phys.org Space",
-      "Cosmos Week",
-      "ISS organizes first spacewalk by a French woman"
-    ],
-    "srcUrl": "https://phys.org/news/2026-08-iss-hosts-spacewalk-frenchwoman.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=iss-hosts-first-spacewalk-by-a-frenchwoman",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=iss-hosts-first-spacewalk-by-a-frenchwoman",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=iss-hosts-first-spacewalk-by-a-frenchwoman&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 66,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 82,
-      "relevance": 56,
-      "accessibility": 52,
-      "novelty": 55
-    }
-  },
-  {
     "id": 11,
     "slug": "nasa-mission-studies-air-pollution-over-ethiopia",
     "cat": "Astronomia",
@@ -1316,6 +1310,142 @@
   },
   {
     "id": 12,
+    "slug": "science-release-hubble-details-early-galaxy-transforming-neighbourhood",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://cdn.esahubble.org/archives/images/screen/heic2609a.jpg",
+    "inline_images": [
+      {
+        "src": "https://cdn.esahubble.org/archives/images/newsfeature/heic2609a.jpg",
+        "caption": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
+        "caption_pt": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
+        "caption_en": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)",
+        "alt": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
+        "alt_pt": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
+        "alt_en": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)"
+      },
+      {
+        "src": "https://cdn.esahubble.org/archives/images/news/heic2609a.jpg",
+        "caption": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
+        "caption_pt": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
+        "caption_en": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)",
+        "alt": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
+        "alt_pt": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
+        "alt_en": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)"
+      },
+      {
+        "src": "https://cdn.esahubble.org/archives/images/news/heic2609b.jpg",
+        "caption": "Campo Galaxy de MXDFz4.4 (imagem limpa do Hubble e Webb)",
+        "caption_pt": "Campo Galaxy de MXDFz4.4 (imagem limpa do Hubble e Webb)",
+        "caption_en": "Galaxy field of MXDFz4.4 (Hubble and Webb clean image)",
+        "alt": "Campo Galaxy de MXDFz4.4 (imagem limpa do Hubble e Webb)",
+        "alt_pt": "Campo Galaxy de MXDFz4.4 (imagem limpa do Hubble e Webb)",
+        "alt_en": "Galaxy field of MXDFz4.4 (Hubble and Webb clean image)"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Lançamento científico: Hubble detalha a vizinhança em transformação da galáxia inicial",
+    "title_pt": "Lançamento científico: Hubble detalha a vizinhança em transformação da galáxia inicial",
+    "title_en": "Science Release: Hubble details early galaxy transforming neighbourhood",
+    "sub": "Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que existiu apenas 1,4 mil milhões de.",
+    "sub_pt": "Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que existiu apenas 1,4 mil milhões de.",
+    "sub_en": "Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4 billion years after the Big.",
+    "excerpt": "Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que existiu apenas 1,4 mil milhões de anos após o Big Bang. Essa galáxia contém estrelas jovens fortemente agrupadas.",
+    "excerpt_pt": "Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que existiu apenas 1,4 mil milhões de anos após o Big Bang. Essa galáxia contém estrelas jovens fortemente agrupadas.",
+    "excerpt_en": "Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4 billion years after the Big Bang. That galaxy contains tightly clustered young stars that.",
+    "body": "<p>Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que existiu apenas 1,4 mil milhões de anos após o Big Bang. Essa galáxia contém estrelas jovens fortemente agrupadas que. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Um artigo que descreve esta descoberta foi publicado em 23 de junho de 2026 no Astrophysical Journal. À medida que esta luz viajou durante mais de 12 mil milhões de anos para chegar ao Hubble, o espaço expandiu-se e a luz esticou-se ou desviou-se para o vermelho em luz visível.</p><p>A cobertura do comprimento de onda do Hubble, combinada com a sensibilidade e resolução do seu ponto de vista baseado no espaço, torna-o no único telescópio capaz de capturar esta. “Os astrónomos encontraram muitas galáxias que existiam neste ponto da história do Universo, mas não detetámos fotões ionizantes de nenhuma delas, tornando o MXDFz4.4 único”.</p><p>As longas exposições do Hubble, extraídas de várias pesquisas existentes, revelaram que as estrelas jovens e massivas da galáxia são a fonte da luz ultravioleta, que clareou o.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2609/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que existiu apenas 1,4 mil milhões de anos após o Big Bang. Essa galáxia contém estrelas jovens fortemente agrupadas que. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Um artigo que descreve esta descoberta foi publicado em 23 de junho de 2026 no Astrophysical Journal. À medida que esta luz viajou durante mais de 12 mil milhões de anos para chegar ao Hubble, o espaço expandiu-se e a luz esticou-se ou desviou-se para o vermelho em luz visível.</p><p>A cobertura do comprimento de onda do Hubble, combinada com a sensibilidade e resolução do seu ponto de vista baseado no espaço, torna-o no único telescópio capaz de capturar esta. “Os astrónomos encontraram muitas galáxias que existiam neste ponto da história do Universo, mas não detetámos fotões ionizantes de nenhuma delas, tornando o MXDFz4.4 único”.</p><p>As longas exposições do Hubble, extraídas de várias pesquisas existentes, revelaram que as estrelas jovens e massivas da galáxia são a fonte da luz ultravioleta, que clareou o.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2609/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4 billion years after the Big Bang. That galaxy contains tightly clustered young stars that. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. A paper describing this discovery was published 23 June 2026 in the Astrophysical Journal. As this light traveled for over 12 billion years to reach Hubble, space expanded, and the light stretched or redshifted into visible light.</p><p>Hubble’s wavelength coverage, combined with the sensitivity and resolution of its space-based vantage point, makes it the only telescope capable of capturing this ultraviolet. “Astronomers have found many galaxies that existed at this point in the history of the Universe, but we haven’t detected ionising photons from any of them, making MXDFz4.4 one of.</p><p>Hubble’s long exposures, pulled from several existing surveys, revealed that the galaxy’s young, massive stars are the source of the ultraviolet light, which cleared the. These conclusions are supported by survey data taken by the NASA/ESA/CSA James Webb Space Telescope in near-infrared light and the MUSE eXtremely Deep Field or MXDF, the galaxy’s.</p><p>Before this discovery, researchers had only identified a galaxy emitting ionised light from a time when the Universe was 1.6 billion years old. These insights into MXDFz4.4 were possible thanks to the powerful combination of Hubble, Webb and the VLT,&quot; said co-author Alexander Beckett, a postdoctoral fellow at the.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>In 2023, researchers using Webb showed that galaxies’ stars emitted enough light to heat and ionise the gas around them 900 million years after the Big Bang. This was a breakthrough, but astronomers need galaxies like MXDFz4.4 to fully explain how the process happened, since it shows how the high-energy light from young stars managed.</p><p>Because the account originates with ESA Hubble News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2609/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que.",
+      "Dado-chave: Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que.",
+      "Dado-chave: Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4.",
+      "Key detail: Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "23 jun 2026",
+    "date_pt": "23 jun 2026",
+    "date_en": "23 Jun 2026",
+    "time": "14h00",
+    "time_pt": "14h00",
+    "time_en": "14:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-23T14:00:00+00:00",
+    "lastModifiedIso": "2026-06-23T14:00:00+00:00",
+    "source": "ESA Hubble News",
+    "sourceDomain": "esahubble.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astronomia",
+      "ESA Hubble News",
+      "Cosmos Week",
+      "Lançamento científico",
+      "Hubble detalha a vizinhança em transformação da galáxia inicial"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "ESA Hubble News",
+      "Cosmos Week",
+      "Lançamento científico",
+      "Hubble detalha a vizinhança em transformação da galáxia inicial"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "ESA Hubble News",
+      "Cosmos Week",
+      "Scientific launch",
+      "Hubble Details Early Galaxy's Changing Neighborhood"
+    ],
+    "srcUrl": "https://esahubble.org/news/heic2609/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-details-early-galaxy-transforming-neighbourhood",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-details-early-galaxy-transforming-neighbourhood",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-details-early-galaxy-transforming-neighbourhood&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 79,
+    "scoreBreakdown": {
+      "source": 89,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 46
+    }
+  },
+  {
+    "id": 13,
     "slug": "science-release-hubble-identifies-one-of-darkest-known-galaxies",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1451,7 +1581,7 @@
     }
   },
   {
-    "id": 13,
+    "id": 14,
     "slug": "dark-matter-may-be-gravitationally-lensing-a-likely-source-of-cosmic-neutrinos",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1584,7 +1714,7 @@
     }
   },
   {
-    "id": 14,
+    "id": 15,
     "slug": "dust-and-water-spotted-close-to-giant-black-hole",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1689,7 +1819,7 @@
     }
   },
   {
-    "id": 15,
+    "id": 16,
     "slug": "science-release-hubble-discovers-first-of-star-cluster-s-missing-black-holes",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1822,139 +1952,6 @@
       "relevance": 88,
       "accessibility": 60,
       "novelty": 46
-    }
-  },
-  {
-    "id": 16,
-    "slug": "stellar-explosions-come-into-focus-with-new-nuclear-reaction-measurements",
-    "cat": "Astrofísica",
-    "catCls": "astrofisica",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2025/type-ia-supernova.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2025/type-ia-supernova.jpg",
-        "caption": "Supernova tipo Ia",
-        "caption_pt": "Supernova tipo Ia",
-        "caption_en": "Type Ia supernova",
-        "alt": "Supernova tipo Ia",
-        "alt_pt": "Supernova tipo Ia",
-        "alt_en": "Type Ia supernova"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/e661c1d664a28c5b.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/782dcfc6701d278c.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Explosões estelares entram em foco com novas medições de reação nuclear",
-    "title_pt": "Explosões estelares entram em foco com novas medições de reação nuclear",
-    "title_en": "Stellar explosions come into focus with new nuclear reaction measurements",
-    "sub": "Em dois artigos separados publicados na Physical Review Letters, os investigadores investigaram as reações nucleares que ocorrem dentro das supernovas e das explosões de raios-X.",
-    "sub_pt": "Em dois artigos separados publicados na Physical Review Letters, os investigadores investigaram as reações nucleares que ocorrem dentro das supernovas e das explosões de raios-X.",
-    "sub_en": "In two separate papers published in Physical Review Letters, researchers investigated the nuclear reactions that take place inside supernovae and X-ray bursts, two of the.",
-    "excerpt": "Em dois artigos separados publicados na Physical Review Letters, os investigadores investigaram as reações nucleares que ocorrem dentro das supernovas e das explosões de raios-X, duas das explosões mais poderosas do Universo. Juntas, as descobertas irão.",
-    "excerpt_pt": "Em dois artigos separados publicados na Physical Review Letters, os investigadores investigaram as reações nucleares que ocorrem dentro das supernovas e das explosões de raios-X, duas das explosões mais poderosas do Universo. Juntas, as descobertas irão.",
-    "excerpt_en": "In two separate papers published in Physical Review Letters, researchers investigated the nuclear reactions that take place inside supernovae and X-ray bursts, two of the universe's most powerful explosions. Together, the findings will.",
-    "body": "<p>Em dois artigos separados publicados na Physical Review Letters, os investigadores investigaram as reações nucleares que ocorrem dentro das supernovas e das explosões de raios-X, duas das explosões mais poderosas do Universo. Juntas, as descobertas irão. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Em dois artigos separados publicados na Physical Review Letters, os investigadores investigaram as reações nucleares que ocorrem no interior de supernovas e explosões de raios X. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.</p><p>Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferencial Crédito: Pixabay/CC0 Public Domain Em dois. Uma das melhores pistas vem do titânio-44 radioativo, que é produzido durante uma supernova e ainda pode ser detectado por telescópios espaciais muito depois da explosão.</p><p>No Laboratório Nacional de Argonne, nos Estados Unidos, os investigadores de Surrey obtiveram os primeiros dados experimentais necessários para determinar a taxa de uma reação. Eles descobriram que a reação acontece muito mais lentamente do que se pensava anteriormente, aumentando a produção prevista de titânio-44 em até 35%.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-stellar-explosions-focus-nuclear-reaction.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Em dois artigos separados publicados na Physical Review Letters, os investigadores investigaram as reações nucleares que ocorrem dentro das supernovas e das explosões de raios-X, duas das explosões mais poderosas do Universo. Juntas, as descobertas irão. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Em dois artigos separados publicados na Physical Review Letters, os investigadores investigaram as reações nucleares que ocorrem no interior de supernovas e explosões de raios X. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.</p><p>Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferencial Crédito: Pixabay/CC0 Public Domain Em dois. Uma das melhores pistas vem do titânio-44 radioativo, que é produzido durante uma supernova e ainda pode ser detectado por telescópios espaciais muito depois da explosão.</p><p>No Laboratório Nacional de Argonne, nos Estados Unidos, os investigadores de Surrey obtiveram os primeiros dados experimentais necessários para determinar a taxa de uma reação. Eles descobriram que a reação acontece muito mais lentamente do que se pensava anteriormente, aumentando a produção prevista de titânio-44 em até 35%.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-stellar-explosions-focus-nuclear-reaction.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>In two separate papers published in Physical Review Letters, researchers investigated the nuclear reactions that take place inside supernovae and X-ray bursts, two of the universe&#x27;s most powerful explosions. Together, the findings will. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. This article has been reviewed according to Science X&#x27;s editorial process and policies. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source Credit: Pixabay/CC0 Public Domain In two separate papers.</p><p>One of the best clues comes from radioactive titanium-44, which is produced during a supernova and can still be detected by space telescopes long after the explosion. At Argonne National Laboratory in the United States, Surrey researchers obtained the first experimental data needed to determine the rate of a nuclear reaction that controls how.</p><p>They found the reaction happens much more slowly than previously thought, increasing predicted titanium-44 production by up to 35%. A measurement like this would have been considered out of reach only a couple of decades ago, but it now gives us new insight into one of the biggest unanswered questions in.</p><p>Working at the new Facility for Rare Isotope Beams (FRIB) in Michigan, the team measured a nuclear reaction that powers X-ray bursts with far greater precision than previously. The results settle a long-running question over the role of the nickel-copper cycle, a process that can temporarily trap nuclear material during an explosion, showing it.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>Cousins et al, Identification of Resonant States in the ⁴⁵V( p,γ )⁴⁶Cr Reaction and Their Influence on the Production of ⁴⁴Ti in Core-Collapse Supernovae, Physical Review Letters. O&#x27;Shea et al, Single-Nucleon Transfer on Unstable ⁵⁹Cu Probes the NiCu Cycle in Astrophysical X-Ray Bursts, Physical Review Letters (2026).</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-stellar-explosions-focus-nuclear-reaction.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Em dois artigos separados publicados na Physical Review Letters, os investigadores investigaram as reações nucleares que ocorrem dentro das.",
-      "Dado-chave: Em dois artigos separados publicados na Physical Review Letters, os investigadores investigaram as reações nucleares que ocorrem no interior de.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Em dois artigos separados publicados na Physical Review Letters, os investigadores investigaram as reações nucleares que ocorrem dentro das.",
-      "Dado-chave: Em dois artigos separados publicados na Physical Review Letters, os investigadores investigaram as reações nucleares que ocorrem no interior de.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: In two separate papers published in Physical Review Letters, researchers investigated the nuclear reactions that take place inside supernovae and.",
-      "Key detail: In two separate papers published in Physical Review Letters, researchers investigated the nuclear reactions that take place inside supernovae.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "17 ago 2026",
-    "date_pt": "17 ago 2026",
-    "date_en": "17 Aug 2026",
-    "time": "17h00",
-    "time_pt": "17h00",
-    "time_en": "17:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-17T17:00:03+00:00",
-    "lastModifiedIso": "2026-08-17T17:00:03+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astrofísica",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Explosões estelares entram em foco com novas medições de reação nuclear"
-    ],
-    "keywords_pt": [
-      "Astrofísica",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Explosões estelares entram em foco com novas medições de reação nuclear"
-    ],
-    "keywords_en": [
-      "Astrophysics",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Stellar explosions come into focus with new nuclear reaction measurements"
-    ],
-    "srcUrl": "https://phys.org/news/2026-08-stellar-explosions-focus-nuclear-reaction.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=stellar-explosions-come-into-focus-with-new-nuclear-reaction-measurements",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=stellar-explosions-come-into-focus-with-new-nuclear-reaction-measurements",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=stellar-explosions-come-into-focus-with-new-nuclear-reaction-measurements&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 77,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 88,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 52
     }
   },
   {
@@ -2699,6 +2696,139 @@
   },
   {
     "id": 23,
+    "slug": "radio-telescopes-help-scientists-map-molecules-in-space-and-uncover-where-and-how-stars-form",
+    "cat": "Química",
+    "catCls": "quimica",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/radio-telescopes-help-2.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/radio-telescopes-help-2.jpg",
+        "caption": "Os radiotelescópios ajudam os cientistas a mapear moléculas no espaço e descobrir onde e como as estrelas se formam",
+        "caption_pt": "Os radiotelescópios ajudam os cientistas a mapear moléculas no espaço e descobrir onde e como as estrelas se formam",
+        "caption_en": "Radio telescopes help scientists map molecules in space and uncover where and how stars form",
+        "alt": "Os radiotelescópios ajudam os cientistas a mapear moléculas no espaço e descobrir onde e como as estrelas se formam",
+        "alt_pt": "Os radiotelescópios ajudam os cientistas a mapear moléculas no espaço e descobrir onde e como as estrelas se formam",
+        "alt_en": "Radio telescopes help scientists map molecules in space and uncover where and how stars form"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/radio-telescopes-help.jpg",
+        "caption": "Os radiotelescópios ajudam os cientistas a mapear moléculas no espaço e descobrir onde e como as estrelas se formam",
+        "caption_pt": "Os radiotelescópios ajudam os cientistas a mapear moléculas no espaço e descobrir onde e como as estrelas se formam",
+        "caption_en": "Radio telescopes help scientists map molecules in space and uncover where and how stars form",
+        "alt": "Os radiotelescópios ajudam os cientistas a mapear moléculas no espaço e descobrir onde e como as estrelas se formam",
+        "alt_pt": "Os radiotelescópios ajudam os cientistas a mapear moléculas no espaço e descobrir onde e como as estrelas se formam",
+        "alt_en": "Radio telescopes help scientists map molecules in space and uncover where and how stars form"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/radio-telescopes-help-1.jpg",
+        "caption": "Um mapa de um tipo de metanol pesado em Orion KL derivado de dados do ALMA. Os contornos mostram a emissão de rádio das partículas de poeira na nebulosa, e o mapa colorido mostra a abundância de metanol como densidade da coluna, ou número de moléculas sobre a.",
+        "caption_pt": "Um mapa de um tipo de metanol pesado em Orion KL derivado de dados do ALMA. Os contornos mostram a emissão de rádio das partículas de poeira na nebulosa, e o mapa colorido mostra a abundância de metanol como densidade da coluna, ou número de moléculas sobre a.",
+        "caption_en": "A map of one kind of heavy methanol in Orion KL derived from ALMA data. The contours show radio emission from dust particles in the nebula, and the color map shows methanol abundance as column density, or number of molecules over a.",
+        "alt": "Os radiotelescópios ajudam os cientistas a mapear moléculas no espaço e descobrir onde e como as estrelas se formam",
+        "alt_pt": "Os radiotelescópios ajudam os cientistas a mapear moléculas no espaço e descobrir onde e como as estrelas se formam",
+        "alt_en": "Radio telescopes help scientists map molecules in space and uncover where and how stars form"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Os radiotelescópios ajudam os cientistas a mapear moléculas no espaço e descobrir onde e como as estrelas se formam",
+    "title_pt": "Os radiotelescópios ajudam os cientistas a mapear moléculas no espaço e descobrir onde e como as estrelas se formam",
+    "title_en": "Radio telescopes help scientists map molecules in space and uncover where and how stars form",
+    "sub": "Você pode ter ouvido a frase “somos feitos de matéria estelar”. Esta afirmação do astrônomo Carl Sagan refere-se ao fato de que elementos mais pesados ​​que o hidrogênio e o hélio.",
+    "sub_pt": "Você pode ter ouvido a frase “somos feitos de matéria estelar”. Esta afirmação do astrônomo Carl Sagan refere-se ao fato de que elementos mais pesados ​​que o hidrogênio e o hélio.",
+    "sub_en": "You may have heard the phrase \"we are made of star-stuff.\" This statement by the astronomer Carl Sagan refers to the fact that elements heavier than hydrogen and helium were.",
+    "excerpt": "Você pode ter ouvido a frase “somos feitos de matéria estelar”. Esta afirmação do astrônomo Carl Sagan refere-se ao fato de que elementos mais pesados ​​que o hidrogênio e o hélio foram forjados nos centros das primeiras estrelas. Mas como isso acontece.",
+    "excerpt_pt": "Você pode ter ouvido a frase “somos feitos de matéria estelar”. Esta afirmação do astrônomo Carl Sagan refere-se ao fato de que elementos mais pesados ​​que o hidrogênio e o hélio foram forjados nos centros das primeiras estrelas. Mas como isso acontece.",
+    "excerpt_en": "You may have heard the phrase \"we are made of star-stuff.\" This statement by the astronomer Carl Sagan refers to the fact that elements heavier than hydrogen and helium were forged in the centers of the first stars. But how does this.",
+    "body": "<p>Você pode ter ouvido a frase “somos feitos de matéria estelar”. Esta afirmação do astrônomo Carl Sagan refere-se ao fato de que elementos mais pesados ​​que o hidrogênio e o hélio foram forjados nos centros das primeiras estrelas. Mas como isso acontece. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a química ganha força quando uma estrutura ou processo alegado pode ser descrito com precisão suficiente para ser reproduzido por outros. Rotas sintéticas, assinaturas espectroscópicas, rendimento em condições definidas e estabilidade em parâmetros operacionais realistas são a moeda de credibilidade na química, e um resultado que carece desses detalhes não pode ser avaliado de forma independente. A distância entre uma descoberta em bancada de laboratório e um processo que funciona confiavelmente em escala é medida em anos de otimização, e cada etapa revela restrições que eram invisíveis em escala menor. Salgado (ESO), CC BY Você já deve ter ouvido a frase “somos feitos de matéria estelar”. Esta afirmação do astrônomo Carl Sagan refere-se ao fato de que elementos mais pesados. A partir destes mapas, os astrónomos normalmente descrevem a abundância das moléculas, as temperaturas e a rapidez com que se movem em cada região.</p><p>Minha equipe de pesquisa e eu comparamos recentemente as descobertas desses métodos mais recentes com mapas anteriores para garantir que os mapas anteriores sejam consistentes com. O material contido neles também está bastante espalhado, com densidades de cerca de 100 moléculas por centímetro cúbico.</p><p>À medida que as estrelas infantis se formam, as temperaturas sobem para entre -279°F e -100°F (entre -173°C e -73°C), e a densidade aumenta para 10 milhões de moléculas ou mais. Embora seja a região de formação estelar de grande massa mais próxima da Terra, Orion KL ainda está a cerca de 1.300 anos-luz do sistema solar.</p><p>O interesse mais amplo está em saber se a propriedade ou rota de reação alegada pode ser caracterizada com precisão suficiente para sustentar replicação por outros grupos. A química tem um problema de replicação menos discutido do que o da psicologia ou da medicina, mas ele é real: procedimentos sintéticos que funcionam confiavelmente em um laboratório às vezes não se transferem, por razões que vão de materiais de partida impuros a sensibilidades de temperatura não documentadas. Um resultado que vem com detalhes experimentais completos e caracterização clara do produto é muito mais valioso do que um que relata uma descoberta sem o arcabouço procedimental.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se grupos independentes trabalhando com técnicas ortogonais chegam a conclusões compatíveis e se o resultado escala além das condições usadas no estudo original. Descobertas químicas que importam tendem a ser aquelas cujas propriedades principais podem ser medidas por múltiplos métodos espectroscópicos, cristalográficos ou computacionais que provavelmente não compartilham os mesmos pontos cegos. Escalabilidade, custo e estabilidade de longo prazo sob condições operacionais realistas são filtros adicionais que entram em jogo antes que qualquer aplicação prática se torne viável.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-radio-telescopes-scientists-molecules-space.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Você pode ter ouvido a frase “somos feitos de matéria estelar”. Esta afirmação do astrônomo Carl Sagan refere-se ao fato de que elementos mais pesados ​​que o hidrogênio e o hélio foram forjados nos centros das primeiras estrelas. Mas como isso acontece. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a química ganha força quando uma estrutura ou processo alegado pode ser descrito com precisão suficiente para ser reproduzido por outros. Rotas sintéticas, assinaturas espectroscópicas, rendimento em condições definidas e estabilidade em parâmetros operacionais realistas são a moeda de credibilidade na química, e um resultado que carece desses detalhes não pode ser avaliado de forma independente. A distância entre uma descoberta em bancada de laboratório e um processo que funciona confiavelmente em escala é medida em anos de otimização, e cada etapa revela restrições que eram invisíveis em escala menor. Salgado (ESO), CC BY Você já deve ter ouvido a frase “somos feitos de matéria estelar”. Esta afirmação do astrônomo Carl Sagan refere-se ao fato de que elementos mais pesados. A partir destes mapas, os astrónomos normalmente descrevem a abundância das moléculas, as temperaturas e a rapidez com que se movem em cada região.</p><p>Minha equipe de pesquisa e eu comparamos recentemente as descobertas desses métodos mais recentes com mapas anteriores para garantir que os mapas anteriores sejam consistentes com. O material contido neles também está bastante espalhado, com densidades de cerca de 100 moléculas por centímetro cúbico.</p><p>À medida que as estrelas infantis se formam, as temperaturas sobem para entre -279°F e -100°F (entre -173°C e -73°C), e a densidade aumenta para 10 milhões de moléculas ou mais. Embora seja a região de formação estelar de grande massa mais próxima da Terra, Orion KL ainda está a cerca de 1.300 anos-luz do sistema solar.</p><p>O interesse mais amplo está em saber se a propriedade ou rota de reação alegada pode ser caracterizada com precisão suficiente para sustentar replicação por outros grupos. A química tem um problema de replicação menos discutido do que o da psicologia ou da medicina, mas ele é real: procedimentos sintéticos que funcionam confiavelmente em um laboratório às vezes não se transferem, por razões que vão de materiais de partida impuros a sensibilidades de temperatura não documentadas. Um resultado que vem com detalhes experimentais completos e caracterização clara do produto é muito mais valioso do que um que relata uma descoberta sem o arcabouço procedimental.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se grupos independentes trabalhando com técnicas ortogonais chegam a conclusões compatíveis e se o resultado escala além das condições usadas no estudo original. Descobertas químicas que importam tendem a ser aquelas cujas propriedades principais podem ser medidas por múltiplos métodos espectroscópicos, cristalográficos ou computacionais que provavelmente não compartilham os mesmos pontos cegos. Escalabilidade, custo e estabilidade de longo prazo sob condições operacionais realistas são filtros adicionais que entram em jogo antes que qualquer aplicação prática se torne viável.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-radio-telescopes-scientists-molecules-space.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>You may have heard the phrase &quot;we are made of star-stuff.&quot; This statement by the astronomer Carl Sagan refers to the fact that elements heavier than hydrogen and helium were forged in the centers of the first stars. But how does this. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because chemistry gains force when a claimed structure or process can be described with enough precision to be reproduced by others. Synthetic routes, spectroscopic signatures, yield under defined conditions and stability under realistic operating parameters are the currency of credibility in chemistry, and a result that lacks these details cannot be evaluated independently. The distance between a discovery on a laboratory bench and a process that works reliably at scale is measured in years of optimization, and each step reveals constraints that were invisible at smaller scale. Salgado (ESO), CC BY You may have heard the phrase &quot; we are made of star-stuff.&quot; This statement by the astronomer Carl Sagan refers to the fact that elements heavier than hydrogen. From these maps, astronomers typically describe molecules&#x27; abundances, temperatures and how fast they&#x27;re moving in each region.</p><p>My research team and I recently compared the findings from these newer methods with previous maps to make sure the earlier maps are consistent with our new maps. The material in them is also really spread out, with densities of about 100 molecules per cubic centimeter.</p><p>As infant stars form, temperatures rise to between -279°F and -100°F (between -173°C and -73°C), and the density increases to 10 million molecules or more per cubic centimeter. Even though it is the closest high-mass, star-forming region to Earth, Orion KL is still about 1,300 light-years from the solar system.</p><p>Instead, I observe Orion KL&#x27;s chemistry from Earth with radio telescopes. Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights.</p><p>The broader interest lies in whether the claimed property or reaction pathway can be characterized with enough precision to support replication by other groups. Chemistry has a replication problem that is less discussed than the one in psychology or medicine, but it is real: synthetic procedures that work reliably in one laboratory sometimes fail to transfer, for reasons ranging from impure starting materials to undocumented temperature sensitivities. A result that comes with full experimental detail and a clear characterization of the product is far more valuable than one that reports a discovery without the procedural backbone.</p><p>While impressive, single-dish telescope observations of Orion KL can see structures down to about 2,600 astronomical units across, at best. An astronomical unit, or 1 au, is the average distance from the center of Earth to the center of the sun.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent groups working with orthogonal techniques reach compatible conclusions, and whether the result scales beyond the conditions used in the original study. Chemical discoveries that matter tend to be ones whose key properties can be measured by multiple spectroscopic, crystallographic or computational methods that are unlikely to share the same blind spots. Scalability, cost and long-term stability under realistic operating conditions are additional filters that come into play before any practical application becomes viable.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-radio-telescopes-scientists-molecules-space.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Você pode ter ouvido a frase “somos feitos de matéria estelar”. Esta afirmação do astrônomo Carl Sagan refere-se ao fato de que elementos mais.",
+      "Dado-chave: Salgado (ESO), CC BY Você já deve ter ouvido a frase “somos feitos de matéria estelar”. Esta afirmação do astrônomo Carl Sagan refere-se ao fato.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Você pode ter ouvido a frase “somos feitos de matéria estelar”. Esta afirmação do astrônomo Carl Sagan refere-se ao fato de que elementos mais.",
+      "Dado-chave: Salgado (ESO), CC BY Você já deve ter ouvido a frase “somos feitos de matéria estelar”. Esta afirmação do astrônomo Carl Sagan refere-se ao fato.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: You may have heard the phrase \"we are made of star-stuff.\" This statement by the astronomer Carl Sagan refers to the fact that elements heavier than.",
+      "Key detail: Salgado (ESO), CC BY You may have heard the phrase \" we are made of star-stuff.\" This statement by the astronomer Carl Sagan refers to the fact.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "16 ago 2026",
+    "date_pt": "16 ago 2026",
+    "date_en": "16 Aug 2026",
+    "time": "22h40",
+    "time_pt": "22h40",
+    "time_en": "22:40 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-16T22:40:01+00:00",
+    "lastModifiedIso": "2026-08-16T22:40:01+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Química",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Os radiotelescópios ajudam os cientistas a mapear moléculas no espaço e descobrir onde e como as estrelas se formam"
+    ],
+    "keywords_pt": [
+      "Química",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Os radiotelescópios ajudam os cientistas a mapear moléculas no espaço e descobrir onde e como as estrelas se formam"
+    ],
+    "keywords_en": [
+      "Chemical",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Radio telescopes help scientists map molecules in space and discover where and how stars form"
+    ],
+    "srcUrl": "https://phys.org/news/2026-08-radio-telescopes-scientists-molecules-space.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=radio-telescopes-help-scientists-map-molecules-in-space-and-uncover-where-and-how-stars-form",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=radio-telescopes-help-scientists-map-molecules-in-space-and-uncover-where-and-how-stars-form",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=radio-telescopes-help-scientists-map-molecules-in-space-and-uncover-where-and-how-stars-form&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 75,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 88,
+      "relevance": 82,
+      "accessibility": 60,
+      "novelty": 52
+    }
+  },
+  {
+    "id": 24,
     "slug": "nasa-glenn-s-legacy-forged-through-decades-of-flight-research",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2803,12 +2933,40 @@
     }
   },
   {
-    "id": 24,
+    "id": 25,
     "slug": "a-look-back-at-the-2026-total-solar-eclipse",
     "cat": "Ciências da Terra",
     "catCls": "terra",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/12_august_total_eclipse_imaged_by_miguel_claro/27418378-1-eng-GB/12_August_total_eclipse_imaged_by_Miguel_Claro_card_full.jpg",
-    "inline_images": [],
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/totality_in_leon_12_august_2026/27416484-1-eng-GB/Totality_in_Leon_12_August_2026_pillars.jpg",
+        "caption": "Totalidade em Leão, 12 de agosto de 2026",
+        "caption_pt": "Totalidade em Leão, 12 de agosto de 2026",
+        "caption_en": "Totality in León, 12 August 2026",
+        "alt": "Totalidade em Leão, 12 de agosto de 2026",
+        "alt_pt": "Totalidade em Leão, 12 de agosto de 2026",
+        "alt_en": "Totality in León, 12 August 2026"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/12_august_total_eclipse_imaged_by_marina_prol2/27418472-1-eng-GB/12_August_total_eclipse_imaged_by_Marina_Prol_pillars.jpg",
+        "caption": "Eclipse total de 12 de agosto fotografado por Marina Prol",
+        "caption_pt": "Eclipse total de 12 de agosto fotografado por Marina Prol",
+        "caption_en": "12 August total eclipse imaged by Marina Prol",
+        "alt": "Eclipse total de 12 de agosto fotografado por Marina Prol",
+        "alt_pt": "Eclipse total de 12 de agosto fotografado por Marina Prol",
+        "alt_en": "12 August total eclipse imaged by Marina Prol"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/12_august_2026_eclipse_from_javalambre/27417939-1-eng-GB/12_August_2026_eclipse_from_Javalambre_pillars.png",
+        "caption": "Eclipse de 12 de agosto de 2026 em Javalambre",
+        "caption_pt": "Eclipse de 12 de agosto de 2026 em Javalambre",
+        "caption_en": "12 August 2026 eclipse from Javalambre",
+        "alt": "Eclipse de 12 de agosto de 2026 em Javalambre",
+        "alt_pt": "Eclipse de 12 de agosto de 2026 em Javalambre",
+        "alt_en": "12 August 2026 eclipse from Javalambre"
+      }
+    ],
     "video": null,
     "audio": null,
     "title": "Uma retrospectiva do eclipse solar total de 2026",
@@ -2820,9 +2978,9 @@
     "excerpt": "Em 12 de agosto de 2026, a Europa testemunhou o primeiro eclipse solar total em mais de duas décadas. Milhões de pessoas ficaram impressionadas com a Lua cobrindo completamente o disco brilhante do Sol, transformando brevemente o dia em noite e revelando a.",
     "excerpt_pt": "Em 12 de agosto de 2026, a Europa testemunhou o primeiro eclipse solar total em mais de duas décadas. Milhões de pessoas ficaram impressionadas com a Lua cobrindo completamente o disco brilhante do Sol, transformando brevemente o dia em noite e revelando a.",
     "excerpt_en": "On 12 August 2026, Europe witnessed the first total solar eclipse in over two decades. Millions of people were awed by the Moon completely covering the Sun's bright disc, briefly turning day into night and revealing the Sun's outer.",
-    "body": "<p>Em 12 de agosto de 2026, a Europa testemunhou o primeiro eclipse solar total em mais de duas décadas. Milhões de pessoas ficaram impressionadas com a Lua cobrindo completamente o disco brilhante do Sol, transformando brevemente o dia em noite e revelando a parte externa do Sol. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Em 12 de agosto de 2026, a Europa testemunhou o primeiro eclipse solar total em mais de duas décadas. Milhões de pessoas ficaram maravilhadas com a Lua cobrindo completamente o disco brilhante do Sol, transformando brevemente o dia em noite e revelando a atmosfera externa do Sol.</p><p>A totalidade pôde ser vista na Groenlândia, Islândia, Espanha e Portugal, enquanto a maior parte do resto da Europa viu um eclipse parcial.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/A_look_back_at_the_2026_total_solar_eclipse\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Em 12 de agosto de 2026, a Europa testemunhou o primeiro eclipse solar total em mais de duas décadas. Milhões de pessoas ficaram impressionadas com a Lua cobrindo completamente o disco brilhante do Sol, transformando brevemente o dia em noite e revelando a parte externa do Sol. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Em 12 de agosto de 2026, a Europa testemunhou o primeiro eclipse solar total em mais de duas décadas. Milhões de pessoas ficaram maravilhadas com a Lua cobrindo completamente o disco brilhante do Sol, transformando brevemente o dia em noite e revelando a atmosfera externa do Sol.</p><p>A totalidade pôde ser vista na Groenlândia, Islândia, Espanha e Portugal, enquanto a maior parte do resto da Europa viu um eclipse parcial.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/A_look_back_at_the_2026_total_solar_eclipse\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>On 12 August 2026, Europe witnessed the first total solar eclipse in over two decades. Millions of people were awed by the Moon completely covering the Sun&#x27;s bright disc, briefly turning day into night and revealing the Sun&#x27;s outer. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. On 12 August 2026, Europe witnessed the first total solar eclipse in over two decades. Millions of people were awed by the Moon completely covering the Sun&#x27;s bright disc, briefly turning day into night and revealing the Sun&#x27;s outer atmosphere.</p><p>Totality could be seen from Greenland, Iceland, Spain and Portugal, while most of the rest of Europe saw a partial eclipse.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/A_look_back_at_the_2026_total_solar_eclipse\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>Em 12 de agosto de 2026, a Europa testemunhou o primeiro eclipse solar total em mais de duas décadas. Milhões de pessoas ficaram impressionadas com a Lua cobrindo completamente o disco brilhante do Sol, transformando brevemente o dia em noite e revelando a parte externa do Sol. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Em 12 de agosto de 2026, a Europa testemunhou o primeiro eclipse solar total em mais de duas décadas. Milhões de pessoas ficaram maravilhadas com a Lua cobrindo completamente o disco brilhante do Sol, transformando brevemente o dia em noite e revelando a atmosfera externa do Sol.</p><p>“Acho que ‘confunde a mente’ resume tudo”, disse a Diretora de Ciências da Agência Espacial Europeia, Professora Carole Mundell, durante a transmissão ao vivo da ESA a partir do. A ESA organizou transmissões ao vivo de telescópios dos locais espanhóis de León, Palencia e Javalambre, e fotógrafos de toda a Europa partilharam as suas fotos connosco.</p><p>O satélite de observação da Terra MTG-I1 capturou a sombra da Lua movendo-se pela Terra, o criador de eclipses artificiais da ESA, Proba-3, capturou um eclipse duplo da órbita da. Para aqueles que não puderam viajar para regiões onde a totalidade era visível, a transmissão ao vivo da ESA permitiu-lhes vivenciar o eclipse juntamente com cientistas da ESA e.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/A_look_back_at_the_2026_total_solar_eclipse\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Em 12 de agosto de 2026, a Europa testemunhou o primeiro eclipse solar total em mais de duas décadas. Milhões de pessoas ficaram impressionadas com a Lua cobrindo completamente o disco brilhante do Sol, transformando brevemente o dia em noite e revelando a parte externa do Sol. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Em 12 de agosto de 2026, a Europa testemunhou o primeiro eclipse solar total em mais de duas décadas. Milhões de pessoas ficaram maravilhadas com a Lua cobrindo completamente o disco brilhante do Sol, transformando brevemente o dia em noite e revelando a atmosfera externa do Sol.</p><p>“Acho que ‘confunde a mente’ resume tudo”, disse a Diretora de Ciências da Agência Espacial Europeia, Professora Carole Mundell, durante a transmissão ao vivo da ESA a partir do. A ESA organizou transmissões ao vivo de telescópios dos locais espanhóis de León, Palencia e Javalambre, e fotógrafos de toda a Europa partilharam as suas fotos connosco.</p><p>O satélite de observação da Terra MTG-I1 capturou a sombra da Lua movendo-se pela Terra, o criador de eclipses artificiais da ESA, Proba-3, capturou um eclipse duplo da órbita da. Para aqueles que não puderam viajar para regiões onde a totalidade era visível, a transmissão ao vivo da ESA permitiu-lhes vivenciar o eclipse juntamente com cientistas da ESA e.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/A_look_back_at_the_2026_total_solar_eclipse\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>On 12 August 2026, Europe witnessed the first total solar eclipse in over two decades. Millions of people were awed by the Moon completely covering the Sun&#x27;s bright disc, briefly turning day into night and revealing the Sun&#x27;s outer. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. On 12 August 2026, Europe witnessed the first total solar eclipse in over two decades. Millions of people were awed by the Moon completely covering the Sun&#x27;s bright disc, briefly turning day into night and revealing the Sun&#x27;s outer atmosphere.</p><p>“I think ‘boggles the mind’ sums it up,” says the European Space Agency&#x27;s Director of Science Professor Carole Mundell, during ESA&#x27;s live broadcast from the Observatorio. ESA arranged for live telescope feeds from the Spanish sites of León, Palencia and Javalambre, and photographers across Europe shared their photos with us.</p><p>Earth observation satellite MTG-I1 captured the Moon’s shadow moving across Earth, ESA&#x27;s artificial eclipse-maker Proba-3 captured a double eclipse from Earth orbit, and ESA&#x27;s. For those unable to travel to regions from where totality was visible, ESA&#x27;s live broadcast allowed them to experience the eclipse together with scientists from ESA and the.</p><p>Hosted by Dame Dr Maggie Aderin, the programme explored topics ranging from the mysteries of the Sun and its corona, to how one famous eclipse changed our understanding of. The highlight was the coverage of 1 minute and 21 seconds of totality, as the Moon plunged Javalambre into complete darkness.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>ESA, together with the City of León and the University of León, organised a free public event at the Palacio de Exposiciones y Congresos de León (Spain) on the day of the eclipse. A highlight was the ‘an inclusive eclipse’ workshop, where members of ESA’s CESAR science education team demonstrated tools to experience an eclipse without using your eyes.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/A_look_back_at_the_2026_total_solar_eclipse\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Em 12 de agosto de 2026, a Europa testemunhou o primeiro eclipse solar total em mais de duas décadas. Milhões de pessoas ficaram impressionadas com a.",
       "Dado-chave: Em 12 de agosto de 2026, a Europa testemunhou o primeiro eclipse solar total em mais de duas décadas.",
@@ -2903,142 +3061,6 @@
       "source": 90,
       "evidence": 88,
       "relevance": 80,
-      "accessibility": 60,
-      "novelty": 46
-    }
-  },
-  {
-    "id": 25,
-    "slug": "science-release-hubble-details-early-galaxy-transforming-neighbourhood",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://cdn.esahubble.org/archives/images/screen/heic2609a.jpg",
-    "inline_images": [
-      {
-        "src": "https://cdn.esahubble.org/archives/images/newsfeature/heic2609a.jpg",
-        "caption": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
-        "caption_pt": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
-        "caption_en": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)",
-        "alt": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
-        "alt_pt": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
-        "alt_en": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)"
-      },
-      {
-        "src": "https://cdn.esahubble.org/archives/images/news/heic2609a.jpg",
-        "caption": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
-        "caption_pt": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
-        "caption_en": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)",
-        "alt": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
-        "alt_pt": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
-        "alt_en": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)"
-      },
-      {
-        "src": "https://cdn.esahubble.org/archives/images/news/heic2609b.jpg",
-        "caption": "Campo Galaxy de MXDFz4.4 (imagem limpa do Hubble e Webb)",
-        "caption_pt": "Campo Galaxy de MXDFz4.4 (imagem limpa do Hubble e Webb)",
-        "caption_en": "Galaxy field of MXDFz4.4 (Hubble and Webb clean image)",
-        "alt": "Campo Galaxy de MXDFz4.4 (imagem limpa do Hubble e Webb)",
-        "alt_pt": "Campo Galaxy de MXDFz4.4 (imagem limpa do Hubble e Webb)",
-        "alt_en": "Galaxy field of MXDFz4.4 (Hubble and Webb clean image)"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Lançamento científico: Hubble detalha a vizinhança em transformação da galáxia inicial",
-    "title_pt": "Lançamento científico: Hubble detalha a vizinhança em transformação da galáxia inicial",
-    "title_en": "Science Release: Hubble details early galaxy transforming neighbourhood",
-    "sub": "Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que existiu apenas 1,4 mil milhões de.",
-    "sub_pt": "Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que existiu apenas 1,4 mil milhões de.",
-    "sub_en": "Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4 billion years after the Big.",
-    "excerpt": "Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que existiu apenas 1,4 mil milhões de anos após o Big Bang. Essa galáxia contém estrelas jovens fortemente agrupadas.",
-    "excerpt_pt": "Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que existiu apenas 1,4 mil milhões de anos após o Big Bang. Essa galáxia contém estrelas jovens fortemente agrupadas.",
-    "excerpt_en": "Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4 billion years after the Big Bang. That galaxy contains tightly clustered young stars that.",
-    "body": "<p>Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que existiu apenas 1,4 mil milhões de anos após o Big Bang. Essa galáxia contém estrelas jovens fortemente agrupadas que. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Um artigo que descreve esta descoberta foi publicado em 23 de junho de 2026 no Astrophysical Journal. À medida que esta luz viajou durante mais de 12 mil milhões de anos para chegar ao Hubble, o espaço expandiu-se e a luz esticou-se ou desviou-se para o vermelho em luz visível.</p><p>A cobertura do comprimento de onda do Hubble, combinada com a sensibilidade e resolução do seu ponto de vista baseado no espaço, torna-o no único telescópio capaz de capturar esta. “Os astrónomos encontraram muitas galáxias que existiam neste ponto da história do Universo, mas não detetámos fotões ionizantes de nenhuma delas, tornando o MXDFz4.4 único”.</p><p>As longas exposições do Hubble, extraídas de várias pesquisas existentes, revelaram que as estrelas jovens e massivas da galáxia são a fonte da luz ultravioleta, que clareou o.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2609/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que existiu apenas 1,4 mil milhões de anos após o Big Bang. Essa galáxia contém estrelas jovens fortemente agrupadas que. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Um artigo que descreve esta descoberta foi publicado em 23 de junho de 2026 no Astrophysical Journal. À medida que esta luz viajou durante mais de 12 mil milhões de anos para chegar ao Hubble, o espaço expandiu-se e a luz esticou-se ou desviou-se para o vermelho em luz visível.</p><p>A cobertura do comprimento de onda do Hubble, combinada com a sensibilidade e resolução do seu ponto de vista baseado no espaço, torna-o no único telescópio capaz de capturar esta. “Os astrónomos encontraram muitas galáxias que existiam neste ponto da história do Universo, mas não detetámos fotões ionizantes de nenhuma delas, tornando o MXDFz4.4 único”.</p><p>As longas exposições do Hubble, extraídas de várias pesquisas existentes, revelaram que as estrelas jovens e massivas da galáxia são a fonte da luz ultravioleta, que clareou o.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2609/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4 billion years after the Big Bang. That galaxy contains tightly clustered young stars that. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. A paper describing this discovery was published 23 June 2026 in the Astrophysical Journal. As this light traveled for over 12 billion years to reach Hubble, space expanded, and the light stretched or redshifted into visible light.</p><p>Hubble’s wavelength coverage, combined with the sensitivity and resolution of its space-based vantage point, makes it the only telescope capable of capturing this ultraviolet. “Astronomers have found many galaxies that existed at this point in the history of the Universe, but we haven’t detected ionising photons from any of them, making MXDFz4.4 one of.</p><p>Hubble’s long exposures, pulled from several existing surveys, revealed that the galaxy’s young, massive stars are the source of the ultraviolet light, which cleared the. These conclusions are supported by survey data taken by the NASA/ESA/CSA James Webb Space Telescope in near-infrared light and the MUSE eXtremely Deep Field or MXDF, the galaxy’s.</p><p>Before this discovery, researchers had only identified a galaxy emitting ionised light from a time when the Universe was 1.6 billion years old. These insights into MXDFz4.4 were possible thanks to the powerful combination of Hubble, Webb and the VLT,&quot; said co-author Alexander Beckett, a postdoctoral fellow at the.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>In 2023, researchers using Webb showed that galaxies’ stars emitted enough light to heat and ionise the gas around them 900 million years after the Big Bang. This was a breakthrough, but astronomers need galaxies like MXDFz4.4 to fully explain how the process happened, since it shows how the high-energy light from young stars managed.</p><p>Because the account originates with ESA Hubble News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2609/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que.",
-      "Dado-chave: Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que.",
-      "Dado-chave: Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4.",
-      "Key detail: Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "23 jun 2026",
-    "date_pt": "23 jun 2026",
-    "date_en": "23 Jun 2026",
-    "time": "14h00",
-    "time_pt": "14h00",
-    "time_en": "14:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-23T14:00:00+00:00",
-    "lastModifiedIso": "2026-06-23T14:00:00+00:00",
-    "source": "ESA Hubble News",
-    "sourceDomain": "esahubble.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astronomia",
-      "ESA Hubble News",
-      "Cosmos Week",
-      "Lançamento científico",
-      "Hubble detalha a vizinhança em transformação da galáxia inicial"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "ESA Hubble News",
-      "Cosmos Week",
-      "Lançamento científico",
-      "Hubble detalha a vizinhança em transformação da galáxia inicial"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "ESA Hubble News",
-      "Cosmos Week",
-      "Scientific launch",
-      "Hubble Details Early Galaxy's Changing Neighborhood"
-    ],
-    "srcUrl": "https://esahubble.org/news/heic2609/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-details-early-galaxy-transforming-neighbourhood",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-details-early-galaxy-transforming-neighbourhood",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-details-early-galaxy-transforming-neighbourhood&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 79,
-    "scoreBreakdown": {
-      "source": 89,
-      "evidence": 88,
-      "relevance": 88,
       "accessibility": 60,
       "novelty": 46
     }
@@ -3546,6 +3568,139 @@
   },
   {
     "id": 30,
+    "slug": "stellar-explosions-come-into-focus-with-new-nuclear-reaction-measurements",
+    "cat": "Astrofísica",
+    "catCls": "astrofisica",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2025/type-ia-supernova.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2025/type-ia-supernova.jpg",
+        "caption": "Supernova tipo Ia",
+        "caption_pt": "Supernova tipo Ia",
+        "caption_en": "Type Ia supernova",
+        "alt": "Supernova tipo Ia",
+        "alt_pt": "Supernova tipo Ia",
+        "alt_en": "Type Ia supernova"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/e661c1d664a28c5b.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/782dcfc6701d278c.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Explosões estelares entram em foco com novas medições de reação nuclear",
+    "title_pt": "Explosões estelares entram em foco com novas medições de reação nuclear",
+    "title_en": "Stellar explosions come into focus with new nuclear reaction measurements",
+    "sub": "Em dois artigos separados publicados na Physical Review Letters, os investigadores investigaram as reações nucleares que ocorrem dentro das supernovas e das explosões de raios-X.",
+    "sub_pt": "Em dois artigos separados publicados na Physical Review Letters, os investigadores investigaram as reações nucleares que ocorrem dentro das supernovas e das explosões de raios-X.",
+    "sub_en": "In two separate papers published in Physical Review Letters, researchers investigated the nuclear reactions that take place inside supernovae and X-ray bursts, two of the.",
+    "excerpt": "Em dois artigos separados publicados na Physical Review Letters, os investigadores investigaram as reações nucleares que ocorrem dentro das supernovas e das explosões de raios-X, duas das explosões mais poderosas do Universo. Juntas, as descobertas irão.",
+    "excerpt_pt": "Em dois artigos separados publicados na Physical Review Letters, os investigadores investigaram as reações nucleares que ocorrem dentro das supernovas e das explosões de raios-X, duas das explosões mais poderosas do Universo. Juntas, as descobertas irão.",
+    "excerpt_en": "In two separate papers published in Physical Review Letters, researchers investigated the nuclear reactions that take place inside supernovae and X-ray bursts, two of the universe's most powerful explosions. Together, the findings will.",
+    "body": "<p>Em dois artigos separados publicados na Physical Review Letters, os investigadores investigaram as reações nucleares que ocorrem dentro das supernovas e das explosões de raios-X, duas das explosões mais poderosas do Universo. Juntas, as descobertas irão. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Em dois artigos separados publicados na Physical Review Letters, os investigadores investigaram as reações nucleares que ocorrem no interior de supernovas e explosões de raios X. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.</p><p>Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferencial Crédito: Pixabay/CC0 Public Domain Em dois. Uma das melhores pistas vem do titânio-44 radioativo, que é produzido durante uma supernova e ainda pode ser detectado por telescópios espaciais muito depois da explosão.</p><p>No Laboratório Nacional de Argonne, nos Estados Unidos, os investigadores de Surrey obtiveram os primeiros dados experimentais necessários para determinar a taxa de uma reação. Eles descobriram que a reação acontece muito mais lentamente do que se pensava anteriormente, aumentando a produção prevista de titânio-44 em até 35%.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-stellar-explosions-focus-nuclear-reaction.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Em dois artigos separados publicados na Physical Review Letters, os investigadores investigaram as reações nucleares que ocorrem dentro das supernovas e das explosões de raios-X, duas das explosões mais poderosas do Universo. Juntas, as descobertas irão. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Em dois artigos separados publicados na Physical Review Letters, os investigadores investigaram as reações nucleares que ocorrem no interior de supernovas e explosões de raios X. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.</p><p>Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferencial Crédito: Pixabay/CC0 Public Domain Em dois. Uma das melhores pistas vem do titânio-44 radioativo, que é produzido durante uma supernova e ainda pode ser detectado por telescópios espaciais muito depois da explosão.</p><p>No Laboratório Nacional de Argonne, nos Estados Unidos, os investigadores de Surrey obtiveram os primeiros dados experimentais necessários para determinar a taxa de uma reação. Eles descobriram que a reação acontece muito mais lentamente do que se pensava anteriormente, aumentando a produção prevista de titânio-44 em até 35%.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-stellar-explosions-focus-nuclear-reaction.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>In two separate papers published in Physical Review Letters, researchers investigated the nuclear reactions that take place inside supernovae and X-ray bursts, two of the universe&#x27;s most powerful explosions. Together, the findings will. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. This article has been reviewed according to Science X&#x27;s editorial process and policies. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source Credit: Pixabay/CC0 Public Domain In two separate papers.</p><p>One of the best clues comes from radioactive titanium-44, which is produced during a supernova and can still be detected by space telescopes long after the explosion. At Argonne National Laboratory in the United States, Surrey researchers obtained the first experimental data needed to determine the rate of a nuclear reaction that controls how.</p><p>They found the reaction happens much more slowly than previously thought, increasing predicted titanium-44 production by up to 35%. A measurement like this would have been considered out of reach only a couple of decades ago, but it now gives us new insight into one of the biggest unanswered questions in.</p><p>Working at the new Facility for Rare Isotope Beams (FRIB) in Michigan, the team measured a nuclear reaction that powers X-ray bursts with far greater precision than previously. The results settle a long-running question over the role of the nickel-copper cycle, a process that can temporarily trap nuclear material during an explosion, showing it.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>Cousins et al, Identification of Resonant States in the ⁴⁵V( p,γ )⁴⁶Cr Reaction and Their Influence on the Production of ⁴⁴Ti in Core-Collapse Supernovae, Physical Review Letters. O&#x27;Shea et al, Single-Nucleon Transfer on Unstable ⁵⁹Cu Probes the NiCu Cycle in Astrophysical X-Ray Bursts, Physical Review Letters (2026).</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-stellar-explosions-focus-nuclear-reaction.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Em dois artigos separados publicados na Physical Review Letters, os investigadores investigaram as reações nucleares que ocorrem dentro das.",
+      "Dado-chave: Em dois artigos separados publicados na Physical Review Letters, os investigadores investigaram as reações nucleares que ocorrem no interior de.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Em dois artigos separados publicados na Physical Review Letters, os investigadores investigaram as reações nucleares que ocorrem dentro das.",
+      "Dado-chave: Em dois artigos separados publicados na Physical Review Letters, os investigadores investigaram as reações nucleares que ocorrem no interior de.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: In two separate papers published in Physical Review Letters, researchers investigated the nuclear reactions that take place inside supernovae and.",
+      "Key detail: In two separate papers published in Physical Review Letters, researchers investigated the nuclear reactions that take place inside supernovae.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "17 ago 2026",
+    "date_pt": "17 ago 2026",
+    "date_en": "17 Aug 2026",
+    "time": "17h00",
+    "time_pt": "17h00",
+    "time_en": "17:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-17T17:00:03+00:00",
+    "lastModifiedIso": "2026-08-17T17:00:03+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astrofísica",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Explosões estelares entram em foco com novas medições de reação nuclear"
+    ],
+    "keywords_pt": [
+      "Astrofísica",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Explosões estelares entram em foco com novas medições de reação nuclear"
+    ],
+    "keywords_en": [
+      "Astrophysics",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Stellar explosions come into focus with new nuclear reaction measurements"
+    ],
+    "srcUrl": "https://phys.org/news/2026-08-stellar-explosions-focus-nuclear-reaction.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=stellar-explosions-come-into-focus-with-new-nuclear-reaction-measurements",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=stellar-explosions-come-into-focus-with-new-nuclear-reaction-measurements",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=stellar-explosions-come-into-focus-with-new-nuclear-reaction-measurements&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 77,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 52
+    }
+  },
+  {
+    "id": 31,
     "slug": "how-esa-mimics-and-models-the-2026-total-solar-eclipse",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3650,7 +3805,7 @@
     }
   },
   {
-    "id": 31,
+    "id": 32,
     "slug": "lala-batters-hawaii",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3783,7 +3938,7 @@
     }
   },
   {
-    "id": 32,
+    "id": 33,
     "slug": "the-jwst-little-red-dots-could-be-black-hole-stars",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -3913,139 +4068,6 @@
       "relevance": 88,
       "accessibility": 60,
       "novelty": 52
-    }
-  },
-  {
-    "id": 33,
-    "slug": "hubble-reveals-that-star-formation-is-slowing-down-in-the-andromeda-galaxy",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://www.universetoday.com/article_images/hs-2015-02-a-hires_jpg-jpg_20260814_234854.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.universetoday.com/article_images/Andromeda_Galaxy_Hubble.jpg",
-        "caption": "A Galáxia de Andrômeda também é uma galáxia espiral LINER. Mesmo que",
-        "caption_pt": "A Galáxia de Andrômeda também é uma galáxia espiral LINER. Mesmo que",
-        "caption_en": "The Andromeda Galaxy is also a LINER spiral galaxy. Even though it",
-        "alt": "A Galáxia de Andrômeda também é uma galáxia espiral LINER. Mesmo que",
-        "alt_pt": "A Galáxia de Andrômeda também é uma galáxia espiral LINER. Mesmo que",
-        "alt_en": "The Andromeda Galaxy is also a LINER spiral galaxy. Even though it"
-      },
-      {
-        "src": "https://www.universetoday.com/article_images/Screenshot_2026-08-14_at_16-41-19_NASAs_Hubble_Shows_Star_Formation_in_Andromeda_Galaxy_Winding_Down_-_NASA_Science_20260814_234417.png",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://www.universetoday.com/assets/patreon-plus-thumb.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Hubble revela que a formação estelar está desacelerando na galáxia de Andrômeda",
-    "title_pt": "Hubble revela que a formação estelar está desacelerando na galáxia de Andrômeda",
-    "title_en": "Hubble Reveals that Star Formation is Slowing Down in the Andromeda Galaxy",
-    "sub": "Uma equipe de cientistas liderada pela Universidade de Washington estudou como a formação de estrelas está diminuindo na galáxia de Andrômeda usando pesquisas altamente detalhadas.",
-    "sub_pt": "Uma equipe de cientistas liderada pela Universidade de Washington estudou como a formação de estrelas está diminuindo na galáxia de Andrômeda usando pesquisas altamente detalhadas.",
-    "sub_en": "A team of scientists led by the University of Washington has studied how star formation is declining in the Andromeda galaxy using highly detailed Hubble surveys.",
-    "excerpt": "Uma equipe de cientistas liderada pela Universidade de Washington estudou como a formação de estrelas está diminuindo na galáxia de Andrômeda usando pesquisas altamente detalhadas do Hubble.",
-    "excerpt_pt": "Uma equipe de cientistas liderada pela Universidade de Washington estudou como a formação de estrelas está diminuindo na galáxia de Andrômeda usando pesquisas altamente detalhadas do Hubble.",
-    "excerpt_en": "A team of scientists led by the University of Washington has studied how star formation is declining in the Andromeda galaxy using highly detailed Hubble surveys.",
-    "body": "<p>Uma equipe de cientistas liderada pela Universidade de Washington estudou como a formação de estrelas está diminuindo na galáxia de Andrômeda usando pesquisas altamente detalhadas do Hubble. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Num novo estudo que utilizou dados de duas pesquisas conduzidas pelo Telescópio Espacial Hubble da NASA, uma equipa liderada por investigadores da Universidade de Washington. Os resultados, publicados no The Astrophysical Journal, indicam que a formação estelar tem estado em declínio ao longo dos últimos 500 milhões de anos, com uma queda ainda mais.</p><p>Os resultados são expressos em massas solares, cada uma sendo equivalente à massa do nosso Sol: 2 x 10 30 kg, ou 2 x 10 27 toneladas métricas (2,2 x 10 27 U. S. Para o seu estudo, os pesquisadores combinaram dados do Tesouro Pancromático Hubble Andromeda (PHAT) e do Tesouro Pancromático Hubble Andromeda Southern (PHAST).</p><p>Enquanto o rastreio PHAT mapeou cerca de um terço do disco de formação estelar de M31 (100 milhões de estrelas) desde o ultravioleta até ao espectro do infravermelho próximo, o.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/hubble-reveals-that-star-formation-is-slowing-down-in-the-andromeda-galaxy\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Uma equipe de cientistas liderada pela Universidade de Washington estudou como a formação de estrelas está diminuindo na galáxia de Andrômeda usando pesquisas altamente detalhadas do Hubble. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Num novo estudo que utilizou dados de duas pesquisas conduzidas pelo Telescópio Espacial Hubble da NASA, uma equipa liderada por investigadores da Universidade de Washington. Os resultados, publicados no The Astrophysical Journal, indicam que a formação estelar tem estado em declínio ao longo dos últimos 500 milhões de anos, com uma queda ainda mais.</p><p>Os resultados são expressos em massas solares, cada uma sendo equivalente à massa do nosso Sol: 2 x 10 30 kg, ou 2 x 10 27 toneladas métricas (2,2 x 10 27 U. S. Para o seu estudo, os pesquisadores combinaram dados do Tesouro Pancromático Hubble Andromeda (PHAT) e do Tesouro Pancromático Hubble Andromeda Southern (PHAST).</p><p>Enquanto o rastreio PHAT mapeou cerca de um terço do disco de formação estelar de M31 (100 milhões de estrelas) desde o ultravioleta até ao espectro do infravermelho próximo, o.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/hubble-reveals-that-star-formation-is-slowing-down-in-the-andromeda-galaxy\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>A team of scientists led by the University of Washington has studied how star formation is declining in the Andromeda galaxy using highly detailed Hubble surveys. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. In a new study using data from two surveys conducted by NASA&#x27;s Hubble Space Telescope, a team led by researchers at the University of Washington has found that star formation in. The results, which were published in The Astrophysical Journal, indicate that star formation has been in decline over the past 500 million years, with an even steeper drop in the.</p><p>The results are expressed in solar masses, each one being equivalent to the mass of our Sun: 2 x 10 30 kg, or 2 x 10 27 metric tons (2.2 x 10 27 U. S. For their study, the researchers combined data from the Panchromatic Hubble Andromeda Treasury (PHAT) and the Panchromatic Hubble Andromeda Southern Treasury (PHAST).</p><p>While the PHAT survey mapped roughly a third of M31&#x27;s star-forming disk (100 million stars) from the ultraviolet through the near-infrared spectrum, PHAST followed up by resolving. Hubble is the only telescope that can give you high enough spatial resolution over a large enough area to be able to do that in Andromeda.” Hubble image of the Andromeda galaxy.</p><p>NASA/ESA/UWashington/Northwestern/STScI Previous studies have shown that Andromeda experienced a burst of star formation about 2 billion years ago, possibly due to a galactic. The team also found that much of the recent star formation occurred in a star-forming ring about 32,000 light-years from the galaxy&#x27;s center, rather than being consistent across.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>About 16,000 light-years separate this satellite galaxy from Andromeda, and astronomers are unsure if and when it interacted with Andromeda in the past. The team plans to continue analyzing Andromeda&#x27;s star-formation history by combining Hubble data with ground-based observations to gain further insights.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/hubble-reveals-that-star-formation-is-slowing-down-in-the-andromeda-galaxy\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Uma equipe de cientistas liderada pela Universidade de Washington estudou como a formação de estrelas está diminuindo na galáxia de Andrômeda usando.",
-      "Dado-chave: Uma equipe de cientistas liderada pela Universidade de Washington estudou como a formação de estrelas está diminuindo na galáxia de Andrômeda.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Uma equipe de cientistas liderada pela Universidade de Washington estudou como a formação de estrelas está diminuindo na galáxia de Andrômeda usando.",
-      "Dado-chave: Uma equipe de cientistas liderada pela Universidade de Washington estudou como a formação de estrelas está diminuindo na galáxia de Andrômeda.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: A team of scientists led by the University of Washington has studied how star formation is declining in the Andromeda galaxy using highly detailed.",
-      "Key detail: A team of scientists led by the University of Washington has studied how star formation is declining in the Andromeda galaxy using highly.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "14 ago 2026",
-    "date_pt": "14 ago 2026",
-    "date_en": "14 Aug 2026",
-    "time": "23h58",
-    "time_pt": "23h58",
-    "time_en": "23:58 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-14T23:58:06+00:00",
-    "lastModifiedIso": "2026-08-14T23:58:06+00:00",
-    "source": "Universe Today",
-    "sourceDomain": "www.universetoday.com",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astronomia",
-      "Universe Today",
-      "Cosmos Week",
-      "Hubble revela que a formação estelar está desacelerando na galáxia de Andrômeda"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "Universe Today",
-      "Cosmos Week",
-      "Hubble revela que a formação estelar está desacelerando na galáxia de Andrômeda"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "Universe Today",
-      "Cosmos Week",
-      "Hubble reveals that star formation is slowing down in the Andromeda galaxy"
-    ],
-    "srcUrl": "https://www.universetoday.com/articles/hubble-reveals-that-star-formation-is-slowing-down-in-the-andromeda-galaxy",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=hubble-reveals-that-star-formation-is-slowing-down-in-the-andromeda-galaxy",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=hubble-reveals-that-star-formation-is-slowing-down-in-the-andromeda-galaxy",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=hubble-reveals-that-star-formation-is-slowing-down-in-the-andromeda-galaxy&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 76,
-    "scoreBreakdown": {
-      "source": 73,
-      "evidence": 88,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 49
     }
   },
   {

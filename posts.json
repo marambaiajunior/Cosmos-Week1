@@ -38,14 +38,14 @@
     "date": "18 ago 2026",
     "date_pt": "18 ago 2026",
     "date_en": "18 Aug 2026",
-    "time": "17h59",
-    "time_pt": "17h59",
-    "time_en": "17:59 UTC",
+    "time": "18h51",
+    "time_pt": "18h51",
+    "time_en": "18:51 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-18T17:59:27.996902+00:00",
-    "lastModifiedIso": "2026-08-18T17:59:27.996902+00:00",
+    "publishedIso": "2026-08-18T18:51:48.674772+00:00",
+    "lastModifiedIso": "2026-08-18T18:51:48.674772+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -143,14 +143,14 @@
     "date": "18 ago 2026",
     "date_pt": "18 ago 2026",
     "date_en": "18 Aug 2026",
-    "time": "17h59",
-    "time_pt": "17h59",
-    "time_en": "17:59 UTC",
+    "time": "18h51",
+    "time_pt": "18h51",
+    "time_en": "18:51 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-18T17:59:27.996849+00:00",
-    "lastModifiedIso": "2026-08-18T17:59:27.996849+00:00",
+    "publishedIso": "2026-08-18T18:51:48.674710+00:00",
+    "lastModifiedIso": "2026-08-18T18:51:48.674710+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -248,14 +248,14 @@
     "date": "18 ago 2026",
     "date_pt": "18 ago 2026",
     "date_en": "18 Aug 2026",
-    "time": "17h59",
-    "time_pt": "17h59",
-    "time_en": "17:59 UTC",
+    "time": "18h51",
+    "time_pt": "18h51",
+    "time_en": "18:51 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-18T17:59:27.996806+00:00",
-    "lastModifiedIso": "2026-08-18T17:59:27.996806+00:00",
+    "publishedIso": "2026-08-18T18:51:48.674658+00:00",
+    "lastModifiedIso": "2026-08-18T18:51:48.674658+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -356,14 +356,14 @@
     "date": "18 ago 2026",
     "date_pt": "18 ago 2026",
     "date_en": "18 Aug 2026",
-    "time": "17h59",
-    "time_pt": "17h59",
-    "time_en": "17:59 UTC",
+    "time": "18h51",
+    "time_pt": "18h51",
+    "time_en": "18:51 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-18T17:59:27.996760+00:00",
-    "lastModifiedIso": "2026-08-18T17:59:27.996760+00:00",
+    "publishedIso": "2026-08-18T18:51:48.674603+00:00",
+    "lastModifiedIso": "2026-08-18T18:51:48.674603+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -461,14 +461,14 @@
     "date": "18 ago 2026",
     "date_pt": "18 ago 2026",
     "date_en": "18 Aug 2026",
-    "time": "17h59",
-    "time_pt": "17h59",
-    "time_en": "17:59 UTC",
+    "time": "18h51",
+    "time_pt": "18h51",
+    "time_en": "18:51 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-18T17:59:27.996714+00:00",
-    "lastModifiedIso": "2026-08-18T17:59:27.996714+00:00",
+    "publishedIso": "2026-08-18T18:51:48.674548+00:00",
+    "lastModifiedIso": "2026-08-18T18:51:48.674548+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -529,6 +529,111 @@
   },
   {
     "id": 6,
+    "slug": "nasa-student-aviation-challenge-focuses-on-nation-s-infrastructure",
+    "cat": "Biologia",
+    "catCls": "biologia",
+    "img": "https://www.nasa.gov/wp-content/uploads/2026/08/2027-gbs-email-header-cc.png?w=1500",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "O Desafio de Aviação Estudantil da NASA se concentra na infraestrutura do país",
+    "title_pt": "O Desafio de Aviação Estudantil da NASA se concentra na infraestrutura do país",
+    "title_en": "NASA Student Aviation Challenge Focuses on Nation’s Infrastructure",
+    "sub": "A próxima competição Gateways to Blue Skies da NASA convida equipes universitárias a imaginar novas maneiras inovadoras de as aeronaves inspecionarem infraestruturas terrestres.",
+    "sub_pt": "A próxima competição Gateways to Blue Skies da NASA convida equipes universitárias a imaginar novas maneiras inovadoras de as aeronaves inspecionarem infraestruturas terrestres.",
+    "sub_en": "NASA’s next Gateways to Blue Skies competition invites collegiate teams to imagine innovative new ways aircraft could inspect land-based infrastructure, such as bridges and.",
+    "excerpt": "A próxima competição Gateways to Blue Skies da NASA convida equipes universitárias a imaginar novas maneiras inovadoras de as aeronaves inspecionarem infraestruturas terrestres, como pontes e túneis, para melhorar a segurança, a confiabilidade e os custos até.",
+    "excerpt_pt": "A próxima competição Gateways to Blue Skies da NASA convida equipes universitárias a imaginar novas maneiras inovadoras de as aeronaves inspecionarem infraestruturas terrestres, como pontes e túneis, para melhorar a segurança, a confiabilidade e os custos até.",
+    "excerpt_en": "NASA’s next Gateways to Blue Skies competition invites collegiate teams to imagine innovative new ways aircraft could inspect land-based infrastructure, such as bridges and tunnels, to improve safety, reliability, and costs by 2035 or.",
+    "body": "<p>A próxima competição Gateways to Blue Skies da NASA convida equipes universitárias a imaginar novas maneiras inovadoras de as aeronaves inspecionarem infraestruturas terrestres, como pontes e túneis, para melhorar a segurança, a confiabilidade e os custos até 2035 ou. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. 3 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento (e subaquáticas) Crédito: Instituto Nacional de Aeroespacial A próxima competição Gateways to. Continue explorando Descubra mais tópicos do Projeto de Inovação da NASA Aeronautics University Prêmios, desafios e crowdsourcing da NASA CoECI.</p><p>As inspeções são importantes ao longo da vida dos projetos de infraestrutura, mas muitas vezes trazem desafios. “As demandas por soluções criativas, como plataformas aéreas para melhorar o setor de infraestrutura, estão aumentando exponencialmente”, disse Steven Holz, líder da competição.</p><p>“Chegou o momento para que estudantes inovadores transformem a forma como trabalhamos com nossa infraestrutura crítica, e esta competição dá aos estudantes talentosos a.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/aeronautics/nasa-student-aviation-challenge-focuses-on-nations-infrastructure/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A próxima competição Gateways to Blue Skies da NASA convida equipes universitárias a imaginar novas maneiras inovadoras de as aeronaves inspecionarem infraestruturas terrestres, como pontes e túneis, para melhorar a segurança, a confiabilidade e os custos até 2035 ou. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. 3 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento (e subaquáticas) Crédito: Instituto Nacional de Aeroespacial A próxima competição Gateways to. Continue explorando Descubra mais tópicos do Projeto de Inovação da NASA Aeronautics University Prêmios, desafios e crowdsourcing da NASA CoECI.</p><p>As inspeções são importantes ao longo da vida dos projetos de infraestrutura, mas muitas vezes trazem desafios. “As demandas por soluções criativas, como plataformas aéreas para melhorar o setor de infraestrutura, estão aumentando exponencialmente”, disse Steven Holz, líder da competição.</p><p>“Chegou o momento para que estudantes inovadores transformem a forma como trabalhamos com nossa infraestrutura crítica, e esta competição dá aos estudantes talentosos a.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/aeronautics/nasa-student-aviation-challenge-focuses-on-nations-infrastructure/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>NASA’s next Gateways to Blue Skies competition invites collegiate teams to imagine innovative new ways aircraft could inspect land-based infrastructure, such as bridges and tunnels, to improve safety, reliability, and costs by 2035 or. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because biology becomes more informative when an observed effect begins to look like a mechanism rather than an isolated pattern. The gap between identifying a correlation in biological data and understanding the causal chain that produces it is routinely underestimated, and the history of biomedical research is populated with associations that collapsed when the mechanism was sought and not found. A result that comes with a proposed mechanism, even a partial one, is more useful than a purely descriptive finding because it generates testable predictions that can narrow the hypothesis space. 3 min read Preparations for Next Moonwalk Simulations Underway (and Underwater) Credit: National Institute of Aerospace NASA’s next Gateways to Blue Skies competition invites. Keep Exploring Discover More Topics From NASA Aeronautics University Innovation Project NASA Prizes, Challenges, and Crowdsourcing CoECI.</p><p>Inspections are important throughout the lifetime of infrastructure projects, but they often come with challenges. “The demands for creative solutions like airborne platforms to improve the infrastructure sector are increasing exponentially,” said Steven Holz, Gateways to Blue Skies.</p><p>“The time is ripe for innovative students to transform how we work with our critical infrastructure, and this competition gives talented students the opportunity to do so.”. Each year, the competition selects a new theme based on a complex challenge facing the Nation.</p><p>In Phase 1, teams will submit a proposal and an accompanying two-minute video, which will be judged by NASA and industry experts. Up to eight finalist teams will each receive a $9,000 prize and advance to Phase 2, where they will present their updated work to a panel of NASA and industry experts at a forum.</p><p>The broader interest lies in whether the reported effect points toward a real mechanism and not merely a reproducible but unexplained association. Biology has learned from decades of biomarker failures that correlation, even robust correlation, is not a substitute for mechanistic understanding. A pathway that can be traced from molecular interaction to cellular response to organismal phenotype provides a far stronger foundation for intervention than a statistical association discovered in a large dataset, however well the statistics are done.</p><p>Winners will be offered the opportunity to intern with NASA Aeronautics in the academic year following the forum. 12, via the website to stay apprised of competition news.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to test whether the effect repeats across different methods, cell types, model organisms and experimental conditions. Reproducibility is the first test, but mechanistic dissection is the second, and a result that passes both has a substantially better chance of translating into something clinically or biotechnologically useful. The path from a laboratory finding to an applied outcome typically takes a decade or more, and most findings do not complete it; the current result sits at the beginning of that process.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/aeronautics/nasa-student-aviation-challenge-focuses-on-nations-infrastructure/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: A próxima competição Gateways to Blue Skies da NASA convida equipes universitárias a imaginar novas maneiras inovadoras de as aeronaves inspecionarem.",
+      "Dado-chave: A próxima competição Gateways to Blue Skies da NASA convida equipes universitárias a imaginar novas maneiras inovadoras de as aeronaves.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: A próxima competição Gateways to Blue Skies da NASA convida equipes universitárias a imaginar novas maneiras inovadoras de as aeronaves inspecionarem.",
+      "Dado-chave: A próxima competição Gateways to Blue Skies da NASA convida equipes universitárias a imaginar novas maneiras inovadoras de as aeronaves.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: NASA’s next Gateways to Blue Skies competition invites collegiate teams to imagine innovative new ways aircraft could inspect land-based.",
+      "Key detail: NASA’s next Gateways to Blue Skies competition invites collegiate teams to imagine innovative new ways aircraft could inspect land-based.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "18 ago 2026",
+    "date_pt": "18 ago 2026",
+    "date_en": "18 Aug 2026",
+    "time": "18h03",
+    "time_pt": "18h03",
+    "time_en": "18:03 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-18T18:03:44+00:00",
+    "lastModifiedIso": "2026-08-18T18:03:44+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "www.nasa.gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Biologia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "O Desafio de Aviação Estudantil da NASA se concentra na infraestrutura do país"
+    ],
+    "keywords_pt": [
+      "Biologia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "O Desafio de Aviação Estudantil da NASA se concentra na infraestrutura do país"
+    ],
+    "keywords_en": [
+      "Biology",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA Student Aviation Challenge Focuses on Nation's Infrastructure"
+    ],
+    "srcUrl": "https://www.nasa.gov/aeronautics/nasa-student-aviation-challenge-focuses-on-nations-infrastructure/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-student-aviation-challenge-focuses-on-nation-s-infrastructure",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-student-aviation-challenge-focuses-on-nation-s-infrastructure",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-student-aviation-challenge-focuses-on-nation-s-infrastructure&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 73,
+    "scoreBreakdown": {
+      "source": 94,
+      "evidence": 82,
+      "relevance": 62,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
     "slug": "astronomers-finally-see-the-twisted-magnetic-fields-that-drive-protostar-jets",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -638,7 +743,7 @@
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -652,7 +757,7 @@
     }
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "nasa-s-skyfall-mars-helicopters-will-feature-a-revolutionary-antenna-design",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -798,7 +903,7 @@
     }
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "iss-hosts-first-spacewalk-by-a-frenchwoman",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -931,7 +1036,7 @@
     }
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "jwst-peeks-at-callisto-s-ancient-scars",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1054,134 +1159,6 @@
       "source": 73,
       "evidence": 82,
       "relevance": 80,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 10,
-    "slug": "a-quantum-trick-for-spotting-gravitational-waves",
-    "cat": "Astrofísica",
-    "catCls": "astrofisica",
-    "img": "https://www.universetoday.com/article_images/niac-2026-ph1-stankus-2_20260818_143709.webp",
-    "inline_images": [
-      {
-        "src": "https://www.universetoday.com/assets/patreon-plus-thumb.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": {
-      "kind": "embed",
-      "platform": "youtube",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/_jmqvh9l8vi",
-      "fileUrl": "",
-      "poster": "",
-      "title": "",
-      "title_pt": "",
-      "title_en": "",
-      "caption": "",
-      "caption_pt": "",
-      "caption_en": "",
-      "sourcePage": "https://www.universetoday.com/articles/a-quantum-trick-for-spotting-gravitational-waves"
-    },
-    "audio": null,
-    "title": "Um truque quântico para detectar ondas gravitacionais",
-    "title_pt": "Um truque quântico para detectar ondas gravitacionais",
-    "title_en": "A Quantum Trick for Spotting Gravitational Waves",
-    "sub": "A astronomia de ondas gravitacionais tem visto muitas melhorias desde que o sinal original foi capturado em 2015. Apesar disso, continua a ser um desafio de engenharia criar.",
-    "sub_pt": "A astronomia de ondas gravitacionais tem visto muitas melhorias desde que o sinal original foi capturado em 2015. Apesar disso, continua a ser um desafio de engenharia criar.",
-    "sub_en": "Gravitational wave astronomy has seen plenty of improvements since the original signal was captured in 2015. Despite that, it remains an engineering challenge to actually create.",
-    "excerpt": "A astronomia de ondas gravitacionais tem visto muitas melhorias desde que o sinal original foi capturado em 2015. Apesar disso, continua a ser um desafio de engenharia criar realmente os detectores necessários para medições precisas disso.",
-    "excerpt_pt": "A astronomia de ondas gravitacionais tem visto muitas melhorias desde que o sinal original foi capturado em 2015. Apesar disso, continua a ser um desafio de engenharia criar realmente os detectores necessários para medições precisas disso.",
-    "excerpt_en": "Gravitational wave astronomy has seen plenty of improvements since the original signal was captured in 2015. Despite that, it remains an engineering challenge to actually create the detectors needed for the precise measurements that.",
-    "body": "<p>A astronomia de ondas gravitacionais tem visto muitas melhorias desde que o sinal original foi capturado em 2015. Apesar disso, continua a ser um desafio de engenharia criar realmente os detectores necessários para medições precisas disso. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Uma nova bolsa do Instituto de Conceitos Avançados da NASA (NIAC) está financiando um conceito de uma equipe liderada por Paul Stankus no Laboratório Nacional de Brookhaven que. A astronomia de ondas gravitacionais teve muitas melhorias desde que o sinal original foi capturado em 2015.</p><p>Uma nova doação do Instituto de Conceitos Avançados da NASA (NIAC) está financiando um conceito de uma equipe liderada por Paul Stankus no Laboratório Nacional de Brookhaven que. Detectores terrestres, como o LIGO, que detectou uma onda pela primeira vez em 2015, podem detectar ondas gravitacionais de frequência relativamente alta, na faixa de 10-10.000.</p><p>O campo também está prestes a ganhar um novo participante cobrindo parte da lacuna entre esses dois extremos, o LISA é um interferômetro baseado no espaço que detectará ondas. Para configurar esta máquina quântica, primeiro você precisa lançar duas espaçonaves de tamanho moderado em órbitas de queda livre, com a característica principal de que elas não.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/a-quantum-trick-for-spotting-gravitational-waves\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A astronomia de ondas gravitacionais tem visto muitas melhorias desde que o sinal original foi capturado em 2015. Apesar disso, continua a ser um desafio de engenharia criar realmente os detectores necessários para medições precisas disso. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Uma nova bolsa do Instituto de Conceitos Avançados da NASA (NIAC) está financiando um conceito de uma equipe liderada por Paul Stankus no Laboratório Nacional de Brookhaven que. A astronomia de ondas gravitacionais teve muitas melhorias desde que o sinal original foi capturado em 2015.</p><p>Uma nova doação do Instituto de Conceitos Avançados da NASA (NIAC) está financiando um conceito de uma equipe liderada por Paul Stankus no Laboratório Nacional de Brookhaven que. Detectores terrestres, como o LIGO, que detectou uma onda pela primeira vez em 2015, podem detectar ondas gravitacionais de frequência relativamente alta, na faixa de 10-10.000.</p><p>O campo também está prestes a ganhar um novo participante cobrindo parte da lacuna entre esses dois extremos, o LISA é um interferômetro baseado no espaço que detectará ondas. Para configurar esta máquina quântica, primeiro você precisa lançar duas espaçonaves de tamanho moderado em órbitas de queda livre, com a característica principal de que elas não.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/a-quantum-trick-for-spotting-gravitational-waves\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Gravitational wave astronomy has seen plenty of improvements since the original signal was captured in 2015. Despite that, it remains an engineering challenge to actually create the detectors needed for the precise measurements that. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. A new NASA Institute for Advanced Concepts (NIAC) grant is funding a concept from a team led by Paul Stankus at Brookhaven National Laboratory that could potentially solve some of. Gravitational wave astronomy has seen plenty of improvements since the original signal was captured in 2015.</p><p>Ground based detectors, such as LIGO, which first detected a wave back in 2015, can sense relatively high frequency gravitational waves, in the 10-10,000 Hz range, which are. The field is also about to gain a new entrant covering some of the gap between those two extremes, LISA is a space-based interferometer that will detect milli-Hertz waves from.</p><p>To set up this quantum machine, first you have to launch two moderately sized spacecraft into free-fall orbits, with a key feature that they don’t need to be connected by lasers. Both spacecraft watch a set of stars at the exact same time, and keep very accurate time stamps of everything detected by their ultra-fast single-photon detectors.</p><p>Those timestamps and photon counts are then sent back to Earth, where supercomputers compare their arrival times. As with many NIAC proposals, this one sounds like science fiction, with quantum mechanics and single-photon detectors involved.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>But the team already produced a tabletop version in the lab that works, according to a 2023 paper. Over the next 9 months of their NIAC funding, their goal is to prove the concept is scalable to satellites floating in the void of space.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/a-quantum-trick-for-spotting-gravitational-waves\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: A astronomia de ondas gravitacionais tem visto muitas melhorias desde que o sinal original foi capturado em 2015. Apesar disso, continua a ser um.",
-      "Dado-chave: Uma nova bolsa do Instituto de Conceitos Avançados da NASA (NIAC) está financiando um conceito de uma equipe liderada por Paul Stankus no.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: A astronomia de ondas gravitacionais tem visto muitas melhorias desde que o sinal original foi capturado em 2015. Apesar disso, continua a ser um.",
-      "Dado-chave: Uma nova bolsa do Instituto de Conceitos Avançados da NASA (NIAC) está financiando um conceito de uma equipe liderada por Paul Stankus no.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Gravitational wave astronomy has seen plenty of improvements since the original signal was captured in 2015. Despite that, it remains an engineering.",
-      "Key detail: A new NASA Institute for Advanced Concepts (NIAC) grant is funding a concept from a team led by Paul Stankus at Brookhaven National Laboratory.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "18 ago 2026",
-    "date_pt": "18 ago 2026",
-    "date_en": "18 Aug 2026",
-    "time": "14h37",
-    "time_pt": "14h37",
-    "time_en": "14:37 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-18T14:37:29+00:00",
-    "lastModifiedIso": "2026-08-18T14:37:29+00:00",
-    "source": "Universe Today",
-    "sourceDomain": "www.universetoday.com",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astrofísica",
-      "Universe Today",
-      "Cosmos Week",
-      "Um truque quântico para detectar ondas gravitacionais"
-    ],
-    "keywords_pt": [
-      "Astrofísica",
-      "Universe Today",
-      "Cosmos Week",
-      "Um truque quântico para detectar ondas gravitacionais"
-    ],
-    "keywords_en": [
-      "Astrophysics",
-      "Universe Today",
-      "Cosmos Week",
-      "A Quantum Trick for Detecting Gravitational Waves"
-    ],
-    "srcUrl": "https://www.universetoday.com/articles/a-quantum-trick-for-spotting-gravitational-waves",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=a-quantum-trick-for-spotting-gravitational-waves",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=a-quantum-trick-for-spotting-gravitational-waves",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=a-quantum-trick-for-spotting-gravitational-waves&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 75,
-    "scoreBreakdown": {
-      "source": 73,
-      "evidence": 82,
-      "relevance": 88,
       "accessibility": 60,
       "novelty": 55
     }
@@ -1457,139 +1434,6 @@
   },
   {
     "id": 13,
-    "slug": "nasa-challenge-tests-wheel-designs-for-moon-base-mobility",
-    "cat": "Cosmologia",
-    "catCls": "cosmologia",
-    "img": "https://www.nasa.gov/wp-content/uploads/2026/08/jsc2026e406637.jpg?w=1536",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar-system/moon/GSFC_20260331_LEMSA3_006915~orig.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://www.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-1.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://www.nasa.gov/wp-content/plugins/nasa-blocks/assets/images/topic-cards/topic-card-sample-2.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Desafio da NASA testa projetos de rodas para mobilidade da base lunar",
-    "title_pt": "Desafio da NASA testa projetos de rodas para mobilidade da base lunar",
-    "title_en": "NASA Challenge Tests Wheel Designs for Moon Base Mobility",
-    "sub": "À medida que a NASA se prepara para estabelecer a Base Lunar, o avanço da mobilidade na superfície será fundamental para ajudar as tripulações e os sistemas robóticos a viajarem.",
-    "sub_pt": "À medida que a NASA se prepara para estabelecer a Base Lunar, o avanço da mobilidade na superfície será fundamental para ajudar as tripulações e os sistemas robóticos a viajarem.",
-    "sub_en": "As NASA prepares to establish the Moon Base, advancing surface mobility will be key to helping crews and robotic systems travel farther across the lunar surface. To help advance.",
-    "excerpt": "À medida que a NASA se prepara para estabelecer a Base Lunar, o avanço da mobilidade na superfície será fundamental para ajudar as tripulações e os sistemas robóticos a viajarem mais longe na superfície lunar. Para ajudar a desenvolver essa capacidade, o Rock.",
-    "excerpt_pt": "À medida que a NASA se prepara para estabelecer a Base Lunar, o avanço da mobilidade na superfície será fundamental para ajudar as tripulações e os sistemas robóticos a viajarem mais longe na superfície lunar. Para ajudar a desenvolver essa capacidade, o Rock.",
-    "excerpt_en": "As NASA prepares to establish the Moon Base, advancing surface mobility will be key to helping crews and robotic systems travel farther across the lunar surface. To help advance that capability, the Rock and Roll with NASA Challenge.",
-    "body": "<p>À medida que a NASA se prepara para estabelecer a Base Lunar, o avanço da mobilidade na superfície será fundamental para ajudar as tripulações e os sistemas robóticos a viajarem mais longe na superfície lunar. Para ajudar a desenvolver essa capacidade, o Rock and Roll with NASA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Cinco equipes de 128 inscrições e 49 países avançaram para a fase final do. 5 minutos de leitura do desafio da NASA testa projetos de rodas para mobilidade da base lunar Engenheiros da NASA, alunos da NASA Robotics Academy e equipes do Rock and Roll with.</p><p>NASA/Luna Posadas Nava Engenheiros da NASA, alunos da NASA Robotics Academy e equipes do Rock and Roll with NASA Challenge posam com os protótipos de rodas no Johnson Space Center. NASA/Luna Posadas Nava O conceito vencedor do Scotch Pad Tires veio do engenheiro mecânico australiano Daniel Bloomfield e seu filho Isaac Bloomfield.</p><p>Enquanto a NASA se prepara para estabelecer a Base Lunar, o avanço da mobilidade de superfície será fundamental para ajudar as tripulações e os sistemas robóticos a viajarem mais. Para ajudar a desenvolver essa capacidade, o Rock and Roll with NASA Challenge convidou inovadores públicos para projetar e construir rodas de rover lunares de próxima geração.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/centers-and-facilities/johnson/nasa-challenge-tests-wheel-designs-for-moon-base-mobility/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>À medida que a NASA se prepara para estabelecer a Base Lunar, o avanço da mobilidade na superfície será fundamental para ajudar as tripulações e os sistemas robóticos a viajarem mais longe na superfície lunar. Para ajudar a desenvolver essa capacidade, o Rock and Roll with NASA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Cinco equipes de 128 inscrições e 49 países avançaram para a fase final do. 5 minutos de leitura do desafio da NASA testa projetos de rodas para mobilidade da base lunar Engenheiros da NASA, alunos da NASA Robotics Academy e equipes do Rock and Roll with.</p><p>NASA/Luna Posadas Nava Engenheiros da NASA, alunos da NASA Robotics Academy e equipes do Rock and Roll with NASA Challenge posam com os protótipos de rodas no Johnson Space Center. NASA/Luna Posadas Nava O conceito vencedor do Scotch Pad Tires veio do engenheiro mecânico australiano Daniel Bloomfield e seu filho Isaac Bloomfield.</p><p>Enquanto a NASA se prepara para estabelecer a Base Lunar, o avanço da mobilidade de superfície será fundamental para ajudar as tripulações e os sistemas robóticos a viajarem mais. Para ajudar a desenvolver essa capacidade, o Rock and Roll with NASA Challenge convidou inovadores públicos para projetar e construir rodas de rover lunares de próxima geração.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/centers-and-facilities/johnson/nasa-challenge-tests-wheel-designs-for-moon-base-mobility/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>As NASA prepares to establish the Moon Base, advancing surface mobility will be key to helping crews and robotic systems travel farther across the lunar surface. To help advance that capability, the Rock and Roll with NASA Challenge. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. Five teams from 128 submissions and 49 countries advanced to the final phase of the. 5 Min Read NASA Challenge Tests Wheel Designs for Moon Base Mobility NASA engineers, NASA Robotics Academy students, and teams from the Rock and Roll with NASA Challenge pose with.</p><p>NASA/Luna Posadas Nava NASA engineers, NASA Robotics Academy students, and teams from the Rock and Roll with NASA Challenge pose with the wheel prototypes at NASA’s Johnson Space. NASA/Luna Posadas Nava The winning Scotch Pad Tyres concept came from an Australian mechanical engineer Daniel Bloomfield and his son Isaac Bloomfield.</p><p>As NASA prepares to establish the Moon Base, advancing surface mobility will be key to helping crews and robotic systems travel farther Article NASA engineers, NASA Robotics. To help advance that capability, the Rock and Roll with NASA Challenge invited public innovators to design and build next-generation lunar rover wheels.</p><p>Five teams from 128 submissions and 49 countries advanced to the final phase of the competition, where they tested their prototypes on July 31 at NASA’s Johnson Space Center in. NASA Johnson uses ground prototypes to test mobility technologies, while lunar terrain vehicles will be delivered to the lunar surface through the Commercial Lunar Payload.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>For the challenge, the wheels were fitted to MicroChariot, a 45-kilogram test rover, and put through a series of courses at Johnson’s Rock Yard to evaluate their performance. “The more wheel technologies we can develop and understand, the more options we have to meet the needs of different vehicles, terrains, and missions on the Moon and Mars.” Those.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/centers-and-facilities/johnson/nasa-challenge-tests-wheel-designs-for-moon-base-mobility/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: À medida que a NASA se prepara para estabelecer a Base Lunar, o avanço da mobilidade na superfície será fundamental para ajudar as tripulações e os.",
-      "Dado-chave: Cinco equipes de 128 inscrições e 49 países avançaram para a fase final do [.]",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: À medida que a NASA se prepara para estabelecer a Base Lunar, o avanço da mobilidade na superfície será fundamental para ajudar as tripulações e os.",
-      "Dado-chave: Cinco equipes de 128 inscrições e 49 países avançaram para a fase final do [.]",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: As NASA prepares to establish the Moon Base, advancing surface mobility will be key to helping crews and robotic systems travel farther across the.",
-      "Key detail: Five teams from 128 submissions and 49 countries advanced to the final phase of the [.]",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "17 ago 2026",
-    "date_pt": "17 ago 2026",
-    "date_en": "17 Aug 2026",
-    "time": "15h09",
-    "time_pt": "15h09",
-    "time_en": "15:09 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-17T15:09:05+00:00",
-    "lastModifiedIso": "2026-08-17T15:09:05+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "www.nasa.gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Cosmologia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Desafio da NASA testa projetos de rodas para mobilidade da base lunar"
-    ],
-    "keywords_pt": [
-      "Cosmologia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Desafio da NASA testa projetos de rodas para mobilidade da base lunar"
-    ],
-    "keywords_en": [
-      "Cosmology",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA challenge tests wheel designs for lunar base mobility"
-    ],
-    "srcUrl": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-challenge-tests-wheel-designs-for-moon-base-mobility/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-challenge-tests-wheel-designs-for-moon-base-mobility",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-challenge-tests-wheel-designs-for-moon-base-mobility",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-challenge-tests-wheel-designs-for-moon-base-mobility&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 80,
-    "scoreBreakdown": {
-      "source": 94,
-      "evidence": 82,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 52
-    }
-  },
-  {
-    "id": 14,
     "slug": "science-release-hubble-identifies-one-of-darkest-known-galaxies",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1722,6 +1566,139 @@
       "relevance": 88,
       "accessibility": 60,
       "novelty": 46
+    }
+  },
+  {
+    "id": 14,
+    "slug": "dark-matter-may-be-gravitationally-lensing-a-likely-source-of-cosmic-neutrinos",
+    "cat": "Cosmologia",
+    "catCls": "cosmologia",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/astronomers-detect-gra.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/astronomers-detect-gra.jpg",
+        "caption": "Astrônomos detectam lentes gravitacionais em uma provável fonte de neutrinos cósmicos",
+        "caption_pt": "Astrônomos detectam lentes gravitacionais em uma provável fonte de neutrinos cósmicos",
+        "caption_en": "Astronomers detect gravitational lensing in a likely source of cosmic neutrinos",
+        "alt": "Astrônomos detectam lentes gravitacionais em uma provável fonte de neutrinos cósmicos",
+        "alt_pt": "Astrônomos detectam lentes gravitacionais em uma provável fonte de neutrinos cósmicos",
+        "alt_en": "Astronomers detect gravitational lensing in a likely source of cosmic neutrinos"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/061a4647609b9c09.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/4b5d8e1e5856f832.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "A matéria escura pode estar focalizando gravitacionalmente uma provável fonte de neutrinos cósmicos",
+    "title_pt": "A matéria escura pode estar focalizando gravitacionalmente uma provável fonte de neutrinos cósmicos",
+    "title_en": "Dark matter may be gravitationally lensing a likely source of cosmic neutrinos",
+    "sub": "Os astrónomos descobriram que o jato de um blazar distante foi objeto de lente gravitacional por uma fonte invisível de matéria escura. Liderada por Silke Britzen, do Instituto.",
+    "sub_pt": "Os astrónomos descobriram que o jato de um blazar distante foi objeto de lente gravitacional por uma fonte invisível de matéria escura. Liderada por Silke Britzen, do Instituto.",
+    "sub_en": "Astronomers have discovered that the jet of a distant blazar has been gravitationally lensed by an unseen source of dark matter. Led by Silke Britzen at the Max Planck Institute.",
+    "excerpt": "Os astrónomos descobriram que o jato de um blazar distante foi objeto de lente gravitacional por uma fonte invisível de matéria escura. Liderada por Silke Britzen, do Instituto Max Planck de Radioastronomia, na Alemanha, os resultados da equipe poderiam.",
+    "excerpt_pt": "Os astrónomos descobriram que o jato de um blazar distante foi objeto de lente gravitacional por uma fonte invisível de matéria escura. Liderada por Silke Britzen, do Instituto Max Planck de Radioastronomia, na Alemanha, os resultados da equipe poderiam.",
+    "excerpt_en": "Astronomers have discovered that the jet of a distant blazar has been gravitationally lensed by an unseen source of dark matter. Led by Silke Britzen at the Max Planck Institute for Radio Astronomy in Germany, the team's results could.",
+    "body": "<p>Os astrónomos descobriram que o jato de um blazar distante foi objeto de lente gravitacional por uma fonte invisível de matéria escura. Liderada por Silke Britzen, do Instituto Max Planck de Radioastronomia, na Alemanha, os resultados da equipe poderiam. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida Os astrónomos acreditam amplamente que.</p><p>Os seus resultados foram publicados na revista Monthly Notices of the Royal Astronomical Society. Um alvo particularmente atraente para o IceCube é um blazar chamado PKS 2233-148: um núcleo galáctico ativo que emite jatos de matéria ionizada de cada pólo, cada um viajando.</p><p>Em seu último estudo, a equipe de Britzen revisitou observações de alta resolução de PKS 2233-148 em todo o espectro eletromagnético, incluindo observações de rádio pelo Very Long. A análise produziu um resultado promissor.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-dark-gravitationally-lensing-source-cosmic.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Os astrónomos descobriram que o jato de um blazar distante foi objeto de lente gravitacional por uma fonte invisível de matéria escura. Liderada por Silke Britzen, do Instituto Max Planck de Radioastronomia, na Alemanha, os resultados da equipe poderiam. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida Os astrónomos acreditam amplamente que.</p><p>Os seus resultados foram publicados na revista Monthly Notices of the Royal Astronomical Society. Um alvo particularmente atraente para o IceCube é um blazar chamado PKS 2233-148: um núcleo galáctico ativo que emite jatos de matéria ionizada de cada pólo, cada um viajando.</p><p>Em seu último estudo, a equipe de Britzen revisitou observações de alta resolução de PKS 2233-148 em todo o espectro eletromagnético, incluindo observações de rádio pelo Very Long. A análise produziu um resultado promissor.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-dark-gravitationally-lensing-source-cosmic.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Discovered that the jet of a distant blazar has been gravitationally lensed by an unseen source of dark matter. Led by Silke Britzen at the Max Planck Institute for Radio Astronomy in Germany, the team&#x27;s results could. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. This article has been reviewed according to Science X&#x27;s editorial process and policies. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source Astronomers widely believe that blazars like PKS 2233-148 are a.</p><p>Their results have been published in Monthly Notices of the Royal Astronomical Society. One particularly enticing target for IceCube is a blazar named PKS 2233-148: an active galactic nucleus emitting jets of ionized matter from each pole, each traveling at close to.</p><p>In their latest study, Britzen&#x27;s team revisited high-resolution observations of PKS 2233-148 across the electromagnetic spectrum, including radio observations by the Very Long. The analysis yielded a promising result.</p><p>Most importantly, the measurements revealed that PKS 2233-148&#x27;s jet had been suddenly displaced from its expected path. If the team&#x27;s interpretation is correct, it would suggest that an unseen clump of dark matter passed in front of PKS 2233-148, temporarily lensing its jet.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>This would make the blazar the fourth likely source of cosmic neutrinos ever found to be gravitationally lensed, alongside examples detected in previous studies. If new links can be drawn between fast flashes and neutrino observations, they may ultimately help solve one of the most longstanding mysteries in astronomy.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-dark-gravitationally-lensing-source-cosmic.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Os astrónomos descobriram que o jato de um blazar distante foi objeto de lente gravitacional por uma fonte invisível de matéria escura. Liderada por.",
+      "Dado-chave: Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Os astrónomos descobriram que o jato de um blazar distante foi objeto de lente gravitacional por uma fonte invisível de matéria escura. Liderada por.",
+      "Dado-chave: Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Astronomers have discovered that the jet of a distant blazar has been gravitationally lensed by an unseen source of dark matter. Led by Silke Britzen.",
+      "Key detail: This article has been reviewed according to Science X's editorial process and policies.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "17 ago 2026",
+    "date_pt": "17 ago 2026",
+    "date_en": "17 Aug 2026",
+    "time": "12h40",
+    "time_pt": "12h40",
+    "time_en": "12:40 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-17T12:40:08+00:00",
+    "lastModifiedIso": "2026-08-17T12:40:08+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Cosmologia",
+      "Phys.org Space",
+      "Cosmos Week",
+      "A matéria escura pode estar focalizando gravitacionalmente uma provável fonte de neutrinos cósmicos"
+    ],
+    "keywords_pt": [
+      "Cosmologia",
+      "Phys.org Space",
+      "Cosmos Week",
+      "A matéria escura pode estar focalizando gravitacionalmente uma provável fonte de neutrinos cósmicos"
+    ],
+    "keywords_en": [
+      "Cosmology",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Dark matter may be gravitationally focusing a likely source of cosmic neutrinos"
+    ],
+    "srcUrl": "https://phys.org/news/2026-08-dark-gravitationally-lensing-source-cosmic.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=dark-matter-may-be-gravitationally-lensing-a-likely-source-of-cosmic-neutrinos",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=dark-matter-may-be-gravitationally-lensing-a-likely-source-of-cosmic-neutrinos",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=dark-matter-may-be-gravitationally-lensing-a-likely-source-of-cosmic-neutrinos&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 77,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 52
     }
   },
   {
@@ -1967,6 +1944,139 @@
   },
   {
     "id": 17,
+    "slug": "stellar-explosions-come-into-focus-with-new-nuclear-reaction-measurements",
+    "cat": "Astrofísica",
+    "catCls": "astrofisica",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2025/type-ia-supernova.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2025/type-ia-supernova.jpg",
+        "caption": "Supernova tipo Ia",
+        "caption_pt": "Supernova tipo Ia",
+        "caption_en": "Type Ia supernova",
+        "alt": "Supernova tipo Ia",
+        "alt_pt": "Supernova tipo Ia",
+        "alt_en": "Type Ia supernova"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/e661c1d664a28c5b.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/782dcfc6701d278c.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Explosões estelares entram em foco com novas medições de reação nuclear",
+    "title_pt": "Explosões estelares entram em foco com novas medições de reação nuclear",
+    "title_en": "Stellar explosions come into focus with new nuclear reaction measurements",
+    "sub": "Em dois artigos separados publicados na Physical Review Letters, os investigadores investigaram as reações nucleares que ocorrem dentro das supernovas e das explosões de raios-X.",
+    "sub_pt": "Em dois artigos separados publicados na Physical Review Letters, os investigadores investigaram as reações nucleares que ocorrem dentro das supernovas e das explosões de raios-X.",
+    "sub_en": "In two separate papers published in Physical Review Letters, researchers investigated the nuclear reactions that take place inside supernovae and X-ray bursts, two of the.",
+    "excerpt": "Em dois artigos separados publicados na Physical Review Letters, os investigadores investigaram as reações nucleares que ocorrem dentro das supernovas e das explosões de raios-X, duas das explosões mais poderosas do Universo. Juntas, as descobertas irão.",
+    "excerpt_pt": "Em dois artigos separados publicados na Physical Review Letters, os investigadores investigaram as reações nucleares que ocorrem dentro das supernovas e das explosões de raios-X, duas das explosões mais poderosas do Universo. Juntas, as descobertas irão.",
+    "excerpt_en": "In two separate papers published in Physical Review Letters, researchers investigated the nuclear reactions that take place inside supernovae and X-ray bursts, two of the universe's most powerful explosions. Together, the findings will.",
+    "body": "<p>Em dois artigos separados publicados na Physical Review Letters, os investigadores investigaram as reações nucleares que ocorrem dentro das supernovas e das explosões de raios-X, duas das explosões mais poderosas do Universo. Juntas, as descobertas irão. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Em dois artigos separados publicados na Physical Review Letters, os investigadores investigaram as reações nucleares que ocorrem no interior de supernovas e explosões de raios X. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.</p><p>Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferencial Crédito: Pixabay/CC0 Public Domain Em dois. Uma das melhores pistas vem do titânio-44 radioativo, que é produzido durante uma supernova e ainda pode ser detectado por telescópios espaciais muito depois da explosão.</p><p>No Laboratório Nacional de Argonne, nos Estados Unidos, os investigadores de Surrey obtiveram os primeiros dados experimentais necessários para determinar a taxa de uma reação. Eles descobriram que a reação acontece muito mais lentamente do que se pensava anteriormente, aumentando a produção prevista de titânio-44 em até 35%.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-stellar-explosions-focus-nuclear-reaction.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Em dois artigos separados publicados na Physical Review Letters, os investigadores investigaram as reações nucleares que ocorrem dentro das supernovas e das explosões de raios-X, duas das explosões mais poderosas do Universo. Juntas, as descobertas irão. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Em dois artigos separados publicados na Physical Review Letters, os investigadores investigaram as reações nucleares que ocorrem no interior de supernovas e explosões de raios X. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.</p><p>Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferencial Crédito: Pixabay/CC0 Public Domain Em dois. Uma das melhores pistas vem do titânio-44 radioativo, que é produzido durante uma supernova e ainda pode ser detectado por telescópios espaciais muito depois da explosão.</p><p>No Laboratório Nacional de Argonne, nos Estados Unidos, os investigadores de Surrey obtiveram os primeiros dados experimentais necessários para determinar a taxa de uma reação. Eles descobriram que a reação acontece muito mais lentamente do que se pensava anteriormente, aumentando a produção prevista de titânio-44 em até 35%.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-stellar-explosions-focus-nuclear-reaction.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>In two separate papers published in Physical Review Letters, researchers investigated the nuclear reactions that take place inside supernovae and X-ray bursts, two of the universe&#x27;s most powerful explosions. Together, the findings will. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. This article has been reviewed according to Science X&#x27;s editorial process and policies. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source Credit: Pixabay/CC0 Public Domain In two separate papers.</p><p>One of the best clues comes from radioactive titanium-44, which is produced during a supernova and can still be detected by space telescopes long after the explosion. At Argonne National Laboratory in the United States, Surrey researchers obtained the first experimental data needed to determine the rate of a nuclear reaction that controls how.</p><p>They found the reaction happens much more slowly than previously thought, increasing predicted titanium-44 production by up to 35%. A measurement like this would have been considered out of reach only a couple of decades ago, but it now gives us new insight into one of the biggest unanswered questions in.</p><p>Working at the new Facility for Rare Isotope Beams (FRIB) in Michigan, the team measured a nuclear reaction that powers X-ray bursts with far greater precision than previously. The results settle a long-running question over the role of the nickel-copper cycle, a process that can temporarily trap nuclear material during an explosion, showing it.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>Cousins et al, Identification of Resonant States in the ⁴⁵V( p,γ )⁴⁶Cr Reaction and Their Influence on the Production of ⁴⁴Ti in Core-Collapse Supernovae, Physical Review Letters. O&#x27;Shea et al, Single-Nucleon Transfer on Unstable ⁵⁹Cu Probes the NiCu Cycle in Astrophysical X-Ray Bursts, Physical Review Letters (2026).</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-stellar-explosions-focus-nuclear-reaction.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Em dois artigos separados publicados na Physical Review Letters, os investigadores investigaram as reações nucleares que ocorrem dentro das.",
+      "Dado-chave: Em dois artigos separados publicados na Physical Review Letters, os investigadores investigaram as reações nucleares que ocorrem no interior de.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Em dois artigos separados publicados na Physical Review Letters, os investigadores investigaram as reações nucleares que ocorrem dentro das.",
+      "Dado-chave: Em dois artigos separados publicados na Physical Review Letters, os investigadores investigaram as reações nucleares que ocorrem no interior de.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: In two separate papers published in Physical Review Letters, researchers investigated the nuclear reactions that take place inside supernovae and.",
+      "Key detail: In two separate papers published in Physical Review Letters, researchers investigated the nuclear reactions that take place inside supernovae.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "17 ago 2026",
+    "date_pt": "17 ago 2026",
+    "date_en": "17 Aug 2026",
+    "time": "17h00",
+    "time_pt": "17h00",
+    "time_en": "17:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-17T17:00:03+00:00",
+    "lastModifiedIso": "2026-08-17T17:00:03+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astrofísica",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Explosões estelares entram em foco com novas medições de reação nuclear"
+    ],
+    "keywords_pt": [
+      "Astrofísica",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Explosões estelares entram em foco com novas medições de reação nuclear"
+    ],
+    "keywords_en": [
+      "Astrophysics",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Stellar explosions come into focus with new nuclear reaction measurements"
+    ],
+    "srcUrl": "https://phys.org/news/2026-08-stellar-explosions-focus-nuclear-reaction.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=stellar-explosions-come-into-focus-with-new-nuclear-reaction-measurements",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=stellar-explosions-come-into-focus-with-new-nuclear-reaction-measurements",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=stellar-explosions-come-into-focus-with-new-nuclear-reaction-measurements&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 77,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 52
+    }
+  },
+  {
+    "id": 18,
     "slug": "what-can-we-actually-find-on-an-exoplanet-part-1-the-atmospheric-fingerprint",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2084,7 +2194,7 @@
     }
   },
   {
-    "id": 18,
+    "id": 19,
     "slug": "the-planet-that-lied-about-its-own-spin",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2217,7 +2327,7 @@
     }
   },
   {
-    "id": 19,
+    "id": 20,
     "slug": "proposed-900-telescope-array-could-detect-an-earth-like-exoplanet-s-atmosphere-in-a-single-trans",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2350,7 +2460,7 @@
     }
   },
   {
-    "id": 20,
+    "id": 21,
     "slug": "upcoming-events",
     "cat": "Física",
     "catCls": "fisica",
@@ -2455,7 +2565,7 @@
     }
   },
   {
-    "id": 21,
+    "id": 22,
     "slug": "eyes-on-the-sky-a-rare-solar-eclipse-will-be-visible-from-cern-on-12-august",
     "cat": "Física",
     "catCls": "fisica",
@@ -2573,7 +2683,7 @@
     }
   },
   {
-    "id": 22,
+    "id": 23,
     "slug": "nsf-stands-up-2-materials-innovation-platforms-with-50m-investment",
     "cat": "Física",
     "catCls": "fisica",
@@ -2703,139 +2813,6 @@
       "relevance": 68,
       "accessibility": 42,
       "novelty": 46
-    }
-  },
-  {
-    "id": 23,
-    "slug": "radio-telescopes-help-scientists-map-molecules-in-space-and-uncover-where-and-how-stars-form",
-    "cat": "Química",
-    "catCls": "quimica",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/radio-telescopes-help-2.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/radio-telescopes-help-2.jpg",
-        "caption": "Os radiotelescópios ajudam os cientistas a mapear moléculas no espaço e descobrir onde e como as estrelas se formam",
-        "caption_pt": "Os radiotelescópios ajudam os cientistas a mapear moléculas no espaço e descobrir onde e como as estrelas se formam",
-        "caption_en": "Radio telescopes help scientists map molecules in space and uncover where and how stars form",
-        "alt": "Os radiotelescópios ajudam os cientistas a mapear moléculas no espaço e descobrir onde e como as estrelas se formam",
-        "alt_pt": "Os radiotelescópios ajudam os cientistas a mapear moléculas no espaço e descobrir onde e como as estrelas se formam",
-        "alt_en": "Radio telescopes help scientists map molecules in space and uncover where and how stars form"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/radio-telescopes-help.jpg",
-        "caption": "Os radiotelescópios ajudam os cientistas a mapear moléculas no espaço e descobrir onde e como as estrelas se formam",
-        "caption_pt": "Os radiotelescópios ajudam os cientistas a mapear moléculas no espaço e descobrir onde e como as estrelas se formam",
-        "caption_en": "Radio telescopes help scientists map molecules in space and uncover where and how stars form",
-        "alt": "Os radiotelescópios ajudam os cientistas a mapear moléculas no espaço e descobrir onde e como as estrelas se formam",
-        "alt_pt": "Os radiotelescópios ajudam os cientistas a mapear moléculas no espaço e descobrir onde e como as estrelas se formam",
-        "alt_en": "Radio telescopes help scientists map molecules in space and uncover where and how stars form"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/radio-telescopes-help-1.jpg",
-        "caption": "Um mapa de um tipo de metanol pesado em Orion KL derivado de dados do ALMA. Os contornos mostram a emissão de rádio das partículas de poeira na nebulosa, e o mapa colorido mostra a abundância de metanol como densidade da coluna, ou número de moléculas sobre a.",
-        "caption_pt": "Um mapa de um tipo de metanol pesado em Orion KL derivado de dados do ALMA. Os contornos mostram a emissão de rádio das partículas de poeira na nebulosa, e o mapa colorido mostra a abundância de metanol como densidade da coluna, ou número de moléculas sobre a.",
-        "caption_en": "A map of one kind of heavy methanol in Orion KL derived from ALMA data. The contours show radio emission from dust particles in the nebula, and the color map shows methanol abundance as column density, or number of molecules over a.",
-        "alt": "Os radiotelescópios ajudam os cientistas a mapear moléculas no espaço e descobrir onde e como as estrelas se formam",
-        "alt_pt": "Os radiotelescópios ajudam os cientistas a mapear moléculas no espaço e descobrir onde e como as estrelas se formam",
-        "alt_en": "Radio telescopes help scientists map molecules in space and uncover where and how stars form"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Os radiotelescópios ajudam os cientistas a mapear moléculas no espaço e descobrir onde e como as estrelas se formam",
-    "title_pt": "Os radiotelescópios ajudam os cientistas a mapear moléculas no espaço e descobrir onde e como as estrelas se formam",
-    "title_en": "Radio telescopes help scientists map molecules in space and uncover where and how stars form",
-    "sub": "Você pode ter ouvido a frase “somos feitos de matéria estelar”. Esta afirmação do astrônomo Carl Sagan refere-se ao fato de que elementos mais pesados ​​que o hidrogênio e o hélio.",
-    "sub_pt": "Você pode ter ouvido a frase “somos feitos de matéria estelar”. Esta afirmação do astrônomo Carl Sagan refere-se ao fato de que elementos mais pesados ​​que o hidrogênio e o hélio.",
-    "sub_en": "You may have heard the phrase \"we are made of star-stuff.\" This statement by the astronomer Carl Sagan refers to the fact that elements heavier than hydrogen and helium were.",
-    "excerpt": "Você pode ter ouvido a frase “somos feitos de matéria estelar”. Esta afirmação do astrônomo Carl Sagan refere-se ao fato de que elementos mais pesados ​​que o hidrogênio e o hélio foram forjados nos centros das primeiras estrelas. Mas como isso acontece.",
-    "excerpt_pt": "Você pode ter ouvido a frase “somos feitos de matéria estelar”. Esta afirmação do astrônomo Carl Sagan refere-se ao fato de que elementos mais pesados ​​que o hidrogênio e o hélio foram forjados nos centros das primeiras estrelas. Mas como isso acontece.",
-    "excerpt_en": "You may have heard the phrase \"we are made of star-stuff.\" This statement by the astronomer Carl Sagan refers to the fact that elements heavier than hydrogen and helium were forged in the centers of the first stars. But how does this.",
-    "body": "<p>Você pode ter ouvido a frase “somos feitos de matéria estelar”. Esta afirmação do astrônomo Carl Sagan refere-se ao fato de que elementos mais pesados ​​que o hidrogênio e o hélio foram forjados nos centros das primeiras estrelas. Mas como isso acontece. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a química ganha força quando uma estrutura ou processo alegado pode ser descrito com precisão suficiente para ser reproduzido por outros. Rotas sintéticas, assinaturas espectroscópicas, rendimento em condições definidas e estabilidade em parâmetros operacionais realistas são a moeda de credibilidade na química, e um resultado que carece desses detalhes não pode ser avaliado de forma independente. A distância entre uma descoberta em bancada de laboratório e um processo que funciona confiavelmente em escala é medida em anos de otimização, e cada etapa revela restrições que eram invisíveis em escala menor. Salgado (ESO), CC BY Você já deve ter ouvido a frase “somos feitos de matéria estelar”. Esta afirmação do astrônomo Carl Sagan refere-se ao fato de que elementos mais pesados. A partir destes mapas, os astrónomos normalmente descrevem a abundância das moléculas, as temperaturas e a rapidez com que se movem em cada região.</p><p>Minha equipe de pesquisa e eu comparamos recentemente as descobertas desses métodos mais recentes com mapas anteriores para garantir que os mapas anteriores sejam consistentes com. O material contido neles também está bastante espalhado, com densidades de cerca de 100 moléculas por centímetro cúbico.</p><p>À medida que as estrelas infantis se formam, as temperaturas sobem para entre -279°F e -100°F (entre -173°C e -73°C), e a densidade aumenta para 10 milhões de moléculas ou mais. Embora seja a região de formação estelar de grande massa mais próxima da Terra, Orion KL ainda está a cerca de 1.300 anos-luz do sistema solar.</p><p>O interesse mais amplo está em saber se a propriedade ou rota de reação alegada pode ser caracterizada com precisão suficiente para sustentar replicação por outros grupos. A química tem um problema de replicação menos discutido do que o da psicologia ou da medicina, mas ele é real: procedimentos sintéticos que funcionam confiavelmente em um laboratório às vezes não se transferem, por razões que vão de materiais de partida impuros a sensibilidades de temperatura não documentadas. Um resultado que vem com detalhes experimentais completos e caracterização clara do produto é muito mais valioso do que um que relata uma descoberta sem o arcabouço procedimental.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se grupos independentes trabalhando com técnicas ortogonais chegam a conclusões compatíveis e se o resultado escala além das condições usadas no estudo original. Descobertas químicas que importam tendem a ser aquelas cujas propriedades principais podem ser medidas por múltiplos métodos espectroscópicos, cristalográficos ou computacionais que provavelmente não compartilham os mesmos pontos cegos. Escalabilidade, custo e estabilidade de longo prazo sob condições operacionais realistas são filtros adicionais que entram em jogo antes que qualquer aplicação prática se torne viável.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-radio-telescopes-scientists-molecules-space.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Você pode ter ouvido a frase “somos feitos de matéria estelar”. Esta afirmação do astrônomo Carl Sagan refere-se ao fato de que elementos mais pesados ​​que o hidrogênio e o hélio foram forjados nos centros das primeiras estrelas. Mas como isso acontece. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a química ganha força quando uma estrutura ou processo alegado pode ser descrito com precisão suficiente para ser reproduzido por outros. Rotas sintéticas, assinaturas espectroscópicas, rendimento em condições definidas e estabilidade em parâmetros operacionais realistas são a moeda de credibilidade na química, e um resultado que carece desses detalhes não pode ser avaliado de forma independente. A distância entre uma descoberta em bancada de laboratório e um processo que funciona confiavelmente em escala é medida em anos de otimização, e cada etapa revela restrições que eram invisíveis em escala menor. Salgado (ESO), CC BY Você já deve ter ouvido a frase “somos feitos de matéria estelar”. Esta afirmação do astrônomo Carl Sagan refere-se ao fato de que elementos mais pesados. A partir destes mapas, os astrónomos normalmente descrevem a abundância das moléculas, as temperaturas e a rapidez com que se movem em cada região.</p><p>Minha equipe de pesquisa e eu comparamos recentemente as descobertas desses métodos mais recentes com mapas anteriores para garantir que os mapas anteriores sejam consistentes com. O material contido neles também está bastante espalhado, com densidades de cerca de 100 moléculas por centímetro cúbico.</p><p>À medida que as estrelas infantis se formam, as temperaturas sobem para entre -279°F e -100°F (entre -173°C e -73°C), e a densidade aumenta para 10 milhões de moléculas ou mais. Embora seja a região de formação estelar de grande massa mais próxima da Terra, Orion KL ainda está a cerca de 1.300 anos-luz do sistema solar.</p><p>O interesse mais amplo está em saber se a propriedade ou rota de reação alegada pode ser caracterizada com precisão suficiente para sustentar replicação por outros grupos. A química tem um problema de replicação menos discutido do que o da psicologia ou da medicina, mas ele é real: procedimentos sintéticos que funcionam confiavelmente em um laboratório às vezes não se transferem, por razões que vão de materiais de partida impuros a sensibilidades de temperatura não documentadas. Um resultado que vem com detalhes experimentais completos e caracterização clara do produto é muito mais valioso do que um que relata uma descoberta sem o arcabouço procedimental.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se grupos independentes trabalhando com técnicas ortogonais chegam a conclusões compatíveis e se o resultado escala além das condições usadas no estudo original. Descobertas químicas que importam tendem a ser aquelas cujas propriedades principais podem ser medidas por múltiplos métodos espectroscópicos, cristalográficos ou computacionais que provavelmente não compartilham os mesmos pontos cegos. Escalabilidade, custo e estabilidade de longo prazo sob condições operacionais realistas são filtros adicionais que entram em jogo antes que qualquer aplicação prática se torne viável.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-radio-telescopes-scientists-molecules-space.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>You may have heard the phrase &quot;we are made of star-stuff.&quot; This statement by the astronomer Carl Sagan refers to the fact that elements heavier than hydrogen and helium were forged in the centers of the first stars. But how does this. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because chemistry gains force when a claimed structure or process can be described with enough precision to be reproduced by others. Synthetic routes, spectroscopic signatures, yield under defined conditions and stability under realistic operating parameters are the currency of credibility in chemistry, and a result that lacks these details cannot be evaluated independently. The distance between a discovery on a laboratory bench and a process that works reliably at scale is measured in years of optimization, and each step reveals constraints that were invisible at smaller scale. Salgado (ESO), CC BY You may have heard the phrase &quot; we are made of star-stuff.&quot; This statement by the astronomer Carl Sagan refers to the fact that elements heavier than hydrogen. From these maps, astronomers typically describe molecules&#x27; abundances, temperatures and how fast they&#x27;re moving in each region.</p><p>My research team and I recently compared the findings from these newer methods with previous maps to make sure the earlier maps are consistent with our new maps. The material in them is also really spread out, with densities of about 100 molecules per cubic centimeter.</p><p>As infant stars form, temperatures rise to between -279°F and -100°F (between -173°C and -73°C), and the density increases to 10 million molecules or more per cubic centimeter. Even though it is the closest high-mass, star-forming region to Earth, Orion KL is still about 1,300 light-years from the solar system.</p><p>Instead, I observe Orion KL&#x27;s chemistry from Earth with radio telescopes. Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights.</p><p>The broader interest lies in whether the claimed property or reaction pathway can be characterized with enough precision to support replication by other groups. Chemistry has a replication problem that is less discussed than the one in psychology or medicine, but it is real: synthetic procedures that work reliably in one laboratory sometimes fail to transfer, for reasons ranging from impure starting materials to undocumented temperature sensitivities. A result that comes with full experimental detail and a clear characterization of the product is far more valuable than one that reports a discovery without the procedural backbone.</p><p>While impressive, single-dish telescope observations of Orion KL can see structures down to about 2,600 astronomical units across, at best. An astronomical unit, or 1 au, is the average distance from the center of Earth to the center of the sun.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent groups working with orthogonal techniques reach compatible conclusions, and whether the result scales beyond the conditions used in the original study. Chemical discoveries that matter tend to be ones whose key properties can be measured by multiple spectroscopic, crystallographic or computational methods that are unlikely to share the same blind spots. Scalability, cost and long-term stability under realistic operating conditions are additional filters that come into play before any practical application becomes viable.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-radio-telescopes-scientists-molecules-space.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Você pode ter ouvido a frase “somos feitos de matéria estelar”. Esta afirmação do astrônomo Carl Sagan refere-se ao fato de que elementos mais.",
-      "Dado-chave: Salgado (ESO), CC BY Você já deve ter ouvido a frase “somos feitos de matéria estelar”. Esta afirmação do astrônomo Carl Sagan refere-se ao fato.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Você pode ter ouvido a frase “somos feitos de matéria estelar”. Esta afirmação do astrônomo Carl Sagan refere-se ao fato de que elementos mais.",
-      "Dado-chave: Salgado (ESO), CC BY Você já deve ter ouvido a frase “somos feitos de matéria estelar”. Esta afirmação do astrônomo Carl Sagan refere-se ao fato.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: You may have heard the phrase \"we are made of star-stuff.\" This statement by the astronomer Carl Sagan refers to the fact that elements heavier than.",
-      "Key detail: Salgado (ESO), CC BY You may have heard the phrase \" we are made of star-stuff.\" This statement by the astronomer Carl Sagan refers to the fact.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "16 ago 2026",
-    "date_pt": "16 ago 2026",
-    "date_en": "16 Aug 2026",
-    "time": "22h40",
-    "time_pt": "22h40",
-    "time_en": "22:40 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-16T22:40:01+00:00",
-    "lastModifiedIso": "2026-08-16T22:40:01+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Química",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Os radiotelescópios ajudam os cientistas a mapear moléculas no espaço e descobrir onde e como as estrelas se formam"
-    ],
-    "keywords_pt": [
-      "Química",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Os radiotelescópios ajudam os cientistas a mapear moléculas no espaço e descobrir onde e como as estrelas se formam"
-    ],
-    "keywords_en": [
-      "Chemical",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Radio telescopes help scientists map molecules in space and discover where and how stars form"
-    ],
-    "srcUrl": "https://phys.org/news/2026-08-radio-telescopes-scientists-molecules-space.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=radio-telescopes-help-scientists-map-molecules-in-space-and-uncover-where-and-how-stars-form",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=radio-telescopes-help-scientists-map-molecules-in-space-and-uncover-where-and-how-stars-form",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=radio-telescopes-help-scientists-map-molecules-in-space-and-uncover-where-and-how-stars-form&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 75,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 88,
-      "relevance": 82,
-      "accessibility": 60,
-      "novelty": 52
     }
   },
   {
@@ -3446,172 +3423,11 @@
   },
   {
     "id": 29,
-    "slug": "stellar-explosions-come-into-focus-with-new-nuclear-reaction-measurements",
-    "cat": "Astrofísica",
-    "catCls": "astrofisica",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2025/type-ia-supernova.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2025/type-ia-supernova.jpg",
-        "caption": "Supernova tipo Ia",
-        "caption_pt": "Supernova tipo Ia",
-        "caption_en": "Type Ia supernova",
-        "alt": "Supernova tipo Ia",
-        "alt_pt": "Supernova tipo Ia",
-        "alt_en": "Type Ia supernova"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/e661c1d664a28c5b.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/782dcfc6701d278c.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Explosões estelares entram em foco com novas medições de reação nuclear",
-    "title_pt": "Explosões estelares entram em foco com novas medições de reação nuclear",
-    "title_en": "Stellar explosions come into focus with new nuclear reaction measurements",
-    "sub": "Em dois artigos separados publicados na Physical Review Letters, os investigadores investigaram as reações nucleares que ocorrem dentro das supernovas e das explosões de raios-X.",
-    "sub_pt": "Em dois artigos separados publicados na Physical Review Letters, os investigadores investigaram as reações nucleares que ocorrem dentro das supernovas e das explosões de raios-X.",
-    "sub_en": "In two separate papers published in Physical Review Letters, researchers investigated the nuclear reactions that take place inside supernovae and X-ray bursts, two of the.",
-    "excerpt": "Em dois artigos separados publicados na Physical Review Letters, os investigadores investigaram as reações nucleares que ocorrem dentro das supernovas e das explosões de raios-X, duas das explosões mais poderosas do Universo. Juntas, as descobertas irão.",
-    "excerpt_pt": "Em dois artigos separados publicados na Physical Review Letters, os investigadores investigaram as reações nucleares que ocorrem dentro das supernovas e das explosões de raios-X, duas das explosões mais poderosas do Universo. Juntas, as descobertas irão.",
-    "excerpt_en": "In two separate papers published in Physical Review Letters, researchers investigated the nuclear reactions that take place inside supernovae and X-ray bursts, two of the universe's most powerful explosions. Together, the findings will.",
-    "body": "<p>Em dois artigos separados publicados na Physical Review Letters, os investigadores investigaram as reações nucleares que ocorrem dentro das supernovas e das explosões de raios-X, duas das explosões mais poderosas do Universo. Juntas, as descobertas irão. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Em dois artigos separados publicados na Physical Review Letters, os investigadores investigaram as reações nucleares que ocorrem no interior de supernovas e explosões de raios X. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.</p><p>Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferencial Crédito: Pixabay/CC0 Public Domain Em dois. Uma das melhores pistas vem do titânio-44 radioativo, que é produzido durante uma supernova e ainda pode ser detectado por telescópios espaciais muito depois da explosão.</p><p>No Laboratório Nacional de Argonne, nos Estados Unidos, os investigadores de Surrey obtiveram os primeiros dados experimentais necessários para determinar a taxa de uma reação. Eles descobriram que a reação acontece muito mais lentamente do que se pensava anteriormente, aumentando a produção prevista de titânio-44 em até 35%.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-stellar-explosions-focus-nuclear-reaction.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Em dois artigos separados publicados na Physical Review Letters, os investigadores investigaram as reações nucleares que ocorrem dentro das supernovas e das explosões de raios-X, duas das explosões mais poderosas do Universo. Juntas, as descobertas irão. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Em dois artigos separados publicados na Physical Review Letters, os investigadores investigaram as reações nucleares que ocorrem no interior de supernovas e explosões de raios X. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.</p><p>Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferencial Crédito: Pixabay/CC0 Public Domain Em dois. Uma das melhores pistas vem do titânio-44 radioativo, que é produzido durante uma supernova e ainda pode ser detectado por telescópios espaciais muito depois da explosão.</p><p>No Laboratório Nacional de Argonne, nos Estados Unidos, os investigadores de Surrey obtiveram os primeiros dados experimentais necessários para determinar a taxa de uma reação. Eles descobriram que a reação acontece muito mais lentamente do que se pensava anteriormente, aumentando a produção prevista de titânio-44 em até 35%.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-stellar-explosions-focus-nuclear-reaction.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>In two separate papers published in Physical Review Letters, researchers investigated the nuclear reactions that take place inside supernovae and X-ray bursts, two of the universe&#x27;s most powerful explosions. Together, the findings will. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. This article has been reviewed according to Science X&#x27;s editorial process and policies. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source Credit: Pixabay/CC0 Public Domain In two separate papers.</p><p>One of the best clues comes from radioactive titanium-44, which is produced during a supernova and can still be detected by space telescopes long after the explosion. At Argonne National Laboratory in the United States, Surrey researchers obtained the first experimental data needed to determine the rate of a nuclear reaction that controls how.</p><p>They found the reaction happens much more slowly than previously thought, increasing predicted titanium-44 production by up to 35%. A measurement like this would have been considered out of reach only a couple of decades ago, but it now gives us new insight into one of the biggest unanswered questions in.</p><p>Working at the new Facility for Rare Isotope Beams (FRIB) in Michigan, the team measured a nuclear reaction that powers X-ray bursts with far greater precision than previously. The results settle a long-running question over the role of the nickel-copper cycle, a process that can temporarily trap nuclear material during an explosion, showing it.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>Cousins et al, Identification of Resonant States in the ⁴⁵V( p,γ )⁴⁶Cr Reaction and Their Influence on the Production of ⁴⁴Ti in Core-Collapse Supernovae, Physical Review Letters. O&#x27;Shea et al, Single-Nucleon Transfer on Unstable ⁵⁹Cu Probes the NiCu Cycle in Astrophysical X-Ray Bursts, Physical Review Letters (2026).</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-stellar-explosions-focus-nuclear-reaction.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Em dois artigos separados publicados na Physical Review Letters, os investigadores investigaram as reações nucleares que ocorrem dentro das.",
-      "Dado-chave: Em dois artigos separados publicados na Physical Review Letters, os investigadores investigaram as reações nucleares que ocorrem no interior de.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Em dois artigos separados publicados na Physical Review Letters, os investigadores investigaram as reações nucleares que ocorrem dentro das.",
-      "Dado-chave: Em dois artigos separados publicados na Physical Review Letters, os investigadores investigaram as reações nucleares que ocorrem no interior de.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: In two separate papers published in Physical Review Letters, researchers investigated the nuclear reactions that take place inside supernovae and.",
-      "Key detail: In two separate papers published in Physical Review Letters, researchers investigated the nuclear reactions that take place inside supernovae.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "17 ago 2026",
-    "date_pt": "17 ago 2026",
-    "date_en": "17 Aug 2026",
-    "time": "17h00",
-    "time_pt": "17h00",
-    "time_en": "17:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-17T17:00:03+00:00",
-    "lastModifiedIso": "2026-08-17T17:00:03+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astrofísica",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Explosões estelares entram em foco com novas medições de reação nuclear"
-    ],
-    "keywords_pt": [
-      "Astrofísica",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Explosões estelares entram em foco com novas medições de reação nuclear"
-    ],
-    "keywords_en": [
-      "Astrophysics",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Stellar explosions come into focus with new nuclear reaction measurements"
-    ],
-    "srcUrl": "https://phys.org/news/2026-08-stellar-explosions-focus-nuclear-reaction.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=stellar-explosions-come-into-focus-with-new-nuclear-reaction-measurements",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=stellar-explosions-come-into-focus-with-new-nuclear-reaction-measurements",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=stellar-explosions-come-into-focus-with-new-nuclear-reaction-measurements&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 77,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 88,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 52
-    }
-  },
-  {
-    "id": 30,
     "slug": "a-look-back-at-the-2026-total-solar-eclipse",
     "cat": "Ciências da Terra",
     "catCls": "terra",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/12_august_total_eclipse_imaged_by_miguel_claro/27418378-1-eng-GB/12_August_total_eclipse_imaged_by_Miguel_Claro_card_full.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/totality_in_leon_12_august_2026/27416484-1-eng-GB/Totality_in_Leon_12_August_2026_pillars.jpg",
-        "caption": "Totalidade em Leão, 12 de agosto de 2026",
-        "caption_pt": "Totalidade em Leão, 12 de agosto de 2026",
-        "caption_en": "Totality in León, 12 August 2026",
-        "alt": "Totalidade em Leão, 12 de agosto de 2026",
-        "alt_pt": "Totalidade em Leão, 12 de agosto de 2026",
-        "alt_en": "Totality in León, 12 August 2026"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/12_august_total_eclipse_imaged_by_marina_prol2/27418472-1-eng-GB/12_August_total_eclipse_imaged_by_Marina_Prol_pillars.jpg",
-        "caption": "Eclipse total de 12 de agosto fotografado por Marina Prol",
-        "caption_pt": "Eclipse total de 12 de agosto fotografado por Marina Prol",
-        "caption_en": "12 August total eclipse imaged by Marina Prol",
-        "alt": "Eclipse total de 12 de agosto fotografado por Marina Prol",
-        "alt_pt": "Eclipse total de 12 de agosto fotografado por Marina Prol",
-        "alt_en": "12 August total eclipse imaged by Marina Prol"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/12_august_2026_eclipse_from_javalambre/27417939-1-eng-GB/12_August_2026_eclipse_from_Javalambre_pillars.png",
-        "caption": "Eclipse de 12 de agosto de 2026 em Javalambre",
-        "caption_pt": "Eclipse de 12 de agosto de 2026 em Javalambre",
-        "caption_en": "12 August 2026 eclipse from Javalambre",
-        "alt": "Eclipse de 12 de agosto de 2026 em Javalambre",
-        "alt_pt": "Eclipse de 12 de agosto de 2026 em Javalambre",
-        "alt_en": "12 August 2026 eclipse from Javalambre"
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "Uma retrospectiva do eclipse solar total de 2026",
@@ -3623,9 +3439,9 @@
     "excerpt": "Em 12 de agosto de 2026, a Europa testemunhou o primeiro eclipse solar total em mais de duas décadas. Milhões de pessoas ficaram impressionadas com a Lua cobrindo completamente o disco brilhante do Sol, transformando brevemente o dia em noite e revelando a.",
     "excerpt_pt": "Em 12 de agosto de 2026, a Europa testemunhou o primeiro eclipse solar total em mais de duas décadas. Milhões de pessoas ficaram impressionadas com a Lua cobrindo completamente o disco brilhante do Sol, transformando brevemente o dia em noite e revelando a.",
     "excerpt_en": "On 12 August 2026, Europe witnessed the first total solar eclipse in over two decades. Millions of people were awed by the Moon completely covering the Sun's bright disc, briefly turning day into night and revealing the Sun's outer.",
-    "body": "<p>Em 12 de agosto de 2026, a Europa testemunhou o primeiro eclipse solar total em mais de duas décadas. Milhões de pessoas ficaram impressionadas com a Lua cobrindo completamente o disco brilhante do Sol, transformando brevemente o dia em noite e revelando a parte externa do Sol. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Em 12 de agosto de 2026, a Europa testemunhou o primeiro eclipse solar total em mais de duas décadas. Milhões de pessoas ficaram maravilhadas com a Lua cobrindo completamente o disco brilhante do Sol, transformando brevemente o dia em noite e revelando a atmosfera externa do Sol.</p><p>“Acho que ‘confunde a mente’ resume tudo”, disse a Diretora de Ciências da Agência Espacial Europeia, Professora Carole Mundell, durante a transmissão ao vivo da ESA a partir do. A ESA organizou transmissões ao vivo de telescópios dos locais espanhóis de León, Palencia e Javalambre, e fotógrafos de toda a Europa partilharam as suas fotos connosco.</p><p>O satélite de observação da Terra MTG-I1 capturou a sombra da Lua movendo-se pela Terra, o criador de eclipses artificiais da ESA, Proba-3, capturou um eclipse duplo da órbita da. Para aqueles que não puderam viajar para regiões onde a totalidade era visível, a transmissão ao vivo da ESA permitiu-lhes vivenciar o eclipse juntamente com cientistas da ESA e.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/A_look_back_at_the_2026_total_solar_eclipse\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Em 12 de agosto de 2026, a Europa testemunhou o primeiro eclipse solar total em mais de duas décadas. Milhões de pessoas ficaram impressionadas com a Lua cobrindo completamente o disco brilhante do Sol, transformando brevemente o dia em noite e revelando a parte externa do Sol. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Em 12 de agosto de 2026, a Europa testemunhou o primeiro eclipse solar total em mais de duas décadas. Milhões de pessoas ficaram maravilhadas com a Lua cobrindo completamente o disco brilhante do Sol, transformando brevemente o dia em noite e revelando a atmosfera externa do Sol.</p><p>“Acho que ‘confunde a mente’ resume tudo”, disse a Diretora de Ciências da Agência Espacial Europeia, Professora Carole Mundell, durante a transmissão ao vivo da ESA a partir do. A ESA organizou transmissões ao vivo de telescópios dos locais espanhóis de León, Palencia e Javalambre, e fotógrafos de toda a Europa partilharam as suas fotos connosco.</p><p>O satélite de observação da Terra MTG-I1 capturou a sombra da Lua movendo-se pela Terra, o criador de eclipses artificiais da ESA, Proba-3, capturou um eclipse duplo da órbita da. Para aqueles que não puderam viajar para regiões onde a totalidade era visível, a transmissão ao vivo da ESA permitiu-lhes vivenciar o eclipse juntamente com cientistas da ESA e.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/A_look_back_at_the_2026_total_solar_eclipse\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>On 12 August 2026, Europe witnessed the first total solar eclipse in over two decades. Millions of people were awed by the Moon completely covering the Sun&#x27;s bright disc, briefly turning day into night and revealing the Sun&#x27;s outer. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. On 12 August 2026, Europe witnessed the first total solar eclipse in over two decades. Millions of people were awed by the Moon completely covering the Sun&#x27;s bright disc, briefly turning day into night and revealing the Sun&#x27;s outer atmosphere.</p><p>“I think ‘boggles the mind’ sums it up,” says the European Space Agency&#x27;s Director of Science Professor Carole Mundell, during ESA&#x27;s live broadcast from the Observatorio. ESA arranged for live telescope feeds from the Spanish sites of León, Palencia and Javalambre, and photographers across Europe shared their photos with us.</p><p>Earth observation satellite MTG-I1 captured the Moon’s shadow moving across Earth, ESA&#x27;s artificial eclipse-maker Proba-3 captured a double eclipse from Earth orbit, and ESA&#x27;s. For those unable to travel to regions from where totality was visible, ESA&#x27;s live broadcast allowed them to experience the eclipse together with scientists from ESA and the.</p><p>Hosted by Dame Dr Maggie Aderin, the programme explored topics ranging from the mysteries of the Sun and its corona, to how one famous eclipse changed our understanding of. The highlight was the coverage of 1 minute and 21 seconds of totality, as the Moon plunged Javalambre into complete darkness.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>ESA, together with the City of León and the University of León, organised a free public event at the Palacio de Exposiciones y Congresos de León (Spain) on the day of the eclipse. A highlight was the ‘an inclusive eclipse’ workshop, where members of ESA’s CESAR science education team demonstrated tools to experience an eclipse without using your eyes.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/A_look_back_at_the_2026_total_solar_eclipse\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>Em 12 de agosto de 2026, a Europa testemunhou o primeiro eclipse solar total em mais de duas décadas. Milhões de pessoas ficaram impressionadas com a Lua cobrindo completamente o disco brilhante do Sol, transformando brevemente o dia em noite e revelando a parte externa do Sol. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Em 12 de agosto de 2026, a Europa testemunhou o primeiro eclipse solar total em mais de duas décadas. Milhões de pessoas ficaram maravilhadas com a Lua cobrindo completamente o disco brilhante do Sol, transformando brevemente o dia em noite e revelando a atmosfera externa do Sol.</p><p>A totalidade pôde ser vista na Groenlândia, Islândia, Espanha e Portugal, enquanto a maior parte do resto da Europa viu um eclipse parcial.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/A_look_back_at_the_2026_total_solar_eclipse\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Em 12 de agosto de 2026, a Europa testemunhou o primeiro eclipse solar total em mais de duas décadas. Milhões de pessoas ficaram impressionadas com a Lua cobrindo completamente o disco brilhante do Sol, transformando brevemente o dia em noite e revelando a parte externa do Sol. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Em 12 de agosto de 2026, a Europa testemunhou o primeiro eclipse solar total em mais de duas décadas. Milhões de pessoas ficaram maravilhadas com a Lua cobrindo completamente o disco brilhante do Sol, transformando brevemente o dia em noite e revelando a atmosfera externa do Sol.</p><p>A totalidade pôde ser vista na Groenlândia, Islândia, Espanha e Portugal, enquanto a maior parte do resto da Europa viu um eclipse parcial.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/A_look_back_at_the_2026_total_solar_eclipse\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>On 12 August 2026, Europe witnessed the first total solar eclipse in over two decades. Millions of people were awed by the Moon completely covering the Sun&#x27;s bright disc, briefly turning day into night and revealing the Sun&#x27;s outer. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. On 12 August 2026, Europe witnessed the first total solar eclipse in over two decades. Millions of people were awed by the Moon completely covering the Sun&#x27;s bright disc, briefly turning day into night and revealing the Sun&#x27;s outer atmosphere.</p><p>Totality could be seen from Greenland, Iceland, Spain and Portugal, while most of the rest of Europe saw a partial eclipse.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/A_look_back_at_the_2026_total_solar_eclipse\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Em 12 de agosto de 2026, a Europa testemunhou o primeiro eclipse solar total em mais de duas décadas. Milhões de pessoas ficaram impressionadas com a.",
       "Dado-chave: Em 12 de agosto de 2026, a Europa testemunhou o primeiro eclipse solar total em mais de duas décadas.",
@@ -3711,7 +3527,7 @@
     }
   },
   {
-    "id": 31,
+    "id": 30,
     "slug": "how-esa-mimics-and-models-the-2026-total-solar-eclipse",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3816,7 +3632,7 @@
     }
   },
   {
-    "id": 32,
+    "id": 31,
     "slug": "lala-batters-hawaii",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3946,6 +3762,139 @@
       "relevance": 70,
       "accessibility": 60,
       "novelty": 55
+    }
+  },
+  {
+    "id": 32,
+    "slug": "the-jwst-little-red-dots-could-be-black-hole-stars",
+    "cat": "Astrofísica",
+    "catCls": "astrofisica",
+    "img": "https://www.universetoday.com/article_images/BH_star_1_20260817_163102.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.universetoday.com/article_images/1-Deep_Field_V1_20260817_183902.jpg",
+        "caption": "Esta imagem mostra como a estrela do buraco negro MoM-BH*-1 aparece para o JWST. Parece um dos telescópios",
+        "caption_pt": "Esta imagem mostra como a estrela do buraco negro MoM-BH*-1 aparece para o JWST. Parece um dos telescópios",
+        "caption_en": "This image shows how the black hole star MoM-BH*-1 appears to the JWST. It looks like one of the telescope",
+        "alt": "Esta imagem mostra como a estrela do buraco negro MoM-BH*-1 aparece para o JWST. Parece um dos telescópios",
+        "alt_pt": "Esta imagem mostra como a estrela do buraco negro MoM-BH*-1 aparece para o JWST. Parece um dos telescópios",
+        "alt_en": "This image shows how the black hole star MoM-BH*-1 appears to the JWST. It looks like one of the telescope"
+      },
+      {
+        "src": "https://www.universetoday.com/article_images/3-Balmer_Break_V1_20260817_182107.jpg",
+        "caption": "Esta imagem mostra a espectroscopia da estrela próxima Vega (esquerda) e de MoM-BH*-1 (direita). A quebra de Balmer está indicada em cada painel. \"Black Hole Stars (à direita) exibem características semelhantes a estrelas, como quebras de Balmer. Essas características são impressas.",
+        "caption_pt": "Esta imagem mostra a espectroscopia da estrela próxima Vega (esquerda) e de MoM-BH*-1 (direita). A quebra de Balmer está indicada em cada painel. \"Black Hole Stars (à direita) exibem características semelhantes a estrelas, como quebras de Balmer. Essas características são impressas.",
+        "caption_en": "This image shows spectroscopy from the nearby star Vega (left) and from MoM-BH*-1 (right). The Balmer break is labelled in each panel. \"Black Hole Stars (right) display star-like features such as Balmer breaks. These features are imprinted.",
+        "alt": "Esta imagem mostra a espectroscopia da estrela próxima Vega (esquerda) e de MoM-BH*-1 (direita). A quebra de Balmer está indicada em cada painel. \"Black Hole Stars (à direita) exibem características semelhantes a estrelas, como quebras de Balmer. Essas características são impressas.",
+        "alt_pt": "Esta imagem mostra a espectroscopia da estrela próxima Vega (esquerda) e de MoM-BH*-1 (direita). A quebra de Balmer está indicada em cada painel. \"Black Hole Stars (à direita) exibem características semelhantes a estrelas, como quebras de Balmer. Essas características são impressas.",
+        "alt_en": "This image shows spectroscopy from the nearby star Vega (left) and from MoM-BH*-1 (right). The Balmer break is labelled in each panel. \"Black Hole Stars (right) display star-like features such as Balmer breaks. These features are imprinted."
+      },
+      {
+        "src": "https://www.universetoday.com/article_images/2-Schematic_V1_20260817_184120.jpg",
+        "caption": "Esta figura compara uma estrela, um disco de acreção de um buraco negro e uma estrela de buraco negro. O JWST",
+        "caption_pt": "Esta figura compara uma estrela, um disco de acreção de um buraco negro e uma estrela de buraco negro. O JWST",
+        "caption_en": "This figure compares a star, a black hole accretion disk, and a black hole star. The JWST",
+        "alt": "Esta figura compara uma estrela, um disco de acreção de um buraco negro e uma estrela de buraco negro. O JWST",
+        "alt_pt": "Esta figura compara uma estrela, um disco de acreção de um buraco negro e uma estrela de buraco negro. O JWST",
+        "alt_en": "This figure compares a star, a black hole accretion disk, and a black hole star. The JWST"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Os pequenos pontos vermelhos do JWST podem ser ‘estrelas do buraco negro’",
+    "title_pt": "Os pequenos pontos vermelhos do JWST podem ser ‘estrelas do buraco negro’",
+    "title_en": "The JWST Little Red Dots Could Be 'Black Hole Stars'",
+    "sub": "Pequenos pontos vermelhos têm intrigado os astrónomos desde a sua descoberta em dados JWST do passado profundo do Universo. Os seus “motores de potência” podem assemelhar-se a um.",
+    "sub_pt": "Pequenos pontos vermelhos têm intrigado os astrónomos desde a sua descoberta em dados JWST do passado profundo do Universo. Os seus “motores de potência” podem assemelhar-se a um.",
+    "sub_en": "Little red dots have puzzled astronomers since their discovery in JWST data from the Universe’s deep past. Their ‘powering engines’ might resemble a newly discovered phenomenon.",
+    "excerpt": "Pequenos pontos vermelhos têm intrigado os astrónomos desde a sua descoberta em dados JWST do passado profundo do Universo. Os seus “motores de potência” podem assemelhar-se a um fenómeno recém-descoberto apelidado de “estrela de buraco negro” – um negro.",
+    "excerpt_pt": "Pequenos pontos vermelhos têm intrigado os astrónomos desde a sua descoberta em dados JWST do passado profundo do Universo. Os seus “motores de potência” podem assemelhar-se a um fenómeno recém-descoberto apelidado de “estrela de buraco negro” – um negro.",
+    "excerpt_en": "Little red dots have puzzled astronomers since their discovery in JWST data from the Universe’s deep past. Their ‘powering engines’ might resemble a newly discovered phenomenon dubbed a “black hole star”—an early, rapidly growing black.",
+    "body": "<p>Pequenos pontos vermelhos têm intrigado os astrónomos desde a sua descoberta em dados JWST do passado profundo do Universo. Os seus “motores de potência” podem assemelhar-se a um fenómeno recém-descoberto apelidado de “estrela de buraco negro”, um negro primitivo e de rápido. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Este objeto, descrito num estudo publicado hoje na Nature por investigadores do Instituto de Ciência e Tecnologia da Áustria (ISTA) e colaboradores internacionais, pode ajudar a. Pequenos pontos vermelhos têm intrigado os astrónomos desde a sua descoberta em dados JWST do passado profundo do Universo.</p><p>Este objeto, descrito num estudo publicado hoje na revista Nature por investigadores do Instituto de Ciência e Tecnologia da Áustria (ISTA) e colaboradores internacionais, pode. Cerca de 300 foram encontrados, e a sua surpreendente descoberta desafia a nossa compreensão do Universo primordial e de como se formaram as galáxias e os buracos negros.</p><p>Uma nova pesquisa na Nature sugere que os LRDs poderiam ser buracos negros envoltos em gás denso. Esses primeiros buracos negros foram apelidados de “estrelas de buracos negros”. De acordo com os autores, eles poderiam explicar outra das descobertas intrigantes do JWST: SMBHs.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/the-jwst-little-red-dots-could-be-black-hole-stars\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Pequenos pontos vermelhos têm intrigado os astrónomos desde a sua descoberta em dados JWST do passado profundo do Universo. Os seus “motores de potência” podem assemelhar-se a um fenómeno recém-descoberto apelidado de “estrela de buraco negro”, um negro primitivo e de rápido. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Este objeto, descrito num estudo publicado hoje na Nature por investigadores do Instituto de Ciência e Tecnologia da Áustria (ISTA) e colaboradores internacionais, pode ajudar a. Pequenos pontos vermelhos têm intrigado os astrónomos desde a sua descoberta em dados JWST do passado profundo do Universo.</p><p>Este objeto, descrito num estudo publicado hoje na revista Nature por investigadores do Instituto de Ciência e Tecnologia da Áustria (ISTA) e colaboradores internacionais, pode. Cerca de 300 foram encontrados, e a sua surpreendente descoberta desafia a nossa compreensão do Universo primordial e de como se formaram as galáxias e os buracos negros.</p><p>Uma nova pesquisa na Nature sugere que os LRDs poderiam ser buracos negros envoltos em gás denso. Esses primeiros buracos negros foram apelidados de “estrelas de buracos negros”. De acordo com os autores, eles poderiam explicar outra das descobertas intrigantes do JWST: SMBHs.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/the-jwst-little-red-dots-could-be-black-hole-stars\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Little red dots have puzzled astronomers since their discovery in JWST data from the Universe’s deep past. Their ‘powering engines’ might resemble a newly discovered phenomenon dubbed a “black hole star”—an early, rapidly growing black. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. This object, described in a study published today in Nature by researchers at the Institute of Science and Technology Austria (ISTA) and international collaborators, may help. Little red dots have puzzled astronomers since their discovery in JWST data from the Universe’s deep past.</p><p>About 300 have been found, and their surprising discovery challenges our understanding of the early Universe and how galaxies and supermassive black holes (SMBH) formed. New research in Nature suggests that LRDs could be black holes shrouded in dense gas.</p><p>These early black holes have been dubbed &#x27;black hole stars.&#x27; According to the authors, they could explain another of the JWST&#x27;s puzzling findings: confoundingly massive SMBHs in. The physical processes that led to the formation of billion-solar-mass black holes within the first 700 million years of cosmic time, a period known as cosmic dawn, remain a.</p><p>Several theoretical scenarios have been proposed to seed and rapidly grow black holes, but direct observations of these mechanisms remain elusive.&quot; In the local Universe, a SMBH. But the JWST found SMBHs that make up 10% to 30% of their galaxy&#x27;s stellar mass.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>Now with JWST, we can directly observe this era and see for ourselves which scenarios actually occur.” This research centers on MoM-BH*-1, an object that stood out for its. It was the reddest source in the field and was singled out for deeper observations in the JWST&#x27;s ‘Mirage or Miracle’ (MoM) observing program.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/the-jwst-little-red-dots-could-be-black-hole-stars\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Pequenos pontos vermelhos têm intrigado os astrónomos desde a sua descoberta em dados JWST do passado profundo do Universo. Os seus “motores de.",
+      "Dado-chave: Este objeto, descrito num estudo publicado hoje na Nature por investigadores do Instituto de Ciência e Tecnologia da Áustria (ISTA) e.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Pequenos pontos vermelhos têm intrigado os astrónomos desde a sua descoberta em dados JWST do passado profundo do Universo. Os seus “motores de.",
+      "Dado-chave: Este objeto, descrito num estudo publicado hoje na Nature por investigadores do Instituto de Ciência e Tecnologia da Áustria (ISTA) e.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Little red dots have puzzled astronomers since their discovery in JWST data from the Universe’s deep past. Their ‘powering engines’ might resemble a.",
+      "Key detail: This object, described in a study published today in Nature by researchers at the Institute of Science and Technology Austria (ISTA) and.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "17 ago 2026",
+    "date_pt": "17 ago 2026",
+    "date_en": "17 Aug 2026",
+    "time": "19h35",
+    "time_pt": "19h35",
+    "time_en": "19:35 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-17T19:35:53+00:00",
+    "lastModifiedIso": "2026-08-17T19:35:53+00:00",
+    "source": "Universe Today",
+    "sourceDomain": "www.universetoday.com",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astrofísica",
+      "Universe Today",
+      "Cosmos Week",
+      "Os pequenos pontos vermelhos do JWST podem ser ‘estrelas do buraco negro’"
+    ],
+    "keywords_pt": [
+      "Astrofísica",
+      "Universe Today",
+      "Cosmos Week",
+      "Os pequenos pontos vermelhos do JWST podem ser ‘estrelas do buraco negro’"
+    ],
+    "keywords_en": [
+      "Astrophysics",
+      "Universe Today",
+      "Cosmos Week",
+      "JWST's little red dots could be 'black hole stars'"
+    ],
+    "srcUrl": "https://www.universetoday.com/articles/the-jwst-little-red-dots-could-be-black-hole-stars",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=the-jwst-little-red-dots-could-be-black-hole-stars",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=the-jwst-little-red-dots-could-be-black-hole-stars",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=the-jwst-little-red-dots-could-be-black-hole-stars&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 76,
+    "scoreBreakdown": {
+      "source": 73,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 52
     }
   },
   {

@@ -40,14 +40,14 @@ window.postsData = [
     "date": "20 ago 2026",
     "date_pt": "20 ago 2026",
     "date_en": "20 Aug 2026",
-    "time": "15h44",
-    "time_pt": "15h44",
-    "time_en": "15:44 UTC",
+    "time": "16h46",
+    "time_pt": "16h46",
+    "time_en": "16:46 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-20T15:44:13.049833+00:00",
-    "lastModifiedIso": "2026-08-20T15:44:13.049833+00:00",
+    "publishedIso": "2026-08-20T16:46:41.063006+00:00",
+    "lastModifiedIso": "2026-08-20T16:46:41.063006+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -145,14 +145,14 @@ window.postsData = [
     "date": "20 ago 2026",
     "date_pt": "20 ago 2026",
     "date_en": "20 Aug 2026",
-    "time": "15h44",
-    "time_pt": "15h44",
-    "time_en": "15:44 UTC",
+    "time": "16h46",
+    "time_pt": "16h46",
+    "time_en": "16:46 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-20T15:44:13.049781+00:00",
-    "lastModifiedIso": "2026-08-20T15:44:13.049781+00:00",
+    "publishedIso": "2026-08-20T16:46:41.062953+00:00",
+    "lastModifiedIso": "2026-08-20T16:46:41.062953+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -253,14 +253,14 @@ window.postsData = [
     "date": "20 ago 2026",
     "date_pt": "20 ago 2026",
     "date_en": "20 Aug 2026",
-    "time": "15h44",
-    "time_pt": "15h44",
-    "time_en": "15:44 UTC",
+    "time": "16h46",
+    "time_pt": "16h46",
+    "time_en": "16:46 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-20T15:44:13.049724+00:00",
-    "lastModifiedIso": "2026-08-20T15:44:13.049724+00:00",
+    "publishedIso": "2026-08-20T16:46:41.062895+00:00",
+    "lastModifiedIso": "2026-08-20T16:46:41.062895+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -358,14 +358,14 @@ window.postsData = [
     "date": "20 ago 2026",
     "date_pt": "20 ago 2026",
     "date_en": "20 Aug 2026",
-    "time": "15h44",
-    "time_pt": "15h44",
-    "time_en": "15:44 UTC",
+    "time": "16h46",
+    "time_pt": "16h46",
+    "time_en": "16:46 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-20T15:44:13.049669+00:00",
-    "lastModifiedIso": "2026-08-20T15:44:13.049669+00:00",
+    "publishedIso": "2026-08-20T16:46:41.062811+00:00",
+    "lastModifiedIso": "2026-08-20T16:46:41.062811+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -442,8 +442,8 @@ window.postsData = [
     "excerpt": "Financiado pelo NIH, Alimentado por IA. análise de&nbsp. entrevistas sugerem. isso&nbsp. a&nbsp. juventude & nbsp. enquadramento de eventos estressantes. é&nbsp. um forte&nbsp. indicador&nbsp. de&nbsp. risco para&nbsp. futuro&nbsp. distúrbios.",
     "excerpt_pt": "Financiado pelo NIH, Alimentado por IA. análise de&nbsp. entrevistas sugerem. isso&nbsp. a&nbsp. juventude & nbsp. enquadramento de eventos estressantes. é&nbsp. um forte&nbsp. indicador&nbsp. de&nbsp. risco para&nbsp. futuro&nbsp. distúrbios.",
     "excerpt_en": "NIH-funded,&nbsp. AI-powered&nbsp. analysis of&nbsp. interviews suggests&nbsp. that&nbsp. a&nbsp. youth’s&nbsp. framing of stressful events&nbsp. is&nbsp. a strong&nbsp. indicator&nbsp. of&nbsp. risk for&nbsp. future&nbsp. disorders.",
-    "body": "<p>Financiado pelo NIH, Alimentado por IA. análise de&amp;nbsp. entrevistas sugerem. isso&amp;nbsp. a&amp;nbsp. juventude &amp; nbsp. enquadramento de eventos estressantes. é&amp;nbsp. um forte&amp;nbsp. indicador&amp;nbsp. de&amp;nbsp. risco para&amp;nbsp. futuro&amp;nbsp. distúrbios. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. A análise de entrevistas financiada pelo NIH e alimentada por IA sugere que o enquadramento de eventos estressantes por um jovem é um forte indicador de risco para distúrbios. Num estudo financiado pelos Institutos Nacionais de Saúde (NIH), os cientistas desenvolveram modelos preditivos baseados nestas características que poderiam prever o início dos.</p><p>Com os métodos atuais, que dependem fortemente de fatores de risco estáticos, não podemos distinguir com segurança as crianças que estão em risco daquelas que provavelmente serão. Os pesquisadores analisaram gravações de áudio de entrevistas estruturadas com 204 crianças, de 9 a 13 anos de idade, matriculadas no Early Life Stress Study, apoiado pelo NIH.</p><p>As entrevistas, com cerca de 30 minutos em média, cobriram a exposição ao longo da vida de cada criança a eventos traumáticos, fornecendo uma medida do stress inicial quando as. Outros marcadores robustos incluíram o uso de linguagem rígida que expressava certeza absoluta e discurso autorreferencial indicado pelo uso intenso de pronomes na primeira pessoa.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de NIH News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.nih.gov/news-events/news-releases/childs-language-may-predict-arrival-depression-anxiety-disorders-years-before-onset\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Financiado pelo NIH, Alimentado por IA. análise de&amp;nbsp. entrevistas sugerem. isso&amp;nbsp. a&amp;nbsp. juventude &amp; nbsp. enquadramento de eventos estressantes. é&amp;nbsp. um forte&amp;nbsp. indicador&amp;nbsp. de&amp;nbsp. risco para&amp;nbsp. futuro&amp;nbsp. distúrbios. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. A análise de entrevistas financiada pelo NIH e alimentada por IA sugere que o enquadramento de eventos estressantes por um jovem é um forte indicador de risco para distúrbios. Num estudo financiado pelos Institutos Nacionais de Saúde (NIH), os cientistas desenvolveram modelos preditivos baseados nestas características que poderiam prever o início dos.</p><p>Com os métodos atuais, que dependem fortemente de fatores de risco estáticos, não podemos distinguir com segurança as crianças que estão em risco daquelas que provavelmente serão. Os pesquisadores analisaram gravações de áudio de entrevistas estruturadas com 204 crianças, de 9 a 13 anos de idade, matriculadas no Early Life Stress Study, apoiado pelo NIH.</p><p>As entrevistas, com cerca de 30 minutos em média, cobriram a exposição ao longo da vida de cada criança a eventos traumáticos, fornecendo uma medida do stress inicial quando as. Outros marcadores robustos incluíram o uso de linguagem rígida que expressava certeza absoluta e discurso autorreferencial indicado pelo uso intenso de pronomes na primeira pessoa.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de NIH News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.nih.gov/news-events/news-releases/childs-language-may-predict-arrival-depression-anxiety-disorders-years-before-onset\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body": "<p>Financiado pelo NIH, Alimentado por IA. análise de&amp;nbsp. entrevistas sugerem. isso&amp;nbsp. a&amp;nbsp. juventude &amp; nbsp. enquadramento de eventos estressantes. é&amp;nbsp. um forte&amp;nbsp. indicador&amp;nbsp. de&amp;nbsp. risco para&amp;nbsp. futuro&amp;nbsp. distúrbios. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. A análise de entrevistas financiada pelo NIH e alimentada por IA sugere que o enquadramento de eventos estressantes por um jovem é um forte indicador de risco para distúrbios. Num estudo financiado pelos Institutos Nacionais de Saúde (NIH), os cientistas desenvolveram modelos preditivos baseados nestas características que poderiam prever o início dos.</p><p>Com os métodos atuais, que dependem fortemente de fatores de risco estáticos, não podemos distinguir com segurança as crianças que estão em risco daquelas que provavelmente serão. Os pesquisadores analisaram gravações de áudio de entrevistas estruturadas com 204 crianças, de 9 a 13 anos de idade, matriculadas no Early Life Stress Study, apoiado pelo NIH.</p><p>As entrevistas, com cerca de 30 minutos em média, cobriram a exposição de cada criança a acontecimentos traumáticos ao longo da vida, fornecendo uma medida do stress inicial. Outros marcadores robustos incluíram o uso de linguagem rígida que expressava certeza absoluta e discurso autorreferencial indicado pelo uso intenso de pronomes na primeira pessoa.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de NIH News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.nih.gov/news-events/news-releases/childs-language-may-predict-arrival-depression-anxiety-disorders-years-before-onset\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Financiado pelo NIH, Alimentado por IA. análise de&amp;nbsp. entrevistas sugerem. isso&amp;nbsp. a&amp;nbsp. juventude &amp; nbsp. enquadramento de eventos estressantes. é&amp;nbsp. um forte&amp;nbsp. indicador&amp;nbsp. de&amp;nbsp. risco para&amp;nbsp. futuro&amp;nbsp. distúrbios. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. A análise de entrevistas financiada pelo NIH e alimentada por IA sugere que o enquadramento de eventos estressantes por um jovem é um forte indicador de risco para distúrbios. Num estudo financiado pelos Institutos Nacionais de Saúde (NIH), os cientistas desenvolveram modelos preditivos baseados nestas características que poderiam prever o início dos.</p><p>Com os métodos atuais, que dependem fortemente de fatores de risco estáticos, não podemos distinguir com segurança as crianças que estão em risco daquelas que provavelmente serão. Os pesquisadores analisaram gravações de áudio de entrevistas estruturadas com 204 crianças, de 9 a 13 anos de idade, matriculadas no Early Life Stress Study, apoiado pelo NIH.</p><p>As entrevistas, com cerca de 30 minutos em média, cobriram a exposição de cada criança a acontecimentos traumáticos ao longo da vida, fornecendo uma medida do stress inicial. Outros marcadores robustos incluíram o uso de linguagem rígida que expressava certeza absoluta e discurso autorreferencial indicado pelo uso intenso de pronomes na primeira pessoa.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de NIH News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.nih.gov/news-events/news-releases/childs-language-may-predict-arrival-depression-anxiety-disorders-years-before-onset\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
     "body_en": "<p>NIH-funded,&amp;nbsp. AI-powered&amp;nbsp. analysis of&amp;nbsp. interviews suggests&amp;nbsp. that&amp;nbsp. a&amp;nbsp. youth’s&amp;nbsp. framing of stressful events&amp;nbsp. is&amp;nbsp. a strong&amp;nbsp. indicator&amp;nbsp. of&amp;nbsp. risk for&amp;nbsp. future&amp;nbsp. disorders. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because biology becomes more informative when an observed effect begins to look like a mechanism rather than an isolated pattern. The gap between identifying a correlation in biological data and understanding the causal chain that produces it is routinely underestimated, and the history of biomedical research is populated with associations that collapsed when the mechanism was sought and not found. A result that comes with a proposed mechanism, even a partial one, is more useful than a purely descriptive finding because it generates testable predictions that can narrow the hypothesis space. NIH-funded, AI-powered analysis of interviews suggests that a youth’s framing of stressful events is a strong indicator of risk for future disorders. In a National Institutes of Health (NIH)-funded study, scientists developed predictive models based on these features that could predict symptom onset and diagnosis up to six.</p><p>With current methods, which rely heavily on static risk factors, we cannot reliably distinguish children who are at risk from those who are likely to be resilient,” said first. The researchers analyzed audio recordings of structured interviews with 204 children, 9 to 13 years old, enrolled in the NIH-supported Early Life Stress Study.</p><p>The interviews, about 30 minutes on average, covered each child’s lifetime exposure to traumatic events, providing a measure of baseline stress when children were not yet. Other robust markers included the use of rigid language that expressed absolute certainty and self-referential speech indicated by heavy use of first-person singular pronouns.</p><p>“A method of predicting which children are most vulnerable to developing mood and anxiety disorders would be tremendous in helping to prevent a possible burden of cost and. NIH supported this research through NIMH grants R37MH101495 and F32MH135657.</p><p>The broader interest lies in whether the reported effect points toward a real mechanism and not merely a reproducible but unexplained association. Biology has learned from decades of biomarker failures that correlation, even robust correlation, is not a substitute for mechanistic understanding. A pathway that can be traced from molecular interaction to cellular response to organismal phenotype provides a far stronger foundation for intervention than a statistical association discovered in a large dataset, however well the statistics are done.</p><p>About the National Institute of Mental Health (NIMH): The mission of the NIMH is to transform the understanding and treatment of mental illnesses through basic and clinical. About the National Institutes of Health (NIH): NIH, the nation&#x27;s medical research agency, includes 27 Institutes and Centers and is a component of the U. S.</p><p>Because the account originates with NIH News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to test whether the effect repeats across different methods, cell types, model organisms and experimental conditions. Reproducibility is the first test, but mechanistic dissection is the second, and a result that passes both has a substantially better chance of translating into something clinically or biotechnologically useful. The path from a laboratory finding to an applied outcome typically takes a decade or more, and most findings do not complete it; the current result sits at the beginning of that process.</p><p class=\"art-source\"><a href=\"https://www.nih.gov/news-events/news-releases/childs-language-may-predict-arrival-depression-anxiety-disorders-years-before-onset\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Financiado pelo NIH, Alimentado por IA. análise de&nbsp. entrevistas sugerem. isso&nbsp. a&nbsp. juventude & nbsp. enquadramento de eventos.",
@@ -463,14 +463,14 @@ window.postsData = [
     "date": "20 ago 2026",
     "date_pt": "20 ago 2026",
     "date_en": "20 Aug 2026",
-    "time": "15h44",
-    "time_pt": "15h44",
-    "time_en": "15:44 UTC",
+    "time": "16h46",
+    "time_pt": "16h46",
+    "time_en": "16:46 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-20T15:44:13.049617+00:00",
-    "lastModifiedIso": "2026-08-20T15:44:13.049617+00:00",
+    "publishedIso": "2026-08-20T16:46:41.062759+00:00",
+    "lastModifiedIso": "2026-08-20T16:46:41.062759+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -531,6 +531,267 @@ window.postsData = [
   },
   {
     "id": 6,
+    "slug": "nasa-is-studying-pyrocumulonimbus-clouds-by-plane",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://earthsky.org/upl/2026/05/utahfire_pyrocumulonimbus-Aug-3-2026-NASA-e1787239737153.jpg",
+    "inline_images": [
+      {
+        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "NASA está estudando nuvens pirocumulonimbus de avião",
+    "title_pt": "NASA está estudando nuvens pirocumulonimbus de avião",
+    "title_en": "NASA is studying pyrocumulonimbus clouds by plane",
+    "sub": "Neste verão, a NASA está estudando nuvens pirocumulonimbus, ou tempestades provocadas por fogo. Os pesquisadores estão pilotando aviões direto nas nuvens de fumaça em busca de.",
+    "sub_pt": "Neste verão, a NASA está estudando nuvens pirocumulonimbus, ou tempestades provocadas por fogo. Os pesquisadores estão pilotando aviões direto nas nuvens de fumaça em busca de.",
+    "sub_en": "This summer, NASA is studying pyrocumulonimbus clouds, or fire-driven thunderstorms. Researchers are flying planes right into the smoke plumes for samples. The post NASA is.",
+    "excerpt": "Neste verão, a NASA está estudando nuvens pirocumulonimbus, ou tempestades provocadas por fogo. Os pesquisadores estão pilotando aviões direto nas nuvens de fumaça em busca de amostras. A postagem que a NASA está estudando nuvens pirocumulonimbus em avião.",
+    "excerpt_pt": "Neste verão, a NASA está estudando nuvens pirocumulonimbus, ou tempestades provocadas por fogo. Os pesquisadores estão pilotando aviões direto nas nuvens de fumaça em busca de amostras. A postagem que a NASA está estudando nuvens pirocumulonimbus em avião.",
+    "excerpt_en": "This summer, NASA is studying pyrocumulonimbus clouds, or fire-driven thunderstorms. Researchers are flying planes right into the smoke plumes for samples. The post NASA is studying pyrocumulonimbus clouds by plane first appeared on.",
+    "body": "<p>Neste verão, a NASA está estudando nuvens pirocumulonimbus, ou tempestades provocadas por fogo. Os pesquisadores estão pilotando aviões direto nas nuvens de fumaça em busca de amostras. A postagem que a NASA está estudando nuvens pirocumulonimbus em avião apareceu pela primeira. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Esta foto é de uma aeronave INSPYRE, parte de uma missão da NASA para estudar nuvens pirocumulonimbus neste verão. NASA está estudando nuvens pirocumulonimbus de avião A NASA disse em 17 de agosto de 2026 que os pesquisadores estão subindo aos céus neste verão para perseguir alguns dos climas.</p><p>Como parte da missão INSPYRE da NASA, os investigadores estão a utilizar a aeronave ER-2 da NASA e um NSF/NCAR Gulfstream V para recolher amostras das plumas. Em 3 de agosto, o Gulfstream perseguiu a fumaça do incêndio Widemouth 2 em Utah, voando em uma nuvem a cerca de 12 km acima da superfície da Terra.</p><p>O calor e a fumaça dos incêndios podem subir para a atmosfera como a corrente ascendente de uma tempestade. Algumas nuvens pirocumulonimbus podem atingir alturas de 9 a 15 km (30.000 a 50.000 pés).</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/earth/what-are-pyrocumulonimbus-clouds-fire-thunderstorms/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Neste verão, a NASA está estudando nuvens pirocumulonimbus, ou tempestades provocadas por fogo. Os pesquisadores estão pilotando aviões direto nas nuvens de fumaça em busca de amostras. A postagem que a NASA está estudando nuvens pirocumulonimbus em avião apareceu pela primeira. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Esta foto é de uma aeronave INSPYRE, parte de uma missão da NASA para estudar nuvens pirocumulonimbus neste verão. NASA está estudando nuvens pirocumulonimbus de avião A NASA disse em 17 de agosto de 2026 que os pesquisadores estão subindo aos céus neste verão para perseguir alguns dos climas.</p><p>Como parte da missão INSPYRE da NASA, os investigadores estão a utilizar a aeronave ER-2 da NASA e um NSF/NCAR Gulfstream V para recolher amostras das plumas. Em 3 de agosto, o Gulfstream perseguiu a fumaça do incêndio Widemouth 2 em Utah, voando em uma nuvem a cerca de 12 km acima da superfície da Terra.</p><p>O calor e a fumaça dos incêndios podem subir para a atmosfera como a corrente ascendente de uma tempestade. Algumas nuvens pirocumulonimbus podem atingir alturas de 9 a 15 km (30.000 a 50.000 pés).</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/earth/what-are-pyrocumulonimbus-clouds-fire-thunderstorms/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>This summer, NASA is studying pyrocumulonimbus clouds, or fire-driven thunderstorms. Researchers are flying planes right into the smoke plumes for samples. The post NASA is studying pyrocumulonimbus clouds by plane first appeared on. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. This photo is from an INSPYRE aircraft, part of a NASA mission to study pyrocumulonimbus clouds this summer. NASA is studying pyrocumulonimbus clouds by plane NASA said on August 17, 2026, that researchers are taking to the skies this summer to chase some of the wildest weather on Earth.</p><p>As part of NASA’s INSPYRE mission, researchers are using NASA’s ER-2 aircraft and an NSF/NCAR Gulfstream V to sample the plumes. On August 3, the Gulfstream chased smoke from Utah’s Widemouth 2 fire, flying into a plume about 8 miles (12 km) above Earth’s surface.</p><p>The heat and smoke from fires can rise into the atmosphere like the updraft in a thunderstorm. Some pyrocumulonimbus clouds can reach heights of 30,000 to 50,000 feet (9 to 15 km).</p><p>They can punch through the troposphere (the layer of air closest to Earth where we live) to the stratosphere. It’s a fire-generated thunderstorm, as seen from an airplane in 2019.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>In 2018, a firefighter was tragically killed in California when the Carr fire spawned a fire tornado. Smoke in the upper atmosphere can last for months In 2023, scientists with the National Oceanic and Atmospheric Administration (NOAA) released a study of pyrocumumlonimbus clouds’.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/earth/what-are-pyrocumulonimbus-clouds-fire-thunderstorms/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Neste verão, a NASA está estudando nuvens pirocumulonimbus, ou tempestades provocadas por fogo. Os pesquisadores estão pilotando aviões direto nas.",
+      "Dado-chave: Esta foto é de uma aeronave INSPYRE, parte de uma missão da NASA para estudar nuvens pirocumulonimbus neste verão.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Neste verão, a NASA está estudando nuvens pirocumulonimbus, ou tempestades provocadas por fogo. Os pesquisadores estão pilotando aviões direto nas.",
+      "Dado-chave: Esta foto é de uma aeronave INSPYRE, parte de uma missão da NASA para estudar nuvens pirocumulonimbus neste verão.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: This summer, NASA is studying pyrocumulonimbus clouds, or fire-driven thunderstorms. Researchers are flying planes right into the smoke plumes for.",
+      "Key detail: This photo is from an INSPYRE aircraft, part of a NASA mission to study pyrocumulonimbus clouds this summer.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "20 ago 2026",
+    "date_pt": "20 ago 2026",
+    "date_en": "20 Aug 2026",
+    "time": "15h30",
+    "time_pt": "15h30",
+    "time_en": "15:30 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-20T15:30:44+00:00",
+    "lastModifiedIso": "2026-08-20T15:30:44+00:00",
+    "source": "EarthSky",
+    "sourceDomain": "earthsky.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "EarthSky",
+      "Cosmos Week",
+      "NASA está estudando nuvens pirocumulonimbus de avião"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "EarthSky",
+      "Cosmos Week",
+      "NASA está estudando nuvens pirocumulonimbus de avião"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "EarthSky",
+      "Cosmos Week",
+      "NASA is studying pyrocumulonimbus clouds from an airplane"
+    ],
+    "srcUrl": "https://earthsky.org/earth/what-are-pyrocumulonimbus-clouds-fire-thunderstorms/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-is-studying-pyrocumulonimbus-clouds-by-plane",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-is-studying-pyrocumulonimbus-clouds-by-plane",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-is-studying-pyrocumulonimbus-clouds-by-plane&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 73,
+    "scoreBreakdown": {
+      "source": 72,
+      "evidence": 82,
+      "relevance": 80,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
+    "slug": "catching-an-almost-total-lunar-eclipse-on-august-28th",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://www.universetoday.com/article_images/Screenshot_2026-08-19_130300_20260819_174721.png",
+    "inline_images": [
+      {
+        "src": "https://www.universetoday.com/article_images/Screenshot_2026-08-20_104636_20260820_144951.png",
+        "caption": "As perspectivas de visibilidade para este mês",
+        "caption_pt": "As perspectivas de visibilidade para este mês",
+        "caption_en": "The visibility prospects for this month",
+        "alt": "As perspectivas de visibilidade para este mês",
+        "alt_pt": "As perspectivas de visibilidade para este mês",
+        "alt_en": "The visibility prospects for this month"
+      },
+      {
+        "src": "https://www.universetoday.com/article_images/DSC_0768_20260820_144400.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://www.universetoday.com/article_images/Screenshot_2026-08-19_125850_20260820_143522.png",
+        "caption": "Firefly Aeroespacial",
+        "caption_pt": "Firefly Aeroespacial",
+        "caption_en": "Firefly Aerospace",
+        "alt": "Firefly Aeroespacial",
+        "alt_pt": "Firefly Aeroespacial",
+        "alt_en": "Firefly Aerospace"
+      }
+    ],
+    "video": {
+      "kind": "embed",
+      "platform": "youtube",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/p3ip8rl5-m4",
+      "fileUrl": "",
+      "poster": "",
+      "title": "",
+      "title_pt": "",
+      "title_en": "",
+      "caption": "",
+      "caption_pt": "",
+      "caption_en": "",
+      "sourcePage": "https://www.universetoday.com/articles/catching-an-almost-total-lunar-eclipse-on-august-28th"
+    },
+    "audio": null,
+    "title": "Capturando um eclipse lunar ‘quase total’ em 28 de agosto",
+    "title_pt": "Capturando um eclipse lunar ‘quase total’ em 28 de agosto",
+    "title_en": "Catching An 'Almost Total' Lunar Eclipse on August 28th",
+    "sub": "E aí, você perdeu o eclipse solar total de 12 de agosto? Como muita humanidade, ficamos de fora do drama celestial do eclipse solar deste mês, tanto total quanto parcial. Mas a.",
+    "sub_pt": "E aí, você perdeu o eclipse solar total de 12 de agosto? Como muita humanidade, ficamos de fora do drama celestial do eclipse solar deste mês, tanto total quanto parcial. Mas a.",
+    "sub_en": "So, did you miss the August 12th total solar eclipse? Like lots of humanity, we sat out the celestial drama of this month's solar eclipse, both total and partial. But the good.",
+    "excerpt": "E aí, você perdeu o eclipse solar total de 12 de agosto? Como muita humanidade, ficamos de fora do drama celestial do eclipse solar deste mês, tanto total quanto parcial. Mas a boa notícia é que uma grande parte do mundo ainda pode captar o eclipse.",
+    "excerpt_pt": "E aí, você perdeu o eclipse solar total de 12 de agosto? Como muita humanidade, ficamos de fora do drama celestial do eclipse solar deste mês, tanto total quanto parcial. Mas a boa notícia é que uma grande parte do mundo ainda pode captar o eclipse.",
+    "excerpt_en": "So, did you miss the August 12th total solar eclipse? Like lots of humanity, we sat out the celestial drama of this month's solar eclipse, both total and partial. But the good news is, a large swath of the world can still catch the eclipse.",
+    "body": "<p>E aí, você perdeu o eclipse solar total de 12 de agosto? Como muita humanidade, ficamos de fora do drama celestial do eclipse solar deste mês, tanto total quanto parcial. Mas a boa notícia é que uma grande parte do mundo ainda pode captar o eclipse. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Isso também marca o fim atual da segunda temporada de eclipses de 2026, que começou com o eclipse solar total em 12 de agosto. A Lua passa pelo nó ascendente pouco menos de 10 horas antes da Cheia de 28 de agosto, o que significa que passará pela metade norte da sombra umbral da Terra, mas não ficará.</p><p>O evento também ocorre apenas seis dias após o segundo apogeu lunar mais distante do ano, o que significa que a Lua será um pouco menor do que o normal em comparação com a sombra. O eclipse parcial máximo ocorre às 4h14 UT/12h14 EDT, com a Lua 93% imersa na sombra umbral da Terra.</p><p>Você começará a notar que algo está torto com a Lua cerca de 30 minutos após o início da fase penumbral, pois ela adquire uma leve tonalidade cor de chá. Isto é função de cem pores do sol, filtrados pela atmosfera da Terra e lançados na Lua.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/catching-an-almost-total-lunar-eclipse-on-august-28th\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>E aí, você perdeu o eclipse solar total de 12 de agosto? Como muita humanidade, ficamos de fora do drama celestial do eclipse solar deste mês, tanto total quanto parcial. Mas a boa notícia é que uma grande parte do mundo ainda pode captar o eclipse. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Isso também marca o fim atual da segunda temporada de eclipses de 2026, que começou com o eclipse solar total em 12 de agosto. A Lua passa pelo nó ascendente pouco menos de 10 horas antes da Cheia de 28 de agosto, o que significa que passará pela metade norte da sombra umbral da Terra, mas não ficará.</p><p>O evento também ocorre apenas seis dias após o segundo apogeu lunar mais distante do ano, o que significa que a Lua será um pouco menor do que o normal em comparação com a sombra. O eclipse parcial máximo ocorre às 4h14 UT/12h14 EDT, com a Lua 93% imersa na sombra umbral da Terra.</p><p>Você começará a notar que algo está torto com a Lua cerca de 30 minutos após o início da fase penumbral, pois ela adquire uma leve tonalidade cor de chá. Isto é função de cem pores do sol, filtrados pela atmosfera da Terra e lançados na Lua.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/catching-an-almost-total-lunar-eclipse-on-august-28th\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>So, did you miss the August 12th total solar eclipse? Like lots of humanity, we sat out the celestial drama of this month&#x27;s solar eclipse, both total and partial. But the good news is, a large swath of the world can still catch the eclipse. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. This also marks the current end of the second eclipse season for 2026, which began with the total solar eclipse on August 12th. The Moon passes ascending node just under 10 hours prior to Full on August 28th, meaning it will pass through the northern half of Earth’s umbral shadow, but won’t get fully.</p><p>The event also occurs just six days after the second-most distant lunar apogee of the year, meaning the Moon will be a tad smaller than usual versus the Earth’s umbral shadow. Maximum partial eclipse occurs at 4: 14 UT/12: 14 AM EDT, with the Moon 93% immersed in the Earth’s umbral shadow.</p><p>You’ll start to notice that something&#x27;s askew with the Moon about 30 minutes into the penumbral phase, as it takes on a slight tea-colored cast. This is a function of a hundred sunsets, filtered through the atmosphere of the Earth and cast upon the Moon.</p><p>With a little practice and patience, you can simply aim a handheld smartphone camera at the Moon as seen though the eyepiece of a telescope, or just sit back and enjoy the sky. September 7th, 2044 will see the very first total eclipse for the series, with totality just lasting 34 minutes long.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>The shortest for the current century fell on April 4th 2015, with a totality just 4 minutes long. A full tetrad last occurred in 2014/2015 (spoiler alert: the world didn’t end.) While we’re enjoying a lunar eclipse here on Earth, an observer on most of the Moon’s Earthward.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/catching-an-almost-total-lunar-eclipse-on-august-28th\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: E aí, você perdeu o eclipse solar total de 12 de agosto? Como muita humanidade, ficamos de fora do drama celestial do eclipse solar deste mês, tanto.",
+      "Dado-chave: Isso também marca o fim atual da segunda temporada de eclipses de 2026, que começou com o eclipse solar total em 12 de agosto.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: E aí, você perdeu o eclipse solar total de 12 de agosto? Como muita humanidade, ficamos de fora do drama celestial do eclipse solar deste mês, tanto.",
+      "Dado-chave: Isso também marca o fim atual da segunda temporada de eclipses de 2026, que começou com o eclipse solar total em 12 de agosto.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: So, did you miss the August 12th total solar eclipse? Like lots of humanity, we sat out the celestial drama of this month's solar eclipse, both total.",
+      "Key detail: This also marks the current end of the second eclipse season for 2026, which began with the total solar eclipse on August 12th.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "20 ago 2026",
+    "date_pt": "20 ago 2026",
+    "date_en": "20 Aug 2026",
+    "time": "15h21",
+    "time_pt": "15h21",
+    "time_en": "15:21 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-20T15:21:00+00:00",
+    "lastModifiedIso": "2026-08-20T15:21:00+00:00",
+    "source": "Universe Today",
+    "sourceDomain": "www.universetoday.com",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astronomia",
+      "Universe Today",
+      "Cosmos Week",
+      "Capturando um eclipse lunar ‘quase total’ em 28 de agosto"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "Universe Today",
+      "Cosmos Week",
+      "Capturando um eclipse lunar ‘quase total’ em 28 de agosto"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "Universe Today",
+      "Cosmos Week",
+      "Capturing a ‘near-total’ lunar eclipse on August 28"
+    ],
+    "srcUrl": "https://www.universetoday.com/articles/catching-an-almost-total-lunar-eclipse-on-august-28th",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=catching-an-almost-total-lunar-eclipse-on-august-28th",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=catching-an-almost-total-lunar-eclipse-on-august-28th",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=catching-an-almost-total-lunar-eclipse-on-august-28th&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 70,
+    "scoreBreakdown": {
+      "source": 73,
+      "evidence": 82,
+      "relevance": 70,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 8,
     "slug": "the-view-from-above-the-gemini-visual-acuity-experiments",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -547,11 +808,11 @@ window.postsData = [
       },
       {
         "src": "https://images-assets.nasa.gov/image/s65-28642/s65-28642~large.jpg?w=1501&h=1920&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "Ilustração mostrando o equipamento de teste de visão em voo",
-        "caption_pt": "Ilustração mostrando o equipamento de teste de visão em voo",
+        "caption": "Ilustração mostrando o equipamento de teste de visão em vôo",
+        "caption_pt": "Ilustração mostrando o equipamento de teste de visão em vôo",
         "caption_en": "Illustration showing the In-Flight Vision Testing equipment",
-        "alt": "Ilustração mostrando o equipamento de teste de visão em voo",
-        "alt_pt": "Ilustração mostrando o equipamento de teste de visão em voo",
+        "alt": "Ilustração mostrando o equipamento de teste de visão em vôo",
+        "alt_pt": "Ilustração mostrando o equipamento de teste de visão em vôo",
         "alt_en": "Illustration showing the In-Flight Vision Testing equipment"
       },
       {
@@ -652,7 +913,7 @@ window.postsData = [
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -666,7 +927,7 @@ window.postsData = [
     }
   },
   {
-    "id": 7,
+    "id": 9,
     "slug": "interstellar-travel-iv-solar-magnetic-directed-energy-sails",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -818,7 +1079,7 @@ window.postsData = [
     }
   },
   {
-    "id": 8,
+    "id": 10,
     "slug": "global-sand-dunes-map-reveals-clues-to-distant-worlds-including-mars",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -954,285 +1215,6 @@ window.postsData = [
     }
   },
   {
-    "id": 9,
-    "slug": "nasa-data-feeds-river-forecasts-as-snow-drought-effects-linger",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2026/washing_water_extremes2.png?w=3840&h=1920&fit=clip&crop=faces%2Cfocalpoint",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2026/Tacoma%20Power%20Mayfield%20Dam%20034_for%20web.jpeg?w=2456&h=3070&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-uncommon-drifter-in-the-denmark-strait/greenlandbergzm_oli2_20260612_th.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/ares/iss049e035512~orig.jpg?w=4928&h=3280&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": {
-      "kind": "file",
-      "platform": "html5",
-      "embedUrl": "",
-      "fileUrl": "https://assets.science.nasa.gov/content/dam/science/esd/articles/2026/SnowDrought4k_WithComparison_Update.mp4",
-      "poster": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2026/washing_water_extremes2.png?w=3840&h=1920&fit=clip&crop=faces%2Cfocalpoint",
-      "title": "Dados da NASA alimentam previsões de rios enquanto os efeitos da seca na neve persistem - NASA Science",
-      "title_pt": "Dados da NASA alimentam previsões de rios enquanto os efeitos da seca na neve persistem - NASA Science",
-      "title_en": "NASA Data Feeds River Forecasts as Snow Drought Effects Linger - NASA Science",
-      "caption": "Os dados científicos da Terra da NASA estão apoiando previsões de aprendizado de máquina que informam decisões sobre água, energia e segurança pública no estado de Washington.",
-      "caption_pt": "Os dados científicos da Terra da NASA estão apoiando previsões de aprendizado de máquina que informam decisões sobre água, energia e segurança pública no estado de Washington.",
-      "caption_en": "NASA Earth science data is supporting machine-learning forecasts that inform decisions about water, power, and public safety in Washington state.",
-      "sourcePage": "https://science.nasa.gov/centers-and-facilities/goddard/nasa-river-forecasts-snow-drought/"
-    },
-    "audio": null,
-    "title": "Dados da NASA alimentam previsões do rio enquanto os efeitos da seca na neve persistem",
-    "title_pt": "Dados da NASA alimentam previsões do rio enquanto os efeitos da seca na neve persistem",
-    "title_en": "NASA Data Feeds River Forecasts as Snow Drought Effects Linger",
-    "sub": "Os dados científicos da Terra da NASA estão apoiando previsões de aprendizado de máquina que informam decisões sobre água, energia e segurança pública no estado de Washington.",
-    "sub_pt": "Os dados científicos da Terra da NASA estão apoiando previsões de aprendizado de máquina que informam decisões sobre água, energia e segurança pública no estado de Washington.",
-    "sub_en": "NASA Earth science data is supporting machine-learning forecasts that inform decisions about water, power, and public safety in Washington state.",
-    "excerpt": "Os dados científicos da Terra da NASA estão apoiando previsões de aprendizado de máquina que informam decisões sobre água, energia e segurança pública no estado de Washington.",
-    "excerpt_pt": "Os dados científicos da Terra da NASA estão apoiando previsões de aprendizado de máquina que informam decisões sobre água, energia e segurança pública no estado de Washington.",
-    "excerpt_en": "NASA Earth science data is supporting machine-learning forecasts that inform decisions about water, power, and public safety in Washington state.",
-    "body": "<p>Os dados científicos da Terra da NASA estão apoiando previsões de aprendizado de máquina que informam decisões sobre água, energia e segurança pública no estado de Washington. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Estúdio de Visualização Científica da NASA À medida que os efeitos da seca de neve de 2026 no oeste dos Estados Unidos se prolongam pelo verão, os dados da NASA Earth alimentam. A represa Mayfield e a central elétrica da Tacoma Power ficam no rio Cowlitz, no sudoeste de Washington, onde as previsões usando dados da NASA apoiam as operações de.</p><p>Para ver este vídeo, ative o JavaScript e considere atualizar para um navegador da Web que suporte vídeo HTML5. O GEOS (Goddard Earth Observing System) da NASA mapeia um rio. Das previsões às avaliações de seca, o Cowlitz Hydro Project da Tacoma Public Utilities é apenas um exemplo da ciência da NASA que apoia as decisões hídricas em todo o Ocidente.</p><p>Descubra mais sobre o trabalho da NASA sobre a seca Sobre a autora Emily DeMarco Escritora/Editora (IV), Divisão de Ciências da Terra Emily é redatora e editora científica da. Estúdio de Visualização Científica da NASA À medida que os efeitos da seca de neve de 2026 no oeste dos Estados Unidos se estendem até o verão, os dados da NASA Earth estão.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/centers-and-facilities/goddard/nasa-river-forecasts-snow-drought/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Os dados científicos da Terra da NASA estão apoiando previsões de aprendizado de máquina que informam decisões sobre água, energia e segurança pública no estado de Washington. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Estúdio de Visualização Científica da NASA À medida que os efeitos da seca de neve de 2026 no oeste dos Estados Unidos se prolongam pelo verão, os dados da NASA Earth alimentam. A represa Mayfield e a central elétrica da Tacoma Power ficam no rio Cowlitz, no sudoeste de Washington, onde as previsões usando dados da NASA apoiam as operações de.</p><p>Para ver este vídeo, ative o JavaScript e considere atualizar para um navegador da Web que suporte vídeo HTML5. O GEOS (Goddard Earth Observing System) da NASA mapeia um rio. Das previsões às avaliações de seca, o Cowlitz Hydro Project da Tacoma Public Utilities é apenas um exemplo da ciência da NASA que apoia as decisões hídricas em todo o Ocidente.</p><p>Descubra mais sobre o trabalho da NASA sobre a seca Sobre a autora Emily DeMarco Escritora/Editora (IV), Divisão de Ciências da Terra Emily é redatora e editora científica da. Estúdio de Visualização Científica da NASA À medida que os efeitos da seca de neve de 2026 no oeste dos Estados Unidos se estendem até o verão, os dados da NASA Earth estão.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/centers-and-facilities/goddard/nasa-river-forecasts-snow-drought/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>NASA Earth science data is supporting machine-learning forecasts that inform decisions about water, power, and public safety in Washington state. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. NASA’s Scientific Visualization Studio As the effects of the 2026 snow drought in the western United States carry into summer, NASA Earth data is feeding machine-learning. Tacoma Power’s Mayfield Dam and powerhouse sit on the Cowlitz River in southwest Washington, where forecasts using NASA data support reservoir operations and hydropower generation.</p><p>To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video NASA’s GEOS (Goddard Earth Observing System) maps an atmospheric. From forecasts to drought assessments Tacoma Public Utilities’ Cowlitz Hydro Project is just one example of NASA science supporting water decisions across the West.</p><p>Discover more about NASA’s drought work About the Author Emily DeMarco Writer/Editor (IV), Earth Science Division Emily is a science writer and editor with NASA’s Earth Science. NASA&#x27;s Scientific Visualization Studio As the effects of the 2026 snow drought in the western United States carry into summer, NASA Earth data is feeding machine-learning.</p><p>Upstream Tech’s HydroForecast combines weather forecasts and river measurements with NASA-produced satellite data on snow cover and vegetation conditions to predict river flow. “Part of NASA’s mission is to make the view from space useful on the ground,” said Erin Urquhart, manager for NASA’s Water Resources program at the agency’s headquarters in.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>January, February, and March each had the lowest Western snow cover for that month in the NASA MODIS (Moderate Resolution Imaging Spectroradiometer) satellite record since 2001. Tacoma Power entered summer 2026 with reservoir levels near average despite the dry spring.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/centers-and-facilities/goddard/nasa-river-forecasts-snow-drought/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Os dados científicos da Terra da NASA estão apoiando previsões de aprendizado de máquina que informam decisões sobre água, energia e segurança.",
-      "Dado-chave: Estúdio de Visualização Científica da NASA À medida que os efeitos da seca de neve de 2026 no oeste dos Estados Unidos se prolongam pelo verão.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Os dados científicos da Terra da NASA estão apoiando previsões de aprendizado de máquina que informam decisões sobre água, energia e segurança.",
-      "Dado-chave: Estúdio de Visualização Científica da NASA À medida que os efeitos da seca de neve de 2026 no oeste dos Estados Unidos se prolongam pelo verão.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: NASA Earth science data is supporting machine-learning forecasts that inform decisions about water, power, and public safety in Washington state.",
-      "Key detail: NASA’s Scientific Visualization Studio As the effects of the 2026 snow drought in the western United States carry into summer, NASA Earth data.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "20 ago 2026",
-    "date_pt": "20 ago 2026",
-    "date_en": "20 Aug 2026",
-    "time": "14h12",
-    "time_pt": "14h12",
-    "time_en": "14:12 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-20T14:12:09+00:00",
-    "lastModifiedIso": "2026-08-20T14:12:09+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science.nasa.gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Dados da NASA alimentam previsões do rio enquanto os efeitos da seca na neve persistem"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Dados da NASA alimentam previsões do rio enquanto os efeitos da seca na neve persistem"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA Data Fuels River Forecasts as Drought Effects on Snow Persist"
-    ],
-    "srcUrl": "https://science.nasa.gov/centers-and-facilities/goddard/nasa-river-forecasts-snow-drought/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-data-feeds-river-forecasts-as-snow-drought-effects-linger",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-data-feeds-river-forecasts-as-snow-drought-effects-linger",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-data-feeds-river-forecasts-as-snow-drought-effects-linger&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 79,
-    "scoreBreakdown": {
-      "source": 94,
-      "evidence": 88,
-      "relevance": 80,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 10,
-    "slug": "alma-uncovers-sulfur-for-the-first-time-around-a-rare-class-of-supergiant-star",
-    "cat": "Química",
-    "catCls": "quimica",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/alma-uncovers-sulfur-f.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/alma-uncovers-sulfur-f.jpg",
-        "caption": "ALMA descobre enxofre pela primeira vez em torno de uma classe rara de estrela supergigante",
-        "caption_pt": "ALMA descobre enxofre pela primeira vez em torno de uma classe rara de estrela supergigante",
-        "caption_en": "ALMA uncovers sulfur for the first time around a rare class of supergiant star",
-        "alt": "ALMA descobre enxofre pela primeira vez em torno de uma classe rara de estrela supergigante",
-        "alt_pt": "ALMA descobre enxofre pela primeira vez em torno de uma classe rara de estrela supergigante",
-        "alt_en": "ALMA uncovers sulfur for the first time around a rare class of supergiant star"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/05cc00b31f2c5b10.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/f233d40c9bb6ec42.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "ALMA descobre enxofre pela primeira vez em torno de uma classe rara de estrela supergigante",
-    "title_pt": "ALMA descobre enxofre pela primeira vez em torno de uma classe rara de estrela supergigante",
-    "title_en": "ALMA uncovers sulfur for the first time around a rare class of supergiant star",
-    "sub": "Os astrónomos descobriram uma coleção quimicamente rica de moléculas contendo enxofre em torno da rara estrela massiva HD 87643. As observações incluem a primeira deteção de.",
-    "sub_pt": "Os astrónomos descobriram uma coleção quimicamente rica de moléculas contendo enxofre em torno da rara estrela massiva HD 87643. As observações incluem a primeira deteção de.",
-    "sub_en": "Astronomers have discovered a chemically rich collection of sulfur-bearing molecules surrounding the rare massive star HD 87643. The observations include the first detection of.",
-    "excerpt": "Os astrónomos descobriram uma coleção quimicamente rica de moléculas contendo enxofre em torno da rara estrela massiva HD 87643. As observações incluem a primeira deteção de monóxido de enxofre e dióxido de enxofre em torno de uma supergigante B[e].",
-    "excerpt_pt": "Os astrónomos descobriram uma coleção quimicamente rica de moléculas contendo enxofre em torno da rara estrela massiva HD 87643. As observações incluem a primeira deteção de monóxido de enxofre e dióxido de enxofre em torno de uma supergigante B[e].",
-    "excerpt_en": "Astronomers have discovered a chemically rich collection of sulfur-bearing molecules surrounding the rare massive star HD 87643. The observations include the first detection of sulfur monoxide and sulfur dioxide around a B[e] supergiant.",
-    "body": "<p>Os astrónomos descobriram uma coleção quimicamente rica de moléculas contendo enxofre em torno da rara estrela massiva HD 87643. As observações incluem a primeira deteção de monóxido de enxofre e dióxido de enxofre em torno de uma supergigante B. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a química ganha força quando uma estrutura ou processo alegado pode ser descrito com precisão suficiente para ser reproduzido por outros. Rotas sintéticas, assinaturas espectroscópicas, rendimento em condições definidas e estabilidade em parâmetros operacionais realistas são a moeda de credibilidade na química, e um resultado que carece desses detalhes não pode ser avaliado de forma independente. A distância entre uma descoberta em bancada de laboratório e um processo que funciona confiavelmente em escala é medida em anos de otimização, e cada etapa revela restrições que eram invisíveis em escala menor. Os editores destacaram os seguintes atributos, garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial 13 emissões de CO no campo do HD 87643. Astrônomos descobriram uma coleção quimicamente rica de moléculas contendo enxofre em torno da rara estrela massiva HD 87643.</p><p>O artigo foi publicado no The Astrophysical Journal Letters em 1º de julho. Neste estudo, os pesquisadores, liderados por Cristobal Bordiu do Observatório Astrofísico INAF Catania, usaram observações do Atacama Compact Array do Atacama Large.</p><p>A análise revelou emissões de 10 moléculas diferentes: CO, 13 CO, OCS, H 2 CO, SO, 33 SO, SO 2, HNCO, O 13 CS e 13 CS. O enxofre é um elemento relativamente comum no universo, o décimo mais abundante no geral, e um dos seis elementos essenciais à vida como a conhecemos.</p><p>O interesse mais amplo está em saber se a propriedade ou rota de reação alegada pode ser caracterizada com precisão suficiente para sustentar replicação por outros grupos. A química tem um problema de replicação menos discutido do que o da psicologia ou da medicina, mas ele é real: procedimentos sintéticos que funcionam confiavelmente em um laboratório às vezes não se transferem, por razões que vão de materiais de partida impuros a sensibilidades de temperatura não documentadas. Um resultado que vem com detalhes experimentais completos e caracterização clara do produto é muito mais valioso do que um que relata uma descoberta sem o arcabouço procedimental.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se grupos independentes trabalhando com técnicas ortogonais chegam a conclusões compatíveis e se o resultado escala além das condições usadas no estudo original. Descobertas químicas que importam tendem a ser aquelas cujas propriedades principais podem ser medidas por múltiplos métodos espectroscópicos, cristalográficos ou computacionais que provavelmente não compartilham os mesmos pontos cegos. Escalabilidade, custo e estabilidade de longo prazo sob condições operacionais realistas são filtros adicionais que entram em jogo antes que qualquer aplicação prática se torne viável.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-alma-uncovers-sulfur-rare-class.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Os astrónomos descobriram uma coleção quimicamente rica de moléculas contendo enxofre em torno da rara estrela massiva HD 87643. As observações incluem a primeira deteção de monóxido de enxofre e dióxido de enxofre em torno de uma supergigante B. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a química ganha força quando uma estrutura ou processo alegado pode ser descrito com precisão suficiente para ser reproduzido por outros. Rotas sintéticas, assinaturas espectroscópicas, rendimento em condições definidas e estabilidade em parâmetros operacionais realistas são a moeda de credibilidade na química, e um resultado que carece desses detalhes não pode ser avaliado de forma independente. A distância entre uma descoberta em bancada de laboratório e um processo que funciona confiavelmente em escala é medida em anos de otimização, e cada etapa revela restrições que eram invisíveis em escala menor. Os editores destacaram os seguintes atributos, garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial 13 emissões de CO no campo do HD 87643. Astrônomos descobriram uma coleção quimicamente rica de moléculas contendo enxofre em torno da rara estrela massiva HD 87643.</p><p>O artigo foi publicado no The Astrophysical Journal Letters em 1º de julho. Neste estudo, os pesquisadores, liderados por Cristobal Bordiu do Observatório Astrofísico INAF Catania, usaram observações do Atacama Compact Array do Atacama Large.</p><p>A análise revelou emissões de 10 moléculas diferentes: CO, 13 CO, OCS, H 2 CO, SO, 33 SO, SO 2, HNCO, O 13 CS e 13 CS. O enxofre é um elemento relativamente comum no universo, o décimo mais abundante no geral, e um dos seis elementos essenciais à vida como a conhecemos.</p><p>O interesse mais amplo está em saber se a propriedade ou rota de reação alegada pode ser caracterizada com precisão suficiente para sustentar replicação por outros grupos. A química tem um problema de replicação menos discutido do que o da psicologia ou da medicina, mas ele é real: procedimentos sintéticos que funcionam confiavelmente em um laboratório às vezes não se transferem, por razões que vão de materiais de partida impuros a sensibilidades de temperatura não documentadas. Um resultado que vem com detalhes experimentais completos e caracterização clara do produto é muito mais valioso do que um que relata uma descoberta sem o arcabouço procedimental.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se grupos independentes trabalhando com técnicas ortogonais chegam a conclusões compatíveis e se o resultado escala além das condições usadas no estudo original. Descobertas químicas que importam tendem a ser aquelas cujas propriedades principais podem ser medidas por múltiplos métodos espectroscópicos, cristalográficos ou computacionais que provavelmente não compartilham os mesmos pontos cegos. Escalabilidade, custo e estabilidade de longo prazo sob condições operacionais realistas são filtros adicionais que entram em jogo antes que qualquer aplicação prática se torne viável.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-alma-uncovers-sulfur-rare-class.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Discovered a chemically rich collection of sulfur-bearing molecules surrounding the rare massive star HD 87643. The observations include the first detection of sulfur monoxide and sulfur dioxide around a B supergiant. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because chemistry gains force when a claimed structure or process can be described with enough precision to be reproduced by others. Synthetic routes, spectroscopic signatures, yield under defined conditions and stability under realistic operating parameters are the currency of credibility in chemistry, and a result that lacks these details cannot be evaluated independently. The distance between a discovery on a laboratory bench and a process that works reliably at scale is measured in years of optimization, and each step reveals constraints that were invisible at smaller scale. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source 13 CO emission in the field of HD 87643. Discovered a chemically rich collection of sulfur-bearing molecules surrounding the rare massive star HD 87643.</p><p>The paper was published in The Astrophysical Journal Letters on July 1. In this study, the researchers, led by Cristobal Bordiu of INAF Catania Astrophysical Observatory, used Atacama Large Millimeter/submillimeter Array&#x27;s Atacama Compact Array.</p><p>Their analysis revealed emissions from 10 different molecules: CO, 13 CO, OCS, H 2 CO, SO, 33 SO, SO 2, HNCO, O 13 CS and 13 CS. Sulfur is a relatively common element in the universe, the 10th most abundant overall, and one of just six elements essential to life as we know it.</p><p>That makes the new detections in HD 87643 especially significant, opening the door to studying sulfur chemistry in these extreme environments. These detections substantially expand the molecular inventory of HD 87643, previously limited to CO,&quot; the team writes in the paper.</p><p>The broader interest lies in whether the claimed property or reaction pathway can be characterized with enough precision to support replication by other groups. Chemistry has a replication problem that is less discussed than the one in psychology or medicine, but it is real: synthetic procedures that work reliably in one laboratory sometimes fail to transfer, for reasons ranging from impure starting materials to undocumented temperature sensitivities. A result that comes with full experimental detail and a clear characterization of the product is far more valuable than one that reports a discovery without the procedural backbone.</p><p>The ratio between two isotopes of sulfur monoxide is surprisingly low, around 15, compared with values found in other environments within our galaxy. This process, known as mass-independent fractionation, has previously been documented only in ancient rock samples from Earth and in meteorites.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent groups working with orthogonal techniques reach compatible conclusions, and whether the result scales beyond the conditions used in the original study. Chemical discoveries that matter tend to be ones whose key properties can be measured by multiple spectroscopic, crystallographic or computational methods that are unlikely to share the same blind spots. Scalability, cost and long-term stability under realistic operating conditions are additional filters that come into play before any practical application becomes viable.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-alma-uncovers-sulfur-rare-class.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Os astrónomos descobriram uma coleção quimicamente rica de moléculas contendo enxofre em torno da rara estrela massiva HD 87643. As observações.",
-      "Dado-chave: Os editores destacaram os seguintes atributos, garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial 13 emissões de CO no.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Os astrónomos descobriram uma coleção quimicamente rica de moléculas contendo enxofre em torno da rara estrela massiva HD 87643. As observações.",
-      "Dado-chave: Os editores destacaram os seguintes atributos, garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial 13 emissões de CO no.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Astronomers have discovered a chemically rich collection of sulfur-bearing molecules surrounding the rare massive star HD 87643. The observations.",
-      "Key detail: Editors have highlighted the following attributes while ensuring the content's credibility: Add as preferred source 13 CO emission in the field.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "20 ago 2026",
-    "date_pt": "20 ago 2026",
-    "date_en": "20 Aug 2026",
-    "time": "13h20",
-    "time_pt": "13h20",
-    "time_en": "13:20 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-20T13:20:07+00:00",
-    "lastModifiedIso": "2026-08-20T13:20:07+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Química",
-      "Phys.org Space",
-      "Cosmos Week",
-      "ALMA descobre enxofre pela primeira vez em torno de uma classe rara de estrela supergigante"
-    ],
-    "keywords_pt": [
-      "Química",
-      "Phys.org Space",
-      "Cosmos Week",
-      "ALMA descobre enxofre pela primeira vez em torno de uma classe rara de estrela supergigante"
-    ],
-    "keywords_en": [
-      "Chemical",
-      "Phys.org Space",
-      "Cosmos Week",
-      "ALMA discovers sulfur for the first time around a rare class of supergiant star"
-    ],
-    "srcUrl": "https://phys.org/news/2026-08-alma-uncovers-sulfur-rare-class.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=alma-uncovers-sulfur-for-the-first-time-around-a-rare-class-of-supergiant-star",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=alma-uncovers-sulfur-for-the-first-time-around-a-rare-class-of-supergiant-star",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=alma-uncovers-sulfur-for-the-first-time-around-a-rare-class-of-supergiant-star&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 71,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 88,
-      "relevance": 68,
-      "accessibility": 52,
-      "novelty": 55
-    }
-  },
-  {
     "id": 11,
     "slug": "nasa-updates-next-steps-for-commercial-swift-boost-mission",
     "cat": "Astronomia",
@@ -1339,142 +1321,6 @@ window.postsData = [
   },
   {
     "id": 12,
-    "slug": "science-release-hubble-details-early-galaxy-transforming-neighbourhood",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://cdn.esahubble.org/archives/images/screen/heic2609a.jpg",
-    "inline_images": [
-      {
-        "src": "https://cdn.esahubble.org/archives/images/newsfeature/heic2609a.jpg",
-        "caption": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
-        "caption_pt": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
-        "caption_en": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)",
-        "alt": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
-        "alt_pt": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
-        "alt_en": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)"
-      },
-      {
-        "src": "https://cdn.esahubble.org/archives/images/news/heic2609a.jpg",
-        "caption": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
-        "caption_pt": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
-        "caption_en": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)",
-        "alt": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
-        "alt_pt": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
-        "alt_en": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)"
-      },
-      {
-        "src": "https://cdn.esahubble.org/archives/images/news/heic2609b.jpg",
-        "caption": "Campo Galaxy de MXDFz4.4 (imagem limpa do Hubble e Webb)",
-        "caption_pt": "Campo Galaxy de MXDFz4.4 (imagem limpa do Hubble e Webb)",
-        "caption_en": "Galaxy field of MXDFz4.4 (Hubble and Webb clean image)",
-        "alt": "Campo Galaxy de MXDFz4.4 (imagem limpa do Hubble e Webb)",
-        "alt_pt": "Campo Galaxy de MXDFz4.4 (imagem limpa do Hubble e Webb)",
-        "alt_en": "Galaxy field of MXDFz4.4 (Hubble and Webb clean image)"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Lançamento científico: Hubble detalha a vizinhança em transformação da galáxia inicial",
-    "title_pt": "Lançamento científico: Hubble detalha a vizinhança em transformação da galáxia inicial",
-    "title_en": "Science Release: Hubble details early galaxy transforming neighbourhood",
-    "sub": "Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que existiu apenas 1,4 mil milhões de.",
-    "sub_pt": "Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que existiu apenas 1,4 mil milhões de.",
-    "sub_en": "Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4 billion years after the Big.",
-    "excerpt": "Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que existiu apenas 1,4 mil milhões de anos após o Big Bang. Essa galáxia contém estrelas jovens fortemente agrupadas.",
-    "excerpt_pt": "Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que existiu apenas 1,4 mil milhões de anos após o Big Bang. Essa galáxia contém estrelas jovens fortemente agrupadas.",
-    "excerpt_en": "Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4 billion years after the Big Bang. That galaxy contains tightly clustered young stars that.",
-    "body": "<p>Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que existiu apenas 1,4 mil milhões de anos após o Big Bang. Essa galáxia contém estrelas jovens fortemente agrupadas que. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Um artigo que descreve esta descoberta foi publicado em 23 de junho de 2026 no Astrophysical Journal. À medida que esta luz viajou durante mais de 12 mil milhões de anos para chegar ao Hubble, o espaço expandiu-se e a luz esticou-se ou desviou-se para o vermelho em luz visível.</p><p>A cobertura do comprimento de onda do Hubble, combinada com a sensibilidade e resolução do seu ponto de vista baseado no espaço, torna-o no único telescópio capaz de capturar esta. “Os astrónomos encontraram muitas galáxias que existiam neste ponto da história do Universo, mas não detetámos fotões ionizantes de nenhuma delas, tornando o MXDFz4.4 único”.</p><p>As longas exposições do Hubble, extraídas de várias pesquisas existentes, revelaram que as estrelas jovens e massivas da galáxia são a fonte da luz ultravioleta, que clareou o.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2609/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que existiu apenas 1,4 mil milhões de anos após o Big Bang. Essa galáxia contém estrelas jovens fortemente agrupadas que. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Um artigo que descreve esta descoberta foi publicado em 23 de junho de 2026 no Astrophysical Journal. À medida que esta luz viajou durante mais de 12 mil milhões de anos para chegar ao Hubble, o espaço expandiu-se e a luz esticou-se ou desviou-se para o vermelho em luz visível.</p><p>A cobertura do comprimento de onda do Hubble, combinada com a sensibilidade e resolução do seu ponto de vista baseado no espaço, torna-o no único telescópio capaz de capturar esta. “Os astrónomos encontraram muitas galáxias que existiam neste ponto da história do Universo, mas não detetámos fotões ionizantes de nenhuma delas, tornando o MXDFz4.4 único”.</p><p>As longas exposições do Hubble, extraídas de várias pesquisas existentes, revelaram que as estrelas jovens e massivas da galáxia são a fonte da luz ultravioleta, que clareou o.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2609/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4 billion years after the Big Bang. That galaxy contains tightly clustered young stars that. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. A paper describing this discovery was published 23 June 2026 in the Astrophysical Journal. As this light traveled for over 12 billion years to reach Hubble, space expanded, and the light stretched or redshifted into visible light.</p><p>Hubble’s wavelength coverage, combined with the sensitivity and resolution of its space-based vantage point, makes it the only telescope capable of capturing this ultraviolet. “Astronomers have found many galaxies that existed at this point in the history of the Universe, but we haven’t detected ionising photons from any of them, making MXDFz4.4 one of.</p><p>Hubble’s long exposures, pulled from several existing surveys, revealed that the galaxy’s young, massive stars are the source of the ultraviolet light, which cleared the. These conclusions are supported by survey data taken by the NASA/ESA/CSA James Webb Space Telescope in near-infrared light and the MUSE eXtremely Deep Field or MXDF, the galaxy’s.</p><p>Before this discovery, researchers had only identified a galaxy emitting ionised light from a time when the Universe was 1.6 billion years old. These insights into MXDFz4.4 were possible thanks to the powerful combination of Hubble, Webb and the VLT,&quot; said co-author Alexander Beckett, a postdoctoral fellow at the.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>In 2023, researchers using Webb showed that galaxies’ stars emitted enough light to heat and ionise the gas around them 900 million years after the Big Bang. This was a breakthrough, but astronomers need galaxies like MXDFz4.4 to fully explain how the process happened, since it shows how the high-energy light from young stars managed.</p><p>Because the account originates with ESA Hubble News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2609/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que.",
-      "Dado-chave: Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que.",
-      "Dado-chave: Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4.",
-      "Key detail: Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "23 jun 2026",
-    "date_pt": "23 jun 2026",
-    "date_en": "23 Jun 2026",
-    "time": "14h00",
-    "time_pt": "14h00",
-    "time_en": "14:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-23T14:00:00+00:00",
-    "lastModifiedIso": "2026-06-23T14:00:00+00:00",
-    "source": "ESA Hubble News",
-    "sourceDomain": "esahubble.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astronomia",
-      "ESA Hubble News",
-      "Cosmos Week",
-      "Lançamento científico",
-      "Hubble detalha a vizinhança em transformação da galáxia inicial"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "ESA Hubble News",
-      "Cosmos Week",
-      "Lançamento científico",
-      "Hubble detalha a vizinhança em transformação da galáxia inicial"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "ESA Hubble News",
-      "Cosmos Week",
-      "Scientific launch",
-      "Hubble Details Early Galaxy's Changing Neighborhood"
-    ],
-    "srcUrl": "https://esahubble.org/news/heic2609/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-details-early-galaxy-transforming-neighbourhood",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-details-early-galaxy-transforming-neighbourhood",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-details-early-galaxy-transforming-neighbourhood&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 79,
-    "scoreBreakdown": {
-      "source": 89,
-      "evidence": 88,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 46
-    }
-  },
-  {
-    "id": 13,
     "slug": "science-release-hubble-identifies-one-of-darkest-known-galaxies",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1610,7 +1456,7 @@ window.postsData = [
     }
   },
   {
-    "id": 14,
+    "id": 13,
     "slug": "dark-matter-may-be-gravitationally-lensing-a-likely-source-of-cosmic-neutrinos",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1743,7 +1589,7 @@ window.postsData = [
     }
   },
   {
-    "id": 15,
+    "id": 14,
     "slug": "mars-attacks-how-much-dust-from-the-red-planet-is-safe-to-breathe",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1879,7 +1725,7 @@ window.postsData = [
     }
   },
   {
-    "id": 16,
+    "id": 15,
     "slug": "dust-and-water-spotted-close-to-giant-black-hole",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2012,7 +1858,7 @@ window.postsData = [
     }
   },
   {
-    "id": 17,
+    "id": 16,
     "slug": "science-release-hubble-discovers-first-of-star-cluster-s-missing-black-holes",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2148,23 +1994,32 @@ window.postsData = [
     }
   },
   {
-    "id": 18,
-    "slug": "even-near-a-supermassive-black-hole-stars-enrich-the-interstellar-medium",
+    "id": 17,
+    "slug": "astronomers-catch-hot-birth-of-galaxy-cluster-more-than-11-billion-light-years-away",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
-    "img": "https://www.universetoday.com/article_images/IRS_3_Field_NIRCam_and_MIRI_image_20260818_184735.jpg",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/astronomers-catch-the-4.jpg",
     "inline_images": [
       {
-        "src": "https://www.universetoday.com/article_images/aa60243-26-fig1_20260818_191318.jpg",
-        "caption": "Esta é uma imagem infravermelha média da região em torno do IRS 3 da pesquisa. Um × amarelo marca o SMBH Sgr A* e IRS 3 está rotulado dentro de sua caixa de texto explicativo. A distância entre Sgr A* e IRS 3 é de cerca de 0,17 parsecs. “A emissão do IRS.",
-        "caption_pt": "Esta é uma imagem infravermelha média da região em torno do IRS 3 da pesquisa. Um × amarelo marca o SMBH Sgr A* e IRS 3 está rotulado dentro de sua caixa de texto explicativo. A distância entre Sgr A* e IRS 3 é de cerca de 0,17 parsecs. “A emissão do IRS.",
-        "caption_en": "This is a mid-infrared image of the region around IRS 3 from the research. A yellow × marks the SMBH Sgr A*, and IRS 3 is labelled inside its callout box. The distance between Sgr A* and IRS 3 is about 0.17 parsecs. \"The emission from IRS.",
-        "alt": "Esta é uma imagem infravermelha média da região em torno do IRS 3 da pesquisa. Um × amarelo marca o SMBH Sgr A* e IRS 3 está rotulado dentro de sua caixa de texto explicativo. A distância entre Sgr A* e IRS 3 é de cerca de 0,17 parsecs. “A emissão do IRS.",
-        "alt_pt": "Esta é uma imagem infravermelha média da região em torno do IRS 3 da pesquisa. Um × amarelo marca o SMBH Sgr A* e IRS 3 está rotulado dentro de sua caixa de texto explicativo. A distância entre Sgr A* e IRS 3 é de cerca de 0,17 parsecs. “A emissão do IRS.",
-        "alt_en": "This is a mid-infrared image of the region around IRS 3 from the research. A yellow × marks the SMBH Sgr A*, and IRS 3 is labelled inside its callout box. The distance between Sgr A* and IRS 3 is about 0.17 parsecs. \"The emission from IRS."
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/astronomers-catch-the-4.jpg",
+        "caption": "(a) Uma imagem de raios X da região em torno do quasar, com a luz do próprio quasar subtraída. Contornos vermelhos traçam o limite da nuvem brilhante de gás hidrogênio (nebulosa Lyα); fatias pretas marcam os oito setores usados ​​para medir.",
+        "caption_pt": "(a) Uma imagem de raios X da região em torno do quasar, com a luz do próprio quasar subtraída. Contornos vermelhos traçam o limite da nuvem brilhante de gás hidrogênio (nebulosa Lyα); fatias pretas marcam os oito setores usados ​​para medir.",
+        "caption_en": "(a) An X-ray image of the region around the quasar, with the quasar's own light subtracted out. Red outlines trace the boundary of the glowing hydrogen gas cloud (Lyα nebula); black wedges mark the eight pie-slice sectors used to measure.",
+        "alt": "Astrônomos capturam o nascimento quente de um aglomerado de galáxias a mais de 11 bilhões de anos-luz de distância",
+        "alt_pt": "Astrônomos capturam o nascimento quente de um aglomerado de galáxias a mais de 11 bilhões de anos-luz de distância",
+        "alt_en": "Astronomers catch the hot birth of a galaxy cluster more than 11 billion light-years away"
       },
       {
-        "src": "https://www.universetoday.com/assets/patreon-plus-thumb.jpg",
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/astronomers-catch-the-5.jpg",
+        "caption": "Dados (esquerda), imagens simuladas de PSF (meio) e imagens subtraídas de PSF (direita) na banda de energia de 0,5–2 keV. Círculos vermelhos tracejados indicam os compartimentos radiais usados ​​para extração de perfil. A posição do QSO está marcada com um ponto preto e o sombreado em preto.",
+        "caption_pt": "Dados (esquerda), imagens simuladas de PSF (meio) e imagens subtraídas de PSF (direita) na banda de energia de 0,5–2 keV. Círculos vermelhos tracejados indicam os compartimentos radiais usados ​​para extração de perfil. A posição do QSO está marcada com um ponto preto e o sombreado em preto.",
+        "caption_en": "Data (left), simulated PSF (middle), and PSF-subtracted (right) images at the 0.5–2 keV energy band. Dashed red circles indicate the radial bins used for profile extraction. The QSO position is marked with a black dot, and the shaded black.",
+        "alt": "Astrônomos capturam o nascimento quente de um aglomerado de galáxias a mais de 11 bilhões de anos-luz de distância",
+        "alt_pt": "Astrônomos capturam o nascimento quente de um aglomerado de galáxias a mais de 11 bilhões de anos-luz de distância",
+        "alt_en": "Astronomers catch the hot birth of a galaxy cluster more than 11 billion light-years away"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/05cc00b31f2c5b10.jpg",
         "caption": "",
         "caption_pt": "",
         "caption_en": "",
@@ -2175,46 +2030,46 @@ window.postsData = [
     ],
     "video": null,
     "audio": null,
-    "title": "Mesmo perto de um buraco negro supermassivo, estrelas enriquecem o meio interestelar",
-    "title_pt": "Mesmo perto de um buraco negro supermassivo, estrelas enriquecem o meio interestelar",
-    "title_en": "Even Near a Supermassive Black Hole, Stars Enrich the Interstellar Medium",
-    "sub": "Os astrónomos sabem que as estrelas AGB evoluídas perdem as suas camadas exteriores, contribuindo para a composição do meio interestelar. Mas novas observações do JWST mostram que.",
-    "sub_pt": "Os astrónomos sabem que as estrelas AGB evoluídas perdem as suas camadas exteriores, contribuindo para a composição do meio interestelar. Mas novas observações do JWST mostram que.",
-    "sub_en": "Astronomers know that evolved AGB stars shed their outer layers, contributing to the makeup of the interstellar medium. But new JWST observations show this can happen even near a.",
-    "excerpt": "Os astrónomos sabem que as estrelas AGB evoluídas perdem as suas camadas exteriores, contribuindo para a composição do meio interestelar. Mas novas observações do JWST mostram que isto pode acontecer mesmo perto de um buraco negro supermassivo, onde poderia.",
-    "excerpt_pt": "Os astrónomos sabem que as estrelas AGB evoluídas perdem as suas camadas exteriores, contribuindo para a composição do meio interestelar. Mas novas observações do JWST mostram que isto pode acontecer mesmo perto de um buraco negro supermassivo, onde poderia.",
-    "excerpt_en": "Astronomers know that evolved AGB stars shed their outer layers, contributing to the makeup of the interstellar medium. But new JWST observations show this can happen even near a supermassive black hole, where powerful radiation could.",
-    "body": "<p>Os astrónomos sabem que as estrelas AGB evoluídas perdem as suas camadas exteriores, contribuindo para a composição do meio interestelar. Mas novas observações do JWST mostram que isto pode acontecer mesmo perto de um buraco negro supermassivo, onde poderia ocorrer radiação. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Mas novas observações do JWST mostram que isto pode acontecer mesmo perto de um buraco negro supermassivo, onde uma radiação poderosa pode destruir moléculas. A estrela chama-se IRS 3 e é uma estrela AGB altamente evoluída, a apenas cerca de 0,55 anos-luz do massivo SMBH.</p><p>Em uma nova pesquisa publicada na Astronomy and Astrophysics, os astrônomos usaram o JWST para observar o IRS 3 e a área ao seu redor. A investigação desta relação no ambiente extremo dominado pela radiação que rodeia Sgr A*, o centro da nossa própria galáxia, revela como tais condições podem influenciar a.</p><p>Os pesquisadores usaram o NIRCam do JWST para obter imagens da região, e seu Instrumento de Infravermelho Médio (MIRI) e seu espectrômetro de resolução média para estudar o IRS3. Nosso objetivo é realizar uma análise espectral abrangente para restringir mais rigorosamente a composição da poeira e as espécies emissoras de linhas dentro do envelope do IRS 3.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/even-near-a-supermassive-black-hole-stars-enrich-the-interstellar-medium\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Os astrónomos sabem que as estrelas AGB evoluídas perdem as suas camadas exteriores, contribuindo para a composição do meio interestelar. Mas novas observações do JWST mostram que isto pode acontecer mesmo perto de um buraco negro supermassivo, onde poderia ocorrer radiação. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Mas novas observações do JWST mostram que isto pode acontecer mesmo perto de um buraco negro supermassivo, onde uma radiação poderosa pode destruir moléculas. A estrela chama-se IRS 3 e é uma estrela AGB altamente evoluída, a apenas cerca de 0,55 anos-luz do massivo SMBH.</p><p>Em uma nova pesquisa publicada na Astronomy and Astrophysics, os astrônomos usaram o JWST para observar o IRS 3 e a área ao seu redor. A investigação desta relação no ambiente extremo dominado pela radiação que rodeia Sgr A*, o centro da nossa própria galáxia, revela como tais condições podem influenciar a.</p><p>Os pesquisadores usaram o NIRCam do JWST para obter imagens da região, e seu Instrumento de Infravermelho Médio (MIRI) e seu espectrômetro de resolução média para estudar o IRS3. Nosso objetivo é realizar uma análise espectral abrangente para restringir mais rigorosamente a composição da poeira e as espécies emissoras de linhas dentro do envelope do IRS 3.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/even-near-a-supermassive-black-hole-stars-enrich-the-interstellar-medium\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Astronomers know that evolved AGB stars shed their outer layers, contributing to the makeup of the interstellar medium. But new JWST observations show this can happen even near a supermassive black hole, where powerful radiation could. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. But new JWST observations show this can happen even near a supermassive black hole, where powerful radiation could obliterate molecules. The star is named IRS 3, and it&#x27;s a highly-evolved AGB star only about 0.55 light years from the massive SMBH.</p><p>In new research published in Astronomy and Astrophysics, astronomers used the JWST to observe IRS 3 and the area around it. Investigating this relationship in the extreme, radiation-dominated environment surrounding Sgr A*, the center of our own galaxy, reveals how such conditions might influence dust.</p><p>The researchers used the JWST&#x27;s NIRCam to image the region, and its Mid-Infrared Instrument (MIRI) and its medium resolution spectrometer to study IRS3. We aim to conduct a comprehensive spectral analysis to more tightly constrain the dust composition and line-emitting species within the envelope of IRS 3 in the immediate vicinity.</p><p>For the first time, we find clear signs of water in the envelope of IRS 3,&quot; they write. “With Webb, we can directly observe how stars behave under these conditions and see that dust production remains remarkably resilient.” Astronomers&#x27; interest in IRS 3 goes back.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>Based on the JWST&#x27;s spectroscopic data, the star&#x27;s dusty envelope has a shell-like distribution shaped by a temperature gradient. The temperature changes from approximately 1200 Kelvin close to the star, to about 100 Kelvin in the outer regions.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/even-near-a-supermassive-black-hole-stars-enrich-the-interstellar-medium\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "title": "Astrônomos detectam nascimento quente de aglomerado de galáxias a mais de 11 bilhões de anos-luz de distância",
+    "title_pt": "Astrônomos detectam nascimento quente de aglomerado de galáxias a mais de 11 bilhões de anos-luz de distância",
+    "title_en": "Astronomers catch hot birth of galaxy cluster more than 11 billion light-years away",
+    "sub": "Os astrônomos detectaram uma enorme nuvem de gás com dezenas de milhões de graus de temperatura em torno de uma das estruturas mais extremas conhecidas no universo primitivo. O.",
+    "sub_pt": "Os astrônomos detectaram uma enorme nuvem de gás com dezenas de milhões de graus de temperatura em torno de uma das estruturas mais extremas conhecidas no universo primitivo. O.",
+    "sub_en": "Astronomers have detected an enormous cloud of gas tens of millions of degrees hot surrounding one of the most extreme structures known in the early universe. The study offers one.",
+    "excerpt": "Os astrônomos detectaram uma enorme nuvem de gás com dezenas de milhões de graus de temperatura em torno de uma das estruturas mais extremas conhecidas no universo primitivo. O estudo oferece uma das visões mais claras de um aglomerado de galáxias no.",
+    "excerpt_pt": "Os astrônomos detectaram uma enorme nuvem de gás com dezenas de milhões de graus de temperatura em torno de uma das estruturas mais extremas conhecidas no universo primitivo. O estudo oferece uma das visões mais claras de um aglomerado de galáxias no.",
+    "excerpt_en": "Astronomers have detected an enormous cloud of gas tens of millions of degrees hot surrounding one of the most extreme structures known in the early universe. The study offers one of the clearest views yet of a galaxy cluster in the.",
+    "body": "<p>Os astrônomos detectaram uma enorme nuvem de gás com dezenas de milhões de graus de temperatura em torno de uma das estruturas mais extremas conhecidas no universo primitivo. O estudo oferece uma das visões mais claras de um aglomerado de galáxias no. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Usando mais de 600.000 segundos de observações com o Observatório de Raios-X Chandra da NASA, a equipe encontrou emissões difusas e estendidas de raios-X em torno de um quasar. &quot;&gt; (a) Uma imagem de raios X da região ao redor do quasar, com a própria luz do quasar subtraída.</p><p>Astrônomos detectaram uma enorme nuvem de gás com dezenas de milhões de graus de temperatura em torno de uma das estruturas mais extremas conhecidas no universo primitivo. O artigo que descreve os resultados foi publicado na Astronomy &amp; Astrophysics em 24 de julho.</p><p>Neste novo estudo, uma equipa de investigadores liderada por Andrea Travascio, da Universidade de Milano-Bicocca, investigou um protoaglomerado centrado num quasar brilhante.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-astronomers-hot-birth-galaxy-cluster.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Os astrônomos detectaram uma enorme nuvem de gás com dezenas de milhões de graus de temperatura em torno de uma das estruturas mais extremas conhecidas no universo primitivo. O estudo oferece uma das visões mais claras de um aglomerado de galáxias no. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Usando mais de 600.000 segundos de observações com o Observatório de Raios-X Chandra da NASA, a equipe encontrou emissões difusas e estendidas de raios-X em torno de um quasar. &quot;&gt; (a) Uma imagem de raios X da região ao redor do quasar, com a própria luz do quasar subtraída.</p><p>Astrônomos detectaram uma enorme nuvem de gás com dezenas de milhões de graus de temperatura em torno de uma das estruturas mais extremas conhecidas no universo primitivo. O artigo que descreve os resultados foi publicado na Astronomy &amp; Astrophysics em 24 de julho.</p><p>Neste novo estudo, uma equipa de investigadores liderada por Andrea Travascio, da Universidade de Milano-Bicocca, investigou um protoaglomerado centrado num quasar brilhante.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-astronomers-hot-birth-galaxy-cluster.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Detected an enormous cloud of gas tens of millions of degrees hot surrounding one of the most extreme structures known in the early universe. The study offers one of the clearest views yet of a galaxy cluster in the. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. Using more than 600,000 seconds of observations with NASA&#x27;s Chandra X-ray Observatory, the team found diffuse, extended X-ray emission around a quasar embedded in a dense. &quot;&gt; (a) An X-ray image of the region around the quasar, with the quasar&#x27;s own light subtracted out.</p><p>Detected an enormous cloud of gas tens of millions of degrees hot surrounding one of the most extreme structures known in the early universe. The paper describing the results was published in Astronomy &amp; Astrophysics on July 24.</p><p>In this new study, a team of researchers led by Andrea Travascio of the University of Milano-Bicocca investigated a protocluster centered on a bright quasar (nicknamed ID1) at a. The team published a related paper in 2025 that reported an unusually crowded region with six actively feeding black holes.</p><p>This second paper examines this young galaxy cluster in depth using 634,000 seconds of Chandra X-ray observations. The full X-ray emission extended to at least 98,000 light-years from the quasar.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>This likely represents the first evidence of thermal emission from proto-ICM (or hot CGM) at z &gt; 3,&quot; the team writes in the paper. It consists of hot gas with a mass of about 2.6 trillion times the sun&#x27;s mass and a total mass of 30 trillion suns, including the dark matter halo.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-astronomers-hot-birth-galaxy-cluster.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Ponto central: Os astrónomos sabem que as estrelas AGB evoluídas perdem as suas camadas exteriores, contribuindo para a composição do meio interestelar. Mas novas.",
-      "Dado-chave: Mas novas observações do JWST mostram que isto pode acontecer mesmo perto de um buraco negro supermassivo, onde uma radiação poderosa pode.",
+      "Ponto central: Os astrônomos detectaram uma enorme nuvem de gás com dezenas de milhões de graus de temperatura em torno de uma das estruturas mais extremas.",
+      "Dado-chave: Usando mais de 600.000 segundos de observações com o Observatório de Raios-X Chandra da NASA, a equipe encontrou emissões difusas e estendidas.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Ponto central: Os astrónomos sabem que as estrelas AGB evoluídas perdem as suas camadas exteriores, contribuindo para a composição do meio interestelar. Mas novas.",
-      "Dado-chave: Mas novas observações do JWST mostram que isto pode acontecer mesmo perto de um buraco negro supermassivo, onde uma radiação poderosa pode.",
+      "Ponto central: Os astrônomos detectaram uma enorme nuvem de gás com dezenas de milhões de graus de temperatura em torno de uma das estruturas mais extremas.",
+      "Dado-chave: Usando mais de 600.000 segundos de observações com o Observatório de Raios-X Chandra da NASA, a equipe encontrou emissões difusas e estendidas.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Core point: Astronomers know that evolved AGB stars shed their outer layers, contributing to the makeup of the interstellar medium. But new JWST observations.",
-      "Key detail: But new JWST observations show this can happen even near a supermassive black hole, where powerful radiation could obliterate molecules.",
+      "Core point: Astronomers have detected an enormous cloud of gas tens of millions of degrees hot surrounding one of the most extreme structures known in the early.",
+      "Key detail: Using more than 600,000 seconds of observations with NASA's Chandra X-ray Observatory, the team found diffuse, extended X-ray emission around a.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "18 ago 2026",
-    "date_pt": "18 ago 2026",
-    "date_en": "18 Aug 2026",
-    "time": "20h03",
-    "time_pt": "20h03",
-    "time_en": "20:03 UTC",
+    "date": "19 ago 2026",
+    "date_pt": "19 ago 2026",
+    "date_en": "19 Aug 2026",
+    "time": "12h00",
+    "time_pt": "12h00",
+    "time_en": "12:00 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-18T20:03:32+00:00",
-    "lastModifiedIso": "2026-08-18T20:03:32+00:00",
-    "source": "Universe Today",
-    "sourceDomain": "www.universetoday.com",
+    "publishedIso": "2026-08-19T12:00:02+00:00",
+    "lastModifiedIso": "2026-08-19T12:00:02+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
     "sourceType": "agency",
     "sourceTypeLabel": "Fonte institucional",
     "sourceTypeLabel_pt": "Fonte institucional",
@@ -2232,29 +2087,29 @@ window.postsData = [
     "editorialBandLabel_en": "Editorial priority",
     "keywords": [
       "Astrofísica",
-      "Universe Today",
+      "Phys.org Space",
       "Cosmos Week",
-      "Mesmo perto de um buraco negro supermassivo",
-      "estrelas enriquecem o meio interestelar"
+      "Astrônomos detectam nascimento quente de aglomerado de galáxias a mais de 11 bilhões de anos",
+      "luz de distância"
     ],
     "keywords_pt": [
       "Astrofísica",
-      "Universe Today",
+      "Phys.org Space",
       "Cosmos Week",
-      "Mesmo perto de um buraco negro supermassivo",
-      "estrelas enriquecem o meio interestelar"
+      "Astrônomos detectam nascimento quente de aglomerado de galáxias a mais de 11 bilhões de anos",
+      "luz de distância"
     ],
     "keywords_en": [
       "Astrophysics",
-      "Universe Today",
+      "Phys.org Space",
       "Cosmos Week",
-      "Even close to a supermassive black hole",
-      "stars enrich the interstellar medium"
+      "Astronomers detect hot birth of galaxy cluster more than 11 billion years ago",
+      "light away"
     ],
-    "srcUrl": "https://www.universetoday.com/articles/even-near-a-supermassive-black-hole-stars-enrich-the-interstellar-medium",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=even-near-a-supermassive-black-hole-stars-enrich-the-interstellar-medium",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=even-near-a-supermassive-black-hole-stars-enrich-the-interstellar-medium",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=even-near-a-supermassive-black-hole-stars-enrich-the-interstellar-medium&lang=en",
+    "srcUrl": "https://phys.org/news/2026-08-astronomers-hot-birth-galaxy-cluster.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=astronomers-catch-hot-birth-of-galaxy-cluster-more-than-11-billion-light-years-away",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=astronomers-catch-hot-birth-of-galaxy-cluster-more-than-11-billion-light-years-away",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=astronomers-catch-hot-birth-of-galaxy-cluster-more-than-11-billion-light-years-away&lang=en",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",
@@ -2265,9 +2120,9 @@ window.postsData = [
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 76,
+    "score": 77,
     "scoreBreakdown": {
-      "source": 73,
+      "source": 76,
       "evidence": 88,
       "relevance": 88,
       "accessibility": 60,
@@ -2275,7 +2130,7 @@ window.postsData = [
     }
   },
   {
-    "id": 19,
+    "id": 18,
     "slug": "what-can-we-actually-find-on-an-exoplanet-part-4-looking-for-us",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2393,7 +2248,7 @@ window.postsData = [
     }
   },
   {
-    "id": 20,
+    "id": 19,
     "slug": "what-can-we-actually-find-on-an-exoplanet-part-3-reading-the-face-of-a-planet",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2511,7 +2366,7 @@ window.postsData = [
     }
   },
   {
-    "id": 21,
+    "id": 20,
     "slug": "super-earths-might-be-solid-deep-on-the-inside",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2629,7 +2484,7 @@ window.postsData = [
     }
   },
   {
-    "id": 22,
+    "id": 21,
     "slug": "nasa-techleap-prize-orbital-clarity-challenge",
     "cat": "Física",
     "catCls": "fisica",
@@ -2737,7 +2592,7 @@ window.postsData = [
     }
   },
   {
-    "id": 23,
+    "id": 22,
     "slug": "upcoming-events",
     "cat": "Física",
     "catCls": "fisica",
@@ -2842,7 +2697,7 @@ window.postsData = [
     }
   },
   {
-    "id": 24,
+    "id": 23,
     "slug": "eyes-on-the-sky-a-rare-solar-eclipse-will-be-visible-from-cern-on-12-august",
     "cat": "Física",
     "catCls": "fisica",
@@ -2955,6 +2810,142 @@ window.postsData = [
       "source": 86,
       "evidence": 82,
       "relevance": 64,
+      "accessibility": 60,
+      "novelty": 46
+    }
+  },
+  {
+    "id": 24,
+    "slug": "science-release-hubble-details-early-galaxy-transforming-neighbourhood",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://cdn.esahubble.org/archives/images/screen/heic2609a.jpg",
+    "inline_images": [
+      {
+        "src": "https://cdn.esahubble.org/archives/images/newsfeature/heic2609a.jpg",
+        "caption": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
+        "caption_pt": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
+        "caption_en": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)",
+        "alt": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
+        "alt_pt": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
+        "alt_en": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)"
+      },
+      {
+        "src": "https://cdn.esahubble.org/archives/images/news/heic2609a.jpg",
+        "caption": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
+        "caption_pt": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
+        "caption_en": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)",
+        "alt": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
+        "alt_pt": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
+        "alt_en": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)"
+      },
+      {
+        "src": "https://cdn.esahubble.org/archives/images/news/heic2609b.jpg",
+        "caption": "Campo Galaxy de MXDFz4.4 (imagem limpa do Hubble e Webb)",
+        "caption_pt": "Campo Galaxy de MXDFz4.4 (imagem limpa do Hubble e Webb)",
+        "caption_en": "Galaxy field of MXDFz4.4 (Hubble and Webb clean image)",
+        "alt": "Campo Galaxy de MXDFz4.4 (imagem limpa do Hubble e Webb)",
+        "alt_pt": "Campo Galaxy de MXDFz4.4 (imagem limpa do Hubble e Webb)",
+        "alt_en": "Galaxy field of MXDFz4.4 (Hubble and Webb clean image)"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Lançamento científico: Hubble detalha a vizinhança em transformação da galáxia inicial",
+    "title_pt": "Lançamento científico: Hubble detalha a vizinhança em transformação da galáxia inicial",
+    "title_en": "Science Release: Hubble details early galaxy transforming neighbourhood",
+    "sub": "Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que existiu apenas 1,4 mil milhões de.",
+    "sub_pt": "Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que existiu apenas 1,4 mil milhões de.",
+    "sub_en": "Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4 billion years after the Big.",
+    "excerpt": "Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que existiu apenas 1,4 mil milhões de anos após o Big Bang. Essa galáxia contém estrelas jovens fortemente agrupadas.",
+    "excerpt_pt": "Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que existiu apenas 1,4 mil milhões de anos após o Big Bang. Essa galáxia contém estrelas jovens fortemente agrupadas.",
+    "excerpt_en": "Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4 billion years after the Big Bang. That galaxy contains tightly clustered young stars that.",
+    "body": "<p>Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que existiu apenas 1,4 mil milhões de anos após o Big Bang. Essa galáxia contém estrelas jovens fortemente agrupadas que. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Um artigo que descreve esta descoberta foi publicado em 23 de junho de 2026 no Astrophysical Journal. À medida que esta luz viajou durante mais de 12 mil milhões de anos para chegar ao Hubble, o espaço expandiu-se e a luz esticou-se ou desviou-se para o vermelho em luz visível.</p><p>A cobertura do comprimento de onda do Hubble, combinada com a sensibilidade e resolução do seu ponto de vista baseado no espaço, torna-o no único telescópio capaz de capturar esta. “Os astrónomos encontraram muitas galáxias que existiam neste ponto da história do Universo, mas não detetámos fotões ionizantes de nenhuma delas, tornando o MXDFz4.4 único”.</p><p>As longas exposições do Hubble, extraídas de várias pesquisas existentes, revelaram que as estrelas jovens e massivas da galáxia são a fonte da luz ultravioleta, que clareou o.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2609/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que existiu apenas 1,4 mil milhões de anos após o Big Bang. Essa galáxia contém estrelas jovens fortemente agrupadas que. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Um artigo que descreve esta descoberta foi publicado em 23 de junho de 2026 no Astrophysical Journal. À medida que esta luz viajou durante mais de 12 mil milhões de anos para chegar ao Hubble, o espaço expandiu-se e a luz esticou-se ou desviou-se para o vermelho em luz visível.</p><p>A cobertura do comprimento de onda do Hubble, combinada com a sensibilidade e resolução do seu ponto de vista baseado no espaço, torna-o no único telescópio capaz de capturar esta. “Os astrónomos encontraram muitas galáxias que existiam neste ponto da história do Universo, mas não detetámos fotões ionizantes de nenhuma delas, tornando o MXDFz4.4 único”.</p><p>As longas exposições do Hubble, extraídas de várias pesquisas existentes, revelaram que as estrelas jovens e massivas da galáxia são a fonte da luz ultravioleta, que clareou o.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2609/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4 billion years after the Big Bang. That galaxy contains tightly clustered young stars that. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. A paper describing this discovery was published 23 June 2026 in the Astrophysical Journal. As this light traveled for over 12 billion years to reach Hubble, space expanded, and the light stretched or redshifted into visible light.</p><p>Hubble’s wavelength coverage, combined with the sensitivity and resolution of its space-based vantage point, makes it the only telescope capable of capturing this ultraviolet. “Astronomers have found many galaxies that existed at this point in the history of the Universe, but we haven’t detected ionising photons from any of them, making MXDFz4.4 one of.</p><p>Hubble’s long exposures, pulled from several existing surveys, revealed that the galaxy’s young, massive stars are the source of the ultraviolet light, which cleared the. These conclusions are supported by survey data taken by the NASA/ESA/CSA James Webb Space Telescope in near-infrared light and the MUSE eXtremely Deep Field or MXDF, the galaxy’s.</p><p>Before this discovery, researchers had only identified a galaxy emitting ionised light from a time when the Universe was 1.6 billion years old. These insights into MXDFz4.4 were possible thanks to the powerful combination of Hubble, Webb and the VLT,&quot; said co-author Alexander Beckett, a postdoctoral fellow at the.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>In 2023, researchers using Webb showed that galaxies’ stars emitted enough light to heat and ionise the gas around them 900 million years after the Big Bang. This was a breakthrough, but astronomers need galaxies like MXDFz4.4 to fully explain how the process happened, since it shows how the high-energy light from young stars managed.</p><p>Because the account originates with ESA Hubble News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2609/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que.",
+      "Dado-chave: Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que.",
+      "Dado-chave: Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4.",
+      "Key detail: Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "23 jun 2026",
+    "date_pt": "23 jun 2026",
+    "date_en": "23 Jun 2026",
+    "time": "14h00",
+    "time_pt": "14h00",
+    "time_en": "14:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-23T14:00:00+00:00",
+    "lastModifiedIso": "2026-06-23T14:00:00+00:00",
+    "source": "ESA Hubble News",
+    "sourceDomain": "esahubble.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astronomia",
+      "ESA Hubble News",
+      "Cosmos Week",
+      "Lançamento científico",
+      "Hubble detalha a vizinhança em transformação da galáxia inicial"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "ESA Hubble News",
+      "Cosmos Week",
+      "Lançamento científico",
+      "Hubble detalha a vizinhança em transformação da galáxia inicial"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "ESA Hubble News",
+      "Cosmos Week",
+      "Scientific launch",
+      "Hubble Details Early Galaxy's Changing Neighborhood"
+    ],
+    "srcUrl": "https://esahubble.org/news/heic2609/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-details-early-galaxy-transforming-neighbourhood",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-details-early-galaxy-transforming-neighbourhood",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-details-early-galaxy-transforming-neighbourhood&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 79,
+    "scoreBreakdown": {
+      "source": 89,
+      "evidence": 88,
+      "relevance": 88,
       "accessibility": 60,
       "novelty": 46
     }
@@ -3224,6 +3215,152 @@ window.postsData = [
   },
   {
     "id": 27,
+    "slug": "nasa-data-feeds-river-forecasts-as-snow-drought-effects-linger",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2026/washing_water_extremes2.png?w=3840&h=1920&fit=clip&crop=faces%2Cfocalpoint",
+    "inline_images": [
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2026/Tacoma%20Power%20Mayfield%20Dam%20034_for%20web.jpeg?w=2456&h=3070&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-uncommon-drifter-in-the-denmark-strait/greenlandbergzm_oli2_20260612_th.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/ares/iss049e035512~orig.jpg?w=4928&h=3280&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": {
+      "kind": "file",
+      "platform": "html5",
+      "embedUrl": "",
+      "fileUrl": "https://assets.science.nasa.gov/content/dam/science/esd/articles/2026/SnowDrought4k_WithComparison_Update.mp4",
+      "poster": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2026/washing_water_extremes2.png?w=3840&h=1920&fit=clip&crop=faces%2Cfocalpoint",
+      "title": "Dados da NASA alimentam previsões de rios enquanto os efeitos da seca na neve persistem - NASA Science",
+      "title_pt": "Dados da NASA alimentam previsões de rios enquanto os efeitos da seca na neve persistem - NASA Science",
+      "title_en": "NASA Data Feeds River Forecasts as Snow Drought Effects Linger - NASA Science",
+      "caption": "Os dados científicos da Terra da NASA estão apoiando previsões de aprendizado de máquina que informam decisões sobre água, energia e segurança pública no estado de Washington.",
+      "caption_pt": "Os dados científicos da Terra da NASA estão apoiando previsões de aprendizado de máquina que informam decisões sobre água, energia e segurança pública no estado de Washington.",
+      "caption_en": "NASA Earth science data is supporting machine-learning forecasts that inform decisions about water, power, and public safety in Washington state.",
+      "sourcePage": "https://science.nasa.gov/centers-and-facilities/goddard/nasa-river-forecasts-snow-drought/"
+    },
+    "audio": null,
+    "title": "Dados da NASA alimentam previsões do rio enquanto os efeitos da seca na neve persistem",
+    "title_pt": "Dados da NASA alimentam previsões do rio enquanto os efeitos da seca na neve persistem",
+    "title_en": "NASA Data Feeds River Forecasts as Snow Drought Effects Linger",
+    "sub": "Os dados científicos da Terra da NASA estão apoiando previsões de aprendizado de máquina que informam decisões sobre água, energia e segurança pública no estado de Washington.",
+    "sub_pt": "Os dados científicos da Terra da NASA estão apoiando previsões de aprendizado de máquina que informam decisões sobre água, energia e segurança pública no estado de Washington.",
+    "sub_en": "NASA Earth science data is supporting machine-learning forecasts that inform decisions about water, power, and public safety in Washington state.",
+    "excerpt": "Os dados científicos da Terra da NASA estão apoiando previsões de aprendizado de máquina que informam decisões sobre água, energia e segurança pública no estado de Washington.",
+    "excerpt_pt": "Os dados científicos da Terra da NASA estão apoiando previsões de aprendizado de máquina que informam decisões sobre água, energia e segurança pública no estado de Washington.",
+    "excerpt_en": "NASA Earth science data is supporting machine-learning forecasts that inform decisions about water, power, and public safety in Washington state.",
+    "body": "<p>Os dados científicos da Terra da NASA estão apoiando previsões de aprendizado de máquina que informam decisões sobre água, energia e segurança pública no estado de Washington. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Estúdio de Visualização Científica da NASA À medida que os efeitos da seca de neve de 2026 no oeste dos Estados Unidos se prolongam pelo verão, os dados da NASA Earth alimentam. A represa Mayfield e a central elétrica da Tacoma Power ficam no rio Cowlitz, no sudoeste de Washington, onde as previsões usando dados da NASA apoiam as operações de.</p><p>Para ver este vídeo, ative o JavaScript e considere atualizar para um navegador da Web que suporte vídeo HTML5. O GEOS (Goddard Earth Observing System) da NASA mapeia um rio. Das previsões às avaliações de seca, o Cowlitz Hydro Project da Tacoma Public Utilities é apenas um exemplo da ciência da NASA que apoia as decisões hídricas em todo o Ocidente.</p><p>Descubra mais sobre o trabalho da NASA sobre a seca Sobre a autora Emily DeMarco Escritora/Editora (IV), Divisão de Ciências da Terra Emily é redatora e editora científica da. Estúdio de Visualização Científica da NASA À medida que os efeitos da seca de neve de 2026 no oeste dos Estados Unidos se estendem até o verão, os dados da NASA Earth estão.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/centers-and-facilities/goddard/nasa-river-forecasts-snow-drought/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Os dados científicos da Terra da NASA estão apoiando previsões de aprendizado de máquina que informam decisões sobre água, energia e segurança pública no estado de Washington. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Estúdio de Visualização Científica da NASA À medida que os efeitos da seca de neve de 2026 no oeste dos Estados Unidos se prolongam pelo verão, os dados da NASA Earth alimentam. A represa Mayfield e a central elétrica da Tacoma Power ficam no rio Cowlitz, no sudoeste de Washington, onde as previsões usando dados da NASA apoiam as operações de.</p><p>Para ver este vídeo, ative o JavaScript e considere atualizar para um navegador da Web que suporte vídeo HTML5. O GEOS (Goddard Earth Observing System) da NASA mapeia um rio. Das previsões às avaliações de seca, o Cowlitz Hydro Project da Tacoma Public Utilities é apenas um exemplo da ciência da NASA que apoia as decisões hídricas em todo o Ocidente.</p><p>Descubra mais sobre o trabalho da NASA sobre a seca Sobre a autora Emily DeMarco Escritora/Editora (IV), Divisão de Ciências da Terra Emily é redatora e editora científica da. Estúdio de Visualização Científica da NASA À medida que os efeitos da seca de neve de 2026 no oeste dos Estados Unidos se estendem até o verão, os dados da NASA Earth estão.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/centers-and-facilities/goddard/nasa-river-forecasts-snow-drought/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>NASA Earth science data is supporting machine-learning forecasts that inform decisions about water, power, and public safety in Washington state. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. NASA’s Scientific Visualization Studio As the effects of the 2026 snow drought in the western United States carry into summer, NASA Earth data is feeding machine-learning. Tacoma Power’s Mayfield Dam and powerhouse sit on the Cowlitz River in southwest Washington, where forecasts using NASA data support reservoir operations and hydropower generation.</p><p>To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video NASA’s GEOS (Goddard Earth Observing System) maps an atmospheric. From forecasts to drought assessments Tacoma Public Utilities’ Cowlitz Hydro Project is just one example of NASA science supporting water decisions across the West.</p><p>Discover more about NASA’s drought work About the Author Emily DeMarco Writer/Editor (IV), Earth Science Division Emily is a science writer and editor with NASA’s Earth Science. NASA&#x27;s Scientific Visualization Studio As the effects of the 2026 snow drought in the western United States carry into summer, NASA Earth data is feeding machine-learning.</p><p>Upstream Tech’s HydroForecast combines weather forecasts and river measurements with NASA-produced satellite data on snow cover and vegetation conditions to predict river flow. “Part of NASA’s mission is to make the view from space useful on the ground,” said Erin Urquhart, manager for NASA’s Water Resources program at the agency’s headquarters in.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>January, February, and March each had the lowest Western snow cover for that month in the NASA MODIS (Moderate Resolution Imaging Spectroradiometer) satellite record since 2001. Tacoma Power entered summer 2026 with reservoir levels near average despite the dry spring.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/centers-and-facilities/goddard/nasa-river-forecasts-snow-drought/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Os dados científicos da Terra da NASA estão apoiando previsões de aprendizado de máquina que informam decisões sobre água, energia e segurança.",
+      "Dado-chave: Estúdio de Visualização Científica da NASA À medida que os efeitos da seca de neve de 2026 no oeste dos Estados Unidos se prolongam pelo verão.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Os dados científicos da Terra da NASA estão apoiando previsões de aprendizado de máquina que informam decisões sobre água, energia e segurança.",
+      "Dado-chave: Estúdio de Visualização Científica da NASA À medida que os efeitos da seca de neve de 2026 no oeste dos Estados Unidos se prolongam pelo verão.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: NASA Earth science data is supporting machine-learning forecasts that inform decisions about water, power, and public safety in Washington state.",
+      "Key detail: NASA’s Scientific Visualization Studio As the effects of the 2026 snow drought in the western United States carry into summer, NASA Earth data.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "20 ago 2026",
+    "date_pt": "20 ago 2026",
+    "date_en": "20 Aug 2026",
+    "time": "14h12",
+    "time_pt": "14h12",
+    "time_en": "14:12 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-20T14:12:09+00:00",
+    "lastModifiedIso": "2026-08-20T14:12:09+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science.nasa.gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Dados da NASA alimentam previsões do rio enquanto os efeitos da seca na neve persistem"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Dados da NASA alimentam previsões do rio enquanto os efeitos da seca na neve persistem"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA Data Fuels River Forecasts as Snow Drought Effects Persist"
+    ],
+    "srcUrl": "https://science.nasa.gov/centers-and-facilities/goddard/nasa-river-forecasts-snow-drought/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-data-feeds-river-forecasts-as-snow-drought-effects-linger",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-data-feeds-river-forecasts-as-snow-drought-effects-linger",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-data-feeds-river-forecasts-as-snow-drought-effects-linger&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 79,
+    "scoreBreakdown": {
+      "source": 94,
+      "evidence": 88,
+      "relevance": 80,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 28,
     "slug": "human-related-microbes-may-survive-moon-s-south-pole-nasa-finds",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3372,40 +3509,12 @@ window.postsData = [
     }
   },
   {
-    "id": 28,
+    "id": 29,
     "slug": "hubble-gaia-solve-our-galaxy-s-merger-mystery",
     "cat": "Biologia",
     "catCls": "biologia",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/lkh_milky_way_merger_artist_s_impression/27417845-1-eng-GB/LKH_Milky_Way_merger_artist_s_impression_card_full.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/lkh_milky_way_merger_artist_s_impression/27417845-1-eng-GB/LKH_Milky_Way_merger_artist_s_impression_article.jpg",
-        "caption": "Fusão da Via Láctea LKH (impressão artística)",
-        "caption_pt": "Fusão da Via Láctea LKH (impressão artística)",
-        "caption_en": "LKH Milky Way merger (artist’s impression)",
-        "alt": "Fusão da Via Láctea LKH (impressão artística)",
-        "alt_pt": "Fusão da Via Láctea LKH (impressão artística)",
-        "alt_en": "LKH Milky Way merger (artist’s impression)"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2004/05/gaia_mapping_the_stars_of_the_milky_way/10200416-8-eng-GB/Gaia_mapping_the_stars_of_the_Milky_Way_article.jpg",
-        "caption": "Gaia mapeando as estrelas da Via Láctea",
-        "caption_pt": "Gaia mapeando as estrelas da Via Láctea",
-        "caption_en": "Gaia mapping the stars of the Milky Way",
-        "alt": "Gaia mapeando as estrelas da Via Láctea",
-        "alt_pt": "Gaia mapeando as estrelas da Via Láctea",
-        "alt_en": "Gaia mapping the stars of the Milky Way"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2003/05/hubble_in_free_orbit/9767064-3-eng-GB/Hubble_in_free_orbit_article.jpg",
-        "caption": "Hubble em órbita livre",
-        "caption_pt": "Hubble em órbita livre",
-        "caption_en": "Hubble in free orbit",
-        "alt": "Hubble em órbita livre",
-        "alt_pt": "Hubble em órbita livre",
-        "alt_en": "Hubble in free orbit"
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "Hubble e Gaia resolvem o mistério da fusão da nossa galáxia",
@@ -3417,22 +3526,22 @@ window.postsData = [
     "excerpt": "A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas. Agora, novos dados do Telescópio Espacial Hubble da NASA/ESA mostram evidências definitivas de uma galáxia anã se fundindo com a jovem.",
     "excerpt_pt": "A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas. Agora, novos dados do Telescópio Espacial Hubble da NASA/ESA mostram evidências definitivas de uma galáxia anã se fundindo com a jovem.",
     "excerpt_en": "Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies. Now, new data from the NASA/ESA Hubble Space Telescope show definitive evidence of a dwarf galaxy merging with the young Milky Way galaxy in.",
-    "body": "<p>A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas. Agora, novos dados do Telescópio Espacial Hubble da NASA/ESA mostram evidências definitivas de uma galáxia anã se fundindo com a jovem galáxia Via Láctea. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Agora, novos dados do Telescópio Espacial Hubble da NASA/ESA mostram evidências definitivas de uma galáxia anã fundindo-se com a jovem galáxia Via Láctea nas primeiras fases da. Esta descoberta amplia o nosso conhecimento da história da nossa galáxia 1,8 mil milhões de anos mais atrás no tempo do que antes.</p><p>Ela cresceu formando novas estrelas a partir de suas nuvens de gás, bem como coletando estrelas, gás e matéria escura de outras galáxias por meio de fusões. A fusão massiva mais recente na história da nossa galáxia ocorreu com a galáxia anã de Sagitário, começando há mais de 6 mil milhões de anos e continuando até hoje.</p><p>Olhando para um passado ainda mais distante, os investigadores descobriram que a Via Láctea consumiu outra galáxia anã chamada Gaia-Salsicha-Enceladus há 10 mil milhões de anos. Agora, o Hubble descobriu provas definitivas de uma fusão anterior que ocorreu há cerca de 11,8 mil milhões de anos, ou apenas 2 mil milhões de anos após o Big Bang.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Hubble_Gaia_solve_our_galaxy_s_merger_mystery\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas. Agora, novos dados do Telescópio Espacial Hubble da NASA/ESA mostram evidências definitivas de uma galáxia anã se fundindo com a jovem galáxia Via Láctea. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Agora, novos dados do Telescópio Espacial Hubble da NASA/ESA mostram evidências definitivas de uma galáxia anã fundindo-se com a jovem galáxia Via Láctea nas primeiras fases da. Esta descoberta amplia o nosso conhecimento da história da nossa galáxia 1,8 mil milhões de anos mais atrás no tempo do que antes.</p><p>Ela cresceu formando novas estrelas a partir de suas nuvens de gás, bem como coletando estrelas, gás e matéria escura de outras galáxias por meio de fusões. A fusão massiva mais recente na história da nossa galáxia ocorreu com a galáxia anã de Sagitário, começando há mais de 6 mil milhões de anos e continuando até hoje.</p><p>Olhando para um passado ainda mais distante, os investigadores descobriram que a Via Láctea consumiu outra galáxia anã chamada Gaia-Salsicha-Enceladus há 10 mil milhões de anos. Agora, o Hubble descobriu provas definitivas de uma fusão anterior que ocorreu há cerca de 11,8 mil milhões de anos, ou apenas 2 mil milhões de anos após o Big Bang.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Hubble_Gaia_solve_our_galaxy_s_merger_mystery\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies. Now, new data from the NASA/ESA Hubble Space Telescope show definitive evidence of a dwarf galaxy merging with the young Milky Way galaxy in. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because biology becomes more informative when an observed effect begins to look like a mechanism rather than an isolated pattern. The gap between identifying a correlation in biological data and understanding the causal chain that produces it is routinely underestimated, and the history of biomedical research is populated with associations that collapsed when the mechanism was sought and not found. A result that comes with a proposed mechanism, even a partial one, is more useful than a purely descriptive finding because it generates testable predictions that can narrow the hypothesis space. Now, new data from the NASA/ESA Hubble Space Telescope show definitive evidence of a dwarf galaxy merging with the young Milky Way galaxy in the earliest phases of its evolution. This finding extends our knowledge of our galaxy’s history 1.8 billion years farther back in time than before.</p><p>It has grown by forming new stars from its gas clouds as well as collecting stars, gas, and dark matter from other galaxies through mergers. The most recent massive merger in our galaxy’s history took place with the Sagittarius dwarf galaxy, beginning over 6 billion years ago and still ongoing today.</p><p>Looking back into the even more distant past, researchers learned that the Milky Way galaxy consumed another dwarf galaxy called Gaia-Sausage-Enceladus 10 billion years ago. Now, Hubble has uncovered definitive evidence of an earlier merger that occurred about 11.8 billion years ago, or just 2 billion years after the Big Bang.</p><p>“Our home is the Milky Way galaxy, but we do not know how our house was built,” said Davide Massari, lead author, Astrophysics and Space Science Observatory of Bologna in Italy. “In this paper we discover where the first significant batch of bricks came from: a dwarf galaxy that we call LKH.” Immense astronomical surveys and precision data from spacecraft.</p><p>The broader interest lies in whether the reported effect points toward a real mechanism and not merely a reproducible but unexplained association. Biology has learned from decades of biomarker failures that correlation, even robust correlation, is not a substitute for mechanistic understanding. A pathway that can be traced from molecular interaction to cellular response to organismal phenotype provides a far stronger foundation for intervention than a statistical association discovered in a large dataset, however well the statistics are done.</p><p>Researchers used Hubble to study some of the Milky Way galaxy’s globular clusters: immense, roughly spherical collections of tens of thousands to a few million stars. “Thanks to the high resolution and depth of Hubble imaging, we could measure the age and the metal content of these clusters with unprecedented precision,” said Chiara Zerbinati.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to test whether the effect repeats across different methods, cell types, model organisms and experimental conditions. Reproducibility is the first test, but mechanistic dissection is the second, and a result that passes both has a substantially better chance of translating into something clinically or biotechnologically useful. The path from a laboratory finding to an applied outcome typically takes a decade or more, and most findings do not complete it; the current result sits at the beginning of that process.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Hubble_Gaia_solve_our_galaxy_s_merger_mystery\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas. Agora, novos dados do Telescópio Espacial Hubble da NASA/ESA mostram evidências definitivas de uma galáxia anã se fundindo com a jovem galáxia Via Láctea. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas. Agora, novos dados do Telescópio Espacial Hubble da NASA/ESA mostram evidências definitivas de uma galáxia anã fundindo-se com a jovem galáxia Via Láctea nas primeiras fases da.</p><p>Esta descoberta amplia o nosso conhecimento da história da nossa galáxia 1,8 mil milhões de anos mais atrás no tempo do que antes.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Hubble_Gaia_solve_our_galaxy_s_merger_mystery\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas. Agora, novos dados do Telescópio Espacial Hubble da NASA/ESA mostram evidências definitivas de uma galáxia anã se fundindo com a jovem galáxia Via Láctea. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas. Agora, novos dados do Telescópio Espacial Hubble da NASA/ESA mostram evidências definitivas de uma galáxia anã fundindo-se com a jovem galáxia Via Láctea nas primeiras fases da.</p><p>Esta descoberta amplia o nosso conhecimento da história da nossa galáxia 1,8 mil milhões de anos mais atrás no tempo do que antes.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Hubble_Gaia_solve_our_galaxy_s_merger_mystery\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies. Now, new data from the NASA/ESA Hubble Space Telescope show definitive evidence of a dwarf galaxy merging with the young Milky Way galaxy in. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because biology becomes more informative when an observed effect begins to look like a mechanism rather than an isolated pattern. The gap between identifying a correlation in biological data and understanding the causal chain that produces it is routinely underestimated, and the history of biomedical research is populated with associations that collapsed when the mechanism was sought and not found. A result that comes with a proposed mechanism, even a partial one, is more useful than a purely descriptive finding because it generates testable predictions that can narrow the hypothesis space. Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies. Now, new data from the NASA/ESA Hubble Space Telescope show definitive evidence of a dwarf galaxy merging with the young Milky Way galaxy in the earliest phases of its evolution.</p><p>This finding extends our knowledge of our galaxy’s history 1.8 billion years farther back in time than before.</p><p>The broader interest lies in whether the reported effect points toward a real mechanism and not merely a reproducible but unexplained association. Biology has learned from decades of biomarker failures that correlation, even robust correlation, is not a substitute for mechanistic understanding. A pathway that can be traced from molecular interaction to cellular response to organismal phenotype provides a far stronger foundation for intervention than a statistical association discovered in a large dataset, however well the statistics are done.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to test whether the effect repeats across different methods, cell types, model organisms and experimental conditions. Reproducibility is the first test, but mechanistic dissection is the second, and a result that passes both has a substantially better chance of translating into something clinically or biotechnologically useful. The path from a laboratory finding to an applied outcome typically takes a decade or more, and most findings do not complete it; the current result sits at the beginning of that process.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Hubble_Gaia_solve_our_galaxy_s_merger_mystery\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas. Agora, novos dados do.",
-      "Dado-chave: Agora, novos dados do Telescópio Espacial Hubble da NASA/ESA mostram evidências definitivas de uma galáxia anã fundindo-se com a jovem galáxia.",
+      "Dado-chave: A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas. Agora, novos dados do.",
-      "Dado-chave: Agora, novos dados do Telescópio Espacial Hubble da NASA/ESA mostram evidências definitivas de uma galáxia anã fundindo-se com a jovem galáxia.",
+      "Dado-chave: A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies. Now, new data from the NASA/ESA Hubble Space.",
-      "Key detail: Now, new data from the NASA/ESA Hubble Space Telescope show definitive evidence of a dwarf galaxy merging with the young Milky Way galaxy in the.",
+      "Key detail: Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "17 ago 2026",
@@ -3505,7 +3614,7 @@ window.postsData = [
     }
   },
   {
-    "id": 29,
+    "id": 30,
     "slug": "a-look-back-at-the-2026-total-solar-eclipse",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3638,40 +3747,12 @@ window.postsData = [
     }
   },
   {
-    "id": 30,
+    "id": 31,
     "slug": "how-esa-mimics-and-models-the-2026-total-solar-eclipse",
     "cat": "Ciências da Terra",
     "catCls": "terra",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/proba-3_mimics_the_2026_total_solar_eclipse/27410604-1-eng-GB/Proba-3_mimics_the_2026_total_solar_eclipse_card_full.png",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/proba-3_mimics_the_2026_total_solar_eclipse/27410604-1-eng-GB/Proba-3_mimics_the_2026_total_solar_eclipse_article.png",
-        "caption": "Eclipse solar artificial do Proba-3",
-        "caption_pt": "Eclipse solar artificial do Proba-3",
-        "caption_en": "Proba-3's artificial solar eclipse",
-        "alt": "Eclipse solar artificial do Proba-3",
-        "alt_pt": "Eclipse solar artificial do Proba-3",
-        "alt_en": "Proba-3's artificial solar eclipse"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/side_view_of_the_sun_s_surface_magnetism/27411226-1-eng-GB/Side_view_of_the_Sun_s_surface_magnetism_article.png",
-        "caption": "Magnetograma usando dados do instrumento PHI da Solar Orbiter",
-        "caption_pt": "Magnetograma usando dados do instrumento PHI da Solar Orbiter",
-        "caption_en": "Magnetogram using data from Solar Orbiter's PHI instrument",
-        "alt": "Magnetograma usando dados do Solar Orbiter",
-        "alt_pt": "Magnetograma usando dados do Solar Orbiter",
-        "alt_en": "Magnetogram using data from Solar Orbiter"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/latest_psi_eclipse_prediction/27411330-2-eng-GB/Latest_PSI_eclipse_prediction_article.jpg",
-        "caption": "Previsão do eclipse de agosto pela Ciência Preditiva",
-        "caption_pt": "Previsão do eclipse de agosto pela Ciência Preditiva",
-        "caption_en": "Prediction of the August eclipse by Predictive Science",
-        "alt": "Previsão do eclipse de agosto pela Ciência Preditiva",
-        "alt_pt": "Previsão do eclipse de agosto pela Ciência Preditiva",
-        "alt_en": "Prediction of the August eclipse by Predictive Science"
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "Como a ESA imita e modela o eclipse solar total de 2026",
@@ -3683,22 +3764,22 @@ window.postsData = [
     "excerpt": "Em 12 de agosto de 2026, partes da Europa sofrerão um eclipse solar total. Com o disco brilhante do Sol coberto, a atmosfera circundante, a coroa solar, tornar-se-á visível a olho nu. Infelizmente, os eclipses solares totais são raros.",
     "excerpt_pt": "Em 12 de agosto de 2026, partes da Europa sofrerão um eclipse solar total. Com o disco brilhante do Sol coberto, a atmosfera circundante, a coroa solar, tornar-se-á visível a olho nu. Infelizmente, os eclipses solares totais são raros.",
     "excerpt_en": "On 12 August 2026, parts of Europe will experience a total solar eclipse. With the Sun's bright disc covered, its surrounding atmosphere, the solar corona, will become visible to the naked eye. Unfortunately, total solar eclipses are rare.",
-    "body": "<p>Em 12 de agosto de 2026, partes da Europa sofrerão um eclipse solar total. Com o disco brilhante do Sol coberto, a atmosfera circundante, a coroa solar, tornar-se-á visível a olho nu. Infelizmente, os eclipses solares totais são raros. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Até recentemente, a coroa completa só podia ser observada da Terra durante os curtos períodos de eclipses totais. Um eclipse solar é um exemplo de “ocultação solar” natural, quando um objeto (neste caso a Lua) bloqueia o disco solar da perspectiva de um observador.</p><p>Para preencher esta lacuna de observação, a ESA desenvolveu e lançou o seu criador de eclipses artificiais Proba-3, uma missão que consiste num par de satélites que voam a 150. Andrei Zhukov, investigador principal do instrumento ASPIICS no Observatório Real da Bélgica, comenta sobre um dos eclipses artificiais mais recentes da missão: “Este é o 62º.</p><p>O Sol leva duas semanas para girar até a metade em torno de seu eixo, então, se espelharmos a imagem horizontalmente, teremos uma previsão de como será a aparência da coroa. Nos dias que antecedem 12 de Agosto, a missão Solar Orbiter liderada pela ESA está a realizar uma campanha especial de observação com os seus vários instrumentos de detecção.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Enabling_Support/Space_Engineering_Technology/How_ESA_mimics_and_models_the_2026_total_solar_eclipse\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Em 12 de agosto de 2026, partes da Europa sofrerão um eclipse solar total. Com o disco brilhante do Sol coberto, a atmosfera circundante, a coroa solar, tornar-se-á visível a olho nu. Infelizmente, os eclipses solares totais são raros. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Até recentemente, a coroa completa só podia ser observada da Terra durante os curtos períodos de eclipses totais. Um eclipse solar é um exemplo de “ocultação solar” natural, quando um objeto (neste caso a Lua) bloqueia o disco solar da perspectiva de um observador.</p><p>Para preencher esta lacuna de observação, a ESA desenvolveu e lançou o seu criador de eclipses artificiais Proba-3, uma missão que consiste num par de satélites que voam a 150. Andrei Zhukov, investigador principal do instrumento ASPIICS no Observatório Real da Bélgica, comenta sobre um dos eclipses artificiais mais recentes da missão: “Este é o 62º.</p><p>O Sol leva duas semanas para girar até a metade em torno de seu eixo, então, se espelharmos a imagem horizontalmente, teremos uma previsão de como será a aparência da coroa. Nos dias que antecedem 12 de Agosto, a missão Solar Orbiter liderada pela ESA está a realizar uma campanha especial de observação com os seus vários instrumentos de detecção.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Enabling_Support/Space_Engineering_Technology/How_ESA_mimics_and_models_the_2026_total_solar_eclipse\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>On 12 August 2026, parts of Europe will experience a total solar eclipse. With the Sun&#x27;s bright disc covered, its surrounding atmosphere, the solar corona, will become visible to the naked eye. Unfortunately, total solar eclipses are rare. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Until recently, the full corona could only be observed from Earth during the short periods of total eclipses. A solar eclipse is an example of a natural &#x27;solar occultation’, when an object (in this case the Moon) blocks the Sun&#x27;s disc from an observer&#x27;s perspective.</p><p>To fill this observation gap, ESA developed and launched its artificial eclipse-maker Proba-3, a mission that consists of a pair of satellites flying 150 metres apart and. Andrei Zhukov, principal investigator for the ASPIICS instrument at the Royal Observatory of Belgium, comments on one of the mission&#x27;s most recent artificial eclipses: “This is.</p><p>It takes the Sun two weeks to rotate halfway around its axis, so if we mirror the image horizontally, we get a prediction of what the corona will look like during the natural. In the days leading up to 12 August, the ESA-led Solar Orbiter mission is running a special observation campaign with its various remote-sensing instruments.</p><p>“A total solar eclipse lets us verify that our models are correct by comparing forecasts with actual observations,” says Jorge Amaya, ESA Space Weather Modelling Coordinator. Most solar observations are made from near Earth, providing only a limited view of a vast three-dimensional system.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>That is the key to dramatically improving forecasts of how solar activity will affect our technology.” Solar Orbiter&#x27;s location today gives us a sneak preview of what ESA’s space. Planned for launch in 2031, Vigil will tail Earth to provide continuous, near real-time observations of the Sun’s side.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Enabling_Support/Space_Engineering_Technology/How_ESA_mimics_and_models_the_2026_total_solar_eclipse\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>Em 12 de agosto de 2026, partes da Europa sofrerão um eclipse solar total. Com o disco brilhante do Sol coberto, a atmosfera circundante, a coroa solar, tornar-se-á visível a olho nu. Infelizmente, os eclipses solares totais são raros. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. É por isso que a ESA desenvolveu missões que criam eclipses artificialmente e é por isso que os especialistas usam modelos de computador para criar. No dia 12 de Agosto de 2026, algumas partes da Europa sofrerão um eclipse solar total.</p><p>Com o disco brilhante do Sol coberto, a atmosfera circundante, a coroa solar, tornar-se-á visível a olho nu. Infelizmente, os eclipses solares totais são raros e duram no máximo alguns minutos, dando aos cientistas pouco tempo para estudar o enigmático halo do Sol.</p><p>É por isso que a ESA desenvolveu missões que criam eclipses artificialmente e é por isso que os especialistas usam modelos de computador para criar simulações digitais. Então, como fazemos isso e por que isso é importante.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Enabling_Support/Space_Engineering_Technology/How_ESA_mimics_and_models_the_2026_total_solar_eclipse\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Em 12 de agosto de 2026, partes da Europa sofrerão um eclipse solar total. Com o disco brilhante do Sol coberto, a atmosfera circundante, a coroa solar, tornar-se-á visível a olho nu. Infelizmente, os eclipses solares totais são raros. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. É por isso que a ESA desenvolveu missões que criam eclipses artificialmente e é por isso que os especialistas usam modelos de computador para criar. No dia 12 de Agosto de 2026, algumas partes da Europa sofrerão um eclipse solar total.</p><p>Com o disco brilhante do Sol coberto, a atmosfera circundante, a coroa solar, tornar-se-á visível a olho nu. Infelizmente, os eclipses solares totais são raros e duram no máximo alguns minutos, dando aos cientistas pouco tempo para estudar o enigmático halo do Sol.</p><p>É por isso que a ESA desenvolveu missões que criam eclipses artificialmente e é por isso que os especialistas usam modelos de computador para criar simulações digitais. Então, como fazemos isso e por que isso é importante.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Enabling_Support/Space_Engineering_Technology/How_ESA_mimics_and_models_the_2026_total_solar_eclipse\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>On 12 August 2026, parts of Europe will experience a total solar eclipse. With the Sun&#x27;s bright disc covered, its surrounding atmosphere, the solar corona, will become visible to the naked eye. Unfortunately, total solar eclipses are rare. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. This is why ESA developed missions that create eclipses artificially, and why experts use computer models to create. On 12 August 2026, parts of Europe will experience a total solar eclipse.</p><p>With the Sun&#x27;s bright disc covered, its surrounding atmosphere, the solar corona, will become visible to the naked eye. Unfortunately, total solar eclipses are rare and last at most a few minutes, giving scientists little time to study the Sun’s enigmatic halo.</p><p>This is why ESA developed missions that create eclipses artificially, and why experts use computer models to create digital simulations. So how do we do it, and why is it important.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Enabling_Support/Space_Engineering_Technology/How_ESA_mimics_and_models_the_2026_total_solar_eclipse\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Em 12 de agosto de 2026, partes da Europa sofrerão um eclipse solar total. Com o disco brilhante do Sol coberto, a atmosfera circundante, a coroa.",
-      "Dado-chave: Até recentemente, a coroa completa só podia ser observada da Terra durante os curtos períodos de eclipses totais.",
+      "Dado-chave: É por isso que a ESA desenvolveu missões que criam eclipses artificialmente e é por isso que os especialistas usam modelos de computador para.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: Em 12 de agosto de 2026, partes da Europa sofrerão um eclipse solar total. Com o disco brilhante do Sol coberto, a atmosfera circundante, a coroa.",
-      "Dado-chave: Até recentemente, a coroa completa só podia ser observada da Terra durante os curtos períodos de eclipses totais.",
+      "Dado-chave: É por isso que a ESA desenvolveu missões que criam eclipses artificialmente e é por isso que os especialistas usam modelos de computador para.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: On 12 August 2026, parts of Europe will experience a total solar eclipse. With the Sun's bright disc covered, its surrounding atmosphere, the solar.",
-      "Key detail: Until recently, the full corona could only be observed from Earth during the short periods of total eclipses.",
+      "Key detail: This is why ESA developed missions that create eclipses artificially, and why experts use computer models to create.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "10 ago 2026",
@@ -3771,7 +3852,7 @@ window.postsData = [
     }
   },
   {
-    "id": 31,
+    "id": 32,
     "slug": "pluto-planetary-science-is-the-gift-that-keeps-on-giving",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3816,8 +3897,8 @@ window.postsData = [
     "excerpt": "Algo está molhando a superfície do planeta anão Plutão, ao longo da borda norte do Sputnik Planitia, e os cientistas planetários encontraram uma boa explicação para isso. Um estudo recente de novas imagens da Horizons tiradas durante o sobrevôo de 2015 foi.",
     "excerpt_pt": "Algo está molhando a superfície do planeta anão Plutão, ao longo da borda norte do Sputnik Planitia, e os cientistas planetários encontraram uma boa explicação para isso. Um estudo recente de novas imagens da Horizons tiradas durante o sobrevôo de 2015 foi.",
     "excerpt_en": "Something's wetting the surface of dwarf planet Pluto along the northern edge of Sputnik Planitia, and planetary scientists have found a good explanation for it. A recent study of new Horizons images taken during the 2015 flyby revealed.",
-    "body": "<p>Algo está molhando a superfície do planeta anão Plutão, ao longo da borda norte do Sputnik Planitia, e os cientistas planetários encontraram uma boa explicação para isso. Um estudo recente de novas imagens da Horizons tiradas durante o sobrevôo de 2015 foi revelado. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Um estudo recente de imagens da nova Horizons tiradas durante o sobrevôo de 2015 revelou evidências de que o nitrogênio líquido está subindo através de rachaduras no Sputnik. Um estudo recente de imagens da New Horizons tiradas durante o sobrevôo de 2015 revela evidências de que o nitrogênio líquido está subindo através de rachaduras nas geleiras do.</p><p>Isto é incomum, dado que as temperaturas da superfície de Plutão nunca ultrapassam os -229°C e o ponto de fusão do nitrogênio é de -209,9°C. Uma equipe liderada pelo investigador principal da New Horizons e vice-presidente do Southwest Research Institute, Alan Stern, acaba de publicar um artigo descrevendo o que.</p><p>Além de sugerir que líquidos se expressaram recentemente na superfície de Plutão, também sugere um novo tipo de característica variável no tempo em Plutão.” O Sputnik Planitia. Os padrões da superfície na região norte são muito semelhantes aos dos glaciares da Terra que sofreram chuva ou água fluindo para a superfície por baixo do gelo.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/pluto-planetary-science-is-the-gift-that-keeps-on-giving\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Algo está molhando a superfície do planeta anão Plutão, ao longo da borda norte do Sputnik Planitia, e os cientistas planetários encontraram uma boa explicação para isso. Um estudo recente de novas imagens da Horizons tiradas durante o sobrevôo de 2015 foi revelado. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Um estudo recente de imagens da nova Horizons tiradas durante o sobrevôo de 2015 revelou evidências de que o nitrogênio líquido está subindo através de rachaduras no Sputnik. Um estudo recente de imagens da New Horizons tiradas durante o sobrevôo de 2015 revela evidências de que o nitrogênio líquido está subindo através de rachaduras nas geleiras do.</p><p>Isto é incomum, dado que as temperaturas da superfície de Plutão nunca ultrapassam os -229°C e o ponto de fusão do nitrogênio é de -209,9°C. Uma equipe liderada pelo investigador principal da New Horizons e vice-presidente do Southwest Research Institute, Alan Stern, acaba de publicar um artigo descrevendo o que.</p><p>Além de sugerir que líquidos se expressaram recentemente na superfície de Plutão, também sugere um novo tipo de característica variável no tempo em Plutão.” O Sputnik Planitia. Os padrões da superfície na região norte são muito semelhantes aos dos glaciares da Terra que sofreram chuva ou água fluindo para a superfície por baixo do gelo.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/pluto-planetary-science-is-the-gift-that-keeps-on-giving\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body": "<p>Algo está molhando a superfície do planeta anão Plutão, ao longo da borda norte do Sputnik Planitia, e os cientistas planetários encontraram uma boa explicação para isso. Um estudo recente de novas imagens da Horizons tiradas durante o sobrevôo de 2015 foi revelado. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Um estudo recente de imagens da nova Horizons tiradas durante o sobrevôo de 2015 revelou evidências de que o nitrogênio líquido está subindo através de rachaduras no Sputnik. Um estudo recente de imagens da New Horizons tiradas durante o sobrevôo de 2015 revela evidências de que o nitrogênio líquido está subindo através de rachaduras nas geleiras do.</p><p>Isto é incomum, dado que as temperaturas da superfície de Plutão nunca ultrapassam os -229°C e o ponto de fusão do nitrogênio é de -209,9°C. Uma equipe liderada pelo investigador principal da New Horizons e vice-presidente do Southwest Research Institute, Alan Stern, acaba de publicar um artigo descrevendo o que.</p><p>Além de sugerir que líquidos se expressaram recentemente na superfície de Plutão, também sugere um novo tipo de característica variável no tempo em Plutão.” O Sputnik Planitia. Os padrões de superfície na região norte são muito semelhantes aos dos glaciares da Terra que sofreram chuva de água ou água fluindo para a superfície por baixo do gelo.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/pluto-planetary-science-is-the-gift-that-keeps-on-giving\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Algo está molhando a superfície do planeta anão Plutão, ao longo da borda norte do Sputnik Planitia, e os cientistas planetários encontraram uma boa explicação para isso. Um estudo recente de novas imagens da Horizons tiradas durante o sobrevôo de 2015 foi revelado. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Um estudo recente de imagens da nova Horizons tiradas durante o sobrevôo de 2015 revelou evidências de que o nitrogênio líquido está subindo através de rachaduras no Sputnik. Um estudo recente de imagens da New Horizons tiradas durante o sobrevôo de 2015 revela evidências de que o nitrogênio líquido está subindo através de rachaduras nas geleiras do.</p><p>Isto é incomum, dado que as temperaturas da superfície de Plutão nunca ultrapassam os -229°C e o ponto de fusão do nitrogênio é de -209,9°C. Uma equipe liderada pelo investigador principal da New Horizons e vice-presidente do Southwest Research Institute, Alan Stern, acaba de publicar um artigo descrevendo o que.</p><p>Além de sugerir que líquidos se expressaram recentemente na superfície de Plutão, também sugere um novo tipo de característica variável no tempo em Plutão.” O Sputnik Planitia. Os padrões de superfície na região norte são muito semelhantes aos dos glaciares da Terra que sofreram chuva de água ou água fluindo para a superfície por baixo do gelo.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/pluto-planetary-science-is-the-gift-that-keeps-on-giving\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
     "body_en": "<p>Something&#x27;s wetting the surface of dwarf planet Pluto along the northern edge of Sputnik Planitia, and planetary scientists have found a good explanation for it. A recent study of new Horizons images taken during the 2015 flyby revealed. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. A recent study of new Horizons images taken during the 2015 flyby revealed evidence that liquid nitrogen is rising up through cracks in Sputnik Planitia. A recent study of New Horizons images taken during the 2015 flyby reveal evidence that liquid nitrogen is rising up through cracks in Sputnik Planitia&#x27;s glaciers.</p><p>This is unusual, given that the surface temperatures at Pluto never get warmer than about -229 C and the melting point of nitrogen is -209.9 C. A team led by New Horizons principal investigator and Southwest Research Institute vice president Alan Stern has just published a paper outlining what they found when they.</p><p>In addition to suggesting that liquids have recently expressed themselves on Pluto’s surface, it also suggests a new kind of time-variable feature on Pluto.” Sputnik Planitia. The surface patterns in the northern region look very similar to glaciers on Earth that have experienced water rain or water flowing to the surface from beneath the ice.</p><p>The resemblance of the northern Sputnik Planitia region to familiar glacial sites here on Earth was good enough that it led the team to look for terrestrial examples of. Meltwater channels and ponds on the Greenland ice sheet (Landsat 9 image provided by J.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Its surface provides a different set of conditions compared to what we are used to on Earth, and exploring that allows us to better understand how materials behave in environments. 2026 The melting, flowing, and refreezing of liquid nitrogen on Pluto&#x27;s surface has analogs in other places in the outer Solar System, particularly on Neptune&#x27;s moon Triton.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/pluto-planetary-science-is-the-gift-that-keeps-on-giving\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Algo está molhando a superfície do planeta anão Plutão, ao longo da borda norte do Sputnik Planitia, e os cientistas planetários encontraram uma boa.",
@@ -3904,7 +3985,134 @@ window.postsData = [
     }
   },
   {
-    "id": 32,
+    "id": 33,
+    "slug": "even-near-a-supermassive-black-hole-stars-enrich-the-interstellar-medium",
+    "cat": "Astrofísica",
+    "catCls": "astrofisica",
+    "img": "https://www.universetoday.com/article_images/IRS_3_Field_NIRCam_and_MIRI_image_20260818_184735.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.universetoday.com/article_images/aa60243-26-fig1_20260818_191318.jpg",
+        "caption": "Esta é uma imagem infravermelha média da região em torno do IRS 3 da pesquisa. Um × amarelo marca o SMBH Sgr A* e IRS 3 está rotulado dentro de sua caixa de texto explicativo. A distância entre Sgr A* e IRS 3 é de cerca de 0,17 parsecs. “A emissão do IRS.",
+        "caption_pt": "Esta é uma imagem infravermelha média da região em torno do IRS 3 da pesquisa. Um × amarelo marca o SMBH Sgr A* e IRS 3 está rotulado dentro de sua caixa de texto explicativo. A distância entre Sgr A* e IRS 3 é de cerca de 0,17 parsecs. “A emissão do IRS.",
+        "caption_en": "This is a mid-infrared image of the region around IRS 3 from the research. A yellow × marks the SMBH Sgr A*, and IRS 3 is labelled inside its callout box. The distance between Sgr A* and IRS 3 is about 0.17 parsecs. \"The emission from IRS.",
+        "alt": "Esta é uma imagem infravermelha média da região em torno do IRS 3 da pesquisa. Um × amarelo marca o SMBH Sgr A* e IRS 3 está rotulado dentro de sua caixa de texto explicativo. A distância entre Sgr A* e IRS 3 é de cerca de 0,17 parsecs. “A emissão do IRS.",
+        "alt_pt": "Esta é uma imagem infravermelha média da região em torno do IRS 3 da pesquisa. Um × amarelo marca o SMBH Sgr A* e IRS 3 está rotulado dentro de sua caixa de texto explicativo. A distância entre Sgr A* e IRS 3 é de cerca de 0,17 parsecs. “A emissão do IRS.",
+        "alt_en": "This is a mid-infrared image of the region around IRS 3 from the research. A yellow × marks the SMBH Sgr A*, and IRS 3 is labelled inside its callout box. The distance between Sgr A* and IRS 3 is about 0.17 parsecs. \"The emission from IRS."
+      },
+      {
+        "src": "https://www.universetoday.com/assets/patreon-plus-thumb.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Mesmo perto de um buraco negro supermassivo, estrelas enriquecem o meio interestelar",
+    "title_pt": "Mesmo perto de um buraco negro supermassivo, estrelas enriquecem o meio interestelar",
+    "title_en": "Even Near a Supermassive Black Hole, Stars Enrich the Interstellar Medium",
+    "sub": "Os astrónomos sabem que as estrelas AGB evoluídas perdem as suas camadas exteriores, contribuindo para a composição do meio interestelar. Mas novas observações do JWST mostram que.",
+    "sub_pt": "Os astrónomos sabem que as estrelas AGB evoluídas perdem as suas camadas exteriores, contribuindo para a composição do meio interestelar. Mas novas observações do JWST mostram que.",
+    "sub_en": "Astronomers know that evolved AGB stars shed their outer layers, contributing to the makeup of the interstellar medium. But new JWST observations show this can happen even near a.",
+    "excerpt": "Os astrónomos sabem que as estrelas AGB evoluídas perdem as suas camadas exteriores, contribuindo para a composição do meio interestelar. Mas novas observações do JWST mostram que isto pode acontecer mesmo perto de um buraco negro supermassivo, onde poderia.",
+    "excerpt_pt": "Os astrónomos sabem que as estrelas AGB evoluídas perdem as suas camadas exteriores, contribuindo para a composição do meio interestelar. Mas novas observações do JWST mostram que isto pode acontecer mesmo perto de um buraco negro supermassivo, onde poderia.",
+    "excerpt_en": "Astronomers know that evolved AGB stars shed their outer layers, contributing to the makeup of the interstellar medium. But new JWST observations show this can happen even near a supermassive black hole, where powerful radiation could.",
+    "body": "<p>Os astrónomos sabem que as estrelas AGB evoluídas perdem as suas camadas exteriores, contribuindo para a composição do meio interestelar. Mas novas observações do JWST mostram que isto pode acontecer mesmo perto de um buraco negro supermassivo, onde poderia ocorrer radiação. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Mas novas observações do JWST mostram que isto pode acontecer mesmo perto de um buraco negro supermassivo, onde uma radiação poderosa pode destruir moléculas. A estrela chama-se IRS 3 e é uma estrela AGB altamente evoluída, a apenas cerca de 0,55 anos-luz do massivo SMBH.</p><p>Em uma nova pesquisa publicada na Astronomy and Astrophysics, os astrônomos usaram o JWST para observar o IRS 3 e a área ao seu redor. A investigação desta relação no ambiente extremo dominado pela radiação que rodeia Sgr A*, o centro da nossa própria galáxia, revela como tais condições podem influenciar a.</p><p>Os pesquisadores usaram o NIRCam do JWST para obter imagens da região, e seu Instrumento de Infravermelho Médio (MIRI) e seu espectrômetro de resolução média para estudar o IRS3. Nosso objetivo é realizar uma análise espectral abrangente para restringir mais rigorosamente a composição da poeira e as espécies emissoras de linhas dentro do envelope do IRS 3.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/even-near-a-supermassive-black-hole-stars-enrich-the-interstellar-medium\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Os astrónomos sabem que as estrelas AGB evoluídas perdem as suas camadas exteriores, contribuindo para a composição do meio interestelar. Mas novas observações do JWST mostram que isto pode acontecer mesmo perto de um buraco negro supermassivo, onde poderia ocorrer radiação. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Mas novas observações do JWST mostram que isto pode acontecer mesmo perto de um buraco negro supermassivo, onde uma radiação poderosa pode destruir moléculas. A estrela chama-se IRS 3 e é uma estrela AGB altamente evoluída, a apenas cerca de 0,55 anos-luz do massivo SMBH.</p><p>Em uma nova pesquisa publicada na Astronomy and Astrophysics, os astrônomos usaram o JWST para observar o IRS 3 e a área ao seu redor. A investigação desta relação no ambiente extremo dominado pela radiação que rodeia Sgr A*, o centro da nossa própria galáxia, revela como tais condições podem influenciar a.</p><p>Os pesquisadores usaram o NIRCam do JWST para obter imagens da região, e seu Instrumento de Infravermelho Médio (MIRI) e seu espectrômetro de resolução média para estudar o IRS3. Nosso objetivo é realizar uma análise espectral abrangente para restringir mais rigorosamente a composição da poeira e as espécies emissoras de linhas dentro do envelope do IRS 3.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/even-near-a-supermassive-black-hole-stars-enrich-the-interstellar-medium\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Astronomers know that evolved AGB stars shed their outer layers, contributing to the makeup of the interstellar medium. But new JWST observations show this can happen even near a supermassive black hole, where powerful radiation could. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. But new JWST observations show this can happen even near a supermassive black hole, where powerful radiation could obliterate molecules. The star is named IRS 3, and it&#x27;s a highly-evolved AGB star only about 0.55 light years from the massive SMBH.</p><p>In new research published in Astronomy and Astrophysics, astronomers used the JWST to observe IRS 3 and the area around it. Investigating this relationship in the extreme, radiation-dominated environment surrounding Sgr A*, the center of our own galaxy, reveals how such conditions might influence dust.</p><p>The researchers used the JWST&#x27;s NIRCam to image the region, and its Mid-Infrared Instrument (MIRI) and its medium resolution spectrometer to study IRS3. We aim to conduct a comprehensive spectral analysis to more tightly constrain the dust composition and line-emitting species within the envelope of IRS 3 in the immediate vicinity.</p><p>For the first time, we find clear signs of water in the envelope of IRS 3,&quot; they write. “With Webb, we can directly observe how stars behave under these conditions and see that dust production remains remarkably resilient.” Astronomers&#x27; interest in IRS 3 goes back.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>Based on the JWST&#x27;s spectroscopic data, the star&#x27;s dusty envelope has a shell-like distribution shaped by a temperature gradient. The temperature changes from approximately 1200 Kelvin close to the star, to about 100 Kelvin in the outer regions.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/even-near-a-supermassive-black-hole-stars-enrich-the-interstellar-medium\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Os astrónomos sabem que as estrelas AGB evoluídas perdem as suas camadas exteriores, contribuindo para a composição do meio interestelar. Mas novas.",
+      "Dado-chave: Mas novas observações do JWST mostram que isto pode acontecer mesmo perto de um buraco negro supermassivo, onde uma radiação poderosa pode.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Os astrónomos sabem que as estrelas AGB evoluídas perdem as suas camadas exteriores, contribuindo para a composição do meio interestelar. Mas novas.",
+      "Dado-chave: Mas novas observações do JWST mostram que isto pode acontecer mesmo perto de um buraco negro supermassivo, onde uma radiação poderosa pode.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Astronomers know that evolved AGB stars shed their outer layers, contributing to the makeup of the interstellar medium. But new JWST observations.",
+      "Key detail: But new JWST observations show this can happen even near a supermassive black hole, where powerful radiation could obliterate molecules.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "18 ago 2026",
+    "date_pt": "18 ago 2026",
+    "date_en": "18 Aug 2026",
+    "time": "20h03",
+    "time_pt": "20h03",
+    "time_en": "20:03 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-18T20:03:32+00:00",
+    "lastModifiedIso": "2026-08-18T20:03:32+00:00",
+    "source": "Universe Today",
+    "sourceDomain": "www.universetoday.com",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astrofísica",
+      "Universe Today",
+      "Cosmos Week",
+      "Mesmo perto de um buraco negro supermassivo",
+      "estrelas enriquecem o meio interestelar"
+    ],
+    "keywords_pt": [
+      "Astrofísica",
+      "Universe Today",
+      "Cosmos Week",
+      "Mesmo perto de um buraco negro supermassivo",
+      "estrelas enriquecem o meio interestelar"
+    ],
+    "keywords_en": [
+      "Astrophysics",
+      "Universe Today",
+      "Cosmos Week",
+      "Even close to a supermassive black hole",
+      "stars enrich the interstellar medium"
+    ],
+    "srcUrl": "https://www.universetoday.com/articles/even-near-a-supermassive-black-hole-stars-enrich-the-interstellar-medium",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=even-near-a-supermassive-black-hole-stars-enrich-the-interstellar-medium",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=even-near-a-supermassive-black-hole-stars-enrich-the-interstellar-medium",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=even-near-a-supermassive-black-hole-stars-enrich-the-interstellar-medium&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 76,
+    "scoreBreakdown": {
+      "source": 73,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 52
+    }
+  },
+  {
+    "id": 34,
     "slug": "spying-on-a-split-comet",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4037,7 +4245,7 @@ window.postsData = [
     }
   },
   {
-    "id": 33,
+    "id": 35,
     "slug": "astronomers-discover-a-black-hole-star-a-new-type-of-object",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -4155,131 +4363,7 @@ window.postsData = [
     }
   },
   {
-    "id": 34,
-    "slug": "webb-captures-the-treasure-chest-at-the-heart-of-the-carina-nebula",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://www.universetoday.com/article_images/2000x960_20260819_203003.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.universetoday.com/article_images/Webb_opens_a_Treasure_Chest_filled_with_stars_pillars_20260819_213536.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://www.universetoday.com/assets/patreon-plus-thumb.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Webb captura o baú do tesouro no coração da nebulosa Carina",
-    "title_pt": "Webb captura o baú do tesouro no coração da nebulosa Carina",
-    "title_en": "Webb Captures the Treasure Chest at the Heart of the Carina Nebula",
-    "sub": "Esta Imagem do Mês do Telescópio Espacial James Webb da NASA/ESA/CSA nos leva a um reino fantástico dentro de nossa galáxia natal, onde a luz estelar penetrante e os ventos.",
-    "sub_pt": "Esta Imagem do Mês do Telescópio Espacial James Webb da NASA/ESA/CSA nos leva a um reino fantástico dentro de nossa galáxia natal, onde a luz estelar penetrante e os ventos.",
-    "sub_en": "This NASA/ESA/CSA James Webb Space Telescope Picture of the Month takes us to a fantastical realm within our home galaxy, where piercing starlight and billowing winds sculpt dust.",
-    "excerpt": "Esta Imagem do Mês do Telescópio Espacial James Webb da NASA/ESA/CSA nos leva a um reino fantástico dentro de nossa galáxia natal, onde a luz estelar penetrante e os ventos ondulantes esculpem nuvens de poeira em formas criativas. Essa cena é da Carina.",
-    "excerpt_pt": "Esta Imagem do Mês do Telescópio Espacial James Webb da NASA/ESA/CSA nos leva a um reino fantástico dentro de nossa galáxia natal, onde a luz estelar penetrante e os ventos ondulantes esculpem nuvens de poeira em formas criativas. Essa cena é da Carina.",
-    "excerpt_en": "This NASA/ESA/CSA James Webb Space Telescope Picture of the Month takes us to a fantastical realm within our home galaxy, where piercing starlight and billowing winds sculpt dust clouds into inventive shapes. This scene is from the Carina.",
-    "body": "<p>Esta Imagem do Mês do Telescópio Espacial James Webb da NASA/ESA/CSA nos leva a um reino fantástico dentro de nossa galáxia natal, onde a luz estelar penetrante e os ventos ondulantes esculpem nuvens de poeira em formas criativas. Essa cena é da Carina. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Esta cena é da Nebulosa Carina, que fica a apenas 7.500 anos-luz de distância, na constelação de Carina (a Quilha). A Nebulosa Carina (NGC 3324), localizada a cerca de 7.500 anos-luz de distância, na constelação de Carina (a Quilha), é um dos locais favoritos do Hubble para obter imagens.</p><p>Tal como muitos locais na nossa origem cósmica, o Telescópio Espacial James Webb (JWST) da NASA/ESA/CSA também visitou esta nebulosa cénica para obter imagens utilizando os seus. A imagem resultante (mostrada abaixo) foi apresentada como a Imagem do Mês da ESA.</p><p>A Nebulosa Carina, medindo cerca de 260 anos-luz de diâmetro, é famosa por ser a região de formação estelar de grande massa mais próxima da Via Láctea.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/webb-captures-the-treasure-chest-at-the-heart-of-the-carina-nebula\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Esta Imagem do Mês do Telescópio Espacial James Webb da NASA/ESA/CSA nos leva a um reino fantástico dentro de nossa galáxia natal, onde a luz estelar penetrante e os ventos ondulantes esculpem nuvens de poeira em formas criativas. Essa cena é da Carina. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Esta cena é da Nebulosa Carina, que fica a apenas 7.500 anos-luz de distância, na constelação de Carina (a Quilha). A Nebulosa Carina (NGC 3324), localizada a cerca de 7.500 anos-luz de distância, na constelação de Carina (a Quilha), é um dos locais favoritos do Hubble para obter imagens.</p><p>Tal como muitos locais na nossa origem cósmica, o Telescópio Espacial James Webb (JWST) da NASA/ESA/CSA também visitou esta nebulosa cénica para obter imagens utilizando os seus. A imagem resultante (mostrada abaixo) foi apresentada como a Imagem do Mês da ESA.</p><p>A Nebulosa Carina, medindo cerca de 260 anos-luz de diâmetro, é famosa por ser a região de formação estelar de grande massa mais próxima da Via Láctea.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/webb-captures-the-treasure-chest-at-the-heart-of-the-carina-nebula\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>This NASA/ESA/CSA James Webb Space Telescope Picture of the Month takes us to a fantastical realm within our home galaxy, where piercing starlight and billowing winds sculpt dust clouds into inventive shapes. This scene is from the Carina. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. This scene is from the Carina Nebula, which lies just 7500 light-years away in the constellation Carina (the Keel). The Carina Nebula (NGC 3324), located about 7,500 light-years away in the constellation Carina (the Keel), is one of Hubble&#x27;s favorite places to image.</p><p>Like many locations in our cosmic background, the NASA/ESA/CSA James Webb Space Telescope (JWST) has also visited this scenic nebula to obtain images using its advanced infrared. The resulting image (shown below) was featured as the ESA&#x27;s Picture of the Month.</p><p>The Carina Nebula, measuring about 260 light-years across, is famous for being the nearest high-mass star-forming region in the Milky Way. The nebula is also home to some incredible objects, including the Cosmic Cliffs that were part of Webb&#x27;s first-ever image release.</p><p>These &quot;Cliffs&quot; are actually the edge of a gigantic, gaseous cavity that was carved from the intense ultraviolet radiation and stellar winds from the piercing protostars located in. Scientists estimate the cluster contains about 70 stars, the most massive of which are rare blue-white O-type stars that are very hot (with surface temperatures of 30,000 Kelvin).</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>The key to the Treasure Chest’s structure is Eta Carinae, the brightest object in the nebula, located 39 light-years to the northwest. While not visible in the image, Eta Carinae is a well-known binary system, with one star being roughly 100 times as massive (and 5 million times as luminous) as the Sun.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/webb-captures-the-treasure-chest-at-the-heart-of-the-carina-nebula\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Esta Imagem do Mês do Telescópio Espacial James Webb da NASA/ESA/CSA nos leva a um reino fantástico dentro de nossa galáxia natal, onde a luz estelar.",
-      "Dado-chave: Esta Imagem do Mês do Telescópio Espacial James Webb da NASA/ESA/CSA nos leva a um reino fantástico dentro de nossa galáxia natal, onde a luz.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Esta Imagem do Mês do Telescópio Espacial James Webb da NASA/ESA/CSA nos leva a um reino fantástico dentro de nossa galáxia natal, onde a luz estelar.",
-      "Dado-chave: Esta Imagem do Mês do Telescópio Espacial James Webb da NASA/ESA/CSA nos leva a um reino fantástico dentro de nossa galáxia natal, onde a luz.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: This NASA/ESA/CSA James Webb Space Telescope Picture of the Month takes us to a fantastical realm within our home galaxy, where piercing starlight.",
-      "Key detail: This NASA/ESA/CSA James Webb Space Telescope Picture of the Month takes us to a fantastical realm within our home galaxy, where piercing.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "19 ago 2026",
-    "date_pt": "19 ago 2026",
-    "date_en": "19 Aug 2026",
-    "time": "21h37",
-    "time_pt": "21h37",
-    "time_en": "21:37 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-19T21:37:46+00:00",
-    "lastModifiedIso": "2026-08-19T21:37:46+00:00",
-    "source": "Universe Today",
-    "sourceDomain": "www.universetoday.com",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astronomia",
-      "Universe Today",
-      "Cosmos Week",
-      "Webb captura o baú do tesouro no coração da nebulosa Carina"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "Universe Today",
-      "Cosmos Week",
-      "Webb captura o baú do tesouro no coração da nebulosa Carina"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "Universe Today",
-      "Cosmos Week",
-      "Webb Captures Treasure Chest in Heart of Carina Nebula"
-    ],
-    "srcUrl": "https://www.universetoday.com/articles/webb-captures-the-treasure-chest-at-the-heart-of-the-carina-nebula",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=webb-captures-the-treasure-chest-at-the-heart-of-the-carina-nebula",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=webb-captures-the-treasure-chest-at-the-heart-of-the-carina-nebula",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=webb-captures-the-treasure-chest-at-the-heart-of-the-carina-nebula&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 75,
-    "scoreBreakdown": {
-      "source": 73,
-      "evidence": 82,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 52
-    }
-  },
-  {
-    "id": 35,
+    "id": 36,
     "slug": "next-up-a-deep-partial-lunar-eclipse-on-aug-27-28",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4412,7 +4496,7 @@ window.postsData = [
     }
   },
   {
-    "id": 36,
+    "id": 37,
     "slug": "this-week-s-sky-at-a-glance-august-14-23",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4548,7 +4632,7 @@ window.postsData = [
     }
   },
   {
-    "id": 37,
+    "id": 38,
     "slug": "did-you-see-the-solar-eclipse-here-s-what-we-saw-from-around-the-world",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4681,7 +4765,7 @@ window.postsData = [
     }
   },
   {
-    "id": 38,
+    "id": 39,
     "slug": "prepare-for-the-lunar-eclipse-on-august-27-28-2026",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4698,11 +4782,11 @@ window.postsData = [
       },
       {
         "src": "https://dq0hsqwjhea1.cloudfront.net/WEB_lunardiscs_Aug28-1.jpg",
-        "caption": "A Lua passará profundamente pela sombra da Terra na noite de 27 para 28 de agosto, quase, mas não suficientemente profundo para ser total. Este diagrama também está disponível sem rótulos. Céu e telescópio",
-        "caption_pt": "A Lua passará profundamente pela sombra da Terra na noite de 27 para 28 de agosto, quase, mas não suficientemente profundo para ser total. Este diagrama também está disponível sem rótulos. Céu e telescópio",
+        "caption": "A Lua passará profundamente pela sombra da Terra na noite de 27 para 28 de agosto, quase, mas não o suficiente, para ser total. Este diagrama também está disponível sem rótulos. Céu e telescópio",
+        "caption_pt": "A Lua passará profundamente pela sombra da Terra na noite de 27 para 28 de agosto, quase, mas não o suficiente, para ser total. Este diagrama também está disponível sem rótulos. Céu e telescópio",
         "caption_en": "The Moon will pass deeply through Earth's shadow the night of August 27-28, almost but not quite deep enough to be total. This diagram is also available with no labels . Sky & Telescope",
-        "alt": "A Lua passará profundamente pela sombra da Terra na noite de 27 para 28 de agosto, quase, mas não suficientemente profundo para ser total. Este diagrama também está disponível sem rótulos. Céu e telescópio",
-        "alt_pt": "A Lua passará profundamente pela sombra da Terra na noite de 27 para 28 de agosto, quase, mas não suficientemente profundo para ser total. Este diagrama também está disponível sem rótulos. Céu e telescópio",
+        "alt": "A Lua passará profundamente pela sombra da Terra na noite de 27 para 28 de agosto, quase, mas não o suficiente, para ser total. Este diagrama também está disponível sem rótulos. Céu e telescópio",
+        "alt_pt": "A Lua passará profundamente pela sombra da Terra na noite de 27 para 28 de agosto, quase, mas não o suficiente, para ser total. Este diagrama também está disponível sem rótulos. Céu e telescópio",
         "alt_en": "The Moon will pass deeply through Earth's shadow the night of August 27-28, almost but not quite deep enough to be total. This diagram is also available with no labels . Sky & Telescope"
       },
       {
@@ -4817,7 +4901,7 @@ window.postsData = [
     }
   },
   {
-    "id": 39,
+    "id": 40,
     "slug": "chasing-fire-clouds-in-utah",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4947,121 +5031,6 @@ window.postsData = [
       "relevance": 80,
       "accessibility": 60,
       "novelty": 49
-    }
-  },
-  {
-    "id": 40,
-    "slug": "detecting-whispers-from-the-early-universe-from-the-moon",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://earthsky.org/upl/2026/08/CosmoCube-moon-illustration-August-14-2026.jpg",
-    "inline_images": [
-      {
-        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Detectando sussurros do universo primitivo… da lua",
-    "title_pt": "Detectando sussurros do universo primitivo… da lua",
-    "title_en": "Detecting whispers from the early universe … from the moon",
-    "sub": "Um pequeno satélite do Reino Unido chamado CosmoCube deve ouvir os sinais do universo primitivo. Ele usará o lado escuro da Lua para bloquear o ruído da Terra. O post Detectando.",
-    "sub_pt": "Um pequeno satélite do Reino Unido chamado CosmoCube deve ouvir os sinais do universo primitivo. Ele usará o lado escuro da Lua para bloquear o ruído da Terra. O post Detectando.",
-    "sub_en": "A tiny UK satellite called CosmoCube is to listen for signals from the early universe. It will use the dark side of the moon to block out noise from Earth. The post Detecting.",
-    "excerpt": "Um pequeno satélite do Reino Unido chamado CosmoCube deve ouvir os sinais do universo primitivo. Ele usará o lado escuro da Lua para bloquear o ruído da Terra. O post Detectando sussurros do universo primitivo. da lua apareceu pela primeira vez.",
-    "excerpt_pt": "Um pequeno satélite do Reino Unido chamado CosmoCube deve ouvir os sinais do universo primitivo. Ele usará o lado escuro da Lua para bloquear o ruído da Terra. O post Detectando sussurros do universo primitivo. da lua apareceu pela primeira vez.",
-    "excerpt_en": "A tiny UK satellite called CosmoCube is to listen for signals from the early universe. It will use the dark side of the moon to block out noise from Earth. The post Detecting whispers from the early universe. from the moon first appeared.",
-    "body": "<p>Um pequeno satélite do Reino Unido chamado CosmoCube deve ouvir os sinais do universo primitivo. Ele usará o lado escuro da Lua para bloquear o ruído da Terra. O post Detectando sussurros do universo primitivo. da lua apareceu pela primeira vez. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Ilustração artística do planejado satélite CosmoCube usando a Lua como escudo, bloqueando o ruído da Terra, para detectar sinais fracos de sussurro do universo primitivo. Um novo satélite desenvolvido no Reino Unido, chamado CosmoCube, orbitará a Lua e ouvirá fracos sinais sussurrantes deste período da história do nosso universo.</p><p>Uma equipe internacional de cientistas, liderada pela Universidade de Cambridge, no Reino Unido, disse em 14 de agosto de 2026 que o satélite, chamado CosmoCube, usará o lado. A equipe de pesquisa publicou seus resultados revisados ​​por pares na Nature Astronomy em 14 de agosto de 2026.</p><p>Usando a Lua como escudo O sinal de 21 centímetros tem origem há mais de 13,5 bilhões de anos. É extremamente difícil de detectar usando telescópios baseados na Terra, uma vez que todo o “ruído” da Terra, especialmente as ondas de rádio, o abafa.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/whispers-from-the-early-universe-cosmocube-moon/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Um pequeno satélite do Reino Unido chamado CosmoCube deve ouvir os sinais do universo primitivo. Ele usará o lado escuro da Lua para bloquear o ruído da Terra. O post Detectando sussurros do universo primitivo. da lua apareceu pela primeira vez. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Ilustração artística do planejado satélite CosmoCube usando a Lua como escudo, bloqueando o ruído da Terra, para detectar sinais fracos de sussurro do universo primitivo. Um novo satélite desenvolvido no Reino Unido, chamado CosmoCube, orbitará a Lua e ouvirá fracos sinais sussurrantes deste período da história do nosso universo.</p><p>Uma equipe internacional de cientistas, liderada pela Universidade de Cambridge, no Reino Unido, disse em 14 de agosto de 2026 que o satélite, chamado CosmoCube, usará o lado. A equipe de pesquisa publicou seus resultados revisados ​​por pares na Nature Astronomy em 14 de agosto de 2026.</p><p>Usando a Lua como escudo O sinal de 21 centímetros tem origem há mais de 13,5 bilhões de anos. É extremamente difícil de detectar usando telescópios baseados na Terra, uma vez que todo o “ruído” da Terra, especialmente as ondas de rádio, o abafa.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/whispers-from-the-early-universe-cosmocube-moon/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>A tiny UK satellite called CosmoCube is to listen for signals from the early universe. It will use the dark side of the moon to block out noise from Earth. The post Detecting whispers from the early universe. from the moon first appeared. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Artist’s illustration of the planned CosmoCube satellite using the moon as a shield, blocking noise from Earth, to detect faint whisper signals from the early universe. A new U. K.-developed satellite, called CosmoCube, will orbit the moon and listen for faint whisper signals from this period in our universe’s history.</p><p>An international team of scientists, led by the University of Cambridge in the U. K, said on August 14, 2026, that the satellite, called CosmoCube, will use the far side of the. The research team published their peer-reviewed results in Nature Astronomy on August 14, 2026.</p><p>Using the moon as a shield The 21-centimeter signal originates from over 13.5 billion years ago. It is extremely difficult to detect using Earth-based telescopes, since all the “noise” from Earth, particularly radio waves, drowns it out.</p><p>When orbiting over the far side of the moon, it will use the moon as a natural shield to block Earth’s noise for about 40 minutes in each of its two-hour orbits. Over its expected two-year mission, it will collect about 1,000 hours of data.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>The antenna is sensitive enough to detect the 21-centimeter signal from hydrogen atoms in the early universe. When the data from CosmoCube arrives back on Earth, the researchers will use advanced Bayesian statistical methods to remove other kinds of noise, such as radio emissions from our.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/whispers-from-the-early-universe-cosmocube-moon/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Um pequeno satélite do Reino Unido chamado CosmoCube deve ouvir os sinais do universo primitivo. Ele usará o lado escuro da Lua para bloquear o ruído.",
-      "Dado-chave: Ilustração artística do planejado satélite CosmoCube usando a Lua como escudo, bloqueando o ruído da Terra, para detectar sinais fracos de.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Um pequeno satélite do Reino Unido chamado CosmoCube deve ouvir os sinais do universo primitivo. Ele usará o lado escuro da Lua para bloquear o ruído.",
-      "Dado-chave: Ilustração artística do planejado satélite CosmoCube usando a Lua como escudo, bloqueando o ruído da Terra, para detectar sinais fracos de.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: A tiny UK satellite called CosmoCube is to listen for signals from the early universe. It will use the dark side of the moon to block out noise from.",
-      "Key detail: Artist’s illustration of the planned CosmoCube satellite using the moon as a shield, blocking noise from Earth, to detect faint whisper signals.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "20 ago 2026",
-    "date_pt": "20 ago 2026",
-    "date_en": "20 Aug 2026",
-    "time": "10h53",
-    "time_pt": "10h53",
-    "time_en": "10:53 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-20T10:53:08+00:00",
-    "lastModifiedIso": "2026-08-20T10:53:08+00:00",
-    "source": "EarthSky",
-    "sourceDomain": "earthsky.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "EarthSky",
-      "Cosmos Week",
-      "Detectando sussurros do universo primitivo… da lua"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "EarthSky",
-      "Cosmos Week",
-      "Detectando sussurros do universo primitivo… da lua"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "EarthSky",
-      "Cosmos Week",
-      "Detecting whispers of the early universe… from the moon"
-    ],
-    "srcUrl": "https://earthsky.org/space/whispers-from-the-early-universe-cosmocube-moon/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=detecting-whispers-from-the-early-universe-from-the-moon",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=detecting-whispers-from-the-early-universe-from-the-moon",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=detecting-whispers-from-the-early-universe-from-the-moon&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 73,
-    "scoreBreakdown": {
-      "source": 72,
-      "evidence": 82,
-      "relevance": 80,
-      "accessibility": 60,
-      "novelty": 55
     }
   }
 ];

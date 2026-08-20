@@ -40,14 +40,14 @@ window.postsData = [
     "date": "20 ago 2026",
     "date_pt": "20 ago 2026",
     "date_en": "20 Aug 2026",
-    "time": "18h54",
-    "time_pt": "18h54",
-    "time_en": "18:54 UTC",
+    "time": "19h38",
+    "time_pt": "19h38",
+    "time_en": "19:38 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-20T18:54:21.204943+00:00",
-    "lastModifiedIso": "2026-08-20T18:54:21.204943+00:00",
+    "publishedIso": "2026-08-20T19:38:45.899286+00:00",
+    "lastModifiedIso": "2026-08-20T19:38:45.899286+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -145,14 +145,14 @@ window.postsData = [
     "date": "20 ago 2026",
     "date_pt": "20 ago 2026",
     "date_en": "20 Aug 2026",
-    "time": "18h54",
-    "time_pt": "18h54",
-    "time_en": "18:54 UTC",
+    "time": "19h38",
+    "time_pt": "19h38",
+    "time_en": "19:38 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-20T18:54:21.204890+00:00",
-    "lastModifiedIso": "2026-08-20T18:54:21.204890+00:00",
+    "publishedIso": "2026-08-20T19:38:45.899236+00:00",
+    "lastModifiedIso": "2026-08-20T19:38:45.899236+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -253,14 +253,14 @@ window.postsData = [
     "date": "20 ago 2026",
     "date_pt": "20 ago 2026",
     "date_en": "20 Aug 2026",
-    "time": "18h54",
-    "time_pt": "18h54",
-    "time_en": "18:54 UTC",
+    "time": "19h38",
+    "time_pt": "19h38",
+    "time_en": "19:38 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-20T18:54:21.204835+00:00",
-    "lastModifiedIso": "2026-08-20T18:54:21.204835+00:00",
+    "publishedIso": "2026-08-20T19:38:45.899184+00:00",
+    "lastModifiedIso": "2026-08-20T19:38:45.899184+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -358,14 +358,14 @@ window.postsData = [
     "date": "20 ago 2026",
     "date_pt": "20 ago 2026",
     "date_en": "20 Aug 2026",
-    "time": "18h54",
-    "time_pt": "18h54",
-    "time_en": "18:54 UTC",
+    "time": "19h38",
+    "time_pt": "19h38",
+    "time_en": "19:38 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-20T18:54:21.204781+00:00",
-    "lastModifiedIso": "2026-08-20T18:54:21.204781+00:00",
+    "publishedIso": "2026-08-20T19:38:45.899133+00:00",
+    "lastModifiedIso": "2026-08-20T19:38:45.899133+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -463,14 +463,14 @@ window.postsData = [
     "date": "20 ago 2026",
     "date_pt": "20 ago 2026",
     "date_en": "20 Aug 2026",
-    "time": "18h54",
-    "time_pt": "18h54",
-    "time_en": "18:54 UTC",
+    "time": "19h38",
+    "time_pt": "19h38",
+    "time_en": "19:38 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-20T18:54:21.204729+00:00",
-    "lastModifiedIso": "2026-08-20T18:54:21.204729+00:00",
+    "publishedIso": "2026-08-20T19:38:45.899086+00:00",
+    "lastModifiedIso": "2026-08-20T19:38:45.899086+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -531,6 +531,139 @@ window.postsData = [
   },
   {
     "id": 6,
+    "slug": "mars-s-funky-moon-deimos-was-shaped-by-an-impact",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://www.universetoday.com/article_images/Deimos_with_crater_20260820_172124.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.universetoday.com/article_images/phobos_deimos-678x339_20260820_181359.jpg",
+        "caption": "A superfície craterada de Fobos (esquerda) em comparação com a superfície lisa de Deimos (direita). Hera nos mostrou que embora Deimos pareça suave, ele",
+        "caption_pt": "A superfície craterada de Fobos (esquerda) em comparação com a superfície lisa de Deimos (direita). Hera nos mostrou que embora Deimos pareça suave, ele",
+        "caption_en": "The cratered surface of phobos (Left) compared to the smooth surface of Deimos (right). Hera showed us that while Deimos appears smooth, it",
+        "alt": "A superfície craterada de Fobos (esquerda) em comparação com a superfície lisa de Deimos (direita). Hera nos mostrou que embora Deimos pareça suave, ele",
+        "alt_pt": "A superfície craterada de Fobos (esquerda) em comparação com a superfície lisa de Deimos (direita). Hera nos mostrou que embora Deimos pareça suave, ele",
+        "alt_en": "The cratered surface of phobos (Left) compared to the smooth surface of Deimos (right). Hera showed us that while Deimos appears smooth, it"
+      },
+      {
+        "src": "https://www.universetoday.com/article_images/41550_2026_2956_Fig1_HTML_20260820_181056.jpg",
+        "caption": "Esta figura mostra algumas das simulações",
+        "caption_pt": "Esta figura mostra algumas das simulações",
+        "caption_en": "This figure shows some of the simulation",
+        "alt": "Esta figura mostra algumas das simulações",
+        "alt_pt": "Esta figura mostra algumas das simulações",
+        "alt_en": "This figure shows some of the simulation"
+      },
+      {
+        "src": "https://www.universetoday.com/article_images/Still_from_Deimos_impact_simulation_20260820_184851.jpg",
+        "caption": "Esta é uma captura de tela das simulações, mostrando o impactador atingindo Deimos e criando a cratera polar sul. O amarelo é material ejetado, a maior parte do qual caiu de volta na lua",
+        "caption_pt": "Esta é uma captura de tela das simulações, mostrando o impactador atingindo Deimos e criando a cratera polar sul. O amarelo é material ejetado, a maior parte do qual caiu de volta na lua",
+        "caption_en": "This is a screenshot from the simulations, showing the impactor striking Deimos and creating the south polar crater. The yellow is ejecta, most of which has fallen back to the moon",
+        "alt": "Esta é uma captura de tela das simulações, mostrando o impactador atingindo Deimos e criando a cratera polar sul. O amarelo é material ejetado, a maior parte do qual caiu de volta na lua",
+        "alt_pt": "Esta é uma captura de tela das simulações, mostrando o impactador atingindo Deimos e criando a cratera polar sul. O amarelo é material ejetado, a maior parte do qual caiu de volta na lua",
+        "alt_en": "This is a screenshot from the simulations, showing the impactor striking Deimos and creating the south polar crater. The yellow is ejecta, most of which has fallen back to the moon"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "A Funky Moon Deimos de Marte foi moldada por um impacto",
+    "title_pt": "A Funky Moon Deimos de Marte foi moldada por um impacto",
+    "title_en": "Mars's Funky Moon Deimos was Shaped by an Impact",
+    "sub": "A lua de Marte, Deimos, tem uma grande cratera em seu pólo sul. Também é coberto por uma camada de regolito tão profunda que enterra muitas outras crateras menores. Uma nova.",
+    "sub_pt": "A lua de Marte, Deimos, tem uma grande cratera em seu pólo sul. Também é coberto por uma camada de regolito tão profunda que enterra muitas outras crateras menores. Uma nova.",
+    "sub_en": "Mars' moon Deimos has a large crater on its southern pole. It's also covered by a layer of regolith so deep it buries many other, smaller craters. New research shows that an.",
+    "excerpt": "A lua de Marte, Deimos, tem uma grande cratera em seu pólo sul. Também é coberto por uma camada de regolito tão profunda que enterra muitas outras crateras menores. Uma nova pesquisa mostra que um impacto é responsável por ambos, e que a Lua é sim.",
+    "excerpt_pt": "A lua de Marte, Deimos, tem uma grande cratera em seu pólo sul. Também é coberto por uma camada de regolito tão profunda que enterra muitas outras crateras menores. Uma nova pesquisa mostra que um impacto é responsável por ambos, e que a Lua é sim.",
+    "excerpt_en": "Mars' moon Deimos has a large crater on its southern pole. It's also covered by a layer of regolith so deep it buries many other, smaller craters. New research shows that an impact is responsible for both, and that the moon is rather.",
+    "body": "<p>A lua de Marte, Deimos, tem uma grande cratera em seu pólo sul. Também é coberto por uma camada de regolito tão profunda que enterra muitas outras crateras menores. Uma nova pesquisa mostra que um impacto é responsável por ambos, e que a Lua é sim. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Uma nova pesquisa mostra que um impacto é responsável por ambos, e que a Lua é bastante frágil e porosa, como um asteróide com uma pilha de escombros. Mas independentemente das suas origens, Fobos (26 km de diâmetro) e Deimos (12 km de diâmetro) foram derrubados e sujeitos a colisões como outros objetos do Sistema Solar.</p><p>Em março de 2025, a sonda Hera da ESA realizou uma manobra assistida pela gravidade em Marte e aproveitou a oportunidade para observar Deimos. Está no pólo sul da Lua e novas pesquisas mostram que o impacto que o criou também é responsável pela superfície coberta de poeira de Deimos.</p><p>A pesquisa é intitulada “A forma e a geologia de Deimos explicadas por um impacto subcatastrófico” e foi publicada na Nature Astronomy. Raducan também é co-presidente do Grupo de Trabalho de Física do Impacto de Hera para a missão Hera da ESA.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/marss-funky-moon-deimos-was-shaped-by-an-impact\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A lua de Marte, Deimos, tem uma grande cratera em seu pólo sul. Também é coberto por uma camada de regolito tão profunda que enterra muitas outras crateras menores. Uma nova pesquisa mostra que um impacto é responsável por ambos, e que a Lua é sim. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Uma nova pesquisa mostra que um impacto é responsável por ambos, e que a Lua é bastante frágil e porosa, como um asteróide com uma pilha de escombros. Mas independentemente das suas origens, Fobos (26 km de diâmetro) e Deimos (12 km de diâmetro) foram derrubados e sujeitos a colisões como outros objetos do Sistema Solar.</p><p>Em março de 2025, a sonda Hera da ESA realizou uma manobra assistida pela gravidade em Marte e aproveitou a oportunidade para observar Deimos. Está no pólo sul da Lua e novas pesquisas mostram que o impacto que o criou também é responsável pela superfície coberta de poeira de Deimos.</p><p>A pesquisa é intitulada “A forma e a geologia de Deimos explicadas por um impacto subcatastrófico” e foi publicada na Nature Astronomy. Raducan também é co-presidente do Grupo de Trabalho de Física do Impacto de Hera para a missão Hera da ESA.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/marss-funky-moon-deimos-was-shaped-by-an-impact\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Mars&#x27; moon Deimos has a large crater on its southern pole. It&#x27;s also covered by a layer of regolith so deep it buries many other, smaller craters. New research shows that an impact is responsible for both, and that the moon is rather. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. An impact is responsible for both, and that the moon is rather fragile and porous, like a rubble pile asteroid. But regardless of their origins, Phobos (26 km across) and Deimos (12 km across) have both been knocked around and subjected to collisions like other Solar System objects.</p><p>In March 2025, the ESA&#x27;s Hera spacecraft performed a gravity-assist maneuver at Mars, and it used that opportunity to observe Deimos. It&#x27;s on the moon&#x27;s south pole and new research shows the impact that created it is also responsible for Deimos&#x27; dust-covered surface.</p><p>The research is titled &quot; Deimos’s shape and geology explained by a subcatastrophic impact,&quot; and it&#x27;s published in Nature Astronomy. Raducan is also co-chair of the Hera Impact Physics Working Group for ESA’s Hera mission.</p><p>Deimos, the potato-shaped, 12-km-diameter outer satellite of Mars, has a strikingly smooth surface covered by fine regolith, in contrast to its heavily cratered and grooved. Here we propose that a single, large-scale impact that excavated the 10-km-wide depression at Deimos’s south pole is responsible for the thick, globally distributed regolith.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>The impact velocity was set at 8.2 km s −1 for all simulations, based on previous research into Deimos&#x27; craters. “Our simulation is consistent with patterns of brightness observed across the moon’s surface, linked to the gradual migration of regolith that behaves more like loosely packed.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/marss-funky-moon-deimos-was-shaped-by-an-impact\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: A lua de Marte, Deimos, tem uma grande cratera em seu pólo sul. Também é coberto por uma camada de regolito tão profunda que enterra muitas outras.",
+      "Dado-chave: Uma nova pesquisa mostra que um impacto é responsável por ambos, e que a Lua é bastante frágil e porosa, como um asteróide com uma pilha de.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: A lua de Marte, Deimos, tem uma grande cratera em seu pólo sul. Também é coberto por uma camada de regolito tão profunda que enterra muitas outras.",
+      "Dado-chave: Uma nova pesquisa mostra que um impacto é responsável por ambos, e que a Lua é bastante frágil e porosa, como um asteróide com uma pilha de.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Mars' moon Deimos has a large crater on its southern pole. It's also covered by a layer of regolith so deep it buries many other, smaller craters.",
+      "Key detail: New research shows that an impact is responsible for both, and that the moon is rather fragile and porous, like a rubble pile asteroid.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "20 ago 2026",
+    "date_pt": "20 ago 2026",
+    "date_en": "20 Aug 2026",
+    "time": "19h21",
+    "time_pt": "19h21",
+    "time_en": "19:21 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-20T19:21:06+00:00",
+    "lastModifiedIso": "2026-08-20T19:21:06+00:00",
+    "source": "Universe Today",
+    "sourceDomain": "www.universetoday.com",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astronomia",
+      "Universe Today",
+      "Cosmos Week",
+      "A Funky Moon Deimos de Marte foi moldada por um impacto"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "Universe Today",
+      "Cosmos Week",
+      "A Funky Moon Deimos de Marte foi moldada por um impacto"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "Universe Today",
+      "Cosmos Week",
+      "Mars' Funky Moon Deimos was shaped by an impact"
+    ],
+    "srcUrl": "https://www.universetoday.com/articles/marss-funky-moon-deimos-was-shaped-by-an-impact",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=mars-s-funky-moon-deimos-was-shaped-by-an-impact",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=mars-s-funky-moon-deimos-was-shaped-by-an-impact",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=mars-s-funky-moon-deimos-was-shaped-by-an-impact&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 70,
+    "scoreBreakdown": {
+      "source": 73,
+      "evidence": 82,
+      "relevance": 70,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
     "slug": "how-gas-filaments-and-interfilaments-feed-star-formation-in-monoceros-r2",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -649,7 +782,7 @@ window.postsData = [
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -663,7 +796,7 @@ window.postsData = [
     }
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "nasa-is-studying-pyrocumulonimbus-clouds-by-plane",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -778,7 +911,7 @@ window.postsData = [
     }
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "catching-an-almost-total-lunar-eclipse-on-august-28th",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -924,7 +1057,7 @@ window.postsData = [
     }
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "the-view-from-above-the-gemini-visual-acuity-experiments",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -941,11 +1074,11 @@ window.postsData = [
       },
       {
         "src": "https://images-assets.nasa.gov/image/s65-28642/s65-28642~large.jpg?w=1501&h=1920&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "Ilustração mostrando o equipamento de teste de visão em vôo",
-        "caption_pt": "Ilustração mostrando o equipamento de teste de visão em vôo",
+        "caption": "Ilustração mostrando o equipamento de teste de visão em voo",
+        "caption_pt": "Ilustração mostrando o equipamento de teste de visão em voo",
         "caption_en": "Illustration showing the In-Flight Vision Testing equipment",
-        "alt": "Ilustração mostrando o equipamento de teste de visão em vôo",
-        "alt_pt": "Ilustração mostrando o equipamento de teste de visão em vôo",
+        "alt": "Ilustração mostrando o equipamento de teste de visão em voo",
+        "alt_pt": "Ilustração mostrando o equipamento de teste de visão em voo",
         "alt_en": "Illustration showing the In-Flight Vision Testing equipment"
       },
       {
@@ -1055,158 +1188,6 @@ window.postsData = [
       "source": 94,
       "evidence": 82,
       "relevance": 80,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 10,
-    "slug": "interstellar-travel-iv-solar-magnetic-directed-energy-sails",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/interstellar-travel-iv.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/interstellar-travel-iv.jpg",
-        "caption": "Viagem interestelar IV: velas solares, magnéticas e de energia dirigida",
-        "caption_pt": "Viagem interestelar IV: velas solares, magnéticas e de energia dirigida",
-        "caption_en": "Interstellar Travel IV: Solar, Magnetic, & Directed-Energy Sails",
-        "alt": "Viagem interestelar IV: velas solares, magnéticas e de energia dirigida",
-        "alt_pt": "Viagem interestelar IV: velas solares, magnéticas e de energia dirigida",
-        "alt_en": "Interstellar Travel IV: Solar, Magnetic, & Directed-Energy Sails"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/f233d40c9bb6ec42.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/8b33bc1b4d9f6b4c.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": {
-      "kind": "embed",
-      "platform": "youtube",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/qzyvrpwztqq",
-      "fileUrl": "",
-      "poster": "",
-      "title": "",
-      "title_pt": "",
-      "title_en": "",
-      "caption": "",
-      "caption_pt": "",
-      "caption_en": "",
-      "sourcePage": "https://phys.org/news/2026-08-interstellar-iv-solar-magnetic-energy.html"
-    },
-    "audio": null,
-    "title": "Viagem interestelar IV: velas solares, magnéticas e de energia direcionada",
-    "title_pt": "Viagem interestelar IV: velas solares, magnéticas e de energia direcionada",
-    "title_en": "Interstellar travel IV: Solar, magnetic, & directed-energy sails",
-    "sub": "Bem-vindo de volta à nossa série sobre viagens interestelares! Na nossa primeira parte, examinámos as tentativas de realizar a propulsão nuclear e como a tecnologia poderia ser.",
-    "sub_pt": "Bem-vindo de volta à nossa série sobre viagens interestelares! Na nossa primeira parte, examinámos as tentativas de realizar a propulsão nuclear e como a tecnologia poderia ser.",
-    "sub_en": "Welcome back to our series on interstellar travel! In our first installment, we examined attempts to realize nuclear propulsion and how the technology could be used to reach the.",
-    "excerpt": "Bem-vindo de volta à nossa série sobre viagens interestelares! Na nossa primeira parte, examinámos as tentativas de realizar a propulsão nuclear e como a tecnologia poderia ser usada para alcançar a estrela mais próxima. Em nosso segundo, examinamos o.",
-    "excerpt_pt": "Bem-vindo de volta à nossa série sobre viagens interestelares! Na nossa primeira parte, examinámos as tentativas de realizar a propulsão nuclear e como a tecnologia poderia ser usada para alcançar a estrela mais próxima. Em nosso segundo, examinamos o.",
-    "excerpt_en": "Welcome back to our series on interstellar travel! In our first installment, we examined attempts to realize nuclear propulsion and how the technology could be used to reach the nearest star. In our second, we examined how fusion power has.",
-    "body": "<p>Bem-vindo de volta à nossa série sobre viagens interestelares! Na nossa primeira parte, examinámos as tentativas de realizar a propulsão nuclear e como a tecnologia poderia ser usada para alcançar a estrela mais próxima. Em nosso segundo, examinamos o desempenho da energia de. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O físico russo Pyotr Lebedev conduziu o primeiro experimento usando uma balança de torção em 1899, que foi apoiado por um experimento semelhante e independente de Ernest Nichols e. Isto foi seguido por Konstantin Tsiolkovsky, que propôs pela primeira vez o uso da luz solar para impulsionar uma nave espacial em 1921.</p><p>O físico letão Friedrich Zander publicou um artigo técnico que incluía uma análise da navegação solar, escrevendo &quot;aplicação de pequenas forças pressão luminosa ou transmissão de. Ele seria lançado empurrando-se contra a ionosfera ou magnetosfera da Terra para escapar do LEO, ou sendo acelerado por um foguete de fusão para atingir a velocidade relativística.</p><p>Descubra o que há de mais recente em ciência, tecnologia e espaço com mais de 100.000 assinantes que confiam no Phys. org para obter insights diários. Simulações feitas entre 2012 e 2021 avaliaram a tecnologia para missões a Marte, Júpiter, Netuno e Urano, mostrando que uma bobina multivoltas era mais promissora do que o design.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-interstellar-iv-solar-magnetic-energy.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Bem-vindo de volta à nossa série sobre viagens interestelares! Na nossa primeira parte, examinámos as tentativas de realizar a propulsão nuclear e como a tecnologia poderia ser usada para alcançar a estrela mais próxima. Em nosso segundo, examinamos o desempenho da energia de. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O físico russo Pyotr Lebedev conduziu o primeiro experimento usando uma balança de torção em 1899, que foi apoiado por um experimento semelhante e independente de Ernest Nichols e. Isto foi seguido por Konstantin Tsiolkovsky, que propôs pela primeira vez o uso da luz solar para impulsionar uma nave espacial em 1921.</p><p>O físico letão Friedrich Zander publicou um artigo técnico que incluía uma análise da navegação solar, escrevendo &quot;aplicação de pequenas forças pressão luminosa ou transmissão de. Ele seria lançado empurrando-se contra a ionosfera ou magnetosfera da Terra para escapar do LEO, ou sendo acelerado por um foguete de fusão para atingir a velocidade relativística.</p><p>Descubra o que há de mais recente em ciência, tecnologia e espaço com mais de 100.000 assinantes que confiam no Phys. org para obter insights diários. Simulações feitas entre 2012 e 2021 avaliaram a tecnologia para missões a Marte, Júpiter, Netuno e Urano, mostrando que uma bobina multivoltas era mais promissora do que o design.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-interstellar-iv-solar-magnetic-energy.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Welcome back to our series on interstellar travel! In our first installment, we examined attempts to realize nuclear propulsion and how the technology could be used to reach the nearest star. In our second, we examined how fusion power has. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Russian physicist Pyotr Lebedev conducted the first experiment using a torsional balance in 1899, which was supported by a similar, independent experiment by Ernest Nichols and. This was followed by Konstantin Tsiolkovsky, who first proposed using sunlight to propel a spacecraft in 1921.</p><p>Latvian physicist Friedrich Zander published a technical paper that included an analysis of solar sailing, writing &quot;applying small forces light pressure or transmission of light. It would launch either by thrusting against Earth&#x27;s ionosphere or magnetosphere to escape from LEO, or by being accelerated by a fusion rocket to achieve relativistic speed.</p><p>Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Simulations made between 2012 and 2021 evaluated the technology for missions to Mars, Jupiter, Neptune and Uranus, showing that a multi-turn coil held more promise than the plasma.</p><p>In 2021, a team of researchers from the Xi&#x27;an Aerospace Propulsion Institute published a study on a propulsion system called an electromagnetic sail, which combined a magnetic and. Robert Forward, a physicist at Hughes Aircraft&#x27;s research laboratories at the time, proposed the first formal interstellar concept in 1984.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>This was followed in 2000 by a technical study by Robert Frisbee, a senior member of the technical staff in the Advanced Propulsion Technology Group at NASA JPL. The first formal effort to realize a solar sail began in 1976 at NASA&#x27;s Jet Propulsion Laboratory.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-interstellar-iv-solar-magnetic-energy.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Bem-vindo de volta à nossa série sobre viagens interestelares! Na nossa primeira parte, examinámos as tentativas de realizar a propulsão nuclear e.",
-      "Dado-chave: O físico russo Pyotr Lebedev conduziu o primeiro experimento usando uma balança de torção em 1899, que foi apoiado por um experimento semelhante.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Bem-vindo de volta à nossa série sobre viagens interestelares! Na nossa primeira parte, examinámos as tentativas de realizar a propulsão nuclear e.",
-      "Dado-chave: O físico russo Pyotr Lebedev conduziu o primeiro experimento usando uma balança de torção em 1899, que foi apoiado por um experimento semelhante.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Welcome back to our series on interstellar travel! In our first installment, we examined attempts to realize nuclear propulsion and how the.",
-      "Key detail: Russian physicist Pyotr Lebedev conducted the first experiment using a torsional balance in 1899, which was supported by a similar, independent.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "20 ago 2026",
-    "date_pt": "20 ago 2026",
-    "date_en": "20 Aug 2026",
-    "time": "14h20",
-    "time_pt": "14h20",
-    "time_en": "14:20 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-20T14:20:09+00:00",
-    "lastModifiedIso": "2026-08-20T14:20:09+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astronomia",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Viagem interestelar IV",
-      "velas solares",
-      "magnéticas e de energia direcionada"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Viagem interestelar IV",
-      "velas solares",
-      "magnéticas e de energia direcionada"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Interstellar Travel IV",
-      "solar sails",
-      "magnetic and directed energy"
-    ],
-    "srcUrl": "https://phys.org/news/2026-08-interstellar-iv-solar-magnetic-energy.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=interstellar-travel-iv-solar-magnetic-directed-energy-sails",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=interstellar-travel-iv-solar-magnetic-directed-energy-sails",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=interstellar-travel-iv-solar-magnetic-directed-energy-sails&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 76,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 82,
-      "relevance": 88,
       "accessibility": 60,
       "novelty": 55
     }
@@ -1622,7 +1603,35 @@ window.postsData = [
     "cat": "Astrofísica",
     "catCls": "astrofisica",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/irs_3_field_nircam_and_miri_image/27410540-1-eng-GB/IRS_3_Field_NIRCam_and_MIRI_image_card_full.jpg",
-    "inline_images": [],
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/irs_3_field_nircam_and_miri_image/27410540-1-eng-GB/IRS_3_Field_NIRCam_and_MIRI_image_article.jpg",
+        "caption": "Campo IRS 3 (imagem NIRCam e MIRI)",
+        "caption_pt": "Campo IRS 3 (imagem NIRCam e MIRI)",
+        "caption_en": "IRS 3 Field (NIRCam and MIRI image)",
+        "alt": "Campo IRS 3 (imagem NIRCam e MIRI)",
+        "alt_pt": "Campo IRS 3 (imagem NIRCam e MIRI)",
+        "alt_en": "IRS 3 Field (NIRCam and MIRI image)"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/irs_3_field_miri_image/27410715-1-eng-GB/IRS_3_Field_MIRI_image_article.jpg",
+        "caption": "Campo IRS 3 (imagem MIRI)",
+        "caption_pt": "Campo IRS 3 (imagem MIRI)",
+        "caption_en": "IRS 3 Field (MIRI image)",
+        "alt": "Campo IRS 3 (imagem MIRI)",
+        "alt_pt": "Campo IRS 3 (imagem MIRI)",
+        "alt_en": "IRS 3 Field (MIRI image)"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/irs_3_field_nircam_image/27410668-1-eng-GB/IRS_3_Field_NIRCam_image_article.jpg",
+        "caption": "Campo IRS 3 (imagem NIRCam)",
+        "caption_pt": "Campo IRS 3 (imagem NIRCam)",
+        "caption_en": "IRS 3 Field (NIRCam image)",
+        "alt": "Campo IRS 3 (imagem NIRCam)",
+        "alt_pt": "Campo IRS 3 (imagem NIRCam)",
+        "alt_en": "IRS 3 Field (NIRCam image)"
+      }
+    ],
     "video": null,
     "audio": null,
     "title": "Poeira e água avistadas perto de buraco negro gigante",
@@ -1634,9 +1643,9 @@ window.postsData = [
     "excerpt": "Usando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipe internacional de astrônomos descobriu que poeira e água podem se formar e sobreviver surpreendentemente perto do buraco negro supermassivo no centro da nossa galáxia, a Via Láctea. O.",
     "excerpt_pt": "Usando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipe internacional de astrônomos descobriu que poeira e água podem se formar e sobreviver surpreendentemente perto do buraco negro supermassivo no centro da nossa galáxia, a Via Láctea. O.",
     "excerpt_en": "Using the NASA/ESA/CSA James Webb Space Telescope, an international team of astronomers have discovered that dust and water can form and survive surprisingly close to the supermassive black hole at the centre of our Milky Way galaxy. The.",
-    "body": "<p>Usando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipe internacional de astrônomos descobriu que poeira e água podem se formar e sobreviver surpreendentemente perto do buraco negro supermassivo no centro da nossa galáxia, a Via Láctea. O. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Utilizando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipa internacional de astrónomos descobriu que poeira e água podem formar-se e sobreviver surpreendentemente. As observações revelam que a estrela evoluída IRS 3 continua a enriquecer a sua vizinhança com material recém-formado, apesar do ambiente de intensa radiação em torno de Sagitário.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Dust_and_water_spotted_close_to_giant_black_hole\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Usando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipe internacional de astrônomos descobriu que poeira e água podem se formar e sobreviver surpreendentemente perto do buraco negro supermassivo no centro da nossa galáxia, a Via Láctea. O. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Utilizando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipa internacional de astrónomos descobriu que poeira e água podem formar-se e sobreviver surpreendentemente. As observações revelam que a estrela evoluída IRS 3 continua a enriquecer a sua vizinhança com material recém-formado, apesar do ambiente de intensa radiação em torno de Sagitário.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Dust_and_water_spotted_close_to_giant_black_hole\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Using the NASA/ESA/CSA James Webb Space Telescope, an international team of astronomers have discovered that dust and water can form and survive surprisingly close to the supermassive black hole at the centre of our Milky Way galaxy. The. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. The observations reveal that the evolved star IRS 3 continues to enrich its surroundings with newly formed material despite the intense radiation environment around Sagittarius A*.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Dust_and_water_spotted_close_to_giant_black_hole\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>Usando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipe internacional de astrônomos descobriu que poeira e água podem se formar e sobreviver surpreendentemente perto do buraco negro supermassivo no centro da nossa galáxia, a Via Láctea. O. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Utilizando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipa internacional de astrónomos descobriu que poeira e água podem formar-se e sobreviver surpreendentemente. As observações revelam que a estrela evoluída IRS 3 continua a enriquecer a sua vizinhança com material recém-formado, apesar do ambiente de intensa radiação em torno de Sagitário.</p><p>As novas observações fornecem a visão mais detalhada no infravermelho médio da estrela altamente evoluída IRS 3, que está localizada a apenas 0,55 anos-luz de Sagitário A*, o. O IRS 3 atingiu um estágio próximo ao fim de sua vida denominado fase de ramo gigante assintótico.</p><p>Ao analisar a luz infravermelha da estrela com o MIRI (Mid-Infrared Instrument) de Webb, a equipa de investigação identificou assinaturas claras de poeira rica em oxigénio e, pela. Os resultados mostram que mesmo sob condições adversas perto de um buraco negro supermassivo, estrelas evoluídas como a IRS 3 ainda podem produzir poeira e outros materiais.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Dust_and_water_spotted_close_to_giant_black_hole\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Usando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipe internacional de astrônomos descobriu que poeira e água podem se formar e sobreviver surpreendentemente perto do buraco negro supermassivo no centro da nossa galáxia, a Via Láctea. O. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Utilizando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipa internacional de astrónomos descobriu que poeira e água podem formar-se e sobreviver surpreendentemente. As observações revelam que a estrela evoluída IRS 3 continua a enriquecer a sua vizinhança com material recém-formado, apesar do ambiente de intensa radiação em torno de Sagitário.</p><p>As novas observações fornecem a visão mais detalhada no infravermelho médio da estrela altamente evoluída IRS 3, que está localizada a apenas 0,55 anos-luz de Sagitário A*, o. O IRS 3 atingiu um estágio próximo ao fim de sua vida denominado fase de ramo gigante assintótico.</p><p>Ao analisar a luz infravermelha da estrela com o MIRI (Mid-Infrared Instrument) de Webb, a equipa de investigação identificou assinaturas claras de poeira rica em oxigénio e, pela. Os resultados mostram que mesmo sob condições adversas perto de um buraco negro supermassivo, estrelas evoluídas como a IRS 3 ainda podem produzir poeira e outros materiais.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Dust_and_water_spotted_close_to_giant_black_hole\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Using the NASA/ESA/CSA James Webb Space Telescope, an international team of astronomers have discovered that dust and water can form and survive surprisingly close to the supermassive black hole at the centre of our Milky Way galaxy. The. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. The observations reveal that the evolved star IRS 3 continues to enrich its surroundings with newly formed material despite the intense radiation environment around Sagittarius A*. The new observations provide the most detailed mid-infrared view yet of the highly evolved star IRS 3, which is located just 0.55 light-years from Sagittarius A*, the Milky Way.</p><p>IRS 3 has reached a stage near the end of its life called the asymptotic giant branch phase. By analysing the star’s infrared light with Webb’s MIRI (Mid-Infrared Instrument), the research team identified clear signatures of oxygen-rich dust and, for the first time.</p><p>The results show that even under the harsh conditions near a supermassive black hole, evolved stars like IRS 3 can still produce dust and other materials important for the. “With Webb, we can directly observe how stars behave under these conditions and see that dust production remains remarkably resilient.” IRS 3 is one of the brightest mid-infrared.</p><p>These features identify IRS 3 as an oxygen-rich evolved star, which is nearing the end of its life and shedding material into space. “This discovery was possible because of Webb’s highly capable infrared instruments,” said Macarena Garcia Marin of ESA, a co-author of the study and PI of the MICONIC programme.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>Their results indicate a layered, shell-like distribution of dust extending roughly 10 000 astronomical units from the star, with temperatures falling from approximately 1200. The observations also revealed evidence for water within the envelope of IRS 3: the first clear detection of its kind for this object.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Dust_and_water_spotted_close_to_giant_black_hole\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Usando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipe internacional de astrônomos descobriu que poeira e água podem se formar e.",
       "Dado-chave: Utilizando o Telescópio Espacial James Webb da NASA/ESA/CSA, uma equipa internacional de astrónomos descobriu que poeira e água podem formar-se.",
@@ -2701,6 +2710,139 @@ window.postsData = [
   },
   {
     "id": 23,
+    "slug": "alma-uncovers-sulfur-for-the-first-time-around-a-rare-class-of-supergiant-star",
+    "cat": "Química",
+    "catCls": "quimica",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/alma-uncovers-sulfur-f.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/alma-uncovers-sulfur-f.jpg",
+        "caption": "ALMA descobre enxofre pela primeira vez em torno de uma classe rara de estrela supergigante",
+        "caption_pt": "ALMA descobre enxofre pela primeira vez em torno de uma classe rara de estrela supergigante",
+        "caption_en": "ALMA uncovers sulfur for the first time around a rare class of supergiant star",
+        "alt": "ALMA descobre enxofre pela primeira vez em torno de uma classe rara de estrela supergigante",
+        "alt_pt": "ALMA descobre enxofre pela primeira vez em torno de uma classe rara de estrela supergigante",
+        "alt_en": "ALMA uncovers sulfur for the first time around a rare class of supergiant star"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/05cc00b31f2c5b10.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/f233d40c9bb6ec42.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "ALMA descobre enxofre pela primeira vez em torno de uma classe rara de estrela supergigante",
+    "title_pt": "ALMA descobre enxofre pela primeira vez em torno de uma classe rara de estrela supergigante",
+    "title_en": "ALMA uncovers sulfur for the first time around a rare class of supergiant star",
+    "sub": "Os astrónomos descobriram uma coleção quimicamente rica de moléculas contendo enxofre em torno da rara estrela massiva HD 87643. As observações incluem a primeira deteção de.",
+    "sub_pt": "Os astrónomos descobriram uma coleção quimicamente rica de moléculas contendo enxofre em torno da rara estrela massiva HD 87643. As observações incluem a primeira deteção de.",
+    "sub_en": "Astronomers have discovered a chemically rich collection of sulfur-bearing molecules surrounding the rare massive star HD 87643. The observations include the first detection of.",
+    "excerpt": "Os astrónomos descobriram uma coleção quimicamente rica de moléculas contendo enxofre em torno da rara estrela massiva HD 87643. As observações incluem a primeira deteção de monóxido de enxofre e dióxido de enxofre em torno de uma supergigante B[e].",
+    "excerpt_pt": "Os astrónomos descobriram uma coleção quimicamente rica de moléculas contendo enxofre em torno da rara estrela massiva HD 87643. As observações incluem a primeira deteção de monóxido de enxofre e dióxido de enxofre em torno de uma supergigante B[e].",
+    "excerpt_en": "Astronomers have discovered a chemically rich collection of sulfur-bearing molecules surrounding the rare massive star HD 87643. The observations include the first detection of sulfur monoxide and sulfur dioxide around a B[e] supergiant.",
+    "body": "<p>Os astrónomos descobriram uma coleção quimicamente rica de moléculas contendo enxofre em torno da rara estrela massiva HD 87643. As observações incluem a primeira deteção de monóxido de enxofre e dióxido de enxofre em torno de uma supergigante B. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a química ganha força quando uma estrutura ou processo alegado pode ser descrito com precisão suficiente para ser reproduzido por outros. Rotas sintéticas, assinaturas espectroscópicas, rendimento em condições definidas e estabilidade em parâmetros operacionais realistas são a moeda de credibilidade na química, e um resultado que carece desses detalhes não pode ser avaliado de forma independente. A distância entre uma descoberta em bancada de laboratório e um processo que funciona confiavelmente em escala é medida em anos de otimização, e cada etapa revela restrições que eram invisíveis em escala menor. Os editores destacaram os seguintes atributos, garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial 13 emissões de CO no campo do HD 87643. Astrônomos descobriram uma coleção quimicamente rica de moléculas contendo enxofre em torno da rara estrela massiva HD 87643.</p><p>O artigo foi publicado no The Astrophysical Journal Letters em 1º de julho. Neste estudo, os pesquisadores, liderados por Cristobal Bordiu do Observatório Astrofísico INAF Catania, usaram observações do Atacama Compact Array do Atacama Large.</p><p>A análise revelou emissões de 10 moléculas diferentes: CO, 13 CO, OCS, H 2 CO, SO, 33 SO, SO 2, HNCO, O 13 CS e 13 CS. O enxofre é um elemento relativamente comum no universo, o décimo mais abundante no geral, e um dos seis elementos essenciais à vida como a conhecemos.</p><p>O interesse mais amplo está em saber se a propriedade ou rota de reação alegada pode ser caracterizada com precisão suficiente para sustentar replicação por outros grupos. A química tem um problema de replicação menos discutido do que o da psicologia ou da medicina, mas ele é real: procedimentos sintéticos que funcionam confiavelmente em um laboratório às vezes não se transferem, por razões que vão de materiais de partida impuros a sensibilidades de temperatura não documentadas. Um resultado que vem com detalhes experimentais completos e caracterização clara do produto é muito mais valioso do que um que relata uma descoberta sem o arcabouço procedimental.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se grupos independentes trabalhando com técnicas ortogonais chegam a conclusões compatíveis e se o resultado escala além das condições usadas no estudo original. Descobertas químicas que importam tendem a ser aquelas cujas propriedades principais podem ser medidas por múltiplos métodos espectroscópicos, cristalográficos ou computacionais que provavelmente não compartilham os mesmos pontos cegos. Escalabilidade, custo e estabilidade de longo prazo sob condições operacionais realistas são filtros adicionais que entram em jogo antes que qualquer aplicação prática se torne viável.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-alma-uncovers-sulfur-rare-class.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Os astrónomos descobriram uma coleção quimicamente rica de moléculas contendo enxofre em torno da rara estrela massiva HD 87643. As observações incluem a primeira deteção de monóxido de enxofre e dióxido de enxofre em torno de uma supergigante B. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a química ganha força quando uma estrutura ou processo alegado pode ser descrito com precisão suficiente para ser reproduzido por outros. Rotas sintéticas, assinaturas espectroscópicas, rendimento em condições definidas e estabilidade em parâmetros operacionais realistas são a moeda de credibilidade na química, e um resultado que carece desses detalhes não pode ser avaliado de forma independente. A distância entre uma descoberta em bancada de laboratório e um processo que funciona confiavelmente em escala é medida em anos de otimização, e cada etapa revela restrições que eram invisíveis em escala menor. Os editores destacaram os seguintes atributos, garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial 13 emissões de CO no campo do HD 87643. Astrônomos descobriram uma coleção quimicamente rica de moléculas contendo enxofre em torno da rara estrela massiva HD 87643.</p><p>O artigo foi publicado no The Astrophysical Journal Letters em 1º de julho. Neste estudo, os pesquisadores, liderados por Cristobal Bordiu do Observatório Astrofísico INAF Catania, usaram observações do Atacama Compact Array do Atacama Large.</p><p>A análise revelou emissões de 10 moléculas diferentes: CO, 13 CO, OCS, H 2 CO, SO, 33 SO, SO 2, HNCO, O 13 CS e 13 CS. O enxofre é um elemento relativamente comum no universo, o décimo mais abundante no geral, e um dos seis elementos essenciais à vida como a conhecemos.</p><p>O interesse mais amplo está em saber se a propriedade ou rota de reação alegada pode ser caracterizada com precisão suficiente para sustentar replicação por outros grupos. A química tem um problema de replicação menos discutido do que o da psicologia ou da medicina, mas ele é real: procedimentos sintéticos que funcionam confiavelmente em um laboratório às vezes não se transferem, por razões que vão de materiais de partida impuros a sensibilidades de temperatura não documentadas. Um resultado que vem com detalhes experimentais completos e caracterização clara do produto é muito mais valioso do que um que relata uma descoberta sem o arcabouço procedimental.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se grupos independentes trabalhando com técnicas ortogonais chegam a conclusões compatíveis e se o resultado escala além das condições usadas no estudo original. Descobertas químicas que importam tendem a ser aquelas cujas propriedades principais podem ser medidas por múltiplos métodos espectroscópicos, cristalográficos ou computacionais que provavelmente não compartilham os mesmos pontos cegos. Escalabilidade, custo e estabilidade de longo prazo sob condições operacionais realistas são filtros adicionais que entram em jogo antes que qualquer aplicação prática se torne viável.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-alma-uncovers-sulfur-rare-class.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Discovered a chemically rich collection of sulfur-bearing molecules surrounding the rare massive star HD 87643. The observations include the first detection of sulfur monoxide and sulfur dioxide around a B supergiant. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because chemistry gains force when a claimed structure or process can be described with enough precision to be reproduced by others. Synthetic routes, spectroscopic signatures, yield under defined conditions and stability under realistic operating parameters are the currency of credibility in chemistry, and a result that lacks these details cannot be evaluated independently. The distance between a discovery on a laboratory bench and a process that works reliably at scale is measured in years of optimization, and each step reveals constraints that were invisible at smaller scale. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source 13 CO emission in the field of HD 87643. Discovered a chemically rich collection of sulfur-bearing molecules surrounding the rare massive star HD 87643.</p><p>The paper was published in The Astrophysical Journal Letters on July 1. In this study, the researchers, led by Cristobal Bordiu of INAF Catania Astrophysical Observatory, used Atacama Large Millimeter/submillimeter Array&#x27;s Atacama Compact Array.</p><p>Their analysis revealed emissions from 10 different molecules: CO, 13 CO, OCS, H 2 CO, SO, 33 SO, SO 2, HNCO, O 13 CS and 13 CS. Sulfur is a relatively common element in the universe, the 10th most abundant overall, and one of just six elements essential to life as we know it.</p><p>That makes the new detections in HD 87643 especially significant, opening the door to studying sulfur chemistry in these extreme environments. These detections substantially expand the molecular inventory of HD 87643, previously limited to CO,&quot; the team writes in the paper.</p><p>The broader interest lies in whether the claimed property or reaction pathway can be characterized with enough precision to support replication by other groups. Chemistry has a replication problem that is less discussed than the one in psychology or medicine, but it is real: synthetic procedures that work reliably in one laboratory sometimes fail to transfer, for reasons ranging from impure starting materials to undocumented temperature sensitivities. A result that comes with full experimental detail and a clear characterization of the product is far more valuable than one that reports a discovery without the procedural backbone.</p><p>The ratio between two isotopes of sulfur monoxide is surprisingly low, around 15, compared with values found in other environments within our galaxy. This process, known as mass-independent fractionation, has previously been documented only in ancient rock samples from Earth and in meteorites.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent groups working with orthogonal techniques reach compatible conclusions, and whether the result scales beyond the conditions used in the original study. Chemical discoveries that matter tend to be ones whose key properties can be measured by multiple spectroscopic, crystallographic or computational methods that are unlikely to share the same blind spots. Scalability, cost and long-term stability under realistic operating conditions are additional filters that come into play before any practical application becomes viable.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-alma-uncovers-sulfur-rare-class.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Os astrónomos descobriram uma coleção quimicamente rica de moléculas contendo enxofre em torno da rara estrela massiva HD 87643. As observações.",
+      "Dado-chave: Os editores destacaram os seguintes atributos, garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial 13 emissões de CO no.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Os astrónomos descobriram uma coleção quimicamente rica de moléculas contendo enxofre em torno da rara estrela massiva HD 87643. As observações.",
+      "Dado-chave: Os editores destacaram os seguintes atributos, garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial 13 emissões de CO no.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Astronomers have discovered a chemically rich collection of sulfur-bearing molecules surrounding the rare massive star HD 87643. The observations.",
+      "Key detail: Editors have highlighted the following attributes while ensuring the content's credibility: Add as preferred source 13 CO emission in the field.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "20 ago 2026",
+    "date_pt": "20 ago 2026",
+    "date_en": "20 Aug 2026",
+    "time": "13h20",
+    "time_pt": "13h20",
+    "time_en": "13:20 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-20T13:20:07+00:00",
+    "lastModifiedIso": "2026-08-20T13:20:07+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Química",
+      "Phys.org Space",
+      "Cosmos Week",
+      "ALMA descobre enxofre pela primeira vez em torno de uma classe rara de estrela supergigante"
+    ],
+    "keywords_pt": [
+      "Química",
+      "Phys.org Space",
+      "Cosmos Week",
+      "ALMA descobre enxofre pela primeira vez em torno de uma classe rara de estrela supergigante"
+    ],
+    "keywords_en": [
+      "Chemical",
+      "Phys.org Space",
+      "Cosmos Week",
+      "ALMA discovers sulfur for the first time around a rare class of supergiant star"
+    ],
+    "srcUrl": "https://phys.org/news/2026-08-alma-uncovers-sulfur-rare-class.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=alma-uncovers-sulfur-for-the-first-time-around-a-rare-class-of-supergiant-star",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=alma-uncovers-sulfur-for-the-first-time-around-a-rare-class-of-supergiant-star",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=alma-uncovers-sulfur-for-the-first-time-around-a-rare-class-of-supergiant-star&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 71,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 88,
+      "relevance": 68,
+      "accessibility": 52,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 24,
     "slug": "nasa-data-feeds-river-forecasts-as-snow-drought-effects-linger",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2846,7 +2988,7 @@ window.postsData = [
     }
   },
   {
-    "id": 24,
+    "id": 25,
     "slug": "nasa-updates-next-steps-for-commercial-swift-boost-mission",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2951,7 +3093,7 @@ window.postsData = [
     }
   },
   {
-    "id": 25,
+    "id": 26,
     "slug": "science-release-hubble-details-early-galaxy-transforming-neighbourhood",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3087,7 +3229,7 @@ window.postsData = [
     }
   },
   {
-    "id": 26,
+    "id": 27,
     "slug": "science-release-hubble-unexpectedly-catches-comet-breaking-up",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3223,7 +3365,7 @@ window.postsData = [
     }
   },
   {
-    "id": 27,
+    "id": 28,
     "slug": "science-release-hubble-uncovers-the-secret-of-stars-that-defy-ageing",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3350,7 +3492,7 @@ window.postsData = [
     }
   },
   {
-    "id": 28,
+    "id": 29,
     "slug": "human-related-microbes-may-survive-moon-s-south-pole-nasa-finds",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3499,7 +3641,7 @@ window.postsData = [
     }
   },
   {
-    "id": 29,
+    "id": 30,
     "slug": "hubble-gaia-solve-our-galaxy-s-merger-mystery",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -3604,7 +3746,7 @@ window.postsData = [
     }
   },
   {
-    "id": 30,
+    "id": 31,
     "slug": "a-look-back-at-the-2026-total-solar-eclipse",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3709,7 +3851,7 @@ window.postsData = [
     }
   },
   {
-    "id": 31,
+    "id": 32,
     "slug": "how-esa-mimics-and-models-the-2026-total-solar-eclipse",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3811,139 +3953,6 @@ window.postsData = [
       "relevance": 80,
       "accessibility": 60,
       "novelty": 46
-    }
-  },
-  {
-    "id": 32,
-    "slug": "pluto-planetary-science-is-the-gift-that-keeps-on-giving",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://www.universetoday.com/article_images/Pluto-01_Stern_03_Pluto_Color_TXT_20260812_215944.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.universetoday.com/article_images/nh-scatteringmapcontext_06_29_16-v3-small4review-1024x461.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://www.universetoday.com/article_images/psjae7e85f2_lr_20260812_220745.jpg",
-        "caption": "Canais e lagoas de água derretida na camada de gelo da Groenlândia (imagem Landsat 9 fornecida por J. M. Miller, CERES, Universidade do Colorado).",
-        "caption_pt": "Canais e lagoas de água derretida na camada de gelo da Groenlândia (imagem Landsat 9 fornecida por J. M. Miller, CERES, Universidade do Colorado).",
-        "caption_en": "Meltwater channels and ponds on the Greenland ice sheet (Landsat 9 image provided by J. M. Miller, CERES, University of Colorado).",
-        "alt": "Canais e lagoas de água derretida na camada de gelo da Groenlândia (imagem Landsat 9 fornecida por J. M. Miller, CERES, Universidade do Colorado).",
-        "alt_pt": "Canais e lagoas de água derretida na camada de gelo da Groenlândia (imagem Landsat 9 fornecida por J. M. Miller, CERES, Universidade do Colorado).",
-        "alt_en": "Meltwater channels and ponds on the Greenland ice sheet (Landsat 9 image provided by J. M. Miller, CERES, University of Colorado)."
-      },
-      {
-        "src": "https://www.universetoday.com/article_images/psjae7e85f1_hr_20260812_220636.jpg",
-        "caption": "Um passeio pelas áreas convectivas de Plutão",
-        "caption_pt": "Um passeio pelas áreas convectivas de Plutão",
-        "caption_en": "A tour of the convected areas of Pluto",
-        "alt": "Um passeio pelas áreas convectivas de Plutão",
-        "alt_pt": "Um passeio pelas áreas convectivas de Plutão",
-        "alt_en": "A tour of the convected areas of Pluto"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "A ciência planetária de Plutão é o presente que continua sendo oferecido",
-    "title_pt": "A ciência planetária de Plutão é o presente que continua sendo oferecido",
-    "title_en": "Pluto Planetary Science is the Gift that Keeps on Giving",
-    "sub": "Algo está molhando a superfície do planeta anão Plutão, ao longo da borda norte do Sputnik Planitia, e os cientistas planetários encontraram uma boa explicação para isso. Um.",
-    "sub_pt": "Algo está molhando a superfície do planeta anão Plutão, ao longo da borda norte do Sputnik Planitia, e os cientistas planetários encontraram uma boa explicação para isso. Um.",
-    "sub_en": "Something's wetting the surface of dwarf planet Pluto along the northern edge of Sputnik Planitia, and planetary scientists have found a good explanation for it. A recent study of.",
-    "excerpt": "Algo está molhando a superfície do planeta anão Plutão, ao longo da borda norte do Sputnik Planitia, e os cientistas planetários encontraram uma boa explicação para isso. Um estudo recente de novas imagens da Horizons tiradas durante o sobrevôo de 2015 foi.",
-    "excerpt_pt": "Algo está molhando a superfície do planeta anão Plutão, ao longo da borda norte do Sputnik Planitia, e os cientistas planetários encontraram uma boa explicação para isso. Um estudo recente de novas imagens da Horizons tiradas durante o sobrevôo de 2015 foi.",
-    "excerpt_en": "Something's wetting the surface of dwarf planet Pluto along the northern edge of Sputnik Planitia, and planetary scientists have found a good explanation for it. A recent study of new Horizons images taken during the 2015 flyby revealed.",
-    "body": "<p>Algo está molhando a superfície do planeta anão Plutão, ao longo da borda norte do Sputnik Planitia, e os cientistas planetários encontraram uma boa explicação para isso. Um estudo recente de novas imagens da Horizons tiradas durante o sobrevôo de 2015 foi revelado. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Um estudo recente de imagens da nova Horizons tiradas durante o sobrevôo de 2015 revelou evidências de que o nitrogênio líquido está subindo através de rachaduras no Sputnik. Um estudo recente de imagens da New Horizons tiradas durante o sobrevôo de 2015 revela evidências de que o nitrogênio líquido está subindo através de rachaduras nas geleiras do.</p><p>Isto é incomum, dado que as temperaturas da superfície de Plutão nunca ultrapassam os -229°C e o ponto de fusão do nitrogênio é de -209,9°C. Uma equipe liderada pelo investigador principal da New Horizons e vice-presidente do Southwest Research Institute, Alan Stern, acaba de publicar um artigo descrevendo o que.</p><p>Além de sugerir que líquidos se expressaram recentemente na superfície de Plutão, também sugere um novo tipo de característica variável no tempo em Plutão.” O Sputnik Planitia. Os padrões de superfície na região norte são muito semelhantes aos dos glaciares da Terra que sofreram chuva de água ou água fluindo para a superfície por baixo do gelo.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/pluto-planetary-science-is-the-gift-that-keeps-on-giving\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Algo está molhando a superfície do planeta anão Plutão, ao longo da borda norte do Sputnik Planitia, e os cientistas planetários encontraram uma boa explicação para isso. Um estudo recente de novas imagens da Horizons tiradas durante o sobrevôo de 2015 foi revelado. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Um estudo recente de imagens da nova Horizons tiradas durante o sobrevôo de 2015 revelou evidências de que o nitrogênio líquido está subindo através de rachaduras no Sputnik. Um estudo recente de imagens da New Horizons tiradas durante o sobrevôo de 2015 revela evidências de que o nitrogênio líquido está subindo através de rachaduras nas geleiras do.</p><p>Isto é incomum, dado que as temperaturas da superfície de Plutão nunca ultrapassam os -229°C e o ponto de fusão do nitrogênio é de -209,9°C. Uma equipe liderada pelo investigador principal da New Horizons e vice-presidente do Southwest Research Institute, Alan Stern, acaba de publicar um artigo descrevendo o que.</p><p>Além de sugerir que líquidos se expressaram recentemente na superfície de Plutão, também sugere um novo tipo de característica variável no tempo em Plutão.” O Sputnik Planitia. Os padrões de superfície na região norte são muito semelhantes aos dos glaciares da Terra que sofreram chuva de água ou água fluindo para a superfície por baixo do gelo.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/pluto-planetary-science-is-the-gift-that-keeps-on-giving\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Something&#x27;s wetting the surface of dwarf planet Pluto along the northern edge of Sputnik Planitia, and planetary scientists have found a good explanation for it. A recent study of new Horizons images taken during the 2015 flyby revealed. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. A recent study of new Horizons images taken during the 2015 flyby revealed evidence that liquid nitrogen is rising up through cracks in Sputnik Planitia. A recent study of New Horizons images taken during the 2015 flyby reveal evidence that liquid nitrogen is rising up through cracks in Sputnik Planitia&#x27;s glaciers.</p><p>This is unusual, given that the surface temperatures at Pluto never get warmer than about -229 C and the melting point of nitrogen is -209.9 C. A team led by New Horizons principal investigator and Southwest Research Institute vice president Alan Stern has just published a paper outlining what they found when they.</p><p>In addition to suggesting that liquids have recently expressed themselves on Pluto’s surface, it also suggests a new kind of time-variable feature on Pluto.” Sputnik Planitia. The surface patterns in the northern region look very similar to glaciers on Earth that have experienced water rain or water flowing to the surface from beneath the ice.</p><p>The resemblance of the northern Sputnik Planitia region to familiar glacial sites here on Earth was good enough that it led the team to look for terrestrial examples of. Meltwater channels and ponds on the Greenland ice sheet (Landsat 9 image provided by J.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Its surface provides a different set of conditions compared to what we are used to on Earth, and exploring that allows us to better understand how materials behave in environments. 2026 The melting, flowing, and refreezing of liquid nitrogen on Pluto&#x27;s surface has analogs in other places in the outer Solar System, particularly on Neptune&#x27;s moon Triton.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/pluto-planetary-science-is-the-gift-that-keeps-on-giving\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Algo está molhando a superfície do planeta anão Plutão, ao longo da borda norte do Sputnik Planitia, e os cientistas planetários encontraram uma boa.",
-      "Dado-chave: Um estudo recente de imagens da nova Horizons tiradas durante o sobrevôo de 2015 revelou evidências de que o nitrogênio líquido está subindo.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Algo está molhando a superfície do planeta anão Plutão, ao longo da borda norte do Sputnik Planitia, e os cientistas planetários encontraram uma boa.",
-      "Dado-chave: Um estudo recente de imagens da nova Horizons tiradas durante o sobrevôo de 2015 revelou evidências de que o nitrogênio líquido está subindo.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Something's wetting the surface of dwarf planet Pluto along the northern edge of Sputnik Planitia, and planetary scientists have found a good.",
-      "Key detail: A recent study of new Horizons images taken during the 2015 flyby revealed evidence that liquid nitrogen is rising up through cracks in Sputnik.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "19 ago 2026",
-    "date_pt": "19 ago 2026",
-    "date_en": "19 Aug 2026",
-    "time": "20h12",
-    "time_pt": "20h12",
-    "time_en": "20:12 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-19T20:12:54+00:00",
-    "lastModifiedIso": "2026-08-19T20:12:54+00:00",
-    "source": "Universe Today",
-    "sourceDomain": "www.universetoday.com",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astronomia",
-      "Universe Today",
-      "Cosmos Week",
-      "A ciência planetária de Plutão é o presente que continua sendo oferecido"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "Universe Today",
-      "Cosmos Week",
-      "A ciência planetária de Plutão é o presente que continua sendo oferecido"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "Universe Today",
-      "Cosmos Week",
-      "Pluto's planetary science is the gift that keeps on giving"
-    ],
-    "srcUrl": "https://www.universetoday.com/articles/pluto-planetary-science-is-the-gift-that-keeps-on-giving",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=pluto-planetary-science-is-the-gift-that-keeps-on-giving",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=pluto-planetary-science-is-the-gift-that-keeps-on-giving",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=pluto-planetary-science-is-the-gift-that-keeps-on-giving&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 76,
-    "scoreBreakdown": {
-      "source": 73,
-      "evidence": 88,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 52
     }
   },
   {
@@ -4358,8 +4367,8 @@ window.postsData = [
     "excerpt": "As super-Terras podem ser sólidas nas suas profundezas, diz um novo estudo. Os minerais podem assumir formas incomuns e permanecer sólidos apesar do intenso calor e pressão. A postagem As super-Terras podem ser sólidas bem no fundo apareceu pela primeira vez.",
     "excerpt_pt": "As super-Terras podem ser sólidas nas suas profundezas, diz um novo estudo. Os minerais podem assumir formas incomuns e permanecer sólidos apesar do intenso calor e pressão. A postagem As super-Terras podem ser sólidas bem no fundo apareceu pela primeira vez.",
     "excerpt_en": "Super-Earths might be solid in their deep insides, a new study says. Minerals might take unusual forms and remain solid despite the intense heat and pressure. The post Super-Earths might be solid deep on the inside first appeared on.",
-    "body": "<p>As super-Terras podem ser sólidas nas suas profundezas, diz um novo estudo. Os minerais podem assumir formas incomuns e permanecer sólidos apesar do intenso calor e pressão. A postagem As super-Terras podem ser sólidas bem no fundo apareceu pela primeira vez. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. | Concepção artística do exoplaneta super-Terra LP 890-9 c. Ele orbita uma estrela anã vermelha a 98 anos-luz da Terra.</p><p>Agora, um novo estudo realizado por pesquisadores da Universidade de Princeton, em Nova Jersey, sugere algo surpreendente. Os investigadores descobriram que estes minerais poderiam provavelmente suportar as temperaturas e pressões extremamente elevadas nas profundezas das super-Terras, muito mais.</p><p>Nathaniel Scharping escreveu sobre as novas descobertas do Eos em 6 de agosto de 2026. Os pesquisadores publicaram seu artigo revisado por pares na AGU Advances em 18 de julho de 2026.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/super-earths-might-be-solid-exoplanets-minerals-mantles/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>As super-Terras podem ser sólidas nas suas profundezas, diz um novo estudo. Os minerais podem assumir formas incomuns e permanecer sólidos apesar do intenso calor e pressão. A postagem As super-Terras podem ser sólidas bem no fundo apareceu pela primeira vez. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. | Concepção artística do exoplaneta super-Terra LP 890-9 c. Ele orbita uma estrela anã vermelha a 98 anos-luz da Terra.</p><p>Agora, um novo estudo realizado por pesquisadores da Universidade de Princeton, em Nova Jersey, sugere algo surpreendente. Os investigadores descobriram que estes minerais poderiam provavelmente suportar as temperaturas e pressões extremamente elevadas nas profundezas das super-Terras, muito mais.</p><p>Nathaniel Scharping escreveu sobre as novas descobertas do Eos em 6 de agosto de 2026. Os pesquisadores publicaram seu artigo revisado por pares na AGU Advances em 18 de julho de 2026.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/super-earths-might-be-solid-exoplanets-minerals-mantles/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body": "<p>As super-Terras podem ser sólidas nas suas profundezas, diz um novo estudo. Os minerais podem assumir formas incomuns e permanecer sólidos apesar do intenso calor e pressão. A postagem As super-Terras podem ser sólidas bem no fundo apareceu pela primeira vez. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. | Concepção artística do exoplaneta super-Terra LP 890-9 c. Ele orbita uma estrela anã vermelha a 98 anos-luz da Terra.</p><p>Agora, um novo estudo realizado por pesquisadores da Universidade de Princeton, em Nova Jersey, sugere algo surpreendente. Os investigadores descobriram que estes minerais poderiam provavelmente suportar temperaturas e pressões extremamente elevadas nas profundezas das super-Terras, muito mais quentes.</p><p>Nathaniel Scharping escreveu sobre as novas descobertas do Eos em 6 de agosto de 2026. Os pesquisadores publicaram seu artigo revisado por pares na AGU Advances em 18 de julho de 2026.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/super-earths-might-be-solid-exoplanets-minerals-mantles/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>As super-Terras podem ser sólidas nas suas profundezas, diz um novo estudo. Os minerais podem assumir formas incomuns e permanecer sólidos apesar do intenso calor e pressão. A postagem As super-Terras podem ser sólidas bem no fundo apareceu pela primeira vez. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. | Concepção artística do exoplaneta super-Terra LP 890-9 c. Ele orbita uma estrela anã vermelha a 98 anos-luz da Terra.</p><p>Agora, um novo estudo realizado por pesquisadores da Universidade de Princeton, em Nova Jersey, sugere algo surpreendente. Os investigadores descobriram que estes minerais poderiam provavelmente suportar temperaturas e pressões extremamente elevadas nas profundezas das super-Terras, muito mais quentes.</p><p>Nathaniel Scharping escreveu sobre as novas descobertas do Eos em 6 de agosto de 2026. Os pesquisadores publicaram seu artigo revisado por pares na AGU Advances em 18 de julho de 2026.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/super-earths-might-be-solid-exoplanets-minerals-mantles/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
     "body_en": "<p>Super-Earths might be solid in their deep insides, a new study says. Minerals might take unusual forms and remain solid despite the intense heat and pressure. The post Super-Earths might be solid deep on the inside first appeared on. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. | Artist’s concept of the super-Earth exoplanet LP 890-9 c. It orbits a red dwarf star 98 light-years from Earth.</p><p>Now, a new study from researchers at Princeton University in New Jersey suggests something surprising. The researchers found these minerals could likely withstand the extremely high temperatures and pressures deep inside super-Earths, much hotter than inside Earth, and remain solid.</p><p>Nathaniel Scharping wrote about the new findings for Eos on August 6, 2026. The researchers published their peer-reviewed paper in AGU Advances on July 18, 2026.</p><p>| Illustration depicting the size of a super-Earth called CoRoT-7b. At even higher pressures, this phase breaks down into two different minerals: bridgmanite, the most abundant mineral phase in Earth, and ferropericlase, a magnesium-rich oxide.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>However, under the far more extreme pressures expected inside massive rocky planets known as super-Earths, Mg2SiO4 becomes stable again in an entirely new crystal structure called. Scientists predict that this ultrahigh-pressure phase of Mg2SiO4 is one of the dominant minerals in the deep mantles of super-Earths, making its melting behavior important for.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/super-earths-might-be-solid-exoplanets-minerals-mantles/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: As super-Terras podem ser sólidas nas suas profundezas, diz um novo estudo. Os minerais podem assumir formas incomuns e permanecer sólidos apesar do.",

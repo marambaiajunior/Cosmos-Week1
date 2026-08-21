@@ -40,14 +40,14 @@ window.postsData = [
     "date": "21 ago 2026",
     "date_pt": "21 ago 2026",
     "date_en": "21 Aug 2026",
-    "time": "09h48",
-    "time_pt": "09h48",
-    "time_en": "09:48 UTC",
+    "time": "10h40",
+    "time_pt": "10h40",
+    "time_en": "10:40 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-21T09:48:07.297214+00:00",
-    "lastModifiedIso": "2026-08-21T09:48:07.297214+00:00",
+    "publishedIso": "2026-08-21T10:40:28.196082+00:00",
+    "lastModifiedIso": "2026-08-21T10:40:28.196082+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -145,14 +145,14 @@ window.postsData = [
     "date": "21 ago 2026",
     "date_pt": "21 ago 2026",
     "date_en": "21 Aug 2026",
-    "time": "09h48",
-    "time_pt": "09h48",
-    "time_en": "09:48 UTC",
+    "time": "10h40",
+    "time_pt": "10h40",
+    "time_en": "10:40 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-21T09:48:07.297166+00:00",
-    "lastModifiedIso": "2026-08-21T09:48:07.297166+00:00",
+    "publishedIso": "2026-08-21T10:40:28.196033+00:00",
+    "lastModifiedIso": "2026-08-21T10:40:28.196033+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -253,14 +253,14 @@ window.postsData = [
     "date": "21 ago 2026",
     "date_pt": "21 ago 2026",
     "date_en": "21 Aug 2026",
-    "time": "09h48",
-    "time_pt": "09h48",
-    "time_en": "09:48 UTC",
+    "time": "10h40",
+    "time_pt": "10h40",
+    "time_en": "10:40 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-21T09:48:07.297113+00:00",
-    "lastModifiedIso": "2026-08-21T09:48:07.297113+00:00",
+    "publishedIso": "2026-08-21T10:40:28.195983+00:00",
+    "lastModifiedIso": "2026-08-21T10:40:28.195983+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -358,14 +358,14 @@ window.postsData = [
     "date": "21 ago 2026",
     "date_pt": "21 ago 2026",
     "date_en": "21 Aug 2026",
-    "time": "09h48",
-    "time_pt": "09h48",
-    "time_en": "09:48 UTC",
+    "time": "10h40",
+    "time_pt": "10h40",
+    "time_en": "10:40 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-21T09:48:07.297063+00:00",
-    "lastModifiedIso": "2026-08-21T09:48:07.297063+00:00",
+    "publishedIso": "2026-08-21T10:40:28.195934+00:00",
+    "lastModifiedIso": "2026-08-21T10:40:28.195934+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -442,8 +442,8 @@ window.postsData = [
     "excerpt": "Financiado pelo NIH, Alimentado por IA. análise de&nbsp. entrevistas sugerem. isso&nbsp. a&nbsp. juventude & nbsp. enquadramento de eventos estressantes. é&nbsp. um forte&nbsp. indicador&nbsp. de&nbsp. risco para&nbsp. futuro&nbsp. distúrbios.",
     "excerpt_pt": "Financiado pelo NIH, Alimentado por IA. análise de&nbsp. entrevistas sugerem. isso&nbsp. a&nbsp. juventude & nbsp. enquadramento de eventos estressantes. é&nbsp. um forte&nbsp. indicador&nbsp. de&nbsp. risco para&nbsp. futuro&nbsp. distúrbios.",
     "excerpt_en": "NIH-funded,&nbsp. AI-powered&nbsp. analysis of&nbsp. interviews suggests&nbsp. that&nbsp. a&nbsp. youth’s&nbsp. framing of stressful events&nbsp. is&nbsp. a strong&nbsp. indicator&nbsp. of&nbsp. risk for&nbsp. future&nbsp. disorders.",
-    "body": "<p>Financiado pelo NIH, Alimentado por IA. análise de&amp;nbsp. entrevistas sugerem. isso&amp;nbsp. a&amp;nbsp. juventude &amp; nbsp. enquadramento de eventos estressantes. é&amp;nbsp. um forte&amp;nbsp. indicador&amp;nbsp. de&amp;nbsp. risco para&amp;nbsp. futuro&amp;nbsp. distúrbios. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. A análise de entrevistas financiada pelo NIH e alimentada por IA sugere que o enquadramento de eventos estressantes por um jovem é um forte indicador de risco para distúrbios. Num estudo financiado pelos Institutos Nacionais de Saúde (NIH), os cientistas desenvolveram modelos preditivos baseados nestas características que poderiam prever o início dos.</p><p>Com os métodos atuais, que dependem fortemente de fatores de risco estáticos, não podemos distinguir com segurança as crianças que estão em risco daquelas que provavelmente serão. Os pesquisadores analisaram gravações de áudio de entrevistas estruturadas com 204 crianças, de 9 a 13 anos de idade, matriculadas no Early Life Stress Study, apoiado pelo NIH.</p><p>As entrevistas, com cerca de 30 minutos em média, cobriram a exposição de cada criança a acontecimentos traumáticos ao longo da vida, fornecendo uma medida do stress inicial. Outros marcadores robustos incluíram o uso de linguagem rígida que expressava certeza absoluta e discurso autorreferencial indicado pelo uso intenso de pronomes na primeira pessoa.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de NIH News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.nih.gov/news-events/news-releases/childs-language-may-predict-arrival-depression-anxiety-disorders-years-before-onset\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Financiado pelo NIH, Alimentado por IA. análise de&amp;nbsp. entrevistas sugerem. isso&amp;nbsp. a&amp;nbsp. juventude &amp; nbsp. enquadramento de eventos estressantes. é&amp;nbsp. um forte&amp;nbsp. indicador&amp;nbsp. de&amp;nbsp. risco para&amp;nbsp. futuro&amp;nbsp. distúrbios. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. A análise de entrevistas financiada pelo NIH e alimentada por IA sugere que o enquadramento de eventos estressantes por um jovem é um forte indicador de risco para distúrbios. Num estudo financiado pelos Institutos Nacionais de Saúde (NIH), os cientistas desenvolveram modelos preditivos baseados nestas características que poderiam prever o início dos.</p><p>Com os métodos atuais, que dependem fortemente de fatores de risco estáticos, não podemos distinguir com segurança as crianças que estão em risco daquelas que provavelmente serão. Os pesquisadores analisaram gravações de áudio de entrevistas estruturadas com 204 crianças, de 9 a 13 anos de idade, matriculadas no Early Life Stress Study, apoiado pelo NIH.</p><p>As entrevistas, com cerca de 30 minutos em média, cobriram a exposição de cada criança a acontecimentos traumáticos ao longo da vida, fornecendo uma medida do stress inicial. Outros marcadores robustos incluíram o uso de linguagem rígida que expressava certeza absoluta e discurso autorreferencial indicado pelo uso intenso de pronomes na primeira pessoa.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de NIH News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.nih.gov/news-events/news-releases/childs-language-may-predict-arrival-depression-anxiety-disorders-years-before-onset\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body": "<p>Financiado pelo NIH, Alimentado por IA. análise de&amp;nbsp. entrevistas sugerem. isso&amp;nbsp. a&amp;nbsp. juventude &amp; nbsp. enquadramento de eventos estressantes. é&amp;nbsp. um forte&amp;nbsp. indicador&amp;nbsp. de&amp;nbsp. risco para&amp;nbsp. futuro&amp;nbsp. distúrbios. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. A análise de entrevistas financiada pelo NIH e alimentada por IA sugere que o enquadramento de eventos estressantes por um jovem é um forte indicador de risco para distúrbios. Num estudo financiado pelos Institutos Nacionais de Saúde (NIH), os cientistas desenvolveram modelos preditivos baseados nestas características que poderiam prever o início dos.</p><p>Com os métodos atuais, que dependem fortemente de fatores de risco estáticos, não podemos distinguir com segurança as crianças que estão em risco daquelas que provavelmente serão. Os pesquisadores analisaram gravações de áudio de entrevistas estruturadas com 204 crianças, de 9 a 13 anos de idade, matriculadas no Early Life Stress Study, apoiado pelo NIH.</p><p>As entrevistas, com cerca de 30 minutos em média, cobriram a exposição ao longo da vida de cada criança a eventos traumáticos, fornecendo uma medida do stress inicial quando as. Outros marcadores robustos incluíram o uso de linguagem rígida que expressava certeza absoluta e discurso autorreferencial indicado pelo uso intenso de pronomes na primeira pessoa.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de NIH News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.nih.gov/news-events/news-releases/childs-language-may-predict-arrival-depression-anxiety-disorders-years-before-onset\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Financiado pelo NIH, Alimentado por IA. análise de&amp;nbsp. entrevistas sugerem. isso&amp;nbsp. a&amp;nbsp. juventude &amp; nbsp. enquadramento de eventos estressantes. é&amp;nbsp. um forte&amp;nbsp. indicador&amp;nbsp. de&amp;nbsp. risco para&amp;nbsp. futuro&amp;nbsp. distúrbios. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. A análise de entrevistas financiada pelo NIH e alimentada por IA sugere que o enquadramento de eventos estressantes por um jovem é um forte indicador de risco para distúrbios. Num estudo financiado pelos Institutos Nacionais de Saúde (NIH), os cientistas desenvolveram modelos preditivos baseados nestas características que poderiam prever o início dos.</p><p>Com os métodos atuais, que dependem fortemente de fatores de risco estáticos, não podemos distinguir com segurança as crianças que estão em risco daquelas que provavelmente serão. Os pesquisadores analisaram gravações de áudio de entrevistas estruturadas com 204 crianças, de 9 a 13 anos de idade, matriculadas no Early Life Stress Study, apoiado pelo NIH.</p><p>As entrevistas, com cerca de 30 minutos em média, cobriram a exposição ao longo da vida de cada criança a eventos traumáticos, fornecendo uma medida do stress inicial quando as. Outros marcadores robustos incluíram o uso de linguagem rígida que expressava certeza absoluta e discurso autorreferencial indicado pelo uso intenso de pronomes na primeira pessoa.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de NIH News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.nih.gov/news-events/news-releases/childs-language-may-predict-arrival-depression-anxiety-disorders-years-before-onset\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
     "body_en": "<p>NIH-funded,&amp;nbsp. AI-powered&amp;nbsp. analysis of&amp;nbsp. interviews suggests&amp;nbsp. that&amp;nbsp. a&amp;nbsp. youth’s&amp;nbsp. framing of stressful events&amp;nbsp. is&amp;nbsp. a strong&amp;nbsp. indicator&amp;nbsp. of&amp;nbsp. risk for&amp;nbsp. future&amp;nbsp. disorders. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because biology becomes more informative when an observed effect begins to look like a mechanism rather than an isolated pattern. The gap between identifying a correlation in biological data and understanding the causal chain that produces it is routinely underestimated, and the history of biomedical research is populated with associations that collapsed when the mechanism was sought and not found. A result that comes with a proposed mechanism, even a partial one, is more useful than a purely descriptive finding because it generates testable predictions that can narrow the hypothesis space. NIH-funded, AI-powered analysis of interviews suggests that a youth’s framing of stressful events is a strong indicator of risk for future disorders. In a National Institutes of Health (NIH)-funded study, scientists developed predictive models based on these features that could predict symptom onset and diagnosis up to six.</p><p>With current methods, which rely heavily on static risk factors, we cannot reliably distinguish children who are at risk from those who are likely to be resilient,” said first. The researchers analyzed audio recordings of structured interviews with 204 children, 9 to 13 years old, enrolled in the NIH-supported Early Life Stress Study.</p><p>The interviews, about 30 minutes on average, covered each child’s lifetime exposure to traumatic events, providing a measure of baseline stress when children were not yet. Other robust markers included the use of rigid language that expressed absolute certainty and self-referential speech indicated by heavy use of first-person singular pronouns.</p><p>“A method of predicting which children are most vulnerable to developing mood and anxiety disorders would be tremendous in helping to prevent a possible burden of cost and. NIH supported this research through NIMH grants R37MH101495 and F32MH135657.</p><p>The broader interest lies in whether the reported effect points toward a real mechanism and not merely a reproducible but unexplained association. Biology has learned from decades of biomarker failures that correlation, even robust correlation, is not a substitute for mechanistic understanding. A pathway that can be traced from molecular interaction to cellular response to organismal phenotype provides a far stronger foundation for intervention than a statistical association discovered in a large dataset, however well the statistics are done.</p><p>About the National Institute of Mental Health (NIMH): The mission of the NIMH is to transform the understanding and treatment of mental illnesses through basic and clinical. About the National Institutes of Health (NIH): NIH, the nation&#x27;s medical research agency, includes 27 Institutes and Centers and is a component of the U. S.</p><p>Because the account originates with NIH News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to test whether the effect repeats across different methods, cell types, model organisms and experimental conditions. Reproducibility is the first test, but mechanistic dissection is the second, and a result that passes both has a substantially better chance of translating into something clinically or biotechnologically useful. The path from a laboratory finding to an applied outcome typically takes a decade or more, and most findings do not complete it; the current result sits at the beginning of that process.</p><p class=\"art-source\"><a href=\"https://www.nih.gov/news-events/news-releases/childs-language-may-predict-arrival-depression-anxiety-disorders-years-before-onset\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Financiado pelo NIH, Alimentado por IA. análise de&nbsp. entrevistas sugerem. isso&nbsp. a&nbsp. juventude & nbsp. enquadramento de eventos.",
@@ -463,14 +463,14 @@ window.postsData = [
     "date": "21 ago 2026",
     "date_pt": "21 ago 2026",
     "date_en": "21 Aug 2026",
-    "time": "09h48",
-    "time_pt": "09h48",
-    "time_en": "09:48 UTC",
+    "time": "10h40",
+    "time_pt": "10h40",
+    "time_en": "10:40 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-21T09:48:07.297015+00:00",
-    "lastModifiedIso": "2026-08-21T09:48:07.297015+00:00",
+    "publishedIso": "2026-08-21T10:40:28.195888+00:00",
+    "lastModifiedIso": "2026-08-21T10:40:28.195888+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -531,6 +531,239 @@ window.postsData = [
   },
   {
     "id": 6,
+    "slug": "voyager-2-confirms-neptune-s-rings-on-august-22-in-1989",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://earthsky.org/upl/2013/08/neptune-rings.jpg",
+    "inline_images": [
+      {
+        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Voyager 2 confirma os anéis de Netuno em 22 de agosto de 1989",
+    "title_pt": "Voyager 2 confirma os anéis de Netuno em 22 de agosto de 1989",
+    "title_en": "Voyager 2 confirms Neptune’s rings on August 22 in 1989",
+    "sub": "A Voyager 2 da NASA confirmou a descoberta dos anéis de Netuno em 22 de agosto de 1989, quando obteve imagens de um sistema de anéis tênue e contínuo ao redor do planeta. O post.",
+    "sub_pt": "A Voyager 2 da NASA confirmou a descoberta dos anéis de Netuno em 22 de agosto de 1989, quando obteve imagens de um sistema de anéis tênue e contínuo ao redor do planeta. O post.",
+    "sub_en": "NASA's Voyager 2 confirmed the discovery of Neptune's rings on August 22, 1989, when it took images of a faint, continuous ring system around the planet. The post Voyager 2.",
+    "excerpt": "A Voyager 2 da NASA confirmou a descoberta dos anéis de Netuno em 22 de agosto de 1989, quando obteve imagens de um sistema de anéis tênue e contínuo ao redor do planeta. O post Voyager 2 confirma os anéis de Netuno em 22 de agosto de 1989 apareceu pela.",
+    "excerpt_pt": "A Voyager 2 da NASA confirmou a descoberta dos anéis de Netuno em 22 de agosto de 1989, quando obteve imagens de um sistema de anéis tênue e contínuo ao redor do planeta. O post Voyager 2 confirma os anéis de Netuno em 22 de agosto de 1989 apareceu pela.",
+    "excerpt_en": "NASA's Voyager 2 confirmed the discovery of Neptune's rings on August 22, 1989, when it took images of a faint, continuous ring system around the planet. The post Voyager 2 confirms Neptune’s rings on August 22 in 1989 first appeared on.",
+    "body": "<p>A Voyager 2 da NASA confirmou a descoberta dos anéis de Netuno em 22 de agosto de 1989, quando obteve imagens de um sistema de anéis tênue e contínuo ao redor do planeta. O post Voyager 2 confirma os anéis de Netuno em 22 de agosto de 1989 apareceu pela primeira vez. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. A Voyager 2 da NASA confirmou a descoberta dos anéis de Netuno em 22 de agosto de 1989, quando obteve imagens de um sistema de anéis tênue e contínuo ao redor do planeta. O post Voyager 2 confirma os anéis de Netuno em 22 de agosto de 1989 apareceu pela primeira vez no EarthSky.</p><p>Esta imagem iluminada da Voyager 2 revela os anéis tênues e contínuos de Netuno. A Voyager 2 confirmou a existência dos anéis de Netuno em 22 de agosto de 1989.</p><p>Os anéis de Netuno confirmados em 22 de agosto de 1989 No final da década de 1980, os astrônomos suspeitavam que havia anéis ao redor de Netuno, o grande planeta mais externo do. O mesmo acontece com Júpiter (encontrado em 1979) e Saturno (observado pela primeira vez através dos primeiros telescópios em 1600).</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/this-date-in-science-the-definitive-discovery-of-neptunes-rings/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A Voyager 2 da NASA confirmou a descoberta dos anéis de Netuno em 22 de agosto de 1989, quando obteve imagens de um sistema de anéis tênue e contínuo ao redor do planeta. O post Voyager 2 confirma os anéis de Netuno em 22 de agosto de 1989 apareceu pela primeira vez. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. A Voyager 2 da NASA confirmou a descoberta dos anéis de Netuno em 22 de agosto de 1989, quando obteve imagens de um sistema de anéis tênue e contínuo ao redor do planeta. O post Voyager 2 confirma os anéis de Netuno em 22 de agosto de 1989 apareceu pela primeira vez no EarthSky.</p><p>Esta imagem iluminada da Voyager 2 revela os anéis tênues e contínuos de Netuno. A Voyager 2 confirmou a existência dos anéis de Netuno em 22 de agosto de 1989.</p><p>Os anéis de Netuno confirmados em 22 de agosto de 1989 No final da década de 1980, os astrônomos suspeitavam que havia anéis ao redor de Netuno, o grande planeta mais externo do. O mesmo acontece com Júpiter (encontrado em 1979) e Saturno (observado pela primeira vez através dos primeiros telescópios em 1600).</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/this-date-in-science-the-definitive-discovery-of-neptunes-rings/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>NASA&#x27;s Voyager 2 confirmed the discovery of Neptune&#x27;s rings on August 22, 1989, when it took images of a faint, continuous ring system around the planet. The post Voyager 2 confirms Neptune’s rings on August 22 in 1989 first appeared on. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. NASA&#x27;s Voyager 2 confirmed the discovery of Neptune&#x27;s rings on August 22, 1989, when it took images of a faint, continuous ring system around the planet. The post Voyager 2 confirms Neptune’s rings on August 22 in 1989 first appeared on EarthSky.</p><p>This brightened Voyager 2 image reveals the faint and continuous rings of Neptune. Voyager 2 confirmed the existence of Neptune’s rings on August 22, 1989.</p><p>Neptune’s rings confirmed August 22, 1989 By the late 1980s, astronomers suspected that there are rings around Neptune, our solar system’s outermost major planet. So does Jupiter (found in 1979) and Saturn (first glimpsed through early telescopes in the 1600s).</p><p>Then, watching from Earth in 1984, astronomers recorded extra blinks before and after Neptune passed in front of a distant star. But it was NASA’s Voyager 2 spacecraft that provided the first photographic proof of the existence of Neptune’s rings on August 22, 1989.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>At the time, the spacecraft was a few days out from its closest encounter with the planet on August 25, 1989. But since Voyager’s 1989 flyby, the Hubble Space Telescope, the James Webb Space Telescope, and Earth-based telescopes have imaged the two brightest rings of Neptune.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/this-date-in-science-the-definitive-discovery-of-neptunes-rings/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: A Voyager 2 da NASA confirmou a descoberta dos anéis de Netuno em 22 de agosto de 1989, quando obteve imagens de um sistema de anéis tênue e contínuo.",
+      "Dado-chave: A Voyager 2 da NASA confirmou a descoberta dos anéis de Netuno em 22 de agosto de 1989, quando obteve imagens de um sistema de anéis tênue e.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: A Voyager 2 da NASA confirmou a descoberta dos anéis de Netuno em 22 de agosto de 1989, quando obteve imagens de um sistema de anéis tênue e contínuo.",
+      "Dado-chave: A Voyager 2 da NASA confirmou a descoberta dos anéis de Netuno em 22 de agosto de 1989, quando obteve imagens de um sistema de anéis tênue e.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: NASA's Voyager 2 confirmed the discovery of Neptune's rings on August 22, 1989, when it took images of a faint, continuous ring system around the.",
+      "Key detail: NASA's Voyager 2 confirmed the discovery of Neptune's rings on August 22, 1989, when it took images of a faint, continuous ring system around.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "21 ago 2026",
+    "date_pt": "21 ago 2026",
+    "date_en": "21 Aug 2026",
+    "time": "10h00",
+    "time_pt": "10h00",
+    "time_en": "10:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-21T10:00:48+00:00",
+    "lastModifiedIso": "2026-08-21T10:00:48+00:00",
+    "source": "EarthSky",
+    "sourceDomain": "earthsky.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "EarthSky",
+      "Cosmos Week",
+      "Voyager 2 confirma os anéis de Netuno em 22 de agosto de 1989"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "EarthSky",
+      "Cosmos Week",
+      "Voyager 2 confirma os anéis de Netuno em 22 de agosto de 1989"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "EarthSky",
+      "Cosmos Week",
+      "Voyager 2 confirms Neptune's rings on August 22, 1989"
+    ],
+    "srcUrl": "https://earthsky.org/space/this-date-in-science-the-definitive-discovery-of-neptunes-rings/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=voyager-2-confirms-neptune-s-rings-on-august-22-in-1989",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=voyager-2-confirms-neptune-s-rings-on-august-22-in-1989",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=voyager-2-confirms-neptune-s-rings-on-august-22-in-1989&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 74,
+    "scoreBreakdown": {
+      "source": 72,
+      "evidence": 88,
+      "relevance": 80,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
+    "slug": "sun-news-m8-1-flare-nears-x-flare-boundaries",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://earthsky.org/upl/2026/08/Aug-20-26-Sun-activity-M8.1-flare.-ezgif.com-video-to-webp-converter.webp",
+    "inline_images": [
+      {
+        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Notícias da Sun: o flare M8.1 se aproxima dos limites do flare X",
+    "title_pt": "Notícias da Sun: o flare M8.1 se aproxima dos limites do flare X",
+    "title_en": "Sun news: M8.1 flare nears X flare boundaries",
+    "sub": "AR4513 atacou novamente com um M8.1, pouco antes da classe X, mais um M2.9. Com uma nova complexidade delta, poderão ocorrer erupções maiores. A postagem Notícias do Sol: o.",
+    "sub_pt": "AR4513 atacou novamente com um M8.1, pouco antes da classe X, mais um M2.9. Com uma nova complexidade delta, poderão ocorrer erupções maiores. A postagem Notícias do Sol: o.",
+    "sub_en": "AR4513 struck again with an M8.1, just shy of X class, plus an M2.9. With a fresh delta complexity, bigger flares could follow. The post Sun news: M8.1 flare nears X flare.",
+    "excerpt": "AR4513 atacou novamente com um M8.1, pouco antes da classe X, mais um M2.9. Com uma nova complexidade delta, poderão ocorrer erupções maiores. A postagem Notícias do Sol: o alargamento M8.1 se aproxima dos limites do alargamento X apareceu pela primeira vez.",
+    "excerpt_pt": "AR4513 atacou novamente com um M8.1, pouco antes da classe X, mais um M2.9. Com uma nova complexidade delta, poderão ocorrer erupções maiores. A postagem Notícias do Sol: o alargamento M8.1 se aproxima dos limites do alargamento X apareceu pela primeira vez.",
+    "excerpt_en": "AR4513 struck again with an M8.1, just shy of X class, plus an M2.9. With a fresh delta complexity, bigger flares could follow. The post Sun news: M8.1 flare nears X flare boundaries first appeared on EarthSky.",
+    "body": "<p>AR4513 atacou novamente com um M8.1, pouco antes da classe X, mais um M2.9. Com uma nova complexidade delta, poderão ocorrer erupções maiores. A postagem Notícias do Sol: o alargamento M8.1 se aproxima dos limites do alargamento X apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O alargamento M8.1 se aproxima dos limites do alargamento X apareceu pela primeira vez no EarthSky. Ele abre com uma visão do sol em todo o disco e, em seguida, amplia o membro leste, onde o AR4513 liberou o clarão mais forte do dia, pouco antes do território da classe X.</p><p>A análise inicial indica que a matéria solar está fora da zona de impacto da Terra. À medida que o AR4513 gira para uma visão mais frontal para melhor análise, ele agora mostra uma complexidade magnética beta-gama-delta completa.</p><p>O evento está associado a uma explosão C3.5 do AR4507, que fez parecer que a nossa “aranha solar” terminava nesta proeminência. Nossa estrela continua mostrando quatro regiões numeradas de manchas solares hoje no disco solar conforme a vemos da Terra.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>AR4513 atacou novamente com um M8.1, pouco antes da classe X, mais um M2.9. Com uma nova complexidade delta, poderão ocorrer erupções maiores. A postagem Notícias do Sol: o alargamento M8.1 se aproxima dos limites do alargamento X apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O alargamento M8.1 se aproxima dos limites do alargamento X apareceu pela primeira vez no EarthSky. Ele abre com uma visão do sol em todo o disco e, em seguida, amplia o membro leste, onde o AR4513 liberou o clarão mais forte do dia, pouco antes do território da classe X.</p><p>A análise inicial indica que a matéria solar está fora da zona de impacto da Terra. À medida que o AR4513 gira para uma visão mais frontal para melhor análise, ele agora mostra uma complexidade magnética beta-gama-delta completa.</p><p>O evento está associado a uma explosão C3.5 do AR4507, que fez parecer que a nossa “aranha solar” terminava nesta proeminência. Nossa estrela continua mostrando quatro regiões numeradas de manchas solares hoje no disco solar conforme a vemos da Terra.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>AR4513 struck again with an M8.1, just shy of X class, plus an M2.9. With a fresh delta complexity, bigger flares could follow. The post Sun news: M8.1 flare nears X flare boundaries first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. M8.1 flare nears X flare boundaries first appeared on EarthSky. It opens with a full-disk view of the sun, then zooms into the eastern limb, where AR4513 unleashed the day’s strongest flare, just shy of X-class territory.</p><p>Initial analysis indicates the solar stuff lies just outside Earth’s strike zone. As AR4513 rotates into a more frontal view for better analysis, it now shows a complete beta-gamma-delta magnetic complexity.</p><p>The event is associated with a C3.5 flare from AR4507, which made it seem like our “solar spider” ended in this prominence. Our star keeps showing four numbered sunspot regions today on the solar disk as we see it from Earth.</p><p>Another eruption in the southwest, associated with a C3.5 at 23: 44 UTC, also came from AR4507 and likewise appears too far off course to reach us. Past 24 hours in space weather Solar wind: Solar wind speeds averaged moderate-high levels throughout the period, under the effects of fast wind from a coronal hole.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Earth’s magnetic field ranged from quiet to unsettled levels through the past day, with Kp values from 2 to 3. Both numbers climbed after the M8.1 flare from AR4513 and the region’s complexity increased, giving it today’s beta-gamma-delta configuration.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: AR4513 atacou novamente com um M8.1, pouco antes da classe X, mais um M2.9. Com uma nova complexidade delta, poderão ocorrer erupções maiores. A.",
+      "Dado-chave: o alargamento M8.1 se aproxima dos limites do alargamento X apareceu pela primeira vez no EarthSky.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: AR4513 atacou novamente com um M8.1, pouco antes da classe X, mais um M2.9. Com uma nova complexidade delta, poderão ocorrer erupções maiores. A.",
+      "Dado-chave: o alargamento M8.1 se aproxima dos limites do alargamento X apareceu pela primeira vez no EarthSky.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: AR4513 struck again with an M8.1, just shy of X class, plus an M2.9. With a fresh delta complexity, bigger flares could follow. The post Sun news.",
+      "Key detail: M8.1 flare nears X flare boundaries first appeared on EarthSky.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "21 ago 2026",
+    "date_pt": "21 ago 2026",
+    "date_en": "21 Aug 2026",
+    "time": "09h00",
+    "time_pt": "09h00",
+    "time_en": "09:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-21T09:00:53+00:00",
+    "lastModifiedIso": "2026-08-21T09:00:53+00:00",
+    "source": "EarthSky",
+    "sourceDomain": "earthsky.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "EarthSky",
+      "Cosmos Week",
+      "Notícias da Sun",
+      "o flare M8.1 se aproxima dos limites do flare X"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "EarthSky",
+      "Cosmos Week",
+      "Notícias da Sun",
+      "o flare M8.1 se aproxima dos limites do flare X"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "EarthSky",
+      "Cosmos Week",
+      "Sun News",
+      "the M8.1 flare approaches the limits of the X flare"
+    ],
+    "srcUrl": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=sun-news-m8-1-flare-nears-x-flare-boundaries",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=sun-news-m8-1-flare-nears-x-flare-boundaries",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=sun-news-m8-1-flare-nears-x-flare-boundaries&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 68,
+    "scoreBreakdown": {
+      "source": 72,
+      "evidence": 82,
+      "relevance": 62,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 8,
     "slug": "this-week-s-sky-at-a-glance-august-21-30",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -652,7 +885,7 @@ window.postsData = [
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -666,40 +899,12 @@ window.postsData = [
     }
   },
   {
-    "id": 7,
+    "id": 9,
     "slug": "sentinel-1-captures-major-ice-loss-from-greenland-glacier",
     "cat": "Ciências da Terra",
     "catCls": "terra",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/petermann_glacier_calves_huge_iceberg/27425701-1-eng-GB/Petermann_Glacier_calves_huge_iceberg_card_full.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/size_of_new_iceberg_calved_from_petermann_glacier/27425607-1-eng-GB/Size_of_new_iceberg_calved_from_Petermann_Glacier_article.jpg",
-        "caption": "Tamanho do novo iceberg extraído da geleira Petermann",
-        "caption_pt": "Tamanho do novo iceberg extraído da geleira Petermann",
-        "caption_en": "Size of new iceberg calved from Petermann Glacier",
-        "alt": "Tamanho do novo iceberg extraído da geleira Petermann",
-        "alt_pt": "Tamanho do novo iceberg extraído da geleira Petermann",
-        "alt_en": "Size of new iceberg calved from Petermann Glacier"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/petermann_ice_tongue_april_august_2026/27425560-1-eng-GB/Petermann_ice_tongue_April_August_2026_article.gif",
-        "caption": "Língua de gelo Petermann abril-agosto de 2026",
-        "caption_pt": "Língua de gelo Petermann abril-agosto de 2026",
-        "caption_en": "Petermann ice tongue April–August 2026",
-        "alt": "Língua de gelo Petermann abril-agosto de 2026",
-        "alt_pt": "Língua de gelo Petermann abril-agosto de 2026",
-        "alt_en": "Petermann ice tongue April–August 2026"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/sentinel-1_interferometry_highlights_fractures_of_petermann_ice_tongue/27425654-1-eng-GB/Sentinel-1_interferometry_highlights_fractures_of_Petermann_ice_tongue_article.jpg",
-        "caption": "A interferometria Sentinel-1 destaca fraturas da língua de gelo de Petermann",
-        "caption_pt": "A interferometria Sentinel-1 destaca fraturas da língua de gelo de Petermann",
-        "caption_en": "Sentinel-1 interferometry highlights fractures of Petermann ice tongue",
-        "alt": "A interferometria Sentinel-1 destaca fraturas da língua de gelo de Petermann",
-        "alt_pt": "A interferometria Sentinel-1 destaca fraturas da língua de gelo de Petermann",
-        "alt_en": "Sentinel-1 interferometry highlights fractures of Petermann ice tongue"
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "Sentinel-1 captura grande perda de gelo da geleira da Groenlândia",
@@ -711,9 +916,9 @@ window.postsData = [
     "excerpt": "A missão europeia Copernicus Sentinel-1 capturou uma mudança dramática no glaciar Petermann, no noroeste da Gronelândia, onde uma secção de 76 km2 da língua de gelo flutuante do glaciar se separou em 4 de agosto de 2026. O evento marca a evolução do glaciar.",
     "excerpt_pt": "A missão europeia Copernicus Sentinel-1 capturou uma mudança dramática no glaciar Petermann, no noroeste da Gronelândia, onde uma secção de 76 km2 da língua de gelo flutuante do glaciar se separou em 4 de agosto de 2026. O evento marca a evolução do glaciar.",
     "excerpt_en": "Europe’s Copernicus Sentinel-1 mission has captured a dramatic change at Petermann Glacier in northwest Greenland, where a 76 sq km section of the glacier’s floating ice tongue broke away on 4 August 2026. The event marks the glacier’s.",
-    "body": "<p>A missão europeia Copernicus Sentinel-1 capturou uma mudança dramática no glaciar Petermann, no noroeste da Gronelândia, onde uma secção de 76 km2 da língua de gelo flutuante do glaciar se separou em 4 de agosto de 2026. O evento marca a evolução do glaciar. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. A missão europeia Copernicus Sentinel-1 capturou uma mudança dramática no glaciar Petermann, no noroeste da Gronelândia, onde uma secção de 76 quilómetros quadrados da língua de. O evento marca a maior perda de gelo flutuante do glaciar desde 2012 e o evento de desintegração mais significativo no Ártico desde 2020, revelando mais uma vez a rapidez com que.</p><p>O recém-formado iceberg tabular, ou “ilha de gelo”, cobre uma área aproximadamente do mesmo tamanho de Manhattan e tem até 150 metros de espessura. As imagens do radar Sentinel-1 capturadas em 3 de agosto mostraram uma deterioração pronunciada ao longo da linha central da língua de gelo.</p><p>Como o Sentinel-1 carrega um radar, ele pode observar dia e noite e através da cobertura de nuvens, tornando-o particularmente adequado para monitorar geleiras remotas do Ártico. Utilizando estas imagens de radar Sentinel-1, uma equipa internacional de investigadores, parcialmente financiada pelo projecto FutureEO ARCTEX da ESA, tem monitorizado o Glaciar.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1_captures_major_ice_loss_from_Greenland_glacier\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A missão europeia Copernicus Sentinel-1 capturou uma mudança dramática no glaciar Petermann, no noroeste da Gronelândia, onde uma secção de 76 km2 da língua de gelo flutuante do glaciar se separou em 4 de agosto de 2026. O evento marca a evolução do glaciar. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. A missão europeia Copernicus Sentinel-1 capturou uma mudança dramática no glaciar Petermann, no noroeste da Gronelândia, onde uma secção de 76 quilómetros quadrados da língua de. O evento marca a maior perda de gelo flutuante do glaciar desde 2012 e o evento de desintegração mais significativo no Ártico desde 2020, revelando mais uma vez a rapidez com que.</p><p>O recém-formado iceberg tabular, ou “ilha de gelo”, cobre uma área aproximadamente do mesmo tamanho de Manhattan e tem até 150 metros de espessura. As imagens do radar Sentinel-1 capturadas em 3 de agosto mostraram uma deterioração pronunciada ao longo da linha central da língua de gelo.</p><p>Como o Sentinel-1 carrega um radar, ele pode observar dia e noite e através da cobertura de nuvens, tornando-o particularmente adequado para monitorar geleiras remotas do Ártico. Utilizando estas imagens de radar Sentinel-1, uma equipa internacional de investigadores, parcialmente financiada pelo projecto FutureEO ARCTEX da ESA, tem monitorizado o Glaciar.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1_captures_major_ice_loss_from_Greenland_glacier\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Europe’s Copernicus Sentinel-1 mission has captured a dramatic change at Petermann Glacier in northwest Greenland, where a 76 sq km section of the glacier’s floating ice tongue broke away on 4 August 2026. The event marks the glacier’s. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The event marks the glacier’s largest loss of floating ice since 2012 and the most significant calving event in the Arctic since 2020, revealing once again how rapidly Earth’s. The newly formed tabular iceberg, or ‘ice island’, covers an area about the same size of Manhattan and is estimated to be up to 150 metres thick.</p><p>Sentinel-1 radar imagery captured on 3 August showed pronounced deterioration along the centreline of the ice tongue. Because Sentinel-1 carries a radar, it can observe day and night and through cloud cover, making it particularly well-suited to monitoring remote Arctic glaciers.</p><p>Using this Sentinel-1 radar imagery, an international team of researchers, partially funded through ESA’s FutureEO ARCTEX project, has been monitoring Petermann Glacier since 2019. It’s a powerful reminder of how quickly these systems can change.” Petermann Glacier has a well-documented history of major calving events, including the formation of large ice.</p><p>However, since 2012, its floating ice tongue has remained relatively stable, despite several smaller-scale calving events. Two further large ice islands, with estimated surface areas of approximately 97 and 87 sq km, could detach as existing rifts continue to propagate across the floating ice tongue.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Anna Crawford, from the University of Stirling, commented, “While large, tabular icebergs are relatively common in the Southern Ocean around Antarctica, Arctic ice islands are far. These data allowed very detailed measurements of fracture propagation across the ice shelf, and ice tongue surface motion with ocean tides, in the lead up to the iceberg calving.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1_captures_major_ice_loss_from_Greenland_glacier\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>A missão europeia Copernicus Sentinel-1 capturou uma mudança dramática no glaciar Petermann, no noroeste da Gronelândia, onde uma secção de 76 km2 da língua de gelo flutuante do glaciar se separou em 4 de agosto de 2026. O evento marca a evolução do glaciar. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. A missão europeia Copernicus Sentinel-1 capturou uma mudança dramática no glaciar Petermann, no noroeste da Gronelândia, onde uma secção de 76 quilómetros quadrados da língua de. O evento marca a maior perda de gelo flutuante do glaciar desde 2012 e o evento de desintegração mais significativo no Ártico desde 2020, revelando mais uma vez a rapidez com que.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1_captures_major_ice_loss_from_Greenland_glacier\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A missão europeia Copernicus Sentinel-1 capturou uma mudança dramática no glaciar Petermann, no noroeste da Gronelândia, onde uma secção de 76 km2 da língua de gelo flutuante do glaciar se separou em 4 de agosto de 2026. O evento marca a evolução do glaciar. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. A missão europeia Copernicus Sentinel-1 capturou uma mudança dramática no glaciar Petermann, no noroeste da Gronelândia, onde uma secção de 76 quilómetros quadrados da língua de. O evento marca a maior perda de gelo flutuante do glaciar desde 2012 e o evento de desintegração mais significativo no Ártico desde 2020, revelando mais uma vez a rapidez com que.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1_captures_major_ice_loss_from_Greenland_glacier\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Europe’s Copernicus Sentinel-1 mission has captured a dramatic change at Petermann Glacier in northwest Greenland, where a 76 sq km section of the glacier’s floating ice tongue broke away on 4 August 2026. The event marks the glacier’s. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The event marks the glacier’s largest loss of floating ice since 2012 and the most significant calving event in the Arctic since 2020, revealing once again how rapidly Earth’s.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1_captures_major_ice_loss_from_Greenland_glacier\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: A missão europeia Copernicus Sentinel-1 capturou uma mudança dramática no glaciar Petermann, no noroeste da Gronelândia, onde uma secção de 76 km2 da.",
       "Dado-chave: A missão europeia Copernicus Sentinel-1 capturou uma mudança dramática no glaciar Petermann, no noroeste da Gronelândia, onde uma secção de 76.",
@@ -802,7 +1007,7 @@ window.postsData = [
     }
   },
   {
-    "id": 8,
+    "id": 10,
     "slug": "teapot-of-sagittarius-points-to-the-milky-way-s-center",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -917,289 +1122,6 @@ window.postsData = [
     }
   },
   {
-    "id": 9,
-    "slug": "new-solar-system-models-show-earth-is-no-fluke",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://www.universetoday.com/article_images/The_Blue_Marble_AS17-148-22727_20260821_070011.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.universetoday.com/article_images/eso1736a_20260821_070327.jpg",
-        "caption": "Esta impressão artística mostra o planeta temperado Ross 128 b, com a sua estrela-mãe anã vermelha ao fundo. Este planeta, que fica a apenas 11 anos-luz da Terra, foi encontrado por uma equipa que utilizou o HARPS de caça a planetas, único do ESO.",
-        "caption_pt": "Esta impressão artística mostra o planeta temperado Ross 128 b, com a sua estrela-mãe anã vermelha ao fundo. Este planeta, que fica a apenas 11 anos-luz da Terra, foi encontrado por uma equipa que utilizou o HARPS de caça a planetas, único do ESO.",
-        "caption_en": "This artist’s impression shows the temperate planet Ross 128 b, with its red dwarf parent star in the background. This planet, which lies only 11 light-years from Earth, was found by a team using ESO’s unique planet-hunting HARPS.",
-        "alt": "Esta impressão artística mostra o planeta temperado Ross 128 b, com a sua estrela-mãe anã vermelha ao fundo. Este planeta, que fica a apenas 11 anos-luz da Terra, foi encontrado por uma equipa que utilizou o HARPS de caça a planetas, único do ESO.",
-        "alt_pt": "Esta impressão artística mostra o planeta temperado Ross 128 b, com a sua estrela-mãe anã vermelha ao fundo. Este planeta, que fica a apenas 11 anos-luz da Terra, foi encontrado por uma equipa que utilizou o HARPS de caça a planetas, único do ESO.",
-        "alt_en": "This artist’s impression shows the temperate planet Ross 128 b, with its red dwarf parent star in the background. This planet, which lies only 11 light-years from Earth, was found by a team using ESO’s unique planet-hunting HARPS."
-      },
-      {
-        "src": "https://www.universetoday.com/assets/patreon-plus-thumb.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": {
-      "kind": "embed",
-      "platform": "youtube",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/fjhtfjzfl84",
-      "fileUrl": "",
-      "poster": "",
-      "title": "",
-      "title_pt": "",
-      "title_en": "",
-      "caption": "",
-      "caption_pt": "",
-      "caption_en": "",
-      "sourcePage": "https://www.universetoday.com/articles/new-solar-system-models-show-earth-is-no-fluke"
-    },
-    "audio": null,
-    "title": "Novos modelos do sistema solar mostram que a Terra não é um acaso",
-    "title_pt": "Novos modelos do sistema solar mostram que a Terra não é um acaso",
-    "title_en": "New Solar System Models Show Earth Is No Fluke",
-    "sub": "Os astrobiólogos utilizam novos pontos de partida para produzir modelos “orgânicos” da formação do nosso sistema solar.",
-    "sub_pt": "Os astrobiólogos utilizam novos pontos de partida para produzir modelos “orgânicos” da formação do nosso sistema solar.",
-    "sub_en": "Astrobiologists use new starting points to produce ‘organic’ models of our solar system’s formation.",
-    "excerpt": "Os astrobiólogos utilizam novos pontos de partida para produzir modelos “orgânicos” da formação do nosso sistema solar.",
-    "excerpt_pt": "Os astrobiólogos utilizam novos pontos de partida para produzir modelos “orgânicos” da formação do nosso sistema solar.",
-    "excerpt_en": "Astrobiologists use new starting points to produce ‘organic’ models of our solar system’s formation.",
-    "body": "<p>Os astrobiólogos utilizam novos pontos de partida para produzir modelos “orgânicos” da formação do nosso sistema solar. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Um artigo apresentado na recente conferência Origins 2026 em Paris, detalhando simulações inovadoras recentes de como o nosso próprio sistema solar poderia ter-se formado, foi. Realizamos mais de 1.000 simulações do estágio final da formação de planetas terrestres para uma variedade de distribuições de planetesimais e embriões planetários, escreve.</p><p>Haghighipour e colegas descobriram que a formação da Terra a uma distância Terra-Sol (ou unidade astronómica) é um resultado natural da evolução do nosso sistema solar. Descobrimos que Vénus aparece cerca de 28 por cento do tempo e mantém a sua órbita, por vezes na zona habitável das estrelas, por vezes ligeiramente fora, diz Haghighipour.</p><p>Marte aparece várias vezes como um pequeno objeto nas proximidades da órbita atual de Marte, diz ele. Esta impressão artística mostra o planeta temperado Ross 128 b, com a sua estrela-mãe anã vermelha ao fundo.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/new-solar-system-models-show-earth-is-no-fluke\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Os astrobiólogos utilizam novos pontos de partida para produzir modelos “orgânicos” da formação do nosso sistema solar. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Um artigo apresentado na recente conferência Origins 2026 em Paris, detalhando simulações inovadoras recentes de como o nosso próprio sistema solar poderia ter-se formado, foi. Realizamos mais de 1.000 simulações do estágio final da formação de planetas terrestres para uma variedade de distribuições de planetesimais e embriões planetários, escreve.</p><p>Haghighipour e colegas descobriram que a formação da Terra a uma distância Terra-Sol (ou unidade astronómica) é um resultado natural da evolução do nosso sistema solar. Descobrimos que Vénus aparece cerca de 28 por cento do tempo e mantém a sua órbita, por vezes na zona habitável das estrelas, por vezes ligeiramente fora, diz Haghighipour.</p><p>Marte aparece várias vezes como um pequeno objeto nas proximidades da órbita atual de Marte, diz ele. Esta impressão artística mostra o planeta temperado Ross 128 b, com a sua estrela-mãe anã vermelha ao fundo.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/new-solar-system-models-show-earth-is-no-fluke\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Astrobiologists use new starting points to produce ‘organic’ models of our solar system’s formation. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. A paper presented at the recent Origins 2026 conference in Paris detailing recent innovative simulations of how our own solar system might have formed was done by making no. We have carried out more than 1000 simulations of the late stage of terrestrial planet formation for a variety of distributions of planetesimals and planetary embryos.</p><p>Haghighipour and colleagues found that formation of Earth at one Earth-Sun distance (or astronomical unit) is a natural outcome of the evolution of our solar system. We find that Venus appears about 28 percent of the time and maintains its orbit, sometimes in the habitable zone of the stars, sometimes slightly outside, says Haghighipour.</p><p>Mars appears a number of times as a small object in the vicinity of the current orbit of Mars, he says. This artist’s impression shows the temperate planet Ross 128 b, with its red dwarf parent star in the background.</p><p>This planet, which lies only 11 light-years from Earth, was found by a team using ESO’s unique planet-hunting HARPS instrument. Kornmesser After life originated (we don&#x27;t know how and will never know), life developed branches and bifurcated so that it could find a way to stay in sync with Earth&#x27;s.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Given the commonality of Earth-sized planets (including small super-earths) in the habitable zones of solar-type stars, it would be completely logical to consider that Earthly. But this type of study will enable us to understand the characteristic of a planet like Earth and the physical processes that went into its formation and how it became habitable.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/new-solar-system-models-show-earth-is-no-fluke\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Os astrobiólogos utilizam novos pontos de partida para produzir modelos “orgânicos” da formação do nosso sistema solar.",
-      "Dado-chave: Um artigo apresentado na recente conferência Origins 2026 em Paris, detalhando simulações inovadoras recentes de como o nosso próprio sistema.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Os astrobiólogos utilizam novos pontos de partida para produzir modelos “orgânicos” da formação do nosso sistema solar.",
-      "Dado-chave: Um artigo apresentado na recente conferência Origins 2026 em Paris, detalhando simulações inovadoras recentes de como o nosso próprio sistema.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Astrobiologists use new starting points to produce ‘organic’ models of our solar system’s formation.",
-      "Key detail: A paper presented at the recent Origins 2026 conference in Paris detailing recent innovative simulations of how our own solar system might have.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "21 ago 2026",
-    "date_pt": "21 ago 2026",
-    "date_en": "21 Aug 2026",
-    "time": "07h12",
-    "time_pt": "07h12",
-    "time_en": "07:12 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-21T07:12:12+00:00",
-    "lastModifiedIso": "2026-08-21T07:12:12+00:00",
-    "source": "Universe Today",
-    "sourceDomain": "www.universetoday.com",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "Universe Today",
-      "Cosmos Week",
-      "Novos modelos do sistema solar mostram que a Terra não é um acaso"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "Universe Today",
-      "Cosmos Week",
-      "Novos modelos do sistema solar mostram que a Terra não é um acaso"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "Universe Today",
-      "Cosmos Week",
-      "New models of the solar system show that Earth is not a fluke"
-    ],
-    "srcUrl": "https://www.universetoday.com/articles/new-solar-system-models-show-earth-is-no-fluke",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=new-solar-system-models-show-earth-is-no-fluke",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=new-solar-system-models-show-earth-is-no-fluke",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=new-solar-system-models-show-earth-is-no-fluke&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 73,
-    "scoreBreakdown": {
-      "source": 73,
-      "evidence": 82,
-      "relevance": 80,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 10,
-    "slug": "europe-s-scorching-summer",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/heat-dome-broils-the-western-u-s-/usheatwave_geos5_20260712_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-uncommon-drifter-in-the-denmark-strait/greenlandbergzm_oli2_20260612_th.jpg?w=720&h=480&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "Uma visão detalhada mostra a superfície branca e brilhante do iceberg repleta de lagoas de água derretida azul-claras. Pedaços quebrados de gelo marinho flutuam ao redor do iceberg na água do oceano azul escuro.",
-        "caption_pt": "Uma visão detalhada mostra a superfície branca e brilhante do iceberg repleta de lagoas de água derretida azul-claras. Pedaços quebrados de gelo marinho flutuam ao redor do iceberg na água do oceano azul escuro.",
-        "caption_en": "A detailed view shows the iceberg's bright white surface pocked with light blue meltwater ponds. Broken pieces of sea ice float around the iceberg in otherwise dark blue ocean water.",
-        "alt": "Uma visão detalhada mostra a superfície branca e brilhante do iceberg repleta de lagoas de água derretida azul-claras. Pedaços quebrados de gelo marinho flutuam ao redor do iceberg na água do oceano azul escuro.",
-        "alt_pt": "Uma visão detalhada mostra a superfície branca e brilhante do iceberg repleta de lagoas de água derretida azul-claras. Pedaços quebrados de gelo marinho flutuam ao redor do iceberg na água do oceano azul escuro.",
-        "alt_en": "A detailed view shows the iceberg's bright white surface pocked with light blue meltwater ponds. Broken pieces of sea ice float around the iceberg in otherwise dark blue ocean water."
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/sensing-the-poles’-hidden-heat/seasonaltempbal_prefire_2026_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/el-niño-is-underway/elnino_sen6_20260608_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": {
-      "kind": "file",
-      "platform": "html5",
-      "embedUrl": "",
-      "fileUrl": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/europe's-scorching-summer/europeheatwaves_gmao_20260819.mp4",
-      "poster": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/europe's-scorching-summer/europeheatwaves_gmao_20260819_th.jpg?w=1440&h=960&fit=clip&crop=faces%2Cfocalpoint",
-      "title": "O verão escaldante da Europa - NASA Science",
-      "title_pt": "O verão escaldante da Europa - NASA Science",
-      "title_en": "Europe's Scorching Summer - NASA Science",
-      "caption": "Uma série de ondas de calor em 2026 está a bater recordes e a afetar a Europa.",
-      "caption_pt": "Uma série de ondas de calor em 2026 está a bater recordes e a afetar a Europa.",
-      "caption_en": "A series of heat waves in 2026 is breaking records and taking a toll in Europe.",
-      "sourcePage": "https://science.nasa.gov/earth/europes-scorching-summer/"
-    },
-    "audio": null,
-    "title": "O verão escaldante da Europa",
-    "title_pt": "O verão escaldante da Europa",
-    "title_en": "Europe’s Scorching Summer",
-    "sub": "NASA Earth Observatory/Lauren Dauphin A Europa Ocidental teve o primeiro indício de um verão incomum em maio de 2026, quando uma cúpula de calor produziu temperaturas excepcionais.",
-    "sub_pt": "NASA Earth Observatory/Lauren Dauphin A Europa Ocidental teve o primeiro indício de um verão incomum em maio de 2026, quando uma cúpula de calor produziu temperaturas excepcionais.",
-    "sub_en": "NASA Earth Observatory/Lauren Dauphin Western Europe got its first hint of an unusual summer in May 2026, when a heat dome produced exceptional temperatures that shattered records.",
-    "excerpt": "NASA Earth Observatory/Lauren Dauphin A Europa Ocidental teve o primeiro indício de um verão incomum em maio de 2026, quando uma cúpula de calor produziu temperaturas excepcionais que quebraram recordes em vários países.",
-    "excerpt_pt": "NASA Earth Observatory/Lauren Dauphin A Europa Ocidental teve o primeiro indício de um verão incomum em maio de 2026, quando uma cúpula de calor produziu temperaturas excepcionais que quebraram recordes em vários países.",
-    "excerpt_en": "NASA Earth Observatory/Lauren Dauphin Western Europe got its first hint of an unusual summer in May 2026, when a heat dome produced exceptional temperatures that shattered records in several countries.",
-    "body": "<p>NASA Earth Observatory/Lauren Dauphin A Europa Ocidental teve o primeiro indício de um verão incomum em maio de 2026, quando uma cúpula de calor produziu temperaturas excepcionais que quebraram recordes em vários países. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. “O ar condicionado é uma questão especialmente crítica na Europa a curto prazo”, disse Anamika Shreevastava, investigadora da Universidade de Nova Iorque que estudou ilhas de. Referências e recursos AP (2026, 10 de agosto) Reino Unido e França se preparam para outra onda de calor enquanto a Europa Ocidental estabelece novo recorde de temperatura.</p><p>Comunicações da Natureza, 15, 3678. NASA (2025) Temperatura Global, Indicador da Terra.</p><p>Treinamento NASA Earthdata (2022): Sensoriamento Remoto por Satélite para Medir Ilhas de Calor Urbanas e Construir Índices de Vulnerabilidade ao Calor.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/europes-scorching-summer/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>NASA Earth Observatory/Lauren Dauphin A Europa Ocidental teve o primeiro indício de um verão incomum em maio de 2026, quando uma cúpula de calor produziu temperaturas excepcionais que quebraram recordes em vários países. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. “O ar condicionado é uma questão especialmente crítica na Europa a curto prazo”, disse Anamika Shreevastava, investigadora da Universidade de Nova Iorque que estudou ilhas de. Referências e recursos AP (2026, 10 de agosto) Reino Unido e França se preparam para outra onda de calor enquanto a Europa Ocidental estabelece novo recorde de temperatura.</p><p>Comunicações da Natureza, 15, 3678. NASA (2025) Temperatura Global, Indicador da Terra.</p><p>Treinamento NASA Earthdata (2022): Sensoriamento Remoto por Satélite para Medir Ilhas de Calor Urbanas e Construir Índices de Vulnerabilidade ao Calor.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/europes-scorching-summer/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>NASA Earth Observatory/Lauren Dauphin Western Europe got its first hint of an unusual summer in May 2026, when a heat dome produced exceptional temperatures that shattered records in several countries. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. “Air conditioning is an especially critical issue in Europe in the short term,” said Anamika Shreevastava, a researcher at New York University who studied urban heat islands as a. References &amp; Resources AP (2026, August 10) UK and France prepare for another heat wave as western Europe sets new temperature record.</p><p>Nature Communications, 15, 3678. NASA (2025) Global Temperature, Earth Indicator.</p><p>NASA Earthdata (2022) Training: Satellite Remote Sensing for Measuring Urban Heat Islands and Constructing Heat Vulnerability Indices. Article Sensing the Poles’ Hidden Heat 3 min read New animations from NASA’s PREFIRE mission reveal two years of seasonal temperature swings at the Arctic and Antarctic.</p><p>Article 1 2 3 4 Next Keep Exploring Discover More from NASA Earth Science Subscribe to Earth Observatory Newsletters Subscribe to the Earth Observatory and get the Earth in your. It was produced by combining satellite observations with temperatures predicted by a version of NASA’s GEOS (Goddard Earth Observing System) global model, which uses mathematical.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Air conditioning is an especially critical issue in Europe in the short term,&quot; said Anamika Shreevastava, a researcher at New York University who studied urban heat islands as a. One of her goals was to produce thermal maps based on NASA data from missions like ECOSTRESS that city planners could use to make cities more resilient to heat waves.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/europes-scorching-summer/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: NASA Earth Observatory/Lauren Dauphin A Europa Ocidental teve o primeiro indício de um verão incomum em maio de 2026, quando uma cúpula de calor.",
-      "Dado-chave: NASA Earth Observatory/Lauren Dauphin A Europa Ocidental teve o primeiro indício de um verão incomum em maio de 2026, quando uma cúpula de calor.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: NASA Earth Observatory/Lauren Dauphin A Europa Ocidental teve o primeiro indício de um verão incomum em maio de 2026, quando uma cúpula de calor.",
-      "Dado-chave: NASA Earth Observatory/Lauren Dauphin A Europa Ocidental teve o primeiro indício de um verão incomum em maio de 2026, quando uma cúpula de calor.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: NASA Earth Observatory/Lauren Dauphin Western Europe got its first hint of an unusual summer in May 2026, when a heat dome produced exceptional.",
-      "Key detail: NASA Earth Observatory/Lauren Dauphin Western Europe got its first hint of an unusual summer in May 2026, when a heat dome produced exceptional.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "21 ago 2026",
-    "date_pt": "21 ago 2026",
-    "date_en": "21 Aug 2026",
-    "time": "04h01",
-    "time_pt": "04h01",
-    "time_en": "04:01 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-21T04:01:00+00:00",
-    "lastModifiedIso": "2026-08-21T04:01:00+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science.nasa.gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "O verão escaldante da Europa"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "O verão escaldante da Europa"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Europe's scorching summer"
-    ],
-    "srcUrl": "https://science.nasa.gov/earth/europes-scorching-summer/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=europe-s-scorching-summer",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=europe-s-scorching-summer",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=europe-s-scorching-summer&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 77,
-    "scoreBreakdown": {
-      "source": 94,
-      "evidence": 88,
-      "relevance": 70,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
     "id": 11,
     "slug": "smallsat-2026",
     "cat": "Astronomia",
@@ -1306,6 +1228,111 @@ window.postsData = [
   },
   {
     "id": 12,
+    "slug": "nasa-updates-next-steps-for-commercial-swift-boost-mission",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://www.nasa.gov/wp-content/uploads/2026/08/swift-over-earth-animation-2025.jpg?w=900",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "NASA atualiza os próximos passos para a missão comercial Swift Boost",
+    "title_pt": "NASA atualiza os próximos passos para a missão comercial Swift Boost",
+    "title_en": "NASA Updates Next Steps for Commercial Swift Boost Mission",
+    "sub": "Devido a um problema contínuo de controle de atitude de espaçonaves comerciais, a NASA e a Katalyst Space anunciaram na quarta-feira que a espaçonave LINK não irá capturar ou.",
+    "sub_pt": "Devido a um problema contínuo de controle de atitude de espaçonaves comerciais, a NASA e a Katalyst Space anunciaram na quarta-feira que a espaçonave LINK não irá capturar ou.",
+    "sub_en": "Due to an ongoing commercial spacecraft attitude control issue, NASA and Katalyst Space announced Wednesday the LINK spacecraft will not capture or boost an agency satellite to a.",
+    "excerpt": "Devido a um problema contínuo de controle de atitude de espaçonaves comerciais, a NASA e a Katalyst Space anunciaram na quarta-feira que a espaçonave LINK não irá capturar ou impulsionar um satélite da agência a uma altitude mais elevada para estender sua.",
+    "excerpt_pt": "Devido a um problema contínuo de controle de atitude de espaçonaves comerciais, a NASA e a Katalyst Space anunciaram na quarta-feira que a espaçonave LINK não irá capturar ou impulsionar um satélite da agência a uma altitude mais elevada para estender sua.",
+    "excerpt_en": "Due to an ongoing commercial spacecraft attitude control issue, NASA and Katalyst Space announced Wednesday the LINK spacecraft will not capture or boost an agency satellite to a higher altitude to extend its science mission as planned.",
+    "body": "<p>Devido a um problema contínuo de controle de atitude de espaçonaves comerciais, a NASA e a Katalyst Space anunciaram na quarta-feira que a espaçonave LINK não irá capturar ou impulsionar um satélite da agência a uma altitude mais elevada para estender sua missão científica. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O Observatório Neil Gehrels Swift da NASA, mostrado neste conceito artístico, orbita a Terra há mais de 20 anos, estudando o universo em constante mudança. Washington 202-358-2546 alise. m. fisher@nasa. gov Detalhes de compartilhamento Última atualização em 19 de agosto.</p><p>2026 Localização Sede da NASA Termos relacionados Neil Gehrels Swift Observatory Goddard Space Flight Center Missões Missão Swift Boost. RELEASE 26-067 Sede da NASA O Observatório Neil Gehrels Swift da NASA, mostrado neste conceito artístico, orbita a Terra há mais de 20 anos, estudando o universo em constante.</p><p>Laboratório de imagens conceituais do Goddard Space Flight Center da NASA Devido a um problema contínuo de controle de atitude de espaçonaves comerciais, a NASA e a Katalyst Space.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/news-release/nasa-updates-next-steps-for-commercial-swift-boost-mission/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Devido a um problema contínuo de controle de atitude de espaçonaves comerciais, a NASA e a Katalyst Space anunciaram na quarta-feira que a espaçonave LINK não irá capturar ou impulsionar um satélite da agência a uma altitude mais elevada para estender sua missão científica. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O Observatório Neil Gehrels Swift da NASA, mostrado neste conceito artístico, orbita a Terra há mais de 20 anos, estudando o universo em constante mudança. Washington 202-358-2546 alise. m. fisher@nasa. gov Detalhes de compartilhamento Última atualização em 19 de agosto.</p><p>2026 Localização Sede da NASA Termos relacionados Neil Gehrels Swift Observatory Goddard Space Flight Center Missões Missão Swift Boost. RELEASE 26-067 Sede da NASA O Observatório Neil Gehrels Swift da NASA, mostrado neste conceito artístico, orbita a Terra há mais de 20 anos, estudando o universo em constante.</p><p>Laboratório de imagens conceituais do Goddard Space Flight Center da NASA Devido a um problema contínuo de controle de atitude de espaçonaves comerciais, a NASA e a Katalyst Space.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/news-release/nasa-updates-next-steps-for-commercial-swift-boost-mission/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Due to an ongoing commercial spacecraft attitude control issue, NASA and Katalyst Space announced Wednesday the LINK spacecraft will not capture or boost an agency satellite to a higher altitude to extend its science mission as planned. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. NASA’s Neil Gehrels Swift Observatory, shown in this artist’s concept, has orbited Earth for more than 20 years, studying the ever-changing universe. Washington 202-358-2546 alise. m. fisher@nasa. gov Share Details Last Updated Aug 19.</p><p>2026 Location NASA Headquarters Related Terms Neil Gehrels Swift Observatory Goddard Space Flight Center Missions Swift Boost Mission. RELEASE 26-067 NASA Headquarters NASA’s Neil Gehrels Swift Observatory, shown in this artist’s concept, has orbited Earth for more than 20 years, studying the ever-changing.</p><p>NASA’s Goddard Space Flight Center Conceptual Image Lab Due to an ongoing commercial spacecraft attitude control issue, NASA and Katalyst Space announced Wednesday the LINK. “NASA should be willing to move quickly and take smart risks when the potential return is worth it, and that is exactly what we did with this mission,” said NASA Administrator.</p><p>But we knew the takeaways from this mission would be worthwhile either way, and we have gained so much through the series of accomplishments up to this point.” Without. As part of the agency’s previous planning for Swift’s end of life, NASA will continue to prioritize finding new options to react rapidly to cosmic events, using current missions.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>We’re so proud of this team for: getting to the launch pad in record time, in a record-setting year for NASA astrophysics launches. And the dedication to the exciting capabilities this mission will attempt to demonstrate next.” Swift was launched in 2004 to study gamma-ray bursts, the most powerful explosions.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/news-release/nasa-updates-next-steps-for-commercial-swift-boost-mission/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Devido a um problema contínuo de controle de atitude de espaçonaves comerciais, a NASA e a Katalyst Space anunciaram na quarta-feira que a espaçonave.",
+      "Dado-chave: Devido a um problema contínuo de controle de atitude de espaçonaves comerciais, a NASA e a Katalyst Space anunciaram na quarta-feira que a.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Devido a um problema contínuo de controle de atitude de espaçonaves comerciais, a NASA e a Katalyst Space anunciaram na quarta-feira que a espaçonave.",
+      "Dado-chave: Devido a um problema contínuo de controle de atitude de espaçonaves comerciais, a NASA e a Katalyst Space anunciaram na quarta-feira que a.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Due to an ongoing commercial spacecraft attitude control issue, NASA and Katalyst Space announced Wednesday the LINK spacecraft will not capture or.",
+      "Key detail: Due to an ongoing commercial spacecraft attitude control issue, NASA and Katalyst Space announced Wednesday the LINK spacecraft will not capture.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "19 ago 2026",
+    "date_pt": "19 ago 2026",
+    "date_en": "19 Aug 2026",
+    "time": "18h08",
+    "time_pt": "18h08",
+    "time_en": "18:08 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-19T18:08:25+00:00",
+    "lastModifiedIso": "2026-08-19T18:08:25+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "www.nasa.gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
+    "keywords": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA atualiza os próximos passos para a missão comercial Swift Boost"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA atualiza os próximos passos para a missão comercial Swift Boost"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA updates next steps for commercial Swift Boost mission"
+    ],
+    "srcUrl": "https://www.nasa.gov/news-release/nasa-updates-next-steps-for-commercial-swift-boost-mission/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-updates-next-steps-for-commercial-swift-boost-mission",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-updates-next-steps-for-commercial-swift-boost-mission",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-updates-next-steps-for-commercial-swift-boost-mission&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 81,
+    "scoreBreakdown": {
+      "source": 94,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 52
+    }
+  },
+  {
+    "id": 13,
     "slug": "science-release-hubble-identifies-one-of-darkest-known-galaxies",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1441,7 +1468,7 @@ window.postsData = [
     }
   },
   {
-    "id": 13,
+    "id": 14,
     "slug": "dark-matter-may-be-gravitationally-lensing-a-likely-source-of-cosmic-neutrinos",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1574,7 +1601,7 @@ window.postsData = [
     }
   },
   {
-    "id": 14,
+    "id": 15,
     "slug": "mars-attacks-how-much-dust-from-the-red-planet-is-safe-to-breathe",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1710,7 +1737,7 @@ window.postsData = [
     }
   },
   {
-    "id": 15,
+    "id": 16,
     "slug": "dust-and-water-spotted-close-to-giant-black-hole",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1843,7 +1870,7 @@ window.postsData = [
     }
   },
   {
-    "id": 16,
+    "id": 17,
     "slug": "science-release-hubble-discovers-first-of-star-cluster-s-missing-black-holes",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1979,7 +2006,7 @@ window.postsData = [
     }
   },
   {
-    "id": 17,
+    "id": 18,
     "slug": "astronomers-catch-hot-birth-of-galaxy-cluster-more-than-11-billion-light-years-away",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2115,7 +2142,7 @@ window.postsData = [
     }
   },
   {
-    "id": 18,
+    "id": 19,
     "slug": "what-can-we-actually-find-on-an-exoplanet-part-4-looking-for-us",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2233,7 +2260,7 @@ window.postsData = [
     }
   },
   {
-    "id": 19,
+    "id": 20,
     "slug": "what-can-we-actually-find-on-an-exoplanet-part-3-reading-the-face-of-a-planet",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2347,11 +2374,11 @@ window.postsData = [
       "evidence": 88,
       "relevance": 88,
       "accessibility": 60,
-      "novelty": 52
+      "novelty": 49
     }
   },
   {
-    "id": 20,
+    "id": 21,
     "slug": "mega-earth-gj-523b-is-23-times-as-massive-as-our-planet-but-only-2-5-times-as-wide",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2490,7 +2517,7 @@ window.postsData = [
     }
   },
   {
-    "id": 21,
+    "id": 22,
     "slug": "nasa-techleap-prize-orbital-clarity-challenge",
     "cat": "Física",
     "catCls": "fisica",
@@ -2598,7 +2625,7 @@ window.postsData = [
     }
   },
   {
-    "id": 22,
+    "id": 23,
     "slug": "n-tof-experiment-sheds-light-on-ancient-stardust",
     "cat": "Física",
     "catCls": "fisica",
@@ -2713,7 +2740,7 @@ window.postsData = [
     }
   },
   {
-    "id": 23,
+    "id": 24,
     "slug": "upcoming-events",
     "cat": "Física",
     "catCls": "fisica",
@@ -2818,7 +2845,7 @@ window.postsData = [
     }
   },
   {
-    "id": 24,
+    "id": 25,
     "slug": "alma-uncovers-sulfur-for-the-first-time-around-a-rare-class-of-supergiant-star",
     "cat": "Química",
     "catCls": "quimica",
@@ -2947,111 +2974,6 @@ window.postsData = [
       "evidence": 88,
       "relevance": 68,
       "accessibility": 52,
-      "novelty": 52
-    }
-  },
-  {
-    "id": 25,
-    "slug": "nasa-updates-next-steps-for-commercial-swift-boost-mission",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://www.nasa.gov/wp-content/uploads/2026/08/swift-over-earth-animation-2025.jpg?w=900",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "NASA atualiza os próximos passos para a missão comercial Swift Boost",
-    "title_pt": "NASA atualiza os próximos passos para a missão comercial Swift Boost",
-    "title_en": "NASA Updates Next Steps for Commercial Swift Boost Mission",
-    "sub": "Devido a um problema contínuo de controle de atitude de espaçonaves comerciais, a NASA e a Katalyst Space anunciaram na quarta-feira que a espaçonave LINK não irá capturar ou.",
-    "sub_pt": "Devido a um problema contínuo de controle de atitude de espaçonaves comerciais, a NASA e a Katalyst Space anunciaram na quarta-feira que a espaçonave LINK não irá capturar ou.",
-    "sub_en": "Due to an ongoing commercial spacecraft attitude control issue, NASA and Katalyst Space announced Wednesday the LINK spacecraft will not capture or boost an agency satellite to a.",
-    "excerpt": "Devido a um problema contínuo de controle de atitude de espaçonaves comerciais, a NASA e a Katalyst Space anunciaram na quarta-feira que a espaçonave LINK não irá capturar ou impulsionar um satélite da agência a uma altitude mais elevada para estender sua.",
-    "excerpt_pt": "Devido a um problema contínuo de controle de atitude de espaçonaves comerciais, a NASA e a Katalyst Space anunciaram na quarta-feira que a espaçonave LINK não irá capturar ou impulsionar um satélite da agência a uma altitude mais elevada para estender sua.",
-    "excerpt_en": "Due to an ongoing commercial spacecraft attitude control issue, NASA and Katalyst Space announced Wednesday the LINK spacecraft will not capture or boost an agency satellite to a higher altitude to extend its science mission as planned.",
-    "body": "<p>Devido a um problema contínuo de controle de atitude de espaçonaves comerciais, a NASA e a Katalyst Space anunciaram na quarta-feira que a espaçonave LINK não irá capturar ou impulsionar um satélite da agência a uma altitude mais elevada para estender sua missão científica. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O Observatório Neil Gehrels Swift da NASA, mostrado neste conceito artístico, orbita a Terra há mais de 20 anos, estudando o universo em constante mudança. Washington 202-358-2546 alise. m. fisher@nasa. gov Detalhes de compartilhamento Última atualização em 19 de agosto.</p><p>2026 Localização Sede da NASA Termos relacionados Neil Gehrels Swift Observatory Goddard Space Flight Center Missões Missão Swift Boost. RELEASE 26-067 Sede da NASA O Observatório Neil Gehrels Swift da NASA, mostrado neste conceito artístico, orbita a Terra há mais de 20 anos, estudando o universo em constante.</p><p>Laboratório de imagens conceituais do Goddard Space Flight Center da NASA Devido a um problema contínuo de controle de atitude de espaçonaves comerciais, a NASA e a Katalyst Space.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/news-release/nasa-updates-next-steps-for-commercial-swift-boost-mission/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Devido a um problema contínuo de controle de atitude de espaçonaves comerciais, a NASA e a Katalyst Space anunciaram na quarta-feira que a espaçonave LINK não irá capturar ou impulsionar um satélite da agência a uma altitude mais elevada para estender sua missão científica. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O Observatório Neil Gehrels Swift da NASA, mostrado neste conceito artístico, orbita a Terra há mais de 20 anos, estudando o universo em constante mudança. Washington 202-358-2546 alise. m. fisher@nasa. gov Detalhes de compartilhamento Última atualização em 19 de agosto.</p><p>2026 Localização Sede da NASA Termos relacionados Neil Gehrels Swift Observatory Goddard Space Flight Center Missões Missão Swift Boost. RELEASE 26-067 Sede da NASA O Observatório Neil Gehrels Swift da NASA, mostrado neste conceito artístico, orbita a Terra há mais de 20 anos, estudando o universo em constante.</p><p>Laboratório de imagens conceituais do Goddard Space Flight Center da NASA Devido a um problema contínuo de controle de atitude de espaçonaves comerciais, a NASA e a Katalyst Space.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/news-release/nasa-updates-next-steps-for-commercial-swift-boost-mission/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Due to an ongoing commercial spacecraft attitude control issue, NASA and Katalyst Space announced Wednesday the LINK spacecraft will not capture or boost an agency satellite to a higher altitude to extend its science mission as planned. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. NASA’s Neil Gehrels Swift Observatory, shown in this artist’s concept, has orbited Earth for more than 20 years, studying the ever-changing universe. Washington 202-358-2546 alise. m. fisher@nasa. gov Share Details Last Updated Aug 19.</p><p>2026 Location NASA Headquarters Related Terms Neil Gehrels Swift Observatory Goddard Space Flight Center Missions Swift Boost Mission. RELEASE 26-067 NASA Headquarters NASA’s Neil Gehrels Swift Observatory, shown in this artist’s concept, has orbited Earth for more than 20 years, studying the ever-changing.</p><p>NASA’s Goddard Space Flight Center Conceptual Image Lab Due to an ongoing commercial spacecraft attitude control issue, NASA and Katalyst Space announced Wednesday the LINK. “NASA should be willing to move quickly and take smart risks when the potential return is worth it, and that is exactly what we did with this mission,” said NASA Administrator.</p><p>But we knew the takeaways from this mission would be worthwhile either way, and we have gained so much through the series of accomplishments up to this point.” Without. As part of the agency’s previous planning for Swift’s end of life, NASA will continue to prioritize finding new options to react rapidly to cosmic events, using current missions.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>We’re so proud of this team for: getting to the launch pad in record time, in a record-setting year for NASA astrophysics launches. And the dedication to the exciting capabilities this mission will attempt to demonstrate next.” Swift was launched in 2004 to study gamma-ray bursts, the most powerful explosions.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/news-release/nasa-updates-next-steps-for-commercial-swift-boost-mission/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Devido a um problema contínuo de controle de atitude de espaçonaves comerciais, a NASA e a Katalyst Space anunciaram na quarta-feira que a espaçonave.",
-      "Dado-chave: Devido a um problema contínuo de controle de atitude de espaçonaves comerciais, a NASA e a Katalyst Space anunciaram na quarta-feira que a.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Devido a um problema contínuo de controle de atitude de espaçonaves comerciais, a NASA e a Katalyst Space anunciaram na quarta-feira que a espaçonave.",
-      "Dado-chave: Devido a um problema contínuo de controle de atitude de espaçonaves comerciais, a NASA e a Katalyst Space anunciaram na quarta-feira que a.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Due to an ongoing commercial spacecraft attitude control issue, NASA and Katalyst Space announced Wednesday the LINK spacecraft will not capture or.",
-      "Key detail: Due to an ongoing commercial spacecraft attitude control issue, NASA and Katalyst Space announced Wednesday the LINK spacecraft will not capture.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "19 ago 2026",
-    "date_pt": "19 ago 2026",
-    "date_en": "19 Aug 2026",
-    "time": "18h08",
-    "time_pt": "18h08",
-    "time_en": "18:08 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-19T18:08:25+00:00",
-    "lastModifiedIso": "2026-08-19T18:08:25+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "www.nasa.gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA atualiza os próximos passos para a missão comercial Swift Boost"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA atualiza os próximos passos para a missão comercial Swift Boost"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA updates next steps for commercial Swift Boost mission"
-    ],
-    "srcUrl": "https://www.nasa.gov/news-release/nasa-updates-next-steps-for-commercial-swift-boost-mission/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-updates-next-steps-for-commercial-swift-boost-mission",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-updates-next-steps-for-commercial-swift-boost-mission",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-updates-next-steps-for-commercial-swift-boost-mission&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 81,
-    "scoreBreakdown": {
-      "source": 94,
-      "evidence": 88,
-      "relevance": 88,
-      "accessibility": 60,
       "novelty": 52
     }
   },
@@ -3575,7 +3497,7 @@ window.postsData = [
       "Earth Sciences",
       "NASA News Releases",
       "Cosmos Week",
-      "NASA Data Fuels River Forecasts as Snow Drought Effects Persist"
+      "NASA Data Fuels River Forecasts as Drought Effects on Snow Persist"
     ],
     "srcUrl": "https://science.nasa.gov/centers-and-facilities/goddard/nasa-river-forecasts-snow-drought/",
     "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-data-feeds-river-forecasts-as-snow-drought-effects-linger",
@@ -3602,39 +3524,147 @@ window.postsData = [
   },
   {
     "id": 30,
+    "slug": "the-view-from-above-the-gemini-visual-acuity-experiments",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://images-assets.nasa.gov/image/s65-45683/s65-45683~large.jpg?w=1920&h=1920&fit=clip&crop=faces%2Cfocalpoint",
+    "inline_images": [
+      {
+        "src": "https://images-assets.nasa.gov/image/s63-06456/s63-06456~large.jpg?w=1920&h=1906&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "Vista da Terra em órbita mostrando nuvens sussurrantes e uma paisagem pontilhada de lagos.",
+        "caption_pt": "Vista da Terra em órbita mostrando nuvens sussurrantes e uma paisagem pontilhada de lagos.",
+        "caption_en": "View of Earth from orbit showing whispy clouds and a landscape dotted with lakes.",
+        "alt": "Vista da Terra em órbita mostrando nuvens sussurrantes e uma paisagem pontilhada de lagos.",
+        "alt_pt": "Vista da Terra em órbita mostrando nuvens sussurrantes e uma paisagem pontilhada de lagos.",
+        "alt_en": "View of Earth from orbit showing whispy clouds and a landscape dotted with lakes."
+      },
+      {
+        "src": "https://images-assets.nasa.gov/image/s65-28642/s65-28642~large.jpg?w=1501&h=1920&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "Ilustração mostrando o equipamento de teste de visão em voo",
+        "caption_pt": "Ilustração mostrando o equipamento de teste de visão em voo",
+        "caption_en": "Illustration showing the In-Flight Vision Testing equipment",
+        "alt": "Ilustração mostrando o equipamento de teste de visão em voo",
+        "alt_pt": "Ilustração mostrando o equipamento de teste de visão em voo",
+        "alt_en": "Illustration showing the In-Flight Vision Testing equipment"
+      },
+      {
+        "src": "https://images-assets.nasa.gov/image/s65-28639/s65-28639~large.jpg?w=1500&h=1920&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "Ilustração mostrando a orientação da espaçonave Gemini para visualização dos locais de observação terrestre \"Eye-Q\".",
+        "caption_pt": "Ilustração mostrando a orientação da espaçonave Gemini para visualização dos locais de observação terrestre \"Eye-Q\".",
+        "caption_en": "Illustration showing the orientation of the Gemini spacecraft for viewing \"Eye-Q\" ground observation sites.",
+        "alt": "Ilustração mostrando a orientação da espaçonave Gemini para visualização dos locais de observação terrestre \"Eye-Q\".",
+        "alt_pt": "Ilustração mostrando a orientação da espaçonave Gemini para visualização dos locais de observação terrestre \"Eye-Q\".",
+        "alt_en": "Illustration showing the orientation of the Gemini spacecraft for viewing \"Eye-Q\" ground observation sites."
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "A visão de cima: os experimentos de acuidade visual Gemini",
+    "title_pt": "A visão de cima: os experimentos de acuidade visual Gemini",
+    "title_en": "The View from Above: The Gemini Visual Acuity Experiments",
+    "sub": "O astronauta da NASA L. Gordon Cooper Jr. tirou 29 fotografias coloridas da Terra com uma câmera de 70 mm enquanto orbitava nosso planeta durante a missão Mercury-Atlas 9 em maio.",
+    "sub_pt": "O astronauta da NASA L. Gordon Cooper Jr. tirou 29 fotografias coloridas da Terra com uma câmera de 70 mm enquanto orbitava nosso planeta durante a missão Mercury-Atlas 9 em maio.",
+    "sub_en": "NASA astronaut L. Gordon Cooper, Jr. took 29 color photographs of the Earth with a 70mm camera as he orbited our planet during the Mercury-Atlas 9 mission in May 1963. Cooper’s.",
+    "excerpt": "O astronauta da NASA L. Gordon Cooper Jr. tirou 29 fotografias coloridas da Terra com uma câmera de 70 mm enquanto orbitava nosso planeta durante a missão Mercury-Atlas 9 em maio de 1963. A visão de Cooper da janela de sua espaçonave Faith 7 era.",
+    "excerpt_pt": "O astronauta da NASA L. Gordon Cooper Jr. tirou 29 fotografias coloridas da Terra com uma câmera de 70 mm enquanto orbitava nosso planeta durante a missão Mercury-Atlas 9 em maio de 1963. A visão de Cooper da janela de sua espaçonave Faith 7 era.",
+    "excerpt_en": "NASA astronaut L. Gordon Cooper, Jr. took 29 color photographs of the Earth with a 70mm camera as he orbited our planet during the Mercury-Atlas 9 mission in May 1963. Cooper’s view from the window of his Faith 7 spacecraft was.",
+    "body": "<p>O astronauta da NASA L. Gordon Cooper Jr. tirou 29 fotografias coloridas da Terra com uma câmera de 70 mm enquanto orbitava nosso planeta durante a missão Mercury-Atlas 9 em maio de 1963. A visão de Cooper da janela de sua espaçonave Faith 7 era. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. NASA Estas alegações fizeram com que os profissionais de saúde mental questionassem a sanidade dos primeiros astronautas da NASA. NASA Seus relatórios sobre o local “Eye-Q” de Laredo, combinados com os resultados dos experimentos de teste de visão tipo binocular realizados antes, durante e depois do vôo.</p><p>1 O astronauta Frank Borman, piloto de comando do Gemini VII, participa de um experimento de visão usando o dispositivo de acuidade visual em voo durante a missão de duas semanas. Esta fotografia da área da Baía de São Francisco, na Califórnia, foi tirada como parte do Pacote Experimental de Recursos Terrestres Skylab em janeiro de 1974.</p><p>NASA A promessa dessas aplicações no mundo real motivou a criação do Earth Resources Technology Satellite (ERTS), mais tarde renomeado Landsat 1. Os astronautas de Mercúrio poderiam realmente ver pequenos detalhes na superfície da Terra enquanto orbitavam 160 quilômetros acima.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/history/the-view-from-above-the-gemini-visual-acuity-experiments/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>O astronauta da NASA L. Gordon Cooper Jr. tirou 29 fotografias coloridas da Terra com uma câmera de 70 mm enquanto orbitava nosso planeta durante a missão Mercury-Atlas 9 em maio de 1963. A visão de Cooper da janela de sua espaçonave Faith 7 era. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. NASA Estas alegações fizeram com que os profissionais de saúde mental questionassem a sanidade dos primeiros astronautas da NASA. NASA Seus relatórios sobre o local “Eye-Q” de Laredo, combinados com os resultados dos experimentos de teste de visão tipo binocular realizados antes, durante e depois do vôo.</p><p>1 O astronauta Frank Borman, piloto de comando do Gemini VII, participa de um experimento de visão usando o dispositivo de acuidade visual em voo durante a missão de duas semanas. Esta fotografia da área da Baía de São Francisco, na Califórnia, foi tirada como parte do Pacote Experimental de Recursos Terrestres Skylab em janeiro de 1974.</p><p>NASA A promessa dessas aplicações no mundo real motivou a criação do Earth Resources Technology Satellite (ERTS), mais tarde renomeado Landsat 1. Os astronautas de Mercúrio poderiam realmente ver pequenos detalhes na superfície da Terra enquanto orbitavam 160 quilômetros acima.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/history/the-view-from-above-the-gemini-visual-acuity-experiments/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>NASA astronaut L. Gordon Cooper, Jr. took 29 color photographs of the Earth with a 70mm camera as he orbited our planet during the Mercury-Atlas 9 mission in May 1963. Cooper’s view from the window of his Faith 7 spacecraft was. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. NASA These claims caused mental health professionals to question the sanity of NASA’s first astronauts. NASA Their reports on the Laredo “Eye-Q” site, combined with the results of the binocular-like vision tester experiments conducted before, during, and after the flight, revealed.</p><p>1 Astronaut Frank Borman, Gemini VII command pilot, participates in a vision experiment using the in-flight visual acuity device during the two-week mission in December 1965. This photograph of the San Francisco Bay area of California was taken as part of the Skylab Earth Resources Experiment Package in January 1974.</p><p>NASA The promise of these real-world applications motivated the creation of the Earth Resources Technology Satellite (ERTS), later renamed Landsat 1. Could Mercury astronauts actually see tiny details on Earth&#x27;s surface while orbiting 100 miles above.</p><p>Took 29 color photographs of the Earth with a 70mm camera as he orbited our planet during the Mercury-Atlas 9 mission in May 1963. Could Cooper actually see objects on the Earth’s surface in such fine detail while orbiting 100 miles above the planet.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>1 Determining what features on Earth astronauts could accurately see from orbit was about much more than sanity checking astronaut reports. The scientific community’s interest in the recollections and photographs of the Earth’s surface as seen by the Mercury and Gemini astronauts motivated NASA and its partners to.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/history/the-view-from-above-the-gemini-visual-acuity-experiments/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: O astronauta da NASA L. Gordon Cooper Jr. tirou 29 fotografias coloridas da Terra com uma câmera de 70 mm enquanto orbitava nosso planeta durante a.",
+      "Dado-chave: NASA Estas alegações fizeram com que os profissionais de saúde mental questionassem a sanidade dos primeiros astronautas da NASA.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: O astronauta da NASA L. Gordon Cooper Jr. tirou 29 fotografias coloridas da Terra com uma câmera de 70 mm enquanto orbitava nosso planeta durante a.",
+      "Dado-chave: NASA Estas alegações fizeram com que os profissionais de saúde mental questionassem a sanidade dos primeiros astronautas da NASA.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: NASA astronaut L. Gordon Cooper, Jr. took 29 color photographs of the Earth with a 70mm camera as he orbited our planet during the Mercury-Atlas 9.",
+      "Key detail: NASA These claims caused mental health professionals to question the sanity of NASA’s first astronauts.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "20 ago 2026",
+    "date_pt": "20 ago 2026",
+    "date_en": "20 Aug 2026",
+    "time": "14h30",
+    "time_pt": "14h30",
+    "time_en": "14:30 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-20T14:30:00+00:00",
+    "lastModifiedIso": "2026-08-20T14:30:00+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "www.nasa.gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "A visão de cima",
+      "os experimentos de acuidade visual Gemini"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "A visão de cima",
+      "os experimentos de acuidade visual Gemini"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "NASA News Releases",
+      "Cosmos Week",
+      "The view from above",
+      "the Gemini visual acuity experiments"
+    ],
+    "srcUrl": "https://www.nasa.gov/history/the-view-from-above-the-gemini-visual-acuity-experiments/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=the-view-from-above-the-gemini-visual-acuity-experiments",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=the-view-from-above-the-gemini-visual-acuity-experiments",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=the-view-from-above-the-gemini-visual-acuity-experiments&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 78,
+    "scoreBreakdown": {
+      "source": 94,
+      "evidence": 82,
+      "relevance": 80,
+      "accessibility": 60,
+      "novelty": 52
+    }
+  },
+  {
+    "id": 31,
     "slug": "hubble-gaia-solve-our-galaxy-s-merger-mystery",
     "cat": "Biologia",
     "catCls": "biologia",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/lkh_milky_way_merger_artist_s_impression/27417845-1-eng-GB/LKH_Milky_Way_merger_artist_s_impression_card_full.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/lkh_milky_way_merger_artist_s_impression/27417845-1-eng-GB/LKH_Milky_Way_merger_artist_s_impression_article.jpg",
-        "caption": "Fusão da Via Láctea LKH (impressão artística)",
-        "caption_pt": "Fusão da Via Láctea LKH (impressão artística)",
-        "caption_en": "LKH Milky Way merger (artist’s impression)",
-        "alt": "Fusão da Via Láctea LKH (impressão artística)",
-        "alt_pt": "Fusão da Via Láctea LKH (impressão artística)",
-        "alt_en": "LKH Milky Way merger (artist’s impression)"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2004/05/gaia_mapping_the_stars_of_the_milky_way/10200416-8-eng-GB/Gaia_mapping_the_stars_of_the_Milky_Way_article.jpg",
-        "caption": "Gaia mapeando as estrelas da Via Láctea",
-        "caption_pt": "Gaia mapeando as estrelas da Via Láctea",
-        "caption_en": "Gaia mapping the stars of the Milky Way",
-        "alt": "Gaia mapeando as estrelas da Via Láctea",
-        "alt_pt": "Gaia mapeando as estrelas da Via Láctea",
-        "alt_en": "Gaia mapping the stars of the Milky Way"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2003/05/hubble_in_free_orbit/9767064-3-eng-GB/Hubble_in_free_orbit_article.jpg",
-        "caption": "Hubble em órbita livre",
-        "caption_pt": "Hubble em órbita livre",
-        "caption_en": "Hubble in free orbit",
-        "alt": "Hubble em órbita livre",
-        "alt_pt": "Hubble em órbita livre",
-        "alt_en": "Hubble in free orbit"
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "Hubble e Gaia resolvem o mistério da fusão da nossa galáxia",
@@ -3646,22 +3676,22 @@ window.postsData = [
     "excerpt": "A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas. Agora, novos dados do Telescópio Espacial Hubble da NASA/ESA mostram evidências definitivas de uma galáxia anã se fundindo com a jovem.",
     "excerpt_pt": "A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas. Agora, novos dados do Telescópio Espacial Hubble da NASA/ESA mostram evidências definitivas de uma galáxia anã se fundindo com a jovem.",
     "excerpt_en": "Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies. Now, new data from the NASA/ESA Hubble Space Telescope show definitive evidence of a dwarf galaxy merging with the young Milky Way galaxy in.",
-    "body": "<p>A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas. Agora, novos dados do Telescópio Espacial Hubble da NASA/ESA mostram evidências definitivas de uma galáxia anã se fundindo com a jovem galáxia Via Láctea. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Agora, novos dados do Telescópio Espacial Hubble da NASA/ESA mostram evidências definitivas de uma galáxia anã fundindo-se com a jovem galáxia Via Láctea nas primeiras fases da. Esta descoberta amplia o nosso conhecimento da história da nossa galáxia 1,8 mil milhões de anos mais atrás no tempo do que antes.</p><p>Ela cresceu formando novas estrelas a partir de suas nuvens de gás, bem como coletando estrelas, gás e matéria escura de outras galáxias por meio de fusões. A fusão massiva mais recente na história da nossa galáxia ocorreu com a galáxia anã de Sagitário, começando há mais de 6 mil milhões de anos e continuando até hoje.</p><p>Olhando para um passado ainda mais distante, os investigadores descobriram que a Via Láctea consumiu outra galáxia anã chamada Gaia-Salsicha-Enceladus há 10 mil milhões de anos. Agora, o Hubble descobriu provas definitivas de uma fusão anterior que ocorreu há cerca de 11,8 mil milhões de anos, ou apenas 2 mil milhões de anos após o Big Bang.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Hubble_Gaia_solve_our_galaxy_s_merger_mystery\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas. Agora, novos dados do Telescópio Espacial Hubble da NASA/ESA mostram evidências definitivas de uma galáxia anã se fundindo com a jovem galáxia Via Láctea. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Agora, novos dados do Telescópio Espacial Hubble da NASA/ESA mostram evidências definitivas de uma galáxia anã fundindo-se com a jovem galáxia Via Láctea nas primeiras fases da. Esta descoberta amplia o nosso conhecimento da história da nossa galáxia 1,8 mil milhões de anos mais atrás no tempo do que antes.</p><p>Ela cresceu formando novas estrelas a partir de suas nuvens de gás, bem como coletando estrelas, gás e matéria escura de outras galáxias por meio de fusões. A fusão massiva mais recente na história da nossa galáxia ocorreu com a galáxia anã de Sagitário, começando há mais de 6 mil milhões de anos e continuando até hoje.</p><p>Olhando para um passado ainda mais distante, os investigadores descobriram que a Via Láctea consumiu outra galáxia anã chamada Gaia-Salsicha-Enceladus há 10 mil milhões de anos. Agora, o Hubble descobriu provas definitivas de uma fusão anterior que ocorreu há cerca de 11,8 mil milhões de anos, ou apenas 2 mil milhões de anos após o Big Bang.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Hubble_Gaia_solve_our_galaxy_s_merger_mystery\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies. Now, new data from the NASA/ESA Hubble Space Telescope show definitive evidence of a dwarf galaxy merging with the young Milky Way galaxy in. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because biology becomes more informative when an observed effect begins to look like a mechanism rather than an isolated pattern. The gap between identifying a correlation in biological data and understanding the causal chain that produces it is routinely underestimated, and the history of biomedical research is populated with associations that collapsed when the mechanism was sought and not found. A result that comes with a proposed mechanism, even a partial one, is more useful than a purely descriptive finding because it generates testable predictions that can narrow the hypothesis space. Now, new data from the NASA/ESA Hubble Space Telescope show definitive evidence of a dwarf galaxy merging with the young Milky Way galaxy in the earliest phases of its evolution. This finding extends our knowledge of our galaxy’s history 1.8 billion years farther back in time than before.</p><p>It has grown by forming new stars from its gas clouds as well as collecting stars, gas, and dark matter from other galaxies through mergers. The most recent massive merger in our galaxy’s history took place with the Sagittarius dwarf galaxy, beginning over 6 billion years ago and still ongoing today.</p><p>Looking back into the even more distant past, researchers learned that the Milky Way galaxy consumed another dwarf galaxy called Gaia-Sausage-Enceladus 10 billion years ago. Now, Hubble has uncovered definitive evidence of an earlier merger that occurred about 11.8 billion years ago, or just 2 billion years after the Big Bang.</p><p>“Our home is the Milky Way galaxy, but we do not know how our house was built,” said Davide Massari, lead author, Astrophysics and Space Science Observatory of Bologna in Italy. “In this paper we discover where the first significant batch of bricks came from: a dwarf galaxy that we call LKH.” Immense astronomical surveys and precision data from spacecraft.</p><p>The broader interest lies in whether the reported effect points toward a real mechanism and not merely a reproducible but unexplained association. Biology has learned from decades of biomarker failures that correlation, even robust correlation, is not a substitute for mechanistic understanding. A pathway that can be traced from molecular interaction to cellular response to organismal phenotype provides a far stronger foundation for intervention than a statistical association discovered in a large dataset, however well the statistics are done.</p><p>Researchers used Hubble to study some of the Milky Way galaxy’s globular clusters: immense, roughly spherical collections of tens of thousands to a few million stars. “Thanks to the high resolution and depth of Hubble imaging, we could measure the age and the metal content of these clusters with unprecedented precision,” said Chiara Zerbinati.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to test whether the effect repeats across different methods, cell types, model organisms and experimental conditions. Reproducibility is the first test, but mechanistic dissection is the second, and a result that passes both has a substantially better chance of translating into something clinically or biotechnologically useful. The path from a laboratory finding to an applied outcome typically takes a decade or more, and most findings do not complete it; the current result sits at the beginning of that process.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Hubble_Gaia_solve_our_galaxy_s_merger_mystery\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas. Agora, novos dados do Telescópio Espacial Hubble da NASA/ESA mostram evidências definitivas de uma galáxia anã se fundindo com a jovem galáxia Via Láctea. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas. Agora, novos dados do Telescópio Espacial Hubble da NASA/ESA mostram evidências definitivas de uma galáxia anã fundindo-se com a jovem galáxia Via Láctea nas primeiras fases da.</p><p>Esta descoberta amplia o nosso conhecimento da história da nossa galáxia 1,8 mil milhões de anos mais atrás no tempo do que antes.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Hubble_Gaia_solve_our_galaxy_s_merger_mystery\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas. Agora, novos dados do Telescópio Espacial Hubble da NASA/ESA mostram evidências definitivas de uma galáxia anã se fundindo com a jovem galáxia Via Láctea. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas. Agora, novos dados do Telescópio Espacial Hubble da NASA/ESA mostram evidências definitivas de uma galáxia anã fundindo-se com a jovem galáxia Via Láctea nas primeiras fases da.</p><p>Esta descoberta amplia o nosso conhecimento da história da nossa galáxia 1,8 mil milhões de anos mais atrás no tempo do que antes.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Hubble_Gaia_solve_our_galaxy_s_merger_mystery\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies. Now, new data from the NASA/ESA Hubble Space Telescope show definitive evidence of a dwarf galaxy merging with the young Milky Way galaxy in. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because biology becomes more informative when an observed effect begins to look like a mechanism rather than an isolated pattern. The gap between identifying a correlation in biological data and understanding the causal chain that produces it is routinely underestimated, and the history of biomedical research is populated with associations that collapsed when the mechanism was sought and not found. A result that comes with a proposed mechanism, even a partial one, is more useful than a purely descriptive finding because it generates testable predictions that can narrow the hypothesis space. Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies. Now, new data from the NASA/ESA Hubble Space Telescope show definitive evidence of a dwarf galaxy merging with the young Milky Way galaxy in the earliest phases of its evolution.</p><p>This finding extends our knowledge of our galaxy’s history 1.8 billion years farther back in time than before.</p><p>The broader interest lies in whether the reported effect points toward a real mechanism and not merely a reproducible but unexplained association. Biology has learned from decades of biomarker failures that correlation, even robust correlation, is not a substitute for mechanistic understanding. A pathway that can be traced from molecular interaction to cellular response to organismal phenotype provides a far stronger foundation for intervention than a statistical association discovered in a large dataset, however well the statistics are done.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to test whether the effect repeats across different methods, cell types, model organisms and experimental conditions. Reproducibility is the first test, but mechanistic dissection is the second, and a result that passes both has a substantially better chance of translating into something clinically or biotechnologically useful. The path from a laboratory finding to an applied outcome typically takes a decade or more, and most findings do not complete it; the current result sits at the beginning of that process.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Hubble_Gaia_solve_our_galaxy_s_merger_mystery\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas. Agora, novos dados do.",
-      "Dado-chave: Agora, novos dados do Telescópio Espacial Hubble da NASA/ESA mostram evidências definitivas de uma galáxia anã fundindo-se com a jovem galáxia.",
+      "Dado-chave: A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas. Agora, novos dados do.",
-      "Dado-chave: Agora, novos dados do Telescópio Espacial Hubble da NASA/ESA mostram evidências definitivas de uma galáxia anã fundindo-se com a jovem galáxia.",
+      "Dado-chave: A nossa galáxia natal, a Via Láctea, cresceu até ao tamanho atual, em parte devido ao consumo de galáxias mais pequenas.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies. Now, new data from the NASA/ESA Hubble Space.",
-      "Key detail: Now, new data from the NASA/ESA Hubble Space Telescope show definitive evidence of a dwarf galaxy merging with the young Milky Way galaxy in the.",
+      "Key detail: Our home galaxy, the Milky Way, grew to its current size in part by consuming smaller galaxies.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "17 ago 2026",
@@ -3734,7 +3764,7 @@ window.postsData = [
     }
   },
   {
-    "id": 31,
+    "id": 32,
     "slug": "a-look-back-at-the-2026-total-solar-eclipse",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3839,7 +3869,7 @@ window.postsData = [
     }
   },
   {
-    "id": 32,
+    "id": 33,
     "slug": "how-esa-mimics-and-models-the-2026-total-solar-eclipse",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3972,7 +4002,7 @@ window.postsData = [
     }
   },
   {
-    "id": 33,
+    "id": 34,
     "slug": "pluto-planetary-science-is-the-gift-that-keeps-on-giving",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4105,7 +4135,7 @@ window.postsData = [
     }
   },
   {
-    "id": 34,
+    "id": 35,
     "slug": "even-near-a-supermassive-black-hole-stars-enrich-the-interstellar-medium",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -4232,7 +4262,7 @@ window.postsData = [
     }
   },
   {
-    "id": 35,
+    "id": 36,
     "slug": "spying-on-a-split-comet",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4365,7 +4395,140 @@ window.postsData = [
     }
   },
   {
-    "id": 36,
+    "id": 37,
+    "slug": "how-gas-filaments-and-interfilaments-feed-star-formation-in-monoceros-r2",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://www.universetoday.com/article_images/20260_Hwang_Fig.1-2_20260819_192055.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.universetoday.com/article_images/Monoceros_R2_VISTA_20260819_212329.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://www.universetoday.com/article_images/apjlae6f0ff5_hr_20260819_211556.jpg",
+        "caption": "Esta figura da pesquisa mostra a densidade da coluna H2 (esquerda) e a temperatura da poeira (direita) no Monoceros R2 derivada de dados do Herschel. A caixa verde no painel esquerdo indica a região observada usando o telescópio Nobeyama de 45 m. O.",
+        "caption_pt": "Esta figura da pesquisa mostra a densidade da coluna H2 (esquerda) e a temperatura da poeira (direita) no Monoceros R2 derivada de dados do Herschel. A caixa verde no painel esquerdo indica a região observada usando o telescópio Nobeyama de 45 m. O.",
+        "caption_en": "This figure from the research shows H2 column density (left) and dust temperature (right) in Monoceros R2 derived from Herschel data. The green box in the left panel indicates the observed region using the Nobeyama 45 m telescope. The.",
+        "alt": "Esta figura da pesquisa mostra a densidade da coluna H2 (esquerda) e a temperatura da poeira (direita) no Monoceros R2 derivada de dados do Herschel. A caixa verde no painel esquerdo indica a região observada usando o telescópio Nobeyama de 45 m. O.",
+        "alt_pt": "Esta figura da pesquisa mostra a densidade da coluna H2 (esquerda) e a temperatura da poeira (direita) no Monoceros R2 derivada de dados do Herschel. A caixa verde no painel esquerdo indica a região observada usando o telescópio Nobeyama de 45 m. O.",
+        "alt_en": "This figure from the research shows H2 column density (left) and dust temperature (right) in Monoceros R2 derived from Herschel data. The green box in the left panel indicates the observed region using the Nobeyama 45 m telescope. The."
+      },
+      {
+        "src": "https://www.universetoday.com/article_images/apjlae6f0ff1_hr_20260819_205147.jpg",
+        "caption": "Esta figura do estudo mostra filamentos (F) e interfilamentos (IF) sobrepostos em um mapa de densidade de coluna de H2 (hidrogênio molecular, o principal gás formador de estrelas). \"Os contornos preenchidos indicam regiões individuais identificadas como C18O.",
+        "caption_pt": "Esta figura do estudo mostra filamentos (F) e interfilamentos (IF) sobrepostos em um mapa de densidade de coluna de H2 (hidrogênio molecular, o principal gás formador de estrelas). \"Os contornos preenchidos indicam regiões individuais identificadas como C18O.",
+        "caption_en": "This figure from the study shows filaments (F) and interfilaments (IF) overlain on an H2 (molecular hydrogen, the main star-forming gas) column density map. \"The filled contours indicate individual regions identified as C18O.",
+        "alt": "Esta figura do estudo mostra filamentos (F) e interfilamentos (IF) sobrepostos em um mapa de densidade de coluna de H2 (hidrogênio molecular, o principal gás formador de estrelas). \"Os contornos preenchidos indicam regiões individuais identificadas como C18O.",
+        "alt_pt": "Esta figura do estudo mostra filamentos (F) e interfilamentos (IF) sobrepostos em um mapa de densidade de coluna de H2 (hidrogênio molecular, o principal gás formador de estrelas). \"Os contornos preenchidos indicam regiões individuais identificadas como C18O.",
+        "alt_en": "This figure from the study shows filaments (F) and interfilaments (IF) overlain on an H2 (molecular hydrogen, the main star-forming gas) column density map. \"The filled contours indicate individual regions identified as C18O."
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Como filamentos e interfilamentos de gás alimentam a formação de estrelas em Monoceros R2",
+    "title_pt": "Como filamentos e interfilamentos de gás alimentam a formação de estrelas em Monoceros R2",
+    "title_en": "How Gas Filaments and Interfilaments Feed Star Formation in Monoceros R2",
+    "sub": "Os investigadores estudaram os fluxos de gás na região de formação estelar Monoceros R2 para compreender como o gás é canalizado para os centros de formação estelar. Ao rastrear o.",
+    "sub_pt": "Os investigadores estudaram os fluxos de gás na região de formação estelar Monoceros R2 para compreender como o gás é canalizado para os centros de formação estelar. Ao rastrear o.",
+    "sub_en": "Researchers studied gas flows in the Monoceros R2 star forming region to understand how gas is channeled into star forming hubs. By tracing the flow of carbon monoxide, they found.",
+    "excerpt": "Os investigadores estudaram os fluxos de gás na região de formação estelar Monoceros R2 para compreender como o gás é canalizado para os centros de formação estelar. Ao rastrear o fluxo de monóxido de carbono, eles descobriram que existe um sistema de.",
+    "excerpt_pt": "Os investigadores estudaram os fluxos de gás na região de formação estelar Monoceros R2 para compreender como o gás é canalizado para os centros de formação estelar. Ao rastrear o fluxo de monóxido de carbono, eles descobriram que existe um sistema de.",
+    "excerpt_en": "Researchers studied gas flows in the Monoceros R2 star forming region to understand how gas is channeled into star forming hubs. By tracing the flow of carbon monoxide, they found that a system of hub-filaments and interfilaments are.",
+    "body": "<p>Os investigadores estudaram os fluxos de gás na região de formação estelar Monoceros R2 para compreender como o gás é canalizado para os centros de formação estelar. Ao rastrear o fluxo de monóxido de carbono, eles descobriram que existe um sistema de filamentos centrais e. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Os investigadores estudaram os fluxos de gás na região de formação estelar Monoceros R2 para compreender como o gás é canalizado para os centros de formação estelar. O seu feedback regula a física à escala galáctica, podem servir como velas padrão que nos permitem medir o tamanho do Universo e são laboratórios de física natural que nunca.</p><p>É intitulado &quot;Do gás interfilamentar aos filamentos e hubs: fluxos de gás no sistema Hub-Filament Monoceros R2&quot;, e o autor principal é Jihye Hwang. Os sistemas hub-filamento (HFSs) são onipresentes nas regiões de formação estelar e desempenham um papel importante na formação e evolução de estrelas de alta massa e aglomerados.</p><p>Em HFSs, os filamentos (Fs) são estruturas alongadas com altas proporções, enquanto os centros, localizados nas junções dos filamentos, apresentam densidades de coluna maiores e. Neste trabalho, os investigadores traçaram o movimento do monóxido de carbono com o radiotelescópio Nobeyama de 45 m para compreender como o gás flui dentro e à volta destes.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/how-gas-filaments-and-interfilaments-feed-star-formation-in-monoceros-r2\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Os investigadores estudaram os fluxos de gás na região de formação estelar Monoceros R2 para compreender como o gás é canalizado para os centros de formação estelar. Ao rastrear o fluxo de monóxido de carbono, eles descobriram que existe um sistema de filamentos centrais e. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Os investigadores estudaram os fluxos de gás na região de formação estelar Monoceros R2 para compreender como o gás é canalizado para os centros de formação estelar. O seu feedback regula a física à escala galáctica, podem servir como velas padrão que nos permitem medir o tamanho do Universo e são laboratórios de física natural que nunca.</p><p>É intitulado &quot;Do gás interfilamentar aos filamentos e hubs: fluxos de gás no sistema Hub-Filament Monoceros R2&quot;, e o autor principal é Jihye Hwang. Os sistemas hub-filamento (HFSs) são onipresentes nas regiões de formação estelar e desempenham um papel importante na formação e evolução de estrelas de alta massa e aglomerados.</p><p>Em HFSs, os filamentos (Fs) são estruturas alongadas com altas proporções, enquanto os centros, localizados nas junções dos filamentos, apresentam densidades de coluna maiores e. Neste trabalho, os investigadores traçaram o movimento do monóxido de carbono com o radiotelescópio Nobeyama de 45 m para compreender como o gás flui dentro e à volta destes.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/how-gas-filaments-and-interfilaments-feed-star-formation-in-monoceros-r2\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Researchers studied gas flows in the Monoceros R2 star forming region to understand how gas is channeled into star forming hubs. By tracing the flow of carbon monoxide, they found that a system of hub-filaments and interfilaments are. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Researchers studied gas flows in the Monoceros R2 star forming region to understand how gas is channeled into star forming hubs. Their feedback regulates physics on a galactic scale, they can serve as standard candles that let us measure the size of the Universe, and they&#x27;re natural physics laboratories.</p><p>It&#x27;s titled &quot; From Interfilamentary Gas to Filaments and Hubs: Gas Flows in the Monoceros R2 Hub, Filament System,&quot; and the lead author is Jihye Hwang. Hub, filament systems (HFSs) are ubiquitous in star-forming regions and play an important role in the formation and evolution of high-mass stars and star clusters,&quot; the authors.</p><p>In HFSs, filaments (Fs) are elongated structures with high aspect ratios, whereas hubs, located at the junctions of filaments, show larger column densities and low aspect ratios.&quot;. In this work, the researchers traced the movement of carbon monoxide with the Nobeyama 45 m radiotelescope to understand how gas flows in and around these filaments.</p><p>The researchers measured two types of carbon monoxide in the Monoceros R2 HFS, 13CO (Carbon-13 monoxide) and C18O (Carbon monoxide with Oxygen-18). They&#x27;re both rare isotopes, and 13CO traces low-density gas while C18O traces high-density gas.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>They found three dense filaments and three less dense interfilament regions, and measured the flow of gas toward the hub, and toward nearby filaments. The results show that gas flows along both the filaments and the inter-filaments (IF) toward the star formation hubs.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/how-gas-filaments-and-interfilaments-feed-star-formation-in-monoceros-r2\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Os investigadores estudaram os fluxos de gás na região de formação estelar Monoceros R2 para compreender como o gás é canalizado para os centros de.",
+      "Dado-chave: Os investigadores estudaram os fluxos de gás na região de formação estelar Monoceros R2 para compreender como o gás é canalizado para os centros.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Os investigadores estudaram os fluxos de gás na região de formação estelar Monoceros R2 para compreender como o gás é canalizado para os centros de.",
+      "Dado-chave: Os investigadores estudaram os fluxos de gás na região de formação estelar Monoceros R2 para compreender como o gás é canalizado para os centros.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Researchers studied gas flows in the Monoceros R2 star forming region to understand how gas is channeled into star forming hubs. By tracing the flow.",
+      "Key detail: Researchers studied gas flows in the Monoceros R2 star forming region to understand how gas is channeled into star forming hubs.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "20 ago 2026",
+    "date_pt": "20 ago 2026",
+    "date_en": "20 Aug 2026",
+    "time": "16h50",
+    "time_pt": "16h50",
+    "time_en": "16:50 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-20T16:50:20+00:00",
+    "lastModifiedIso": "2026-08-20T16:50:20+00:00",
+    "source": "Universe Today",
+    "sourceDomain": "www.universetoday.com",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astronomia",
+      "Universe Today",
+      "Cosmos Week",
+      "Como filamentos e interfilamentos de gás alimentam a formação de estrelas em Monoceros R2"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "Universe Today",
+      "Cosmos Week",
+      "Como filamentos e interfilamentos de gás alimentam a formação de estrelas em Monoceros R2"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "Universe Today",
+      "Cosmos Week",
+      "How gas filaments and interfilaments fuel star formation in Monoceros R2"
+    ],
+    "srcUrl": "https://www.universetoday.com/articles/how-gas-filaments-and-interfilaments-feed-star-formation-in-monoceros-r2",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=how-gas-filaments-and-interfilaments-feed-star-formation-in-monoceros-r2",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=how-gas-filaments-and-interfilaments-feed-star-formation-in-monoceros-r2",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=how-gas-filaments-and-interfilaments-feed-star-formation-in-monoceros-r2&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 75,
+    "scoreBreakdown": {
+      "source": 73,
+      "evidence": 82,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 38,
     "slug": "next-up-a-deep-partial-lunar-eclipse-on-aug-27-28",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4498,7 +4661,7 @@ window.postsData = [
     }
   },
   {
-    "id": 37,
+    "id": 39,
     "slug": "astronomers-discover-a-black-hole-star-a-new-type-of-object",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -4616,7 +4779,7 @@ window.postsData = [
     }
   },
   {
-    "id": 38,
+    "id": 40,
     "slug": "this-week-s-sky-at-a-glance-august-14-23",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4747,272 +4910,6 @@ window.postsData = [
       "source": 74,
       "evidence": 82,
       "relevance": 88,
-      "accessibility": 60,
-      "novelty": 46
-    }
-  },
-  {
-    "id": 39,
-    "slug": "did-you-see-the-solar-eclipse-here-s-what-we-saw-from-around-the-world",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://dq0hsqwjhea1.cloudfront.net/Total-solar-eclipse-Mallorca-Spain-Aug-12-B.webp",
-    "inline_images": [
-      {
-        "src": "https://dq0hsqwjhea1.cloudfront.net/parador-wide-view-900x443.jpg",
-        "caption": "Datado dos séculos XII e XIII, o Castillo de los Calatravos - agora um parador (hotel) bem equipado - ocupa o topo de uma colina íngreme que oferece uma vista impressionante da cidade de Alcañiz. Parador de Alcañiz",
-        "caption_pt": "Datado dos séculos XII e XIII, o Castillo de los Calatravos - agora um parador (hotel) bem equipado - ocupa o topo de uma colina íngreme que oferece uma vista impressionante da cidade de Alcañiz. Parador de Alcañiz",
-        "caption_en": "Dating to the 12th and 13th centuries, the Castillo de los Calatravos — now a well-appointed parador (hotel) — occupies a steep-sloped hilltop that offers a commanding view of the town of Alcañiz. Parador de Alcañiz",
-        "alt": "Castelo de Calatravos em Alcañiz, Espanha",
-        "alt_pt": "Castelo de Calatravos em Alcañiz, Espanha",
-        "alt_en": "Castillo de los Calatravos in Alcañiz, Spain"
-      },
-      {
-        "src": "https://dq0hsqwjhea1.cloudfront.net/girl-with-Lunt-LS60MT-DS.jpg",
-        "caption": "Kelly Beatty, da C&T, mostra a um jovem visitante como o Sol é visto na luz do hidrogênio-alfa através de um telescópio Lunt LS60MT-DS. Larry Faltz",
-        "caption_pt": "Kelly Beatty, da C&T, mostra a um jovem visitante como o Sol é visto na luz do hidrogênio-alfa através de um telescópio Lunt LS60MT-DS. Larry Faltz",
-        "caption_en": "S&T’s Kelly Beatty shows a young visitor how the Sun looks as seen in hydrogen-alpha light through a Lunt LS60MT-DS telescope. Larry Faltz",
-        "alt": "menina com Lunt LS60MT-DS",
-        "alt_pt": "menina com Lunt LS60MT-DS",
-        "alt_en": "girl with Lunt LS60MT-DS"
-      },
-      {
-        "src": "https://dq0hsqwjhea1.cloudfront.net/corona-and-lunar-shadow-wide-angle-12Apr2026.jpg",
-        "caption": "A sombra lunar criou um escurecimento distinto e sinistro em torno do Sol totalmente eclipsado, visto do local de observação da S&T em Alcañiz, Espanha. No meio do eclipse, o Sol estava apenas 5° acima do horizonte local. Cheryl Beatty / Céu e Telescópio",
-        "caption_pt": "A sombra lunar criou um escurecimento distinto e sinistro em torno do Sol totalmente eclipsado, visto do local de observação da S&T em Alcañiz, Espanha. No meio do eclipse, o Sol estava apenas 5° acima do horizonte local. Cheryl Beatty / Céu e Telescópio",
-        "caption_en": "The lunar shadow created a distinct and ominous darkening around the totally eclipsed Sun as seen from S&T ’s viewing site in Alcañiz, Spain. At mid-eclipse the Sun was just 5° above the local horizon. Cheryl Beatty / Sky & Telescope",
-        "alt": "corona e sombra lunar grande angular 12 de abril de 2026",
-        "alt_pt": "corona e sombra lunar grande angular 12 de abril de 2026",
-        "alt_en": "corona and lunar shadow wide angle 12Apr2026"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Você viu o Eclipse Solar? Aqui está o que vimos de todo o mundo",
-    "title_pt": "Você viu o Eclipse Solar? Aqui está o que vimos de todo o mundo",
-    "title_en": "Did You See the Solar Eclipse? Here’s What We Saw, from Around the World",
-    "sub": "Os editores da Sky & Telescope viajaram pelo mundo, literal e figurativamente, para ver o eclipse solar que escureceu o mundo da forma mais mágica em 12 de agosto de 2026. Aqui.",
-    "sub_pt": "Os editores da Sky & Telescope viajaram pelo mundo, literal e figurativamente, para ver o eclipse solar que escureceu o mundo da forma mais mágica em 12 de agosto de 2026. Aqui.",
-    "sub_en": "Sky & Telescope editors traveled the world, both literally and figuratively, to see the solar eclipse that darkened the world in the most magical way on August 12, 2026. Here are.",
-    "excerpt": "Os editores da Sky & Telescope viajaram pelo mundo, literal e figurativamente, para ver o eclipse solar que escureceu o mundo da forma mais mágica em 12 de agosto de 2026. Aqui estão algumas de suas histórias. O post Você viu o Solar.",
-    "excerpt_pt": "Os editores da Sky & Telescope viajaram pelo mundo, literal e figurativamente, para ver o eclipse solar que escureceu o mundo da forma mais mágica em 12 de agosto de 2026. Aqui estão algumas de suas histórias. O post Você viu o Solar.",
-    "excerpt_en": "Sky & Telescope editors traveled the world, both literally and figuratively, to see the solar eclipse that darkened the world in the most magical way on August 12, 2026. Here are some of their stories. The post Did You See the Solar.",
-    "body": "<p>Os editores da Sky &amp; Telescope viajaram pelo mundo, literal e figurativamente, para ver o eclipse solar que escureceu o mundo da forma mais mágica em 12 de agosto de 2026. Aqui estão algumas de suas histórias. O post Você viu o Solar. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Os editores da Sky &amp; Telescope viajaram pelo mundo, literal e figurativamente, para ver o eclipse solar que escureceu o mundo da forma mais mágica em 12 de agosto de 2026. Aqui está o que vimos, de todo o mundo apareceu pela primeira vez na Sky &amp; Telescope.</p><p>Explore o universo com Sky &amp; Telescope, sua melhor fonte de observação de estrelas, eventos celestes e as últimas notícias de astronomia Por: Os Editores da Sky &amp; Telescope 13 de. (Você pode cancelar a assinatura a qualquer momento) Os editores da Sky &amp; Telescope viajaram pelo mundo, literal e figurativamente, para ver o eclipse solar que escureceu o mundo.</p><p>O eclipse solar total em 12 de agosto de 2026 foi o primeiro visível em qualquer lugar desde abril de 2024, quase 2 anos e meio. Muitos moradores locais se juntaram a nós no topo da colina, que exibiam alguns dos 4.800 visualizadores solares que a Sky &amp; Telescope havia enviado para a cidade com antecedência.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Sky &amp; Telescope, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/did-you-see-the-solar-eclipse-heres-what-we-saw-from-around-the-world/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Os editores da Sky &amp; Telescope viajaram pelo mundo, literal e figurativamente, para ver o eclipse solar que escureceu o mundo da forma mais mágica em 12 de agosto de 2026. Aqui estão algumas de suas histórias. O post Você viu o Solar. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Os editores da Sky &amp; Telescope viajaram pelo mundo, literal e figurativamente, para ver o eclipse solar que escureceu o mundo da forma mais mágica em 12 de agosto de 2026. Aqui está o que vimos, de todo o mundo apareceu pela primeira vez na Sky &amp; Telescope.</p><p>Explore o universo com Sky &amp; Telescope, sua melhor fonte de observação de estrelas, eventos celestes e as últimas notícias de astronomia Por: Os Editores da Sky &amp; Telescope 13 de. (Você pode cancelar a assinatura a qualquer momento) Os editores da Sky &amp; Telescope viajaram pelo mundo, literal e figurativamente, para ver o eclipse solar que escureceu o mundo.</p><p>O eclipse solar total em 12 de agosto de 2026 foi o primeiro visível em qualquer lugar desde abril de 2024, quase 2 anos e meio. Muitos moradores locais se juntaram a nós no topo da colina, que exibiam alguns dos 4.800 visualizadores solares que a Sky &amp; Telescope havia enviado para a cidade com antecedência.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Sky &amp; Telescope, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/did-you-see-the-solar-eclipse-heres-what-we-saw-from-around-the-world/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Sky &amp; Telescope editors traveled the world, both literally and figuratively, to see the solar eclipse that darkened the world in the most magical way on August 12, 2026. Here are some of their stories. The post Did You See the Solar. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Sky &amp; Telescope editors traveled the world, both literally and figuratively, to see the solar eclipse that darkened the world in the most magical way on August 12, 2026. Here’s What We Saw, from Around the World appeared first on Sky &amp; Telescope.</p><p>Explore the universe with Sky &amp; Telescope, your ultimate source for stargazing, celestial events, and the latest astronomy news By: The Editors of Sky &amp; Telescope August 13, 2026. (You can unsubscribe anytime) Sky &amp; Telescope editors traveled the world, both literally and figuratively, to see the solar eclipse that darkened the world in the most magical way.</p><p>The total solar eclipse on August 12, 2026, was the first one visible anywhere since April 2024, nearly 2½ years. We were joined atop the hill by many of the local residents, who were sporting some of the 4,800 solar viewers that Sky &amp; Telescope had shipped to the town ahead of time.</p><p>We were treated to 92 seconds of totality, made even more special by two circumstances: First, the sky was filled with a slight haze created by very distant fires and a stagnant. This gave the corona a very slight warm tinge and an especially red sunset (with 26% of the Sun&#x27;s disk still covered).</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Second, the combination of totality occurring just 5° above the horizon and the Moon’s shadow racing southward toward us at 2 miles per second created extra drama as the. As the shadow dashed off to the east at more than 12,500 miles per hour, and light slowly returned, a narrow slice of hazy but clear sky became apparent at the horizon.</p><p>Because the account originates with Sky &amp; Telescope, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://skyandtelescope.org/astronomy-news/did-you-see-the-solar-eclipse-heres-what-we-saw-from-around-the-world/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Os editores da Sky & Telescope viajaram pelo mundo, literal e figurativamente, para ver o eclipse solar que escureceu o mundo da forma mais mágica em.",
-      "Dado-chave: Os editores da Sky & Telescope viajaram pelo mundo, literal e figurativamente, para ver o eclipse solar que escureceu o mundo da forma mais.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Os editores da Sky & Telescope viajaram pelo mundo, literal e figurativamente, para ver o eclipse solar que escureceu o mundo da forma mais mágica em.",
-      "Dado-chave: Os editores da Sky & Telescope viajaram pelo mundo, literal e figurativamente, para ver o eclipse solar que escureceu o mundo da forma mais.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Sky & Telescope editors traveled the world, both literally and figuratively, to see the solar eclipse that darkened the world in the most magical way.",
-      "Key detail: Sky & Telescope editors traveled the world, both literally and figuratively, to see the solar eclipse that darkened the world in the most.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "13 ago 2026",
-    "date_pt": "13 ago 2026",
-    "date_en": "13 Aug 2026",
-    "time": "13h03",
-    "time_pt": "13h03",
-    "time_en": "13:03 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-13T13:03:50+00:00",
-    "lastModifiedIso": "2026-08-13T13:03:50+00:00",
-    "source": "Sky & Telescope",
-    "sourceDomain": "skyandtelescope.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astronomia",
-      "Sky & Telescope",
-      "Cosmos Week",
-      "Você viu o Eclipse Solar? Aqui está o que vimos de todo o mundo"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "Sky & Telescope",
-      "Cosmos Week",
-      "Você viu o Eclipse Solar? Aqui está o que vimos de todo o mundo"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "Sky & Telescope",
-      "Cosmos Week",
-      "Have you seen the Solar Eclipse? Here's what we saw from around the world"
-    ],
-    "srcUrl": "https://skyandtelescope.org/astronomy-news/did-you-see-the-solar-eclipse-heres-what-we-saw-from-around-the-world/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=did-you-see-the-solar-eclipse-here-s-what-we-saw-from-around-the-world",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=did-you-see-the-solar-eclipse-here-s-what-we-saw-from-around-the-world",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=did-you-see-the-solar-eclipse-here-s-what-we-saw-from-around-the-world&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 74,
-    "scoreBreakdown": {
-      "source": 74,
-      "evidence": 82,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 46
-    }
-  },
-  {
-    "id": 40,
-    "slug": "chasing-fire-clouds-in-utah",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/chasing-fire-clouds-in-utah/utahpyrocb_amo_20260802.jpg",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-sunflower's-view-of-totality/55460226954_564d105934_th.jpg?w=1440&h=960&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "Uma foto composta mostra o Sol em vários momentos e locais durante a progressão de um eclipse solar total. O caminho do Sol desce diagonalmente a partir do canto superior esquerdo através de um céu escurecido, com um campo de girassóis em primeiro plano.",
-        "caption_pt": "Uma foto composta mostra o Sol em vários momentos e locais durante a progressão de um eclipse solar total. O caminho do Sol desce diagonalmente a partir do canto superior esquerdo através de um céu escurecido, com um campo de girassóis em primeiro plano.",
-        "caption_en": "A composite photo shows the Sun at several times and locations during the progression of a total solar eclipse. The Sun’s path descends diagonally from the top left across a dimmed sky, with a field of sunflowers in the foreground.",
-        "alt": "Uma foto composta mostra o Sol em vários momentos e locais durante a progressão de um eclipse solar total. O caminho do Sol desce diagonalmente a partir do canto superior esquerdo através de um céu escurecido, com um campo de girassóis em primeiro plano.",
-        "alt_pt": "Uma foto composta mostra o Sol em vários momentos e locais durante a progressão de um eclipse solar total. O caminho do Sol desce diagonalmente a partir do canto superior esquerdo através de um céu escurecido, com um campo de girassóis em primeiro plano.",
-        "alt_en": "A composite photo shows the Sun at several times and locations during the progression of a total solar eclipse. The Sun’s path descends diagonally from the top left across a dimmed sky, with a field of sunflowers in the foreground."
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/lala-batters-hawaii/hurricanelala_virs2_20260816_th.jpg?w=1440&h=960&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "As nuvens em espiral de uma tempestade tropical estão centradas perto da ilha havaiana de Kaua'i.",
-        "caption_pt": "As nuvens em espiral de uma tempestade tropical estão centradas perto da ilha havaiana de Kaua'i.",
-        "caption_en": "The spiraling clouds of a tropical storm are centered near the Hawaiian island of Kauaʻi.",
-        "alt": "As nuvens em espiral de uma tempestade tropical estão centradas perto da ilha havaiana de Kaua'i.",
-        "alt_pt": "As nuvens em espiral de uma tempestade tropical estão centradas perto da ilha havaiana de Kaua'i.",
-        "alt_en": "The spiraling clouds of a tropical storm are centered near the Hawaiian island of Kauaʻi."
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/chasing-fire-clouds-in-utah/utahpyrocb_amo_20260802.jpg?w=2160&h=1635&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "A fumaça cinza texturizada de um incêndio florestal flui para o leste de um incêndio perto da Floresta Nacional de Fishlake. Uma sombra escura é visível a leste de uma pluma alta perto da frente do fogo.",
-        "caption_pt": "A fumaça cinza texturizada de um incêndio florestal flui para o leste de um incêndio perto da Floresta Nacional de Fishlake. Uma sombra escura é visível a leste de uma pluma alta perto da frente do fogo.",
-        "caption_en": "Textured gray wildfire smoke streams east from a fire burning near Fishlake National Forest. A dark shadow is visible to the east of a tall plume near the fire front.",
-        "alt": "A fumaça cinza texturizada de um incêndio florestal flui para o leste de um incêndio perto da Floresta Nacional de Fishlake. Uma sombra escura é visível a leste de uma pluma alta perto da frente do fogo.",
-        "alt_pt": "A fumaça cinza texturizada de um incêndio florestal flui para o leste de um incêndio perto da Floresta Nacional de Fishlake. Uma sombra escura é visível a leste de uma pluma alta perto da frente do fogo.",
-        "alt_en": "Textured gray wildfire smoke streams east from a fire burning near Fishlake National Forest. A dark shadow is visible to the east of a tall plume near the fire front."
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Perseguindo nuvens de fogo em Utah",
-    "title_pt": "Perseguindo nuvens de fogo em Utah",
-    "title_en": "Chasing Fire Clouds in Utah",
-    "sub": "As aeronaves da NASA estão coletando amostras de fumaça elevada na atmosfera por um dos tipos de nuvens mais formidáveis ​​do céu, pirocumulonimbus imponentes e infundidos de.",
-    "sub_pt": "As aeronaves da NASA estão coletando amostras de fumaça elevada na atmosfera por um dos tipos de nuvens mais formidáveis ​​do céu, pirocumulonimbus imponentes e infundidos de.",
-    "sub_en": "NASA aircraft are sampling smoke lofted high into the atmosphere by one of the most formidable cloud types in the sky, towering, smoke-infused pyrocumulonimbus. The post Chasing.",
-    "excerpt": "As aeronaves da NASA estão coletando amostras de fumaça elevada na atmosfera por um dos tipos de nuvens mais formidáveis ​​do céu, pirocumulonimbus imponentes e infundidos de fumaça. O post Perseguindo Nuvens de Fogo em Utah apareceu pela primeira vez na NASA.",
-    "excerpt_pt": "As aeronaves da NASA estão coletando amostras de fumaça elevada na atmosfera por um dos tipos de nuvens mais formidáveis ​​do céu, pirocumulonimbus imponentes e infundidos de fumaça. O post Perseguindo Nuvens de Fogo em Utah apareceu pela primeira vez na NASA.",
-    "excerpt_en": "NASA aircraft are sampling smoke lofted high into the atmosphere by one of the most formidable cloud types in the sky, towering, smoke-infused pyrocumulonimbus. The post Chasing Fire Clouds in Utah appeared first on NASA Science.",
-    "body": "<p>As aeronaves da NASA estão coletando amostras de fumaça elevada na atmosfera por um dos tipos de nuvens mais formidáveis ​​do céu, pirocumulonimbus imponentes e infundidos de fumaça. O post Perseguindo Nuvens de Fogo em Utah apareceu pela primeira vez na NASA Science. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. A compreensão destas nuvens enigmáticas e perigosas é a razão pela qual uma equipa de cientistas atmosféricos, parte de uma missão da NASA chamada INSPYRE (INjected Smoke and. A equipe completou uma de suas primeiras amostragens do verão em 3 de agosto de 2026, quando o GV voou através de um pulso de fumaça de alta altitude do incêndio em Widemouth 2.</p><p>The Economist (2026, 9 de agosto) NASA mira em tempestades de fogo. Comunicações Terra e Meio Ambiente, 3, 243.</p><p>Ciência, 379(6634), 815-820. &quot;Laboratório de Propulsão a Jato da NASA (2026, 20 de julho) Novas missões terrestres da NASA se preparam para iniciar voos científicos&quot;.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA Earth Observatory, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/chasing-fire-clouds-in-utah/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>As aeronaves da NASA estão coletando amostras de fumaça elevada na atmosfera por um dos tipos de nuvens mais formidáveis ​​do céu, pirocumulonimbus imponentes e infundidos de fumaça. O post Perseguindo Nuvens de Fogo em Utah apareceu pela primeira vez na NASA Science. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. A compreensão destas nuvens enigmáticas e perigosas é a razão pela qual uma equipa de cientistas atmosféricos, parte de uma missão da NASA chamada INSPYRE (INjected Smoke and. A equipe completou uma de suas primeiras amostragens do verão em 3 de agosto de 2026, quando o GV voou através de um pulso de fumaça de alta altitude do incêndio em Widemouth 2.</p><p>The Economist (2026, 9 de agosto) NASA mira em tempestades de fogo. Comunicações Terra e Meio Ambiente, 3, 243.</p><p>Ciência, 379(6634), 815-820. &quot;Laboratório de Propulsão a Jato da NASA (2026, 20 de julho) Novas missões terrestres da NASA se preparam para iniciar voos científicos&quot;.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA Earth Observatory, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/chasing-fire-clouds-in-utah/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>NASA aircraft are sampling smoke lofted high into the atmosphere by one of the most formidable cloud types in the sky, towering, smoke-infused pyrocumulonimbus. The post Chasing Fire Clouds in Utah appeared first on NASA Science. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Understanding these enigmatic and dangerous clouds is why a team of atmospheric scientists, part of a NASA mission called INSPYRE (INjected Smoke and PYRocumulonimbus. The team completed one of its first sampling runs of the summer on August 3, 2026, when the GV flew through a high-altitude pulse of smoke from the Widemouth 2 fire, one of Utah’s.</p><p>The Economist (2026, August 9) NASA takes aim at fire storms. Communications Earth &amp; Environment, 3, 243.</p><p>Science, 379(6634), 815-820. NASA Jet Propulsion Laboratory (2026, July 20) New NASA Earth Missions Gear Up to Start Science Flights.</p><p>NASA Airborne Science Program (2026) Earth Science Observation Platforms. NASA Earth Observatory (2021, July 30) A Summer of Fire-Breathing Smoke Storms.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>NASA Earth Observatory (2020, January 10) Explosive Fire Activity in Australia. Climate and Atmospheric Science, 8(325).</p><p>Because the account originates with NASA Earth Observatory, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/chasing-fire-clouds-in-utah/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: As aeronaves da NASA estão coletando amostras de fumaça elevada na atmosfera por um dos tipos de nuvens mais formidáveis ​​do céu, pirocumulonimbus.",
-      "Dado-chave: A compreensão destas nuvens enigmáticas e perigosas é a razão pela qual uma equipa de cientistas atmosféricos, parte de uma missão da NASA.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: As aeronaves da NASA estão coletando amostras de fumaça elevada na atmosfera por um dos tipos de nuvens mais formidáveis ​​do céu, pirocumulonimbus.",
-      "Dado-chave: A compreensão destas nuvens enigmáticas e perigosas é a razão pela qual uma equipa de cientistas atmosféricos, parte de uma missão da NASA.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: NASA aircraft are sampling smoke lofted high into the atmosphere by one of the most formidable cloud types in the sky, towering, smoke-infused.",
-      "Key detail: Understanding these enigmatic and dangerous clouds is why a team of atmospheric scientists, part of a NASA mission called INSPYRE (INjected.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "17 ago 2026",
-    "date_pt": "17 ago 2026",
-    "date_en": "17 Aug 2026",
-    "time": "04h01",
-    "time_pt": "04h01",
-    "time_en": "04:01 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-17T04:01:00+00:00",
-    "lastModifiedIso": "2026-08-17T04:01:00+00:00",
-    "source": "NASA Earth Observatory",
-    "sourceDomain": "science.nasa.gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "Perseguindo nuvens de fogo em Utah"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "Perseguindo nuvens de fogo em Utah"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "NASA Earth Observatory",
-      "Cosmos Week",
-      "Chasing fire clouds in Utah"
-    ],
-    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/chasing-fire-clouds-in-utah/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=chasing-fire-clouds-in-utah",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=chasing-fire-clouds-in-utah",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=chasing-fire-clouds-in-utah&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 74,
-    "scoreBreakdown": {
-      "source": 75,
-      "evidence": 88,
-      "relevance": 80,
       "accessibility": 60,
       "novelty": 46
     }

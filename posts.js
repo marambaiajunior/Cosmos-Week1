@@ -40,14 +40,14 @@ window.postsData = [
     "date": "23 ago 2026",
     "date_pt": "23 ago 2026",
     "date_en": "23 Aug 2026",
-    "time": "22h53",
-    "time_pt": "22h53",
-    "time_en": "22:53 UTC",
+    "time": "23h30",
+    "time_pt": "23h30",
+    "time_en": "23:30 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-23T22:53:48.514160+00:00",
-    "lastModifiedIso": "2026-08-23T22:53:48.514160+00:00",
+    "publishedIso": "2026-08-23T23:30:36.608014+00:00",
+    "lastModifiedIso": "2026-08-23T23:30:36.608014+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -145,14 +145,14 @@ window.postsData = [
     "date": "23 ago 2026",
     "date_pt": "23 ago 2026",
     "date_en": "23 Aug 2026",
-    "time": "22h53",
-    "time_pt": "22h53",
-    "time_en": "22:53 UTC",
+    "time": "23h30",
+    "time_pt": "23h30",
+    "time_en": "23:30 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-23T22:53:48.514109+00:00",
-    "lastModifiedIso": "2026-08-23T22:53:48.514109+00:00",
+    "publishedIso": "2026-08-23T23:30:36.607930+00:00",
+    "lastModifiedIso": "2026-08-23T23:30:36.607930+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -250,14 +250,14 @@ window.postsData = [
     "date": "23 ago 2026",
     "date_pt": "23 ago 2026",
     "date_en": "23 Aug 2026",
-    "time": "22h53",
-    "time_pt": "22h53",
-    "time_en": "22:53 UTC",
+    "time": "23h30",
+    "time_pt": "23h30",
+    "time_en": "23:30 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-23T22:53:48.514058+00:00",
-    "lastModifiedIso": "2026-08-23T22:53:48.514058+00:00",
+    "publishedIso": "2026-08-23T23:30:36.607847+00:00",
+    "lastModifiedIso": "2026-08-23T23:30:36.607847+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -358,14 +358,14 @@ window.postsData = [
     "date": "23 ago 2026",
     "date_pt": "23 ago 2026",
     "date_en": "23 Aug 2026",
-    "time": "22h53",
-    "time_pt": "22h53",
-    "time_en": "22:53 UTC",
+    "time": "23h30",
+    "time_pt": "23h30",
+    "time_en": "23:30 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-23T22:53:48.514011+00:00",
-    "lastModifiedIso": "2026-08-23T22:53:48.514011+00:00",
+    "publishedIso": "2026-08-23T23:30:36.607770+00:00",
+    "lastModifiedIso": "2026-08-23T23:30:36.607770+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -463,14 +463,14 @@ window.postsData = [
     "date": "23 ago 2026",
     "date_pt": "23 ago 2026",
     "date_en": "23 Aug 2026",
-    "time": "22h53",
-    "time_pt": "22h53",
-    "time_en": "22:53 UTC",
+    "time": "23h30",
+    "time_pt": "23h30",
+    "time_en": "23:30 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-23T22:53:48.513929+00:00",
-    "lastModifiedIso": "2026-08-23T22:53:48.513929+00:00",
+    "publishedIso": "2026-08-23T23:30:36.607647+00:00",
+    "lastModifiedIso": "2026-08-23T23:30:36.607647+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -1405,35 +1405,7 @@ window.postsData = [
     "cat": "Cosmologia",
     "catCls": "cosmologia",
     "img": "https://cdn.esahubble.org/archives/images/screen/heic2605a.jpg",
-    "inline_images": [
-      {
-        "src": "https://cdn.esahubble.org/archives/images/newsfeature/heic2605a.jpg",
-        "caption": "Galaxy field of low-surface-brightness galaxy CDG-2",
-        "caption_pt": "Galaxy field of low-surface-brightness galaxy CDG-2",
-        "caption_en": "Galaxy field of low-surface-brightness galaxy CDG-2",
-        "alt": "Galaxy field of low-surface-brightness galaxy CDG-2",
-        "alt_pt": "Galaxy field of low-surface-brightness galaxy CDG-2",
-        "alt_en": "Galaxy field of low-surface-brightness galaxy CDG-2"
-      },
-      {
-        "src": "https://cdn.esahubble.org/archives/images/news/heic2605a.jpg",
-        "caption": "Galaxy field of low-surface-brightness galaxy CDG-2",
-        "caption_pt": "Galaxy field of low-surface-brightness galaxy CDG-2",
-        "caption_en": "Galaxy field of low-surface-brightness galaxy CDG-2",
-        "alt": "Galaxy field of low-surface-brightness galaxy CDG-2",
-        "alt_pt": "Galaxy field of low-surface-brightness galaxy CDG-2",
-        "alt_en": "Galaxy field of low-surface-brightness galaxy CDG-2"
-      },
-      {
-        "src": "https://cdn.esahubble.org/archives/images/news/heic2605b.jpg",
-        "caption": "Dark galaxy CDG-2 near Perseus Cluster (annotated)",
-        "caption_pt": "Dark galaxy CDG-2 near Perseus Cluster (annotated)",
-        "caption_en": "Dark galaxy CDG-2 near Perseus Cluster (annotated)",
-        "alt": "Dark galaxy CDG-2 near Perseus Cluster (annotated)",
-        "alt_pt": "Dark galaxy CDG-2 near Perseus Cluster (annotated)",
-        "alt_en": "Dark galaxy CDG-2 near Perseus Cluster (annotated)"
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "Science Release: Hubble identifies one of darkest known galaxies",
@@ -1445,9 +1417,9 @@ window.postsData = [
     "excerpt": "Most galaxies in the nearby Universe are quite luminous, but some are so faint they’re nearly invisible. Astronomers, using the NASA/ESA Hubble Space Telescope in combination with other observatories, identified a galaxy that appears to be.",
     "excerpt_pt": "Most galaxies in the nearby Universe are quite luminous, but some are so faint they’re nearly invisible. Astronomers, using the NASA/ESA Hubble Space Telescope in combination with other observatories, identified a galaxy that appears to be.",
     "excerpt_en": "Most galaxies in the nearby Universe are quite luminous, but some are so faint they’re nearly invisible. Astronomers, using the NASA/ESA Hubble Space Telescope in combination with other observatories, identified a galaxy that appears to be.",
-    "body": "<p>Most galaxies in the nearby Universe are quite luminous, but some are so faint they’re nearly invisible. Astronomers, using the NASA/ESA Hubble Space Telescope in combination with other observatories, identified a galaxy that appears to be. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. The galaxy, known as Candidate Dark Galaxy-2 (CDG-2), appears to contain just four globular star clusters (compared to the Milky Way’s 150-plus). Astronomers, using the NASA/ESA Hubble Space Telescope in combination with other observatories, identified a galaxy that appears to be almost entirely dominated by dark matter.</p><p>The galaxy, known as Candidate Dark Galaxy-2 (CDG-2), appears to contain just four globular star clusters (compared to the Milky Way’s 150-plus), and dimly shines with the light. One such elusive object, dubbed CDG-2, may be among the most heavily dark matter-dominated galaxies ever discovered.</p><p>The science paper detailing this finding was published in The Astrophysical Journal Letters. Using advanced statistical techniques, David Li of the University of Toronto, Canada, and his team identified 10 previously confirmed low-surface-brightness galaxies and two.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2605/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Most galaxies in the nearby Universe are quite luminous, but some are so faint they’re nearly invisible. Astronomers, using the NASA/ESA Hubble Space Telescope in combination with other observatories, identified a galaxy that appears to be. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. The galaxy, known as Candidate Dark Galaxy-2 (CDG-2), appears to contain just four globular star clusters (compared to the Milky Way’s 150-plus). Astronomers, using the NASA/ESA Hubble Space Telescope in combination with other observatories, identified a galaxy that appears to be almost entirely dominated by dark matter.</p><p>The galaxy, known as Candidate Dark Galaxy-2 (CDG-2), appears to contain just four globular star clusters (compared to the Milky Way’s 150-plus), and dimly shines with the light. One such elusive object, dubbed CDG-2, may be among the most heavily dark matter-dominated galaxies ever discovered.</p><p>The science paper detailing this finding was published in The Astrophysical Journal Letters. Using advanced statistical techniques, David Li of the University of Toronto, Canada, and his team identified 10 previously confirmed low-surface-brightness galaxies and two.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2605/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Most galaxies in the nearby Universe are quite luminous, but some are so faint they’re nearly invisible. Astronomers, using the NASA/ESA Hubble Space Telescope in combination with other observatories, identified a galaxy that appears to be. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. The galaxy, known as Candidate Dark Galaxy-2 (CDG-2), appears to contain just four globular star clusters (compared to the Milky Way’s 150-plus). Astronomers, using the NASA/ESA Hubble Space Telescope in combination with other observatories, identified a galaxy that appears to be almost entirely dominated by dark matter.</p><p>The galaxy, known as Candidate Dark Galaxy-2 (CDG-2), appears to contain just four globular star clusters (compared to the Milky Way’s 150-plus), and dimly shines with the light. One such elusive object, dubbed CDG-2, may be among the most heavily dark matter-dominated galaxies ever discovered.</p><p>The science paper detailing this finding was published in The Astrophysical Journal Letters. Using advanced statistical techniques, David Li of the University of Toronto, Canada, and his team identified 10 previously confirmed low-surface-brightness galaxies and two.</p><p>To confirm one of the dark galaxy candidates, astronomers employed a trio of observatories: the Hubble Space Telescope, ESA’s Euclid space observatory, and the ground-based Subaru. Hubble’s high-resolution imaging revealed a close collection of four globular clusters in the Perseus galaxy cluster, 300 million light-years away.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>Follow-up studies using Hubble, Euclid, and Subaru data then revealed a faint, diffuse glow surrounding the star clusters, strong evidence of an underlying galaxy. “Under conservative assumptions, the four clusters represent the entire globular cluster population of CDG-2.” Preliminary analysis suggests CDG-2 has the luminosity of roughly 1.</p><p>Because the account originates with ESA Hubble News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2605/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>Most galaxies in the nearby Universe are quite luminous, but some are so faint they’re nearly invisible. Astronomers, using the NASA/ESA Hubble Space Telescope in combination with other observatories, identified a galaxy that appears to be. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. The galaxy, known as Candidate Dark Galaxy-2 (CDG-2), appears to contain just four globular star clusters (compared to the Milky Way’s 150-plus). Most galaxies in the nearby Universe are quite luminous, but some are so faint they’re nearly invisible.</p><p>Astronomers, using the NASA/ESA Hubble Space Telescope in combination with other observatories, identified a galaxy that appears to be almost entirely dominated by dark matter. The galaxy, known as Candidate Dark Galaxy-2 (CDG-2), appears to contain just four globular star clusters (compared to the Milky Way’s 150-plus), and dimly shines with the light.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2605/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Most galaxies in the nearby Universe are quite luminous, but some are so faint they’re nearly invisible. Astronomers, using the NASA/ESA Hubble Space Telescope in combination with other observatories, identified a galaxy that appears to be. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. The galaxy, known as Candidate Dark Galaxy-2 (CDG-2), appears to contain just four globular star clusters (compared to the Milky Way’s 150-plus). Most galaxies in the nearby Universe are quite luminous, but some are so faint they’re nearly invisible.</p><p>Astronomers, using the NASA/ESA Hubble Space Telescope in combination with other observatories, identified a galaxy that appears to be almost entirely dominated by dark matter. The galaxy, known as Candidate Dark Galaxy-2 (CDG-2), appears to contain just four globular star clusters (compared to the Milky Way’s 150-plus), and dimly shines with the light.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2605/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Most galaxies in the nearby Universe are quite luminous, but some are so faint they’re nearly invisible. Astronomers, using the NASA/ESA Hubble Space Telescope in combination with other observatories, identified a galaxy that appears to be. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. The galaxy, known as Candidate Dark Galaxy-2 (CDG-2), appears to contain just four globular star clusters (compared to the Milky Way’s 150-plus). Most galaxies in the nearby Universe are quite luminous, but some are so faint they’re nearly invisible.</p><p>Astronomers, using the NASA/ESA Hubble Space Telescope in combination with other observatories, identified a galaxy that appears to be almost entirely dominated by dark matter. The galaxy, known as Candidate Dark Galaxy-2 (CDG-2), appears to contain just four globular star clusters (compared to the Milky Way’s 150-plus), and dimly shines with the light.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>Because the account originates with ESA Hubble News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2605/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Most galaxies in the nearby Universe are quite luminous, but some are so faint they’re nearly invisible. Astronomers, using the NASA/ESA Hubble Space.",
       "Dado-chave: The galaxy, known as Candidate Dark Galaxy-2 (CDG-2), appears to contain just four globular star clusters (compared to the Milky Way’s 150-plus).",
@@ -1915,35 +1887,7 @@ window.postsData = [
     "cat": "Astrofísica",
     "catCls": "astrofisica",
     "img": "https://cdn.esahubble.org/archives/images/screen/heic2610a.jpg",
-    "inline_images": [
-      {
-        "src": "https://cdn.esahubble.org/archives/images/newsfeature/heic2610a.jpg",
-        "caption": "Omega Centauri context image",
-        "caption_pt": "Omega Centauri context image",
-        "caption_en": "Omega Centauri context image",
-        "alt": "Omega Centauri context image",
-        "alt_pt": "Omega Centauri context image",
-        "alt_en": "Omega Centauri context image"
-      },
-      {
-        "src": "https://cdn.esahubble.org/archives/images/news/heic2610a.jpg",
-        "caption": "Omega Centauri context image",
-        "caption_pt": "Omega Centauri context image",
-        "caption_en": "Omega Centauri context image",
-        "alt": "Omega Centauri context image",
-        "alt_pt": "Omega Centauri context image",
-        "alt_en": "Omega Centauri context image"
-      },
-      {
-        "src": "https://cdn.esahubble.org/archives/images/news/heic2409a.jpg",
-        "caption": "Omega Centauri",
-        "caption_pt": "Omega Centauri",
-        "caption_en": "Omega Centauri",
-        "alt": "Omega Centauri",
-        "alt_pt": "Omega Centauri",
-        "alt_en": "Omega Centauri"
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "Science Release: Hubble discovers first of star cluster’s missing black holes",
@@ -1955,22 +1899,22 @@ window.postsData = [
     "excerpt": "The massive globular star cluster Omega Centauri has puzzled astronomers for decades. It should be filled with black holes left behind by exploding stars, yet evidence for them is scarce. Now, astronomers using archival data from the.",
     "excerpt_pt": "The massive globular star cluster Omega Centauri has puzzled astronomers for decades. It should be filled with black holes left behind by exploding stars, yet evidence for them is scarce. Now, astronomers using archival data from the.",
     "excerpt_en": "The massive globular star cluster Omega Centauri has puzzled astronomers for decades. It should be filled with black holes left behind by exploding stars, yet evidence for them is scarce. Now, astronomers using archival data from the.",
-    "body": "<p>The massive globular star cluster Omega Centauri has puzzled astronomers for decades. It should be filled with black holes left behind by exploding stars, yet evidence for them is scarce. Now, astronomers using archival data from the. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Now, astronomers using archival data from the NASA/ESA Hubble Space Telescope and supportive observations from the NASA/ESA/CSA James Webb Space Telescope have finally located. Though the astronomy community has previously found evidence with Hubble that an intermediate-mass black hole lurks at its centre, models suggest that this star cluster should.</p><p>This notable population of black holes has evaded detection in previous studies, which used the radial velocity method or looked for radio and X-ray emission from material falling. A new discovery features a different approach, known as astrometry, to measure the very small movements of stars over time.</p><p>By sifting through more than 20 years of Hubble archival data and pulling in recent Webb data to further refine the astrometric measurements, the team located a star orbiting an. Dubbed oMEGACat BH-2, it is the first stellar-mass black hole detected within Omega Centauri, and it has some surprising qualities.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2610/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>The massive globular star cluster Omega Centauri has puzzled astronomers for decades. It should be filled with black holes left behind by exploding stars, yet evidence for them is scarce. Now, astronomers using archival data from the. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Now, astronomers using archival data from the NASA/ESA Hubble Space Telescope and supportive observations from the NASA/ESA/CSA James Webb Space Telescope have finally located. Though the astronomy community has previously found evidence with Hubble that an intermediate-mass black hole lurks at its centre, models suggest that this star cluster should.</p><p>This notable population of black holes has evaded detection in previous studies, which used the radial velocity method or looked for radio and X-ray emission from material falling. A new discovery features a different approach, known as astrometry, to measure the very small movements of stars over time.</p><p>By sifting through more than 20 years of Hubble archival data and pulling in recent Webb data to further refine the astrometric measurements, the team located a star orbiting an. Dubbed oMEGACat BH-2, it is the first stellar-mass black hole detected within Omega Centauri, and it has some surprising qualities.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2610/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The massive globular star cluster Omega Centauri has puzzled astronomers for decades. It should be filled with black holes left behind by exploding stars, yet evidence for them is scarce. Now, astronomers using archival data from the. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. Now, astronomers using archival data from the NASA/ESA Hubble Space Telescope and supportive observations from the NASA/ESA/CSA James Webb Space Telescope have finally located. Though the astronomy community has previously found evidence with Hubble that an intermediate-mass black hole lurks at its centre, models suggest that this star cluster should.</p><p>This notable population of black holes has evaded detection in previous studies, which used the radial velocity method or looked for radio and X-ray emission from material falling. A new discovery features a different approach, known as astrometry, to measure the very small movements of stars over time.</p><p>By sifting through more than 20 years of Hubble archival data and pulling in recent Webb data to further refine the astrometric measurements, the team located a star orbiting an. Dubbed oMEGACat BH-2, it is the first stellar-mass black hole detected within Omega Centauri, and it has some surprising qualities.</p><p>OMEGACat BH-2 has a lower-than-expected mass and, with its visible star companion, the black hole-star duo has the longest orbital period of any black hole binary system known to. “With the Hubble and Webb data, we were able to see the motion of the visible main sequence star that is part of this binary, which is about 18,000 light-years away in the dense.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>By expanding the Hubble data analyzed so that it included astrometric measurements from 2002 to 2023, and pulling in Webb near-infrared data to improve precision, the University. This detection is providing some data to those who do that kind of modeling.” Long time coming Based on the precise data from Hubble and Webb, the team could chart the star’s path.</p><p>Because the account originates with ESA Hubble News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2610/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>The massive globular star cluster Omega Centauri has puzzled astronomers for decades. It should be filled with black holes left behind by exploding stars, yet evidence for them is scarce. Now, astronomers using archival data from the. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Discovering the first of this missing. The massive globular star cluster Omega Centauri has puzzled astronomers for decades.</p><p>It should be filled with black holes left behind by exploding stars, yet evidence for them is scarce. Now, astronomers using archival data from the NASA/ESA Hubble Space Telescope and supportive observations from the NASA/ESA/CSA James Webb Space Telescope have finally located.</p><p>Discovering the first of this missing black hole population will help refine current theories on black hole formation within environments such as Omega Centauri.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2610/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>The massive globular star cluster Omega Centauri has puzzled astronomers for decades. It should be filled with black holes left behind by exploding stars, yet evidence for them is scarce. Now, astronomers using archival data from the. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Discovering the first of this missing. The massive globular star cluster Omega Centauri has puzzled astronomers for decades.</p><p>It should be filled with black holes left behind by exploding stars, yet evidence for them is scarce. Now, astronomers using archival data from the NASA/ESA Hubble Space Telescope and supportive observations from the NASA/ESA/CSA James Webb Space Telescope have finally located.</p><p>Discovering the first of this missing black hole population will help refine current theories on black hole formation within environments such as Omega Centauri.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2610/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The massive globular star cluster Omega Centauri has puzzled astronomers for decades. It should be filled with black holes left behind by exploding stars, yet evidence for them is scarce. Now, astronomers using archival data from the. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. Discovering the first of this missing. The massive globular star cluster Omega Centauri has puzzled astronomers for decades.</p><p>It should be filled with black holes left behind by exploding stars, yet evidence for them is scarce. Now, astronomers using archival data from the NASA/ESA Hubble Space Telescope and supportive observations from the NASA/ESA/CSA James Webb Space Telescope have finally located.</p><p>Discovering the first of this missing black hole population will help refine current theories on black hole formation within environments such as Omega Centauri.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>Because the account originates with ESA Hubble News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2610/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: The massive globular star cluster Omega Centauri has puzzled astronomers for decades. It should be filled with black holes left behind by exploding.",
-      "Dado-chave: Now, astronomers using archival data from the NASA/ESA Hubble Space Telescope and supportive observations from the NASA/ESA/CSA James Webb Space.",
+      "Dado-chave: Discovering the first of this missing.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: The massive globular star cluster Omega Centauri has puzzled astronomers for decades. It should be filled with black holes left behind by exploding.",
-      "Dado-chave: Now, astronomers using archival data from the NASA/ESA Hubble Space Telescope and supportive observations from the NASA/ESA/CSA James Webb Space.",
+      "Dado-chave: Discovering the first of this missing.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: The massive globular star cluster Omega Centauri has puzzled astronomers for decades. It should be filled with black holes left behind by exploding.",
-      "Key detail: Now, astronomers using archival data from the NASA/ESA Hubble Space Telescope and supportive observations from the NASA/ESA/CSA James Webb Space.",
+      "Key detail: Discovering the first of this missing.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "13 jul 2026",
@@ -2547,53 +2491,81 @@ window.postsData = [
   },
   {
     "id": 22,
-    "slug": "upcoming-events",
+    "slug": "nsf-stands-up-2-materials-innovation-platforms-with-50m-investment",
     "cat": "Física",
     "catCls": "fisica",
-    "img": "https://home.cern/upcoming-events/context.post.image",
-    "inline_images": [],
+    "img": "https://nsf-gov-resources.nsf.gov/styles/_inline_image_full_width/s3/media_hub/2534344_TAMU_AutoLab_3DRender_91_graded_cropped_16x9.jpg?itok=RwYewXvb",
+    "inline_images": [
+      {
+        "src": "https://nsf-gov-resources.nsf.gov/styles/news_hero_mobile_600x352_/s3/media_hub/2534344_TAMU_AutoLab_3DRender_91_graded_cropped_16x9.jpg.webp?itok=DCTQPOyk",
+        "caption": "A 3D computer rendering of a laboratory with orange robots and equipment in rows.",
+        "caption_pt": "A 3D computer rendering of a laboratory with orange robots and equipment in rows.",
+        "caption_en": "A 3D computer rendering of a laboratory with orange robots and equipment in rows.",
+        "alt": "A 3D computer rendering of a laboratory with orange robots and equipment in rows.",
+        "alt_pt": "A 3D computer rendering of a laboratory with orange robots and equipment in rows.",
+        "alt_en": "A 3D computer rendering of a laboratory with orange robots and equipment in rows."
+      },
+      {
+        "src": "https://nsf-gov-resources.nsf.gov/styles/news_sidebar_teaser/s3/media_hub/NSF%20State%20and%20Regional%20AI%20Infrastructure%20Hubs.jpg?itok=0uTvzH-d",
+        "caption": "NSF State and Regional AI Infrastructure Hubs - Sans Text",
+        "caption_pt": "NSF State and Regional AI Infrastructure Hubs - Sans Text",
+        "caption_en": "NSF State and Regional AI Infrastructure Hubs - Sans Text",
+        "alt": "NSF State and Regional AI Infrastructure Hubs - Sans Text",
+        "alt_pt": "NSF State and Regional AI Infrastructure Hubs - Sans Text",
+        "alt_en": "NSF State and Regional AI Infrastructure Hubs - Sans Text"
+      },
+      {
+        "src": "https://nsf-gov-resources.nsf.gov/styles/news_sidebar_teaser/s3/media_hub/MRSEC%20hero%20image%202026.jpg?itok=2BjcviN6",
+        "caption": "A collage of images showing scientists conducting materials research and close up images of advanced materials.",
+        "caption_pt": "A collage of images showing scientists conducting materials research and close up images of advanced materials.",
+        "caption_en": "A collage of images showing scientists conducting materials research and close up images of advanced materials.",
+        "alt": "A collage of images showing scientists conducting materials research and close up images of advanced materials.",
+        "alt_pt": "A collage of images showing scientists conducting materials research and close up images of advanced materials.",
+        "alt_en": "A collage of images showing scientists conducting materials research and close up images of advanced materials."
+      }
+    ],
     "video": null,
     "audio": null,
-    "title": "Upcoming events",
-    "title_pt": "Upcoming events",
-    "title_en": "Upcoming events",
-    "sub": "FCC public debates in Switzerland and France Registration now open 14, 18 Sep | Engineering | Rio de Janeiro, Brazil | RPC Conference | ENXVIII Conference on Resistive Plate.",
-    "sub_pt": "FCC public debates in Switzerland and France Registration now open 14, 18 Sep | Engineering | Rio de Janeiro, Brazil | RPC Conference | ENXVIII Conference on Resistive Plate.",
-    "sub_en": "FCC public debates in Switzerland and France Registration now open 14, 18 Sep | Engineering | Rio de Janeiro, Brazil | RPC Conference | ENXVIII Conference on Resistive Plate.",
-    "excerpt": "FCC public debates in Switzerland and France Registration now open 14, 18 Sep | Engineering | Rio de Janeiro, Brazil | RPC Conference | ENXVIII Conference on Resistive Plate Chambers and Related Detectors 12, 16 Oct | Physics | Hefei.",
-    "excerpt_pt": "FCC public debates in Switzerland and France Registration now open 14, 18 Sep | Engineering | Rio de Janeiro, Brazil | RPC Conference | ENXVIII Conference on Resistive Plate Chambers and Related Detectors 12, 16 Oct | Physics | Hefei.",
-    "excerpt_en": "FCC public debates in Switzerland and France Registration now open 14, 18 Sep | Engineering | Rio de Janeiro, Brazil | RPC Conference | ENXVIII Conference on Resistive Plate Chambers and Related Detectors 12, 16 Oct | Physics | Hefei.",
-    "body": "<p>FCC public debates in Switzerland and France Registration now open 14, 18 Sep | Engineering | Rio de Janeiro, Brazil | RPC Conference | ENXVIII Conference on Resistive Plate Chambers and Related Detectors 12, 16 Oct | Physics | Hefei. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. FCC public debates (in French) in Switzerland and France Registration now open 14, 18 Sep | Engineering | Rio de Janeiro, Brazil | RPC Conference | ENXVIII Conference on Resistive. At CERN Upcoming events Check out this curated selection of upcoming events for the CERN community, 18 August, 2026 Loading events.</p><p>&gt; + more Show less No events &gt; No events &gt; No events for this day × When: ( ) Where: Please note: FCC public debates (in French) in Switzerland and France Registration now open. FCC public debates (in French) in Switzerland and France 14, 18 Sep | Engineering | Rio de Janeiro.</p><p>If you would like your event to appear on an upcoming Bulletin events list, please contact bulletin-editors@cern. ch No posts were found. ( ) Where: Please note: FCC public debates (in French) in Switzerland and France Registration now open 14, 18 Sep | Engineering | Rio de Janeiro.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de CERN News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://home.cern/upcoming-events/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>FCC public debates in Switzerland and France Registration now open 14, 18 Sep | Engineering | Rio de Janeiro, Brazil | RPC Conference | ENXVIII Conference on Resistive Plate Chambers and Related Detectors 12, 16 Oct | Physics | Hefei. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. FCC public debates (in French) in Switzerland and France Registration now open 14, 18 Sep | Engineering | Rio de Janeiro, Brazil | RPC Conference | ENXVIII Conference on Resistive. At CERN Upcoming events Check out this curated selection of upcoming events for the CERN community, 18 August, 2026 Loading events.</p><p>&gt; + more Show less No events &gt; No events &gt; No events for this day × When: ( ) Where: Please note: FCC public debates (in French) in Switzerland and France Registration now open. FCC public debates (in French) in Switzerland and France 14, 18 Sep | Engineering | Rio de Janeiro.</p><p>If you would like your event to appear on an upcoming Bulletin events list, please contact bulletin-editors@cern. ch No posts were found. ( ) Where: Please note: FCC public debates (in French) in Switzerland and France Registration now open 14, 18 Sep | Engineering | Rio de Janeiro.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de CERN News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://home.cern/upcoming-events/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>FCC public debates in Switzerland and France Registration now open 14, 18 Sep | Engineering | Rio de Janeiro, Brazil | RPC Conference | ENXVIII Conference on Resistive Plate Chambers and Related Detectors 12, 16 Oct | Physics | Hefei. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. FCC public debates (in French) in Switzerland and France Registration now open 14, 18 Sep | Engineering | Rio de Janeiro, Brazil | RPC Conference | ENXVIII Conference on Resistive. At CERN Upcoming events Check out this curated selection of upcoming events for the CERN community, 18 August, 2026 Loading events.</p><p>&gt; + more Show less No events &gt; No events &gt; No events for this day × When: ( ) Where: Please note: FCC public debates (in French) in Switzerland and France Registration now open. FCC public debates (in French) in Switzerland and France 14, 18 Sep | Engineering | Rio de Janeiro.</p><p>If you would like your event to appear on an upcoming Bulletin events list, please contact bulletin-editors@cern. ch No posts were found. ( ) Where: Please note: FCC public debates (in French) in Switzerland and France Registration now open 14, 18 Sep | Engineering | Rio de Janeiro.</p><p>Brazil | RPC Conference | EN XVIII Conference on Resistive Plate Chambers and Related Detectors 12, 16 Oct | Physics | Hefei. China | International Conference on Instrumentation for Colliding Beam Physics | EN INSTR 2026 8, 20 Nov | Accelerators | Prague.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>Czech Republic | CERN Accelerator Schools | EN CAS course on “Circular e+ / e- colliders and light sources” This is a curated selection of events relevant to the CERN community. More events are available here: home. cern/events.</p><p>Because the account originates with CERN News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://home.cern/upcoming-events/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "title": "NSF stands up 2 Materials Innovation Platforms with $50M investment",
+    "title_pt": "NSF stands up 2 Materials Innovation Platforms with $50M investment",
+    "title_en": "NSF stands up 2 Materials Innovation Platforms with $50M investment",
+    "sub": "The U. S. National Science Foundation is investing $50 million in research infrastructure to enable the discovery and development of materials that can withstand extreme.",
+    "sub_pt": "The U. S. National Science Foundation is investing $50 million in research infrastructure to enable the discovery and development of materials that can withstand extreme.",
+    "sub_en": "The U. S. National Science Foundation is investing $50 million in research infrastructure to enable the discovery and development of materials that can withstand extreme.",
+    "excerpt": "The U. S. National Science Foundation is investing $50 million in research infrastructure to enable the discovery and development of materials that can withstand extreme conditions, from lightweight composites for better armor to.",
+    "excerpt_pt": "The U. S. National Science Foundation is investing $50 million in research infrastructure to enable the discovery and development of materials that can withstand extreme conditions, from lightweight composites for better armor to.",
+    "excerpt_en": "The U. S. National Science Foundation is investing $50 million in research infrastructure to enable the discovery and development of materials that can withstand extreme conditions, from lightweight composites for better armor to.",
+    "body": "<p>The U. S. National Science Foundation is investing $50 million in research infrastructure to enable the discovery and development of materials that can withstand extreme conditions, from lightweight composites for better armor to. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. National Science Foundation is investing $50 million in research infrastructure to enable the discovery and development of materials that can withstand extreme conditions, from. Each of the new NSF Materials Innovation Platforms, one in Texas and one in Wisconsin, will acquire scientific equipment and build a system, or platform, that incorporates it.</p><p>Of those scientists, an estimated 10-20% will come from universities and colleges that spend comparatively less on research and may not have the resources or infrastructure for. The NSF Materials Innovation Platforms serve a broad national need as user facilities that provide access to some of the best equipment and expertise for materials science.</p><p>NSF ARM-MIP will integrate robotics and AI into a single autonomous laboratory capable of creating new alloys in a fraction of the time typically required. The applications for new alloys include fuel-efficient jet turbines, stronger armor for tanks and other vehicles, radiation-resistant materials for nuclear reactors.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de NSF News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://www.nsf.gov/news/nsf-stands-2-materials-innovation-platforms-50m-investment\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>The U. S. National Science Foundation is investing $50 million in research infrastructure to enable the discovery and development of materials that can withstand extreme conditions, from lightweight composites for better armor to. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. National Science Foundation is investing $50 million in research infrastructure to enable the discovery and development of materials that can withstand extreme conditions, from. Each of the new NSF Materials Innovation Platforms, one in Texas and one in Wisconsin, will acquire scientific equipment and build a system, or platform, that incorporates it.</p><p>Of those scientists, an estimated 10-20% will come from universities and colleges that spend comparatively less on research and may not have the resources or infrastructure for. The NSF Materials Innovation Platforms serve a broad national need as user facilities that provide access to some of the best equipment and expertise for materials science.</p><p>NSF ARM-MIP will integrate robotics and AI into a single autonomous laboratory capable of creating new alloys in a fraction of the time typically required. The applications for new alloys include fuel-efficient jet turbines, stronger armor for tanks and other vehicles, radiation-resistant materials for nuclear reactors.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de NSF News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://www.nsf.gov/news/nsf-stands-2-materials-innovation-platforms-50m-investment\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The U. S. National Science Foundation is investing $50 million in research infrastructure to enable the discovery and development of materials that can withstand extreme conditions, from lightweight composites for better armor to. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. National Science Foundation is investing $50 million in research infrastructure to enable the discovery and development of materials that can withstand extreme conditions, from. Each of the new NSF Materials Innovation Platforms, one in Texas and one in Wisconsin, will acquire scientific equipment and build a system, or platform, that incorporates it.</p><p>Of those scientists, an estimated 10-20% will come from universities and colleges that spend comparatively less on research and may not have the resources or infrastructure for. The NSF Materials Innovation Platforms serve a broad national need as user facilities that provide access to some of the best equipment and expertise for materials science.</p><p>NSF ARM-MIP will integrate robotics and AI into a single autonomous laboratory capable of creating new alloys in a fraction of the time typically required. The applications for new alloys include fuel-efficient jet turbines, stronger armor for tanks and other vehicles, radiation-resistant materials for nuclear reactors.</p><p>NSF MATRIX-MIP will investigate how the chemical and structural complexity of materials influences their performance in extreme environments, like those with high heat or strong. Researchers will design experiments that use AI to rapidly predict the properties of many new materials, fabricate them using high-throughput synthesis methods and then measure.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>In addition to investing in two new Materials Innovation Platforms, NSF is also supporting an existing platform&#x27;s efforts to continue its scientific work while expanding its work. The NSF 2D Crystal Consortium Materials Innovation Platform at Pennsylvania State University has received continuous funding from NSF since its inception 10 years ago, allowing it.</p><p>Because the account originates with NSF News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://www.nsf.gov/news/nsf-stands-2-materials-innovation-platforms-50m-investment\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Ponto central: FCC public debates in Switzerland and France Registration now open 14, 18 Sep | Engineering | Rio de Janeiro, Brazil | RPC Conference | ENXVIII.",
-      "Dado-chave: FCC public debates (in French) in Switzerland and France Registration now open 14, 18 Sep | Engineering | Rio de Janeiro, Brazil | RPC.",
+      "Ponto central: The U. S. National Science Foundation is investing $50 million in research infrastructure to enable the discovery and development of materials that.",
+      "Dado-chave: National Science Foundation is investing $50 million in research infrastructure to enable the discovery and development of materials that can.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Ponto central: FCC public debates in Switzerland and France Registration now open 14, 18 Sep | Engineering | Rio de Janeiro, Brazil | RPC Conference | ENXVIII.",
-      "Dado-chave: FCC public debates (in French) in Switzerland and France Registration now open 14, 18 Sep | Engineering | Rio de Janeiro, Brazil | RPC.",
+      "Ponto central: The U. S. National Science Foundation is investing $50 million in research infrastructure to enable the discovery and development of materials that.",
+      "Dado-chave: National Science Foundation is investing $50 million in research infrastructure to enable the discovery and development of materials that can.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Core point: FCC public debates in Switzerland and France Registration now open 14, 18 Sep | Engineering | Rio de Janeiro, Brazil | RPC Conference | ENXVIII.",
-      "Key detail: FCC public debates (in French) in Switzerland and France Registration now open 14, 18 Sep | Engineering | Rio de Janeiro, Brazil | RPC.",
+      "Core point: The U. S. National Science Foundation is investing $50 million in research infrastructure to enable the discovery and development of materials that.",
+      "Key detail: National Science Foundation is investing $50 million in research infrastructure to enable the discovery and development of materials that can.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "18 ago 2026",
-    "date_pt": "18 ago 2026",
-    "date_en": "18 Aug 2026",
-    "time": "10h02",
-    "time_pt": "10h02",
-    "time_en": "10:02 UTC",
+    "date": "03 ago 2026",
+    "date_pt": "03 ago 2026",
+    "date_en": "03 Aug 2026",
+    "time": "14h00",
+    "time_pt": "14h00",
+    "time_en": "14:00 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-18T10:02:26+00:00",
-    "lastModifiedIso": "2026-08-18T10:02:26+00:00",
-    "source": "CERN News",
-    "sourceDomain": "home.cern",
+    "publishedIso": "2026-08-03T14:00:50+00:00",
+    "lastModifiedIso": "2026-08-03T14:00:50+00:00",
+    "source": "NSF News",
+    "sourceDomain": "www.nsf.gov",
     "sourceType": "agency",
     "sourceTypeLabel": "Fonte institucional",
     "sourceTypeLabel_pt": "Fonte institucional",
@@ -2611,26 +2583,26 @@ window.postsData = [
     "editorialBandLabel_en": "Editorial priority",
     "keywords": [
       "Física",
-      "CERN News",
+      "NSF News",
       "Cosmos Week",
-      "Upcoming events"
+      "NSF stands up 2 Materials Innovation Platforms with $50M investment"
     ],
     "keywords_pt": [
       "Física",
-      "CERN News",
+      "NSF News",
       "Cosmos Week",
-      "Upcoming events"
+      "NSF stands up 2 Materials Innovation Platforms with $50M investment"
     ],
     "keywords_en": [
       "Física",
-      "CERN News",
+      "NSF News",
       "Cosmos Week",
-      "Upcoming events"
+      "NSF stands up 2 Materials Innovation Platforms with $50M investment"
     ],
-    "srcUrl": "https://home.cern/upcoming-events/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=upcoming-events",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=upcoming-events",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=upcoming-events&lang=en",
+    "srcUrl": "https://www.nsf.gov/news/nsf-stands-2-materials-innovation-platforms-50m-investment",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nsf-stands-up-2-materials-innovation-platforms-with-50m-investment",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nsf-stands-up-2-materials-innovation-platforms-with-50m-investment",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nsf-stands-up-2-materials-innovation-platforms-with-50m-investment&lang=en",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",
@@ -2641,74 +2613,92 @@ window.postsData = [
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 71,
+    "score": 69,
     "scoreBreakdown": {
-      "source": 86,
-      "evidence": 82,
+      "source": 80,
+      "evidence": 88,
       "relevance": 68,
-      "accessibility": 52,
+      "accessibility": 42,
       "novelty": 46
     }
   },
   {
     "id": 23,
-    "slug": "eyes-on-the-sky-a-rare-solar-eclipse-will-be-visible-from-cern-on-12-august",
+    "slug": "interplanetary-spacecraft-capture-a-coronal-mass-ejection-component-hidden-from-earth",
     "cat": "Física",
     "catCls": "fisica",
-    "img": "https://home.cern/wp-content/uploads/2026/08/Poster-Protect-eyes-during-eclipse-scaled.png",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/interplanetary-spacecr-1.jpg",
     "inline_images": [
       {
-        "src": "https://home.cern/eyes-on-the-sky-a-rare-solar-eclipse-will-be-visible-from-cern-on-12-august/context.post.image",
-        "caption": "context.post.title",
-        "caption_pt": "context.post.title",
-        "caption_en": "context.post.title",
-        "alt": "context.post.title",
-        "alt_pt": "context.post.title",
-        "alt_en": "context.post.title"
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/interplanetary-spacecr-1.jpg",
+        "caption": "Interplanetary spacecraft capture a coronal mass ejection component hidden from Earth",
+        "caption_pt": "Interplanetary spacecraft capture a coronal mass ejection component hidden from Earth",
+        "caption_en": "Interplanetary spacecraft capture a coronal mass ejection component hidden from Earth",
+        "alt": "Interplanetary spacecraft capture a coronal mass ejection component hidden from Earth",
+        "alt_pt": "Interplanetary spacecraft capture a coronal mass ejection component hidden from Earth",
+        "alt_en": "Interplanetary spacecraft capture a coronal mass ejection component hidden from Earth"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/interplanetary-spacecr.jpg",
+        "caption": "Reconstructed propagation of the December 2024 CME through the inner heliosphere. Observations from 17 spacecraft revealed a strongly asymmetric structure: the CME was detected near Earth but not at nearby Solar Orbiter, while STEREO-A.",
+        "caption_pt": "Reconstructed propagation of the December 2024 CME through the inner heliosphere. Observations from 17 spacecraft revealed a strongly asymmetric structure: the CME was detected near Earth but not at nearby Solar Orbiter, while STEREO-A.",
+        "caption_en": "Reconstructed propagation of the December 2024 CME through the inner heliosphere. Observations from 17 spacecraft revealed a strongly asymmetric structure: the CME was detected near Earth but not at nearby Solar Orbiter, while STEREO-A.",
+        "alt": "Interplanetary spacecraft capture a CME component hidden from Earth",
+        "alt_pt": "Interplanetary spacecraft capture a CME component hidden from Earth",
+        "alt_en": "Interplanetary spacecraft capture a CME component hidden from Earth"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/061a4647609b9c09.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
       }
     ],
     "video": null,
     "audio": null,
-    "title": "Eyes on the sky: a rare solar eclipse will be visible from CERN on 12 August",
-    "title_pt": "Eyes on the sky: a rare solar eclipse will be visible from CERN on 12 August",
-    "title_en": "Eyes on the sky: a rare solar eclipse will be visible from CERN on 12 August",
-    "sub": "To observe the eclipse safely: Use only eclipse glasses certified to the ISO 12312-2 standard.",
-    "sub_pt": "To observe the eclipse safely: Use only eclipse glasses certified to the ISO 12312-2 standard.",
-    "sub_en": "To observe the eclipse safely: Use only eclipse glasses certified to the ISO 12312-2 standard.",
-    "excerpt": "To observe the eclipse safely: Use only eclipse glasses certified to the ISO 12312-2 standard.",
-    "excerpt_pt": "To observe the eclipse safely: Use only eclipse glasses certified to the ISO 12312-2 standard.",
-    "excerpt_en": "To observe the eclipse safely: Use only eclipse glasses certified to the ISO 12312-2 standard.",
-    "body": "<p>Use only eclipse glasses certified to the ISO 12312-2 standard. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Find out how to watch the 2026 eclipse safely. Announcement CERN community safety Related Articles View all news No posts were found.</p><p>On 12 August 2026, the CERN community will have the opportunity to observe one of the most spectacular astronomical events visible from our region in decades. While a total solar eclipse will cross parts of Spain and the North Atlantic, observers in Geneva will experience a deep partial eclipse, with about 93% of the Sun covered by the.</p><p>Although most of the Sun will be obscured, looking directly at it without appropriate protection remains dangerous and may cause permanent retinal damage.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de CERN News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://home.cern/eyes-on-the-sky-a-rare-solar-eclipse-will-be-visible-from-cern-on-12-august/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Use only eclipse glasses certified to the ISO 12312-2 standard. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Find out how to watch the 2026 eclipse safely. Announcement CERN community safety Related Articles View all news No posts were found.</p><p>On 12 August 2026, the CERN community will have the opportunity to observe one of the most spectacular astronomical events visible from our region in decades. While a total solar eclipse will cross parts of Spain and the North Atlantic, observers in Geneva will experience a deep partial eclipse, with about 93% of the Sun covered by the.</p><p>Although most of the Sun will be obscured, looking directly at it without appropriate protection remains dangerous and may cause permanent retinal damage.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de CERN News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://home.cern/eyes-on-the-sky-a-rare-solar-eclipse-will-be-visible-from-cern-on-12-august/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Use only eclipse glasses certified to the ISO 12312-2 standard. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. Find out how to watch the 2026 eclipse safely. Announcement CERN community safety Related Articles View all news No posts were found.</p><p>On 12 August 2026, the CERN community will have the opportunity to observe one of the most spectacular astronomical events visible from our region in decades. While a total solar eclipse will cross parts of Spain and the North Atlantic, observers in Geneva will experience a deep partial eclipse, with about 93% of the Sun covered by the.</p><p>Although most of the Sun will be obscured, looking directly at it without appropriate protection remains dangerous and may cause permanent retinal damage. The eclipse will begin at approximately 19: 26 CEST, reach its maximum around 20: 20 CEST, and end shortly before sunset.</p><p>Because the Sun will be very low in the western sky, a location with a clear horizon will provide the best view. If you experience blurred vision, dark spots or any change in your central vision after observing the eclipse, seek medical advice immediately.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>Members of the CERN community may also contact the CERN Medical Service if they have any concerns. For further eclipse safety recommendations, consult the Swiss Federal Office of Public Health’s dedicated guidance page.</p><p>Because the account originates with CERN News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://home.cern/eyes-on-the-sky-a-rare-solar-eclipse-will-be-visible-from-cern-on-12-august/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "title": "Interplanetary spacecraft capture a coronal mass ejection component hidden from Earth",
+    "title_pt": "Interplanetary spacecraft capture a coronal mass ejection component hidden from Earth",
+    "title_en": "Interplanetary spacecraft capture a coronal mass ejection component hidden from Earth",
+    "sub": "During a coronal mass ejection, the sun hurls billions of tons of magnetized plasma into space. These eruptions are among the most powerful events in the solar system, and when.",
+    "sub_pt": "During a coronal mass ejection, the sun hurls billions of tons of magnetized plasma into space. These eruptions are among the most powerful events in the solar system, and when.",
+    "sub_en": "During a coronal mass ejection, the sun hurls billions of tons of magnetized plasma into space. These eruptions are among the most powerful events in the solar system, and when.",
+    "excerpt": "During a coronal mass ejection, the sun hurls billions of tons of magnetized plasma into space. These eruptions are among the most powerful events in the solar system, and when they are aimed toward Earth, they can seriously threaten the.",
+    "excerpt_pt": "During a coronal mass ejection, the sun hurls billions of tons of magnetized plasma into space. These eruptions are among the most powerful events in the solar system, and when they are aimed toward Earth, they can seriously threaten the.",
+    "excerpt_en": "During a coronal mass ejection, the sun hurls billions of tons of magnetized plasma into space. These eruptions are among the most powerful events in the solar system, and when they are aimed toward Earth, they can seriously threaten the.",
+    "body": "<p>During a coronal mass ejection, the sun hurls billions of tons of magnetized plasma into space. These eruptions are among the most powerful events in the solar system, and when they are aimed toward Earth, they can seriously threaten the. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source Science Advances (2026). Science Advances (2026).</p><p>Taking observations from an extensive network of spacecraft across the solar system, a team led by Adrienn Luspay-Kuti at Johns Hopkins University has revealed how a component of. Published in Science Advances, the work reveals just how easily a dangerous piece of a CME can go unnoticed.</p><p>If these bubbles interact with Earth&#x27;s atmosphere and magnetic field, they can trigger geomagnetic storms: disturbances that scramble satellite signals, disrupt radio. To forecast whether a CME is heading our way, astronomers generally search for them from Earth&#x27;s own vantage point.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-interplanetary-spacecraft-capture-coronal-mass.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>During a coronal mass ejection, the sun hurls billions of tons of magnetized plasma into space. These eruptions are among the most powerful events in the solar system, and when they are aimed toward Earth, they can seriously threaten the. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source Science Advances (2026). Science Advances (2026).</p><p>Taking observations from an extensive network of spacecraft across the solar system, a team led by Adrienn Luspay-Kuti at Johns Hopkins University has revealed how a component of. Published in Science Advances, the work reveals just how easily a dangerous piece of a CME can go unnoticed.</p><p>If these bubbles interact with Earth&#x27;s atmosphere and magnetic field, they can trigger geomagnetic storms: disturbances that scramble satellite signals, disrupt radio. To forecast whether a CME is heading our way, astronomers generally search for them from Earth&#x27;s own vantage point.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-interplanetary-spacecraft-capture-coronal-mass.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>During a coronal mass ejection, the sun hurls billions of tons of magnetized plasma into space. These eruptions are among the most powerful events in the solar system, and when they are aimed toward Earth, they can seriously threaten the. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source Science Advances (2026). Science Advances (2026).</p><p>Taking observations from an extensive network of spacecraft across the solar system, a team led by Adrienn Luspay-Kuti at Johns Hopkins University has revealed how a component of. Published in Science Advances, the work reveals just how easily a dangerous piece of a CME can go unnoticed.</p><p>If these bubbles interact with Earth&#x27;s atmosphere and magnetic field, they can trigger geomagnetic storms: disturbances that scramble satellite signals, disrupt radio. To forecast whether a CME is heading our way, astronomers generally search for them from Earth&#x27;s own vantage point.</p><p>In December 2024, NASA&#x27;s Europa Clipper spacecraft detected just the kind of signal that would be missed by Earth-based forecasting techniques. In their study, Luspay-Kuti&#x27;s team traced this signal back to a CME that had erupted from the sun a few days earlier.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>Using an unprecedented network of 17 spacecraft, including Clipper, the researchers could reconstruct the CME&#x27;s true shape. From Earth&#x27;s perspective, the bulk of the CME appeared to be heading safely away from us.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-interplanetary-spacecraft-capture-coronal-mass.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Ponto central: Use only eclipse glasses certified to the ISO 12312-2 standard.",
-      "Dado-chave: Find out how to watch the 2026 eclipse safely",
+      "Ponto central: During a coronal mass ejection, the sun hurls billions of tons of magnetized plasma into space. These eruptions are among the most powerful events in.",
+      "Dado-chave: Editors have highlighted the following attributes while ensuring the content's credibility: Add as preferred source Science Advances (2026).",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Ponto central: Use only eclipse glasses certified to the ISO 12312-2 standard.",
-      "Dado-chave: Find out how to watch the 2026 eclipse safely",
+      "Ponto central: During a coronal mass ejection, the sun hurls billions of tons of magnetized plasma into space. These eruptions are among the most powerful events in.",
+      "Dado-chave: Editors have highlighted the following attributes while ensuring the content's credibility: Add as preferred source Science Advances (2026).",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Core point: Use only eclipse glasses certified to the ISO 12312-2 standard.",
-      "Key detail: Find out how to watch the 2026 eclipse safely",
+      "Core point: During a coronal mass ejection, the sun hurls billions of tons of magnetized plasma into space. These eruptions are among the most powerful events in.",
+      "Key detail: Editors have highlighted the following attributes while ensuring the content's credibility: Add as preferred source Science Advances (2026).",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "10 ago 2026",
-    "date_pt": "10 ago 2026",
-    "date_en": "10 Aug 2026",
-    "time": "11h10",
-    "time_pt": "11h10",
-    "time_en": "11:10 UTC",
+    "date": "21 ago 2026",
+    "date_pt": "21 ago 2026",
+    "date_en": "21 Aug 2026",
+    "time": "12h50",
+    "time_pt": "12h50",
+    "time_en": "12:50 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-10T11:10:14+00:00",
-    "lastModifiedIso": "2026-08-10T11:10:14+00:00",
-    "source": "CERN News",
-    "sourceDomain": "home.cern",
+    "publishedIso": "2026-08-21T12:50:42+00:00",
+    "lastModifiedIso": "2026-08-21T12:50:42+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
     "sourceType": "agency",
     "sourceTypeLabel": "Fonte institucional",
     "sourceTypeLabel_pt": "Fonte institucional",
@@ -2726,29 +2716,26 @@ window.postsData = [
     "editorialBandLabel_en": "Editorial priority",
     "keywords": [
       "Física",
-      "CERN News",
+      "Phys.org Space",
       "Cosmos Week",
-      "Eyes on the sky",
-      "a rare solar eclipse will be visible from CERN on 12 August"
+      "Interplanetary spacecraft capture a coronal mass ejection component hidden from Earth"
     ],
     "keywords_pt": [
       "Física",
-      "CERN News",
+      "Phys.org Space",
       "Cosmos Week",
-      "Eyes on the sky",
-      "a rare solar eclipse will be visible from CERN on 12 August"
+      "Interplanetary spacecraft capture a coronal mass ejection component hidden from Earth"
     ],
     "keywords_en": [
       "Física",
-      "CERN News",
+      "Phys.org Space",
       "Cosmos Week",
-      "Eyes on the sky",
-      "a rare solar eclipse will be visible from CERN on 12 August"
+      "Interplanetary spacecraft capture a coronal mass ejection component hidden from Earth"
     ],
-    "srcUrl": "https://home.cern/eyes-on-the-sky-a-rare-solar-eclipse-will-be-visible-from-cern-on-12-august/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=eyes-on-the-sky-a-rare-solar-eclipse-will-be-visible-from-cern-on-12-august",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=eyes-on-the-sky-a-rare-solar-eclipse-will-be-visible-from-cern-on-12-august",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=eyes-on-the-sky-a-rare-solar-eclipse-will-be-visible-from-cern-on-12-august&lang=en",
+    "srcUrl": "https://phys.org/news/2026-08-interplanetary-spacecraft-capture-coronal-mass.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=interplanetary-spacecraft-capture-a-coronal-mass-ejection-component-hidden-from-earth",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=interplanetary-spacecraft-capture-a-coronal-mass-ejection-component-hidden-from-earth",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=interplanetary-spacecraft-capture-a-coronal-mass-ejection-component-hidden-from-earth&lang=en",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",
@@ -2759,13 +2746,13 @@ window.postsData = [
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 71,
+    "score": 69,
     "scoreBreakdown": {
-      "source": 86,
+      "source": 76,
       "evidence": 82,
       "relevance": 64,
       "accessibility": 60,
-      "novelty": 46
+      "novelty": 49
     }
   },
   {
@@ -2878,139 +2865,6 @@ window.postsData = [
   },
   {
     "id": 25,
-    "slug": "alma-uncovers-sulfur-for-the-first-time-around-a-rare-class-of-supergiant-star",
-    "cat": "Química",
-    "catCls": "quimica",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/alma-uncovers-sulfur-f.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/alma-uncovers-sulfur-f.jpg",
-        "caption": "ALMA uncovers sulfur for the first time around a rare class of supergiant star",
-        "caption_pt": "ALMA uncovers sulfur for the first time around a rare class of supergiant star",
-        "caption_en": "ALMA uncovers sulfur for the first time around a rare class of supergiant star",
-        "alt": "ALMA uncovers sulfur for the first time around a rare class of supergiant star",
-        "alt_pt": "ALMA uncovers sulfur for the first time around a rare class of supergiant star",
-        "alt_en": "ALMA uncovers sulfur for the first time around a rare class of supergiant star"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/05cc00b31f2c5b10.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/f233d40c9bb6ec42.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "ALMA uncovers sulfur for the first time around a rare class of supergiant star",
-    "title_pt": "ALMA uncovers sulfur for the first time around a rare class of supergiant star",
-    "title_en": "ALMA uncovers sulfur for the first time around a rare class of supergiant star",
-    "sub": "Astronomers have discovered a chemically rich collection of sulfur-bearing molecules surrounding the rare massive star HD 87643. The observations include the first detection of.",
-    "sub_pt": "Astronomers have discovered a chemically rich collection of sulfur-bearing molecules surrounding the rare massive star HD 87643. The observations include the first detection of.",
-    "sub_en": "Astronomers have discovered a chemically rich collection of sulfur-bearing molecules surrounding the rare massive star HD 87643. The observations include the first detection of.",
-    "excerpt": "Astronomers have discovered a chemically rich collection of sulfur-bearing molecules surrounding the rare massive star HD 87643. The observations include the first detection of sulfur monoxide and sulfur dioxide around a B[e] supergiant.",
-    "excerpt_pt": "Astronomers have discovered a chemically rich collection of sulfur-bearing molecules surrounding the rare massive star HD 87643. The observations include the first detection of sulfur monoxide and sulfur dioxide around a B[e] supergiant.",
-    "excerpt_en": "Astronomers have discovered a chemically rich collection of sulfur-bearing molecules surrounding the rare massive star HD 87643. The observations include the first detection of sulfur monoxide and sulfur dioxide around a B[e] supergiant.",
-    "body": "<p>Discovered a chemically rich collection of sulfur-bearing molecules surrounding the rare massive star HD 87643. The observations include the first detection of sulfur monoxide and sulfur dioxide around a B supergiant. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a química ganha força quando uma estrutura ou processo alegado pode ser descrito com precisão suficiente para ser reproduzido por outros. Rotas sintéticas, assinaturas espectroscópicas, rendimento em condições definidas e estabilidade em parâmetros operacionais realistas são a moeda de credibilidade na química, e um resultado que carece desses detalhes não pode ser avaliado de forma independente. A distância entre uma descoberta em bancada de laboratório e um processo que funciona confiavelmente em escala é medida em anos de otimização, e cada etapa revela restrições que eram invisíveis em escala menor. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source 13 CO emission in the field of HD 87643. Discovered a chemically rich collection of sulfur-bearing molecules surrounding the rare massive star HD 87643.</p><p>The paper was published in The Astrophysical Journal Letters on July 1. In this study, the researchers, led by Cristobal Bordiu of INAF Catania Astrophysical Observatory, used Atacama Large Millimeter/submillimeter Array&#x27;s Atacama Compact Array.</p><p>Their analysis revealed emissions from 10 different molecules: CO, 13 CO, OCS, H 2 CO, SO, 33 SO, SO 2, HNCO, O 13 CS and 13 CS. Sulfur is a relatively common element in the universe, the 10th most abundant overall, and one of just six elements essential to life as we know it.</p><p>O interesse mais amplo está em saber se a propriedade ou rota de reação alegada pode ser caracterizada com precisão suficiente para sustentar replicação por outros grupos. A química tem um problema de replicação menos discutido do que o da psicologia ou da medicina, mas ele é real: procedimentos sintéticos que funcionam confiavelmente em um laboratório às vezes não se transferem, por razões que vão de materiais de partida impuros a sensibilidades de temperatura não documentadas. Um resultado que vem com detalhes experimentais completos e caracterização clara do produto é muito mais valioso do que um que relata uma descoberta sem o arcabouço procedimental.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se grupos independentes trabalhando com técnicas ortogonais chegam a conclusões compatíveis e se o resultado escala além das condições usadas no estudo original. Descobertas químicas que importam tendem a ser aquelas cujas propriedades principais podem ser medidas por múltiplos métodos espectroscópicos, cristalográficos ou computacionais que provavelmente não compartilham os mesmos pontos cegos. Escalabilidade, custo e estabilidade de longo prazo sob condições operacionais realistas são filtros adicionais que entram em jogo antes que qualquer aplicação prática se torne viável.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-alma-uncovers-sulfur-rare-class.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Discovered a chemically rich collection of sulfur-bearing molecules surrounding the rare massive star HD 87643. The observations include the first detection of sulfur monoxide and sulfur dioxide around a B supergiant. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a química ganha força quando uma estrutura ou processo alegado pode ser descrito com precisão suficiente para ser reproduzido por outros. Rotas sintéticas, assinaturas espectroscópicas, rendimento em condições definidas e estabilidade em parâmetros operacionais realistas são a moeda de credibilidade na química, e um resultado que carece desses detalhes não pode ser avaliado de forma independente. A distância entre uma descoberta em bancada de laboratório e um processo que funciona confiavelmente em escala é medida em anos de otimização, e cada etapa revela restrições que eram invisíveis em escala menor. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source 13 CO emission in the field of HD 87643. Discovered a chemically rich collection of sulfur-bearing molecules surrounding the rare massive star HD 87643.</p><p>The paper was published in The Astrophysical Journal Letters on July 1. In this study, the researchers, led by Cristobal Bordiu of INAF Catania Astrophysical Observatory, used Atacama Large Millimeter/submillimeter Array&#x27;s Atacama Compact Array.</p><p>Their analysis revealed emissions from 10 different molecules: CO, 13 CO, OCS, H 2 CO, SO, 33 SO, SO 2, HNCO, O 13 CS and 13 CS. Sulfur is a relatively common element in the universe, the 10th most abundant overall, and one of just six elements essential to life as we know it.</p><p>O interesse mais amplo está em saber se a propriedade ou rota de reação alegada pode ser caracterizada com precisão suficiente para sustentar replicação por outros grupos. A química tem um problema de replicação menos discutido do que o da psicologia ou da medicina, mas ele é real: procedimentos sintéticos que funcionam confiavelmente em um laboratório às vezes não se transferem, por razões que vão de materiais de partida impuros a sensibilidades de temperatura não documentadas. Um resultado que vem com detalhes experimentais completos e caracterização clara do produto é muito mais valioso do que um que relata uma descoberta sem o arcabouço procedimental.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se grupos independentes trabalhando com técnicas ortogonais chegam a conclusões compatíveis e se o resultado escala além das condições usadas no estudo original. Descobertas químicas que importam tendem a ser aquelas cujas propriedades principais podem ser medidas por múltiplos métodos espectroscópicos, cristalográficos ou computacionais que provavelmente não compartilham os mesmos pontos cegos. Escalabilidade, custo e estabilidade de longo prazo sob condições operacionais realistas são filtros adicionais que entram em jogo antes que qualquer aplicação prática se torne viável.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-alma-uncovers-sulfur-rare-class.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Discovered a chemically rich collection of sulfur-bearing molecules surrounding the rare massive star HD 87643. The observations include the first detection of sulfur monoxide and sulfur dioxide around a B supergiant. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because chemistry gains force when a claimed structure or process can be described with enough precision to be reproduced by others. Synthetic routes, spectroscopic signatures, yield under defined conditions and stability under realistic operating parameters are the currency of credibility in chemistry, and a result that lacks these details cannot be evaluated independently. The distance between a discovery on a laboratory bench and a process that works reliably at scale is measured in years of optimization, and each step reveals constraints that were invisible at smaller scale. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source 13 CO emission in the field of HD 87643. Discovered a chemically rich collection of sulfur-bearing molecules surrounding the rare massive star HD 87643.</p><p>The paper was published in The Astrophysical Journal Letters on July 1. In this study, the researchers, led by Cristobal Bordiu of INAF Catania Astrophysical Observatory, used Atacama Large Millimeter/submillimeter Array&#x27;s Atacama Compact Array.</p><p>Their analysis revealed emissions from 10 different molecules: CO, 13 CO, OCS, H 2 CO, SO, 33 SO, SO 2, HNCO, O 13 CS and 13 CS. Sulfur is a relatively common element in the universe, the 10th most abundant overall, and one of just six elements essential to life as we know it.</p><p>That makes the new detections in HD 87643 especially significant, opening the door to studying sulfur chemistry in these extreme environments. These detections substantially expand the molecular inventory of HD 87643, previously limited to CO,&quot; the team writes in the paper.</p><p>The broader interest lies in whether the claimed property or reaction pathway can be characterized with enough precision to support replication by other groups. Chemistry has a replication problem that is less discussed than the one in psychology or medicine, but it is real: synthetic procedures that work reliably in one laboratory sometimes fail to transfer, for reasons ranging from impure starting materials to undocumented temperature sensitivities. A result that comes with full experimental detail and a clear characterization of the product is far more valuable than one that reports a discovery without the procedural backbone.</p><p>The ratio between two isotopes of sulfur monoxide is surprisingly low, around 15, compared with values found in other environments within our galaxy. This process, known as mass-independent fractionation, has previously been documented only in ancient rock samples from Earth and in meteorites.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent groups working with orthogonal techniques reach compatible conclusions, and whether the result scales beyond the conditions used in the original study. Chemical discoveries that matter tend to be ones whose key properties can be measured by multiple spectroscopic, crystallographic or computational methods that are unlikely to share the same blind spots. Scalability, cost and long-term stability under realistic operating conditions are additional filters that come into play before any practical application becomes viable.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-alma-uncovers-sulfur-rare-class.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Astronomers have discovered a chemically rich collection of sulfur-bearing molecules surrounding the rare massive star HD 87643. The observations.",
-      "Dado-chave: Editors have highlighted the following attributes while ensuring the content's credibility: Add as preferred source 13 CO emission in the field.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Astronomers have discovered a chemically rich collection of sulfur-bearing molecules surrounding the rare massive star HD 87643. The observations.",
-      "Dado-chave: Editors have highlighted the following attributes while ensuring the content's credibility: Add as preferred source 13 CO emission in the field.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Astronomers have discovered a chemically rich collection of sulfur-bearing molecules surrounding the rare massive star HD 87643. The observations.",
-      "Key detail: Editors have highlighted the following attributes while ensuring the content's credibility: Add as preferred source 13 CO emission in the field.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "20 ago 2026",
-    "date_pt": "20 ago 2026",
-    "date_en": "20 Aug 2026",
-    "time": "13h20",
-    "time_pt": "13h20",
-    "time_en": "13:20 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-20T13:20:07+00:00",
-    "lastModifiedIso": "2026-08-20T13:20:07+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Química",
-      "Phys.org Space",
-      "Cosmos Week",
-      "ALMA uncovers sulfur for the first time around a rare class of supergiant star"
-    ],
-    "keywords_pt": [
-      "Química",
-      "Phys.org Space",
-      "Cosmos Week",
-      "ALMA uncovers sulfur for the first time around a rare class of supergiant star"
-    ],
-    "keywords_en": [
-      "Química",
-      "Phys.org Space",
-      "Cosmos Week",
-      "ALMA uncovers sulfur for the first time around a rare class of supergiant star"
-    ],
-    "srcUrl": "https://phys.org/news/2026-08-alma-uncovers-sulfur-rare-class.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=alma-uncovers-sulfur-for-the-first-time-around-a-rare-class-of-supergiant-star",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=alma-uncovers-sulfur-for-the-first-time-around-a-rare-class-of-supergiant-star",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=alma-uncovers-sulfur-for-the-first-time-around-a-rare-class-of-supergiant-star&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 70,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 88,
-      "relevance": 68,
-      "accessibility": 52,
-      "novelty": 49
-    }
-  },
-  {
-    "id": 26,
     "slug": "science-release-hubble-unexpectedly-catches-comet-breaking-up",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3146,7 +3000,7 @@ window.postsData = [
     }
   },
   {
-    "id": 27,
+    "id": 26,
     "slug": "science-release-hubble-uncovers-the-secret-of-stars-that-defy-ageing",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3273,7 +3127,7 @@ window.postsData = [
     }
   },
   {
-    "id": 28,
+    "id": 27,
     "slug": "curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3412,7 +3266,7 @@ window.postsData = [
     }
   },
   {
-    "id": 29,
+    "id": 28,
     "slug": "nasa-shares-views-of-august-solar-eclipse-from-ground-air-space",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3561,7 +3415,7 @@ window.postsData = [
     }
   },
   {
-    "id": 30,
+    "id": 29,
     "slug": "hubble-gaia-solve-our-galaxy-s-merger-mystery",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -3666,7 +3520,7 @@ window.postsData = [
     }
   },
   {
-    "id": 31,
+    "id": 30,
     "slug": "a-look-back-at-the-2026-total-solar-eclipse",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3771,7 +3625,7 @@ window.postsData = [
     }
   },
   {
-    "id": 32,
+    "id": 31,
     "slug": "how-esa-mimics-and-models-the-2026-total-solar-eclipse",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3876,7 +3730,7 @@ window.postsData = [
     }
   },
   {
-    "id": 33,
+    "id": 32,
     "slug": "spying-on-a-split-comet",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4009,7 +3863,7 @@ window.postsData = [
     }
   },
   {
-    "id": 34,
+    "id": 33,
     "slug": "europe-s-scorching-summer",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4155,7 +4009,7 @@ window.postsData = [
     }
   },
   {
-    "id": 35,
+    "id": 34,
     "slug": "this-week-s-sky-at-a-glance-august-21-30",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4291,7 +4145,7 @@ window.postsData = [
     }
   },
   {
-    "id": 36,
+    "id": 35,
     "slug": "a-first-3-supermassive-black-holes-discovered-in-1-galaxy",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -4406,7 +4260,7 @@ window.postsData = [
     }
   },
   {
-    "id": 37,
+    "id": 36,
     "slug": "astronomers-discover-a-black-hole-star-a-new-type-of-object",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -4524,7 +4378,7 @@ window.postsData = [
     }
   },
   {
-    "id": 38,
+    "id": 37,
     "slug": "next-up-a-deep-partial-lunar-eclipse-on-aug-27-28",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4657,7 +4511,7 @@ window.postsData = [
     }
   },
   {
-    "id": 39,
+    "id": 38,
     "slug": "this-week-s-sky-at-a-glance-august-14-23",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4793,7 +4647,7 @@ window.postsData = [
     }
   },
   {
-    "id": 40,
+    "id": 39,
     "slug": "did-you-see-the-solar-eclipse-here-s-what-we-saw-from-around-the-world",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4926,6 +4780,114 @@ window.postsData = [
       "relevance": 88,
       "accessibility": 60,
       "novelty": 46
+    }
+  },
+  {
+    "id": 40,
+    "slug": "sentinel-1-captures-major-ice-loss-from-greenland-glacier",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/petermann_glacier_calves_huge_iceberg/27425701-1-eng-GB/Petermann_Glacier_calves_huge_iceberg_card_full.jpg",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Sentinel-1 captures major ice loss from Greenland glacier",
+    "title_pt": "Sentinel-1 captures major ice loss from Greenland glacier",
+    "title_en": "Sentinel-1 captures major ice loss from Greenland glacier",
+    "sub": "Europe’s Copernicus Sentinel-1 mission has captured a dramatic change at Petermann Glacier in northwest Greenland, where a 76 sq km section of the glacier’s floating ice tongue.",
+    "sub_pt": "Europe’s Copernicus Sentinel-1 mission has captured a dramatic change at Petermann Glacier in northwest Greenland, where a 76 sq km section of the glacier’s floating ice tongue.",
+    "sub_en": "Europe’s Copernicus Sentinel-1 mission has captured a dramatic change at Petermann Glacier in northwest Greenland, where a 76 sq km section of the glacier’s floating ice tongue.",
+    "excerpt": "Europe’s Copernicus Sentinel-1 mission has captured a dramatic change at Petermann Glacier in northwest Greenland, where a 76 sq km section of the glacier’s floating ice tongue broke away on 4 August 2026. The event marks the glacier’s.",
+    "excerpt_pt": "Europe’s Copernicus Sentinel-1 mission has captured a dramatic change at Petermann Glacier in northwest Greenland, where a 76 sq km section of the glacier’s floating ice tongue broke away on 4 August 2026. The event marks the glacier’s.",
+    "excerpt_en": "Europe’s Copernicus Sentinel-1 mission has captured a dramatic change at Petermann Glacier in northwest Greenland, where a 76 sq km section of the glacier’s floating ice tongue broke away on 4 August 2026. The event marks the glacier’s.",
+    "body": "<p>Europe’s Copernicus Sentinel-1 mission has captured a dramatic change at Petermann Glacier in northwest Greenland, where a 76 sq km section of the glacier’s floating ice tongue broke away on 4 August 2026. The event marks the glacier’s. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. The event marks the glacier’s largest loss of floating ice since 2012 and the most significant calving event in the Arctic since 2020, revealing once again how rapidly Earth’s.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1_captures_major_ice_loss_from_Greenland_glacier\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Europe’s Copernicus Sentinel-1 mission has captured a dramatic change at Petermann Glacier in northwest Greenland, where a 76 sq km section of the glacier’s floating ice tongue broke away on 4 August 2026. The event marks the glacier’s. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. The event marks the glacier’s largest loss of floating ice since 2012 and the most significant calving event in the Arctic since 2020, revealing once again how rapidly Earth’s.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1_captures_major_ice_loss_from_Greenland_glacier\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Europe’s Copernicus Sentinel-1 mission has captured a dramatic change at Petermann Glacier in northwest Greenland, where a 76 sq km section of the glacier’s floating ice tongue broke away on 4 August 2026. The event marks the glacier’s. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The event marks the glacier’s largest loss of floating ice since 2012 and the most significant calving event in the Arctic since 2020, revealing once again how rapidly Earth’s.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1_captures_major_ice_loss_from_Greenland_glacier\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Europe’s Copernicus Sentinel-1 mission has captured a dramatic change at Petermann Glacier in northwest Greenland, where a 76 sq km section of the.",
+      "Dado-chave: Europe’s Copernicus Sentinel-1 mission has captured a dramatic change at Petermann Glacier in northwest Greenland, where a 76 sq km section of.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Europe’s Copernicus Sentinel-1 mission has captured a dramatic change at Petermann Glacier in northwest Greenland, where a 76 sq km section of the.",
+      "Dado-chave: Europe’s Copernicus Sentinel-1 mission has captured a dramatic change at Petermann Glacier in northwest Greenland, where a 76 sq km section of.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Europe’s Copernicus Sentinel-1 mission has captured a dramatic change at Petermann Glacier in northwest Greenland, where a 76 sq km section of the.",
+      "Key detail: Europe’s Copernicus Sentinel-1 mission has captured a dramatic change at Petermann Glacier in northwest Greenland, where a 76 sq km section of.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "21 ago 2026",
+    "date_pt": "21 ago 2026",
+    "date_en": "21 Aug 2026",
+    "time": "08h22",
+    "time_pt": "08h22",
+    "time_en": "08:22 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-21T08:22:00+00:00",
+    "lastModifiedIso": "2026-08-21T08:22:00+00:00",
+    "source": "ESA Space News",
+    "sourceDomain": "www.esa.int",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "ESA Space News",
+      "Cosmos Week",
+      "Sentinel",
+      "1 captures major ice loss from Greenland glacier"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "ESA Space News",
+      "Cosmos Week",
+      "Sentinel",
+      "1 captures major ice loss from Greenland glacier"
+    ],
+    "keywords_en": [
+      "Ciências da Terra",
+      "ESA Space News",
+      "Cosmos Week",
+      "Sentinel",
+      "1 captures major ice loss from Greenland glacier"
+    ],
+    "srcUrl": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1_captures_major_ice_loss_from_Greenland_glacier",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=sentinel-1-captures-major-ice-loss-from-greenland-glacier",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=sentinel-1-captures-major-ice-loss-from-greenland-glacier",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=sentinel-1-captures-major-ice-loss-from-greenland-glacier&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 74,
+    "scoreBreakdown": {
+      "source": 80,
+      "evidence": 82,
+      "relevance": 80,
+      "accessibility": 60,
+      "novelty": 49
     }
   }
 ];

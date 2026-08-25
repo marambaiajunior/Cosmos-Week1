@@ -40,14 +40,14 @@ window.postsData = [
     "date": "25 ago 2026",
     "date_pt": "25 ago 2026",
     "date_en": "25 Aug 2026",
-    "time": "13h05",
-    "time_pt": "13h05",
-    "time_en": "13:05 UTC",
+    "time": "13h59",
+    "time_pt": "13h59",
+    "time_en": "13:59 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-25T13:05:52.700183+00:00",
-    "lastModifiedIso": "2026-08-25T13:05:52.700183+00:00",
+    "publishedIso": "2026-08-25T13:59:39.017268+00:00",
+    "lastModifiedIso": "2026-08-25T13:59:39.017268+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -145,14 +145,14 @@ window.postsData = [
     "date": "25 ago 2026",
     "date_pt": "25 ago 2026",
     "date_en": "25 Aug 2026",
-    "time": "13h05",
-    "time_pt": "13h05",
-    "time_en": "13:05 UTC",
+    "time": "13h59",
+    "time_pt": "13h59",
+    "time_en": "13:59 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-25T13:05:52.700132+00:00",
-    "lastModifiedIso": "2026-08-25T13:05:52.700132+00:00",
+    "publishedIso": "2026-08-25T13:59:39.017214+00:00",
+    "lastModifiedIso": "2026-08-25T13:59:39.017214+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -253,14 +253,14 @@ window.postsData = [
     "date": "25 ago 2026",
     "date_pt": "25 ago 2026",
     "date_en": "25 Aug 2026",
-    "time": "13h05",
-    "time_pt": "13h05",
-    "time_en": "13:05 UTC",
+    "time": "13h59",
+    "time_pt": "13h59",
+    "time_en": "13:59 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-25T13:05:52.700084+00:00",
-    "lastModifiedIso": "2026-08-25T13:05:52.700084+00:00",
+    "publishedIso": "2026-08-25T13:59:39.017163+00:00",
+    "lastModifiedIso": "2026-08-25T13:59:39.017163+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -358,14 +358,14 @@ window.postsData = [
     "date": "25 ago 2026",
     "date_pt": "25 ago 2026",
     "date_en": "25 Aug 2026",
-    "time": "13h05",
-    "time_pt": "13h05",
-    "time_en": "13:05 UTC",
+    "time": "13h59",
+    "time_pt": "13h59",
+    "time_en": "13:59 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-25T13:05:52.700004+00:00",
-    "lastModifiedIso": "2026-08-25T13:05:52.700004+00:00",
+    "publishedIso": "2026-08-25T13:59:39.017081+00:00",
+    "lastModifiedIso": "2026-08-25T13:59:39.017081+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -463,14 +463,14 @@ window.postsData = [
     "date": "25 ago 2026",
     "date_pt": "25 ago 2026",
     "date_en": "25 Aug 2026",
-    "time": "13h05",
-    "time_pt": "13h05",
-    "time_en": "13:05 UTC",
+    "time": "13h59",
+    "time_pt": "13h59",
+    "time_en": "13:59 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-25T13:05:52.699948+00:00",
-    "lastModifiedIso": "2026-08-25T13:05:52.699948+00:00",
+    "publishedIso": "2026-08-25T13:59:39.017024+00:00",
+    "lastModifiedIso": "2026-08-25T13:59:39.017024+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -531,6 +531,158 @@ window.postsData = [
   },
   {
     "id": 6,
+    "slug": "now-boarding-240-000-miles-from-earth-at-the-moon-s-first-airport",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/now-boarding--240000-m.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/now-boarding--240000-m-1.jpg",
+        "caption": "Researchers used thousands of computer simulations to study and test how spacecraft can safely position themselves around NASA's Gateway, balancing precise navigation, fuel efficiency and the challenges of future lunar missions. Credit.",
+        "caption_pt": "Researchers used thousands of computer simulations to study and test how spacecraft can safely position themselves around NASA's Gateway, balancing precise navigation, fuel efficiency and the challenges of future lunar missions. Credit.",
+        "caption_en": "Researchers used thousands of computer simulations to study and test how spacecraft can safely position themselves around NASA's Gateway, balancing precise navigation, fuel efficiency and the challenges of future lunar missions. Credit.",
+        "alt": "'Now boarding' … 240,000 miles from Earth, at the moon's first airport",
+        "alt_pt": "'Now boarding' … 240,000 miles from Earth, at the moon's first airport",
+        "alt_en": "'Now boarding' … 240,000 miles from Earth, at the moon's first airport"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/4b5d8e1e5856f832.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/782dcfc6701d278c.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": {
+      "kind": "file",
+      "platform": "html5",
+      "embedUrl": "",
+      "fileUrl": "https://scx2.b-cdn.net/gfx/video/2026/now-boarding--240000-m.mp4",
+      "poster": "https://scx1.b-cdn.net/gfx/video_tmb/2026/now-boarding--240000-m.mp4.jpg",
+      "title": "",
+      "title_pt": "",
+      "title_en": "",
+      "caption": "",
+      "caption_pt": "",
+      "caption_en": "",
+      "sourcePage": "https://phys.org/news/2026-08-boarding-miles-earth-moon-airport.html"
+    },
+    "audio": null,
+    "title": "'Now boarding' … 240,000 miles from Earth, at the moon's first airport",
+    "title_pt": "'Now boarding' … 240,000 miles from Earth, at the moon's first airport",
+    "title_en": "'Now boarding' … 240,000 miles from Earth, at the moon's first airport",
+    "sub": "The moon's getting its first airport, and it's about to get busy. Within the next two decades, NASA's planned Gateway, humanity's first lunar spaceport, may become a bustling hub.",
+    "sub_pt": "The moon's getting its first airport, and it's about to get busy. Within the next two decades, NASA's planned Gateway, humanity's first lunar spaceport, may become a bustling hub.",
+    "sub_en": "The moon's getting its first airport, and it's about to get busy. Within the next two decades, NASA's planned Gateway, humanity's first lunar spaceport, may become a bustling hub.",
+    "excerpt": "The moon's getting its first airport, and it's about to get busy. Within the next two decades, NASA's planned Gateway, humanity's first lunar spaceport, may become a bustling hub for Orion crew capsules, lunar landers, cargo vehicles and.",
+    "excerpt_pt": "The moon's getting its first airport, and it's about to get busy. Within the next two decades, NASA's planned Gateway, humanity's first lunar spaceport, may become a bustling hub for Orion crew capsules, lunar landers, cargo vehicles and.",
+    "excerpt_en": "The moon's getting its first airport, and it's about to get busy. Within the next two decades, NASA's planned Gateway, humanity's first lunar spaceport, may become a bustling hub for Orion crew capsules, lunar landers, cargo vehicles and.",
+    "body": "<p>The moon&#x27;s getting its first airport, and it&#x27;s about to get busy. Within the next two decades, NASA&#x27;s planned Gateway, humanity&#x27;s first lunar spaceport, may become a bustling hub for Orion crew capsules, lunar landers, cargo vehicles and. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. The moon&#x27;s getting its first airport, and it&#x27;s about to get busy. Within the next two decades, NASA&#x27;s planned Gateway, humanity&#x27;s first lunar spaceport, may become a bustling hub for Orion crew capsules, lunar landers, cargo vehicles and.</p><p>This article has been reviewed according to Science X&#x27;s editorial process and policies. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source At nearly 240,000 miles from Earth, the moon is getting its.</p><p>Davis The moon&#x27;s getting its first airport, and it&#x27;s about to get busy. Within the next two decades, NASA&#x27;s planned Gateway —humanity&#x27;s first lunar spaceport, may become a bustling hub for Orion crew capsules, lunar landers, cargo vehicles and.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-boarding-miles-earth-moon-airport.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>The moon&#x27;s getting its first airport, and it&#x27;s about to get busy. Within the next two decades, NASA&#x27;s planned Gateway, humanity&#x27;s first lunar spaceport, may become a bustling hub for Orion crew capsules, lunar landers, cargo vehicles and. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. The moon&#x27;s getting its first airport, and it&#x27;s about to get busy. Within the next two decades, NASA&#x27;s planned Gateway, humanity&#x27;s first lunar spaceport, may become a bustling hub for Orion crew capsules, lunar landers, cargo vehicles and.</p><p>This article has been reviewed according to Science X&#x27;s editorial process and policies. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source At nearly 240,000 miles from Earth, the moon is getting its.</p><p>Davis The moon&#x27;s getting its first airport, and it&#x27;s about to get busy. Within the next two decades, NASA&#x27;s planned Gateway —humanity&#x27;s first lunar spaceport, may become a bustling hub for Orion crew capsules, lunar landers, cargo vehicles and.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-boarding-miles-earth-moon-airport.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The moon&#x27;s getting its first airport, and it&#x27;s about to get busy. Within the next two decades, NASA&#x27;s planned Gateway, humanity&#x27;s first lunar spaceport, may become a bustling hub for Orion crew capsules, lunar landers, cargo vehicles and. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The moon&#x27;s getting its first airport, and it&#x27;s about to get busy. Within the next two decades, NASA&#x27;s planned Gateway, humanity&#x27;s first lunar spaceport, may become a bustling hub for Orion crew capsules, lunar landers, cargo vehicles and.</p><p>This article has been reviewed according to Science X&#x27;s editorial process and policies. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source At nearly 240,000 miles from Earth, the moon is getting its.</p><p>Davis The moon&#x27;s getting its first airport, and it&#x27;s about to get busy. Within the next two decades, NASA&#x27;s planned Gateway —humanity&#x27;s first lunar spaceport, may become a bustling hub for Orion crew capsules, lunar landers, cargo vehicles and.</p><p>But this airport won&#x27;t have concrete runways crowded with airplanes, flashing taxiway lights or a crackling voice over an intercom announcing, &quot;Your gate has changed.&quot; Instead. A team of engineers from Texas A&amp;M University, NASA&#x27;s Johnson Space Center and Purdue University developed algorithms and operational strategies to manage spacecraft loitering.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>The future of lunar exploration depends as much on the traffic management as it does on the rocket science,&quot; said Dr. Building a lasting human presence around the moon won&#x27;t simply depend on getting there first.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-boarding-miles-earth-moon-airport.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: The moon's getting its first airport, and it's about to get busy. Within the next two decades, NASA's planned Gateway, humanity's first lunar.",
+      "Dado-chave: The moon's getting its first airport, and it's about to get busy.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: The moon's getting its first airport, and it's about to get busy. Within the next two decades, NASA's planned Gateway, humanity's first lunar.",
+      "Dado-chave: The moon's getting its first airport, and it's about to get busy.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: The moon's getting its first airport, and it's about to get busy. Within the next two decades, NASA's planned Gateway, humanity's first lunar.",
+      "Key detail: The moon's getting its first airport, and it's about to get busy.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "25 ago 2026",
+    "date_pt": "25 ago 2026",
+    "date_en": "25 Aug 2026",
+    "time": "13h20",
+    "time_pt": "13h20",
+    "time_en": "13:20 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-25T13:20:03+00:00",
+    "lastModifiedIso": "2026-08-25T13:20:03+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "Phys.org Space",
+      "Cosmos Week",
+      "'Now boarding' … 240",
+      "000 miles from Earth",
+      "at the moon's first airport"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "Phys.org Space",
+      "Cosmos Week",
+      "'Now boarding' … 240",
+      "000 miles from Earth",
+      "at the moon's first airport"
+    ],
+    "keywords_en": [
+      "Ciências da Terra",
+      "Phys.org Space",
+      "Cosmos Week",
+      "'Now boarding' … 240",
+      "000 miles from Earth",
+      "at the moon's first airport"
+    ],
+    "srcUrl": "https://phys.org/news/2026-08-boarding-miles-earth-moon-airport.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=now-boarding-240-000-miles-from-earth-at-the-moon-s-first-airport",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=now-boarding-240-000-miles-from-earth-at-the-moon-s-first-airport",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=now-boarding-240-000-miles-from-earth-at-the-moon-s-first-airport&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 69,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 82,
+      "relevance": 62,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
     "slug": "cutting-edge-infrared-space-telescope-roman-set-to-launch",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -652,7 +804,7 @@ window.postsData = [
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -666,7 +818,7 @@ window.postsData = [
     }
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "how-earthly-microbes-on-the-moon-might-survive-in-the-shade",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -781,7 +933,7 @@ window.postsData = [
     }
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "the-little-red-dots-of-our-cosmos-might-hide-something-big",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -914,7 +1066,7 @@ window.postsData = [
     }
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "setting-limits-on-phase-transitions-in-the-dark-energy-era",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1042,124 +1194,6 @@ window.postsData = [
       "source": 76,
       "evidence": 88,
       "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 10,
-    "slug": "deep-partial-lunar-eclipse-on-august-27-28-2026",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://earthsky.org/upl/2026/08/Lunar-eclipse-August-28-visibility.jpeg",
-    "inline_images": [
-      {
-        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Deep partial lunar eclipse on August 27-28, 2026",
-    "title_pt": "Deep partial lunar eclipse on August 27-28, 2026",
-    "title_en": "Deep partial lunar eclipse on August 27-28, 2026",
-    "sub": "A deep partial lunar eclipse of the full Sturgeon Moon takes place on August 27-28, 2026. Will you be able to see it? Maps and details here. The post Deep partial lunar eclipse on.",
-    "sub_pt": "A deep partial lunar eclipse of the full Sturgeon Moon takes place on August 27-28, 2026. Will you be able to see it? Maps and details here. The post Deep partial lunar eclipse on.",
-    "sub_en": "A deep partial lunar eclipse of the full Sturgeon Moon takes place on August 27-28, 2026. Will you be able to see it? Maps and details here. The post Deep partial lunar eclipse on.",
-    "excerpt": "A deep partial lunar eclipse of the full Sturgeon Moon takes place on August 27-28, 2026. Will you be able to see it? Maps and details here. The post Deep partial lunar eclipse on August 27-28, 2026 first appeared on EarthSky.",
-    "excerpt_pt": "A deep partial lunar eclipse of the full Sturgeon Moon takes place on August 27-28, 2026. Will you be able to see it? Maps and details here. The post Deep partial lunar eclipse on August 27-28, 2026 first appeared on EarthSky.",
-    "excerpt_en": "A deep partial lunar eclipse of the full Sturgeon Moon takes place on August 27-28, 2026. Will you be able to see it? Maps and details here. The post Deep partial lunar eclipse on August 27-28, 2026 first appeared on EarthSky.",
-    "body": "<p>A deep partial lunar eclipse of the full Sturgeon Moon takes place on August 27-28, 2026. Will you be able to see it? Maps and details here. The post Deep partial lunar eclipse on August 27-28, 2026 first appeared on EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. A deep partial lunar eclipse of the full Sturgeon Moon takes place on August 27-28, 2026. But it’ll be nearly total, with 96% of the moon within the Earth’s dark umbral shadow at mid-eclipse.</p><p>And the moon will be in Earth’s dark shadow, during the partial phases of the eclipse, for 199 minutes. Since 96% of the moon will be in Earth’s shadow at mid-eclipse, you’ll hopefully see some redness by then.</p><p>At maximum eclipse, about 96% of the moon’s disk will lie inside Earth’s dark umbral shadow. By the way, the moment of greatest eclipse takes place 5.8 days after the moon reaches apogee, its farthest point from Earth for the month of August, 2026.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/astronomy-essentials/partial-lunar-eclipse-of-the-august-27-28-2026/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A deep partial lunar eclipse of the full Sturgeon Moon takes place on August 27-28, 2026. Will you be able to see it? Maps and details here. The post Deep partial lunar eclipse on August 27-28, 2026 first appeared on EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. A deep partial lunar eclipse of the full Sturgeon Moon takes place on August 27-28, 2026. But it’ll be nearly total, with 96% of the moon within the Earth’s dark umbral shadow at mid-eclipse.</p><p>And the moon will be in Earth’s dark shadow, during the partial phases of the eclipse, for 199 minutes. Since 96% of the moon will be in Earth’s shadow at mid-eclipse, you’ll hopefully see some redness by then.</p><p>At maximum eclipse, about 96% of the moon’s disk will lie inside Earth’s dark umbral shadow. By the way, the moment of greatest eclipse takes place 5.8 days after the moon reaches apogee, its farthest point from Earth for the month of August, 2026.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/astronomy-essentials/partial-lunar-eclipse-of-the-august-27-28-2026/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>A deep partial lunar eclipse of the full Sturgeon Moon takes place on August 27-28, 2026. Will you be able to see it? Maps and details here. The post Deep partial lunar eclipse on August 27-28, 2026 first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. A deep partial lunar eclipse of the full Sturgeon Moon takes place on August 27-28, 2026. But it’ll be nearly total, with 96% of the moon within the Earth’s dark umbral shadow at mid-eclipse.</p><p>And the moon will be in Earth’s dark shadow, during the partial phases of the eclipse, for 199 minutes. Since 96% of the moon will be in Earth’s shadow at mid-eclipse, you’ll hopefully see some redness by then.</p><p>At maximum eclipse, about 96% of the moon’s disk will lie inside Earth’s dark umbral shadow. By the way, the moment of greatest eclipse takes place 5.8 days after the moon reaches apogee, its farthest point from Earth for the month of August, 2026.</p><p>“The moon turned red once it was 90% eclipsed.” Thank you, Robert. Eclipses separated by one saros period (18 years, 11 days and 8 hours) belong to the same saros series and share nearly identical elements (including distance from Earth, season.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>The moon will move southward with respect to this node with each succeeding eclipse in Saros 138. The instant of greatest eclipse, when the axis of Earth’s shadow cone passes closest to the moon’s center, takes place at 4: 12 UTC on August 28.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/astronomy-essentials/partial-lunar-eclipse-of-the-august-27-28-2026/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: A deep partial lunar eclipse of the full Sturgeon Moon takes place on August 27-28, 2026. Will you be able to see it? Maps and details here. The post.",
-      "Dado-chave: A deep partial lunar eclipse of the full Sturgeon Moon takes place on August 27-28, 2026.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: A deep partial lunar eclipse of the full Sturgeon Moon takes place on August 27-28, 2026. Will you be able to see it? Maps and details here. The post.",
-      "Dado-chave: A deep partial lunar eclipse of the full Sturgeon Moon takes place on August 27-28, 2026.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: A deep partial lunar eclipse of the full Sturgeon Moon takes place on August 27-28, 2026. Will you be able to see it? Maps and details here. The post.",
-      "Key detail: A deep partial lunar eclipse of the full Sturgeon Moon takes place on August 27-28, 2026.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "25 ago 2026",
-    "date_pt": "25 ago 2026",
-    "date_en": "25 Aug 2026",
-    "time": "10h00",
-    "time_pt": "10h00",
-    "time_en": "10:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-25T10:00:05+00:00",
-    "lastModifiedIso": "2026-08-25T10:00:05+00:00",
-    "source": "EarthSky",
-    "sourceDomain": "earthsky.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "EarthSky",
-      "Cosmos Week",
-      "Deep partial lunar eclipse on August 27",
-      "2026"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "EarthSky",
-      "Cosmos Week",
-      "Deep partial lunar eclipse on August 27",
-      "2026"
-    ],
-    "keywords_en": [
-      "Ciências da Terra",
-      "EarthSky",
-      "Cosmos Week",
-      "Deep partial lunar eclipse on August 27",
-      "2026"
-    ],
-    "srcUrl": "https://earthsky.org/astronomy-essentials/partial-lunar-eclipse-of-the-august-27-28-2026/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=deep-partial-lunar-eclipse-on-august-27-28-2026",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=deep-partial-lunar-eclipse-on-august-27-28-2026",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=deep-partial-lunar-eclipse-on-august-27-28-2026&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 74,
-    "scoreBreakdown": {
-      "source": 72,
-      "evidence": 88,
-      "relevance": 80,
       "accessibility": 60,
       "novelty": 55
     }
@@ -2711,139 +2745,6 @@ window.postsData = [
   },
   {
     "id": 23,
-    "slug": "alma-uncovers-sulfur-for-the-first-time-around-a-rare-class-of-supergiant-star",
-    "cat": "Química",
-    "catCls": "quimica",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/alma-uncovers-sulfur-f.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/alma-uncovers-sulfur-f.jpg",
-        "caption": "ALMA uncovers sulfur for the first time around a rare class of supergiant star",
-        "caption_pt": "ALMA uncovers sulfur for the first time around a rare class of supergiant star",
-        "caption_en": "ALMA uncovers sulfur for the first time around a rare class of supergiant star",
-        "alt": "ALMA uncovers sulfur for the first time around a rare class of supergiant star",
-        "alt_pt": "ALMA uncovers sulfur for the first time around a rare class of supergiant star",
-        "alt_en": "ALMA uncovers sulfur for the first time around a rare class of supergiant star"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/05cc00b31f2c5b10.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/f233d40c9bb6ec42.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "ALMA uncovers sulfur for the first time around a rare class of supergiant star",
-    "title_pt": "ALMA uncovers sulfur for the first time around a rare class of supergiant star",
-    "title_en": "ALMA uncovers sulfur for the first time around a rare class of supergiant star",
-    "sub": "Astronomers have discovered a chemically rich collection of sulfur-bearing molecules surrounding the rare massive star HD 87643. The observations include the first detection of.",
-    "sub_pt": "Astronomers have discovered a chemically rich collection of sulfur-bearing molecules surrounding the rare massive star HD 87643. The observations include the first detection of.",
-    "sub_en": "Astronomers have discovered a chemically rich collection of sulfur-bearing molecules surrounding the rare massive star HD 87643. The observations include the first detection of.",
-    "excerpt": "Astronomers have discovered a chemically rich collection of sulfur-bearing molecules surrounding the rare massive star HD 87643. The observations include the first detection of sulfur monoxide and sulfur dioxide around a B[e] supergiant.",
-    "excerpt_pt": "Astronomers have discovered a chemically rich collection of sulfur-bearing molecules surrounding the rare massive star HD 87643. The observations include the first detection of sulfur monoxide and sulfur dioxide around a B[e] supergiant.",
-    "excerpt_en": "Astronomers have discovered a chemically rich collection of sulfur-bearing molecules surrounding the rare massive star HD 87643. The observations include the first detection of sulfur monoxide and sulfur dioxide around a B[e] supergiant.",
-    "body": "<p>Discovered a chemically rich collection of sulfur-bearing molecules surrounding the rare massive star HD 87643. The observations include the first detection of sulfur monoxide and sulfur dioxide around a B supergiant. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a química ganha força quando uma estrutura ou processo alegado pode ser descrito com precisão suficiente para ser reproduzido por outros. Rotas sintéticas, assinaturas espectroscópicas, rendimento em condições definidas e estabilidade em parâmetros operacionais realistas são a moeda de credibilidade na química, e um resultado que carece desses detalhes não pode ser avaliado de forma independente. A distância entre uma descoberta em bancada de laboratório e um processo que funciona confiavelmente em escala é medida em anos de otimização, e cada etapa revela restrições que eram invisíveis em escala menor. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source 13 CO emission in the field of HD 87643. Discovered a chemically rich collection of sulfur-bearing molecules surrounding the rare massive star HD 87643.</p><p>The paper was published in The Astrophysical Journal Letters on July 1. In this study, the researchers, led by Cristobal Bordiu of INAF Catania Astrophysical Observatory, used Atacama Large Millimeter/submillimeter Array&#x27;s Atacama Compact Array.</p><p>Their analysis revealed emissions from 10 different molecules: CO, 13 CO, OCS, H 2 CO, SO, 33 SO, SO 2, HNCO, O 13 CS and 13 CS. Sulfur is a relatively common element in the universe, the 10th most abundant overall, and one of just six elements essential to life as we know it.</p><p>O interesse mais amplo está em saber se a propriedade ou rota de reação alegada pode ser caracterizada com precisão suficiente para sustentar replicação por outros grupos. A química tem um problema de replicação menos discutido do que o da psicologia ou da medicina, mas ele é real: procedimentos sintéticos que funcionam confiavelmente em um laboratório às vezes não se transferem, por razões que vão de materiais de partida impuros a sensibilidades de temperatura não documentadas. Um resultado que vem com detalhes experimentais completos e caracterização clara do produto é muito mais valioso do que um que relata uma descoberta sem o arcabouço procedimental.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se grupos independentes trabalhando com técnicas ortogonais chegam a conclusões compatíveis e se o resultado escala além das condições usadas no estudo original. Descobertas químicas que importam tendem a ser aquelas cujas propriedades principais podem ser medidas por múltiplos métodos espectroscópicos, cristalográficos ou computacionais que provavelmente não compartilham os mesmos pontos cegos. Escalabilidade, custo e estabilidade de longo prazo sob condições operacionais realistas são filtros adicionais que entram em jogo antes que qualquer aplicação prática se torne viável.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-alma-uncovers-sulfur-rare-class.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Discovered a chemically rich collection of sulfur-bearing molecules surrounding the rare massive star HD 87643. The observations include the first detection of sulfur monoxide and sulfur dioxide around a B supergiant. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a química ganha força quando uma estrutura ou processo alegado pode ser descrito com precisão suficiente para ser reproduzido por outros. Rotas sintéticas, assinaturas espectroscópicas, rendimento em condições definidas e estabilidade em parâmetros operacionais realistas são a moeda de credibilidade na química, e um resultado que carece desses detalhes não pode ser avaliado de forma independente. A distância entre uma descoberta em bancada de laboratório e um processo que funciona confiavelmente em escala é medida em anos de otimização, e cada etapa revela restrições que eram invisíveis em escala menor. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source 13 CO emission in the field of HD 87643. Discovered a chemically rich collection of sulfur-bearing molecules surrounding the rare massive star HD 87643.</p><p>The paper was published in The Astrophysical Journal Letters on July 1. In this study, the researchers, led by Cristobal Bordiu of INAF Catania Astrophysical Observatory, used Atacama Large Millimeter/submillimeter Array&#x27;s Atacama Compact Array.</p><p>Their analysis revealed emissions from 10 different molecules: CO, 13 CO, OCS, H 2 CO, SO, 33 SO, SO 2, HNCO, O 13 CS and 13 CS. Sulfur is a relatively common element in the universe, the 10th most abundant overall, and one of just six elements essential to life as we know it.</p><p>O interesse mais amplo está em saber se a propriedade ou rota de reação alegada pode ser caracterizada com precisão suficiente para sustentar replicação por outros grupos. A química tem um problema de replicação menos discutido do que o da psicologia ou da medicina, mas ele é real: procedimentos sintéticos que funcionam confiavelmente em um laboratório às vezes não se transferem, por razões que vão de materiais de partida impuros a sensibilidades de temperatura não documentadas. Um resultado que vem com detalhes experimentais completos e caracterização clara do produto é muito mais valioso do que um que relata uma descoberta sem o arcabouço procedimental.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se grupos independentes trabalhando com técnicas ortogonais chegam a conclusões compatíveis e se o resultado escala além das condições usadas no estudo original. Descobertas químicas que importam tendem a ser aquelas cujas propriedades principais podem ser medidas por múltiplos métodos espectroscópicos, cristalográficos ou computacionais que provavelmente não compartilham os mesmos pontos cegos. Escalabilidade, custo e estabilidade de longo prazo sob condições operacionais realistas são filtros adicionais que entram em jogo antes que qualquer aplicação prática se torne viável.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-alma-uncovers-sulfur-rare-class.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Discovered a chemically rich collection of sulfur-bearing molecules surrounding the rare massive star HD 87643. The observations include the first detection of sulfur monoxide and sulfur dioxide around a B supergiant. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because chemistry gains force when a claimed structure or process can be described with enough precision to be reproduced by others. Synthetic routes, spectroscopic signatures, yield under defined conditions and stability under realistic operating parameters are the currency of credibility in chemistry, and a result that lacks these details cannot be evaluated independently. The distance between a discovery on a laboratory bench and a process that works reliably at scale is measured in years of optimization, and each step reveals constraints that were invisible at smaller scale. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source 13 CO emission in the field of HD 87643. Discovered a chemically rich collection of sulfur-bearing molecules surrounding the rare massive star HD 87643.</p><p>The paper was published in The Astrophysical Journal Letters on July 1. In this study, the researchers, led by Cristobal Bordiu of INAF Catania Astrophysical Observatory, used Atacama Large Millimeter/submillimeter Array&#x27;s Atacama Compact Array.</p><p>Their analysis revealed emissions from 10 different molecules: CO, 13 CO, OCS, H 2 CO, SO, 33 SO, SO 2, HNCO, O 13 CS and 13 CS. Sulfur is a relatively common element in the universe, the 10th most abundant overall, and one of just six elements essential to life as we know it.</p><p>That makes the new detections in HD 87643 especially significant, opening the door to studying sulfur chemistry in these extreme environments. These detections substantially expand the molecular inventory of HD 87643, previously limited to CO,&quot; the team writes in the paper.</p><p>The broader interest lies in whether the claimed property or reaction pathway can be characterized with enough precision to support replication by other groups. Chemistry has a replication problem that is less discussed than the one in psychology or medicine, but it is real: synthetic procedures that work reliably in one laboratory sometimes fail to transfer, for reasons ranging from impure starting materials to undocumented temperature sensitivities. A result that comes with full experimental detail and a clear characterization of the product is far more valuable than one that reports a discovery without the procedural backbone.</p><p>The ratio between two isotopes of sulfur monoxide is surprisingly low, around 15, compared with values found in other environments within our galaxy. This process, known as mass-independent fractionation, has previously been documented only in ancient rock samples from Earth and in meteorites.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent groups working with orthogonal techniques reach compatible conclusions, and whether the result scales beyond the conditions used in the original study. Chemical discoveries that matter tend to be ones whose key properties can be measured by multiple spectroscopic, crystallographic or computational methods that are unlikely to share the same blind spots. Scalability, cost and long-term stability under realistic operating conditions are additional filters that come into play before any practical application becomes viable.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-alma-uncovers-sulfur-rare-class.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Astronomers have discovered a chemically rich collection of sulfur-bearing molecules surrounding the rare massive star HD 87643. The observations.",
-      "Dado-chave: Editors have highlighted the following attributes while ensuring the content's credibility: Add as preferred source 13 CO emission in the field.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Astronomers have discovered a chemically rich collection of sulfur-bearing molecules surrounding the rare massive star HD 87643. The observations.",
-      "Dado-chave: Editors have highlighted the following attributes while ensuring the content's credibility: Add as preferred source 13 CO emission in the field.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Astronomers have discovered a chemically rich collection of sulfur-bearing molecules surrounding the rare massive star HD 87643. The observations.",
-      "Key detail: Editors have highlighted the following attributes while ensuring the content's credibility: Add as preferred source 13 CO emission in the field.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "20 ago 2026",
-    "date_pt": "20 ago 2026",
-    "date_en": "20 Aug 2026",
-    "time": "13h20",
-    "time_pt": "13h20",
-    "time_en": "13:20 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-20T13:20:07+00:00",
-    "lastModifiedIso": "2026-08-20T13:20:07+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Química",
-      "Phys.org Space",
-      "Cosmos Week",
-      "ALMA uncovers sulfur for the first time around a rare class of supergiant star"
-    ],
-    "keywords_pt": [
-      "Química",
-      "Phys.org Space",
-      "Cosmos Week",
-      "ALMA uncovers sulfur for the first time around a rare class of supergiant star"
-    ],
-    "keywords_en": [
-      "Química",
-      "Phys.org Space",
-      "Cosmos Week",
-      "ALMA uncovers sulfur for the first time around a rare class of supergiant star"
-    ],
-    "srcUrl": "https://phys.org/news/2026-08-alma-uncovers-sulfur-rare-class.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=alma-uncovers-sulfur-for-the-first-time-around-a-rare-class-of-supergiant-star",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=alma-uncovers-sulfur-for-the-first-time-around-a-rare-class-of-supergiant-star",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=alma-uncovers-sulfur-for-the-first-time-around-a-rare-class-of-supergiant-star&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 70,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 88,
-      "relevance": 68,
-      "accessibility": 52,
-      "novelty": 46
-    }
-  },
-  {
-    "id": 24,
     "slug": "starstruck-nasa-research-shows-how-sun-s-ancient-history-shaped-earth",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2992,7 +2893,7 @@ window.postsData = [
     }
   },
   {
-    "id": 25,
+    "id": 24,
     "slug": "science-release-hubble-uncovers-the-secret-of-stars-that-defy-ageing",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3119,7 +3020,7 @@ window.postsData = [
     }
   },
   {
-    "id": 26,
+    "id": 25,
     "slug": "curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3258,7 +3159,7 @@ window.postsData = [
     }
   },
   {
-    "id": 27,
+    "id": 26,
     "slug": "hubble-gaia-solve-our-galaxy-s-merger-mystery",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -3363,7 +3264,7 @@ window.postsData = [
     }
   },
   {
-    "id": 28,
+    "id": 27,
     "slug": "a-look-back-at-the-2026-total-solar-eclipse",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3468,7 +3369,7 @@ window.postsData = [
     }
   },
   {
-    "id": 29,
+    "id": 28,
     "slug": "how-esa-mimics-and-models-the-2026-total-solar-eclipse",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3573,7 +3474,7 @@ window.postsData = [
     }
   },
   {
-    "id": 30,
+    "id": 29,
     "slug": "what-lake-bonneville-left-behind",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3706,7 +3607,7 @@ window.postsData = [
     }
   },
   {
-    "id": 31,
+    "id": 30,
     "slug": "spying-on-a-split-comet",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3839,7 +3740,7 @@ window.postsData = [
     }
   },
   {
-    "id": 32,
+    "id": 31,
     "slug": "astronomers-use-rare-ultra-magnetic-star-to-crack-a-quantum-mystery",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -3966,7 +3867,7 @@ window.postsData = [
     }
   },
   {
-    "id": 33,
+    "id": 32,
     "slug": "pluto-planetary-science-is-the-gift-that-keeps-on-giving",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4099,7 +4000,7 @@ window.postsData = [
     }
   },
   {
-    "id": 34,
+    "id": 33,
     "slug": "this-week-s-sky-at-a-glance-august-21-30",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4235,7 +4136,7 @@ window.postsData = [
     }
   },
   {
-    "id": 35,
+    "id": 34,
     "slug": "next-up-a-deep-partial-lunar-eclipse-on-aug-27-28",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4368,7 +4269,7 @@ window.postsData = [
     }
   },
   {
-    "id": 36,
+    "id": 35,
     "slug": "this-week-s-sky-at-a-glance-august-14-23",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4501,6 +4402,124 @@ window.postsData = [
       "relevance": 88,
       "accessibility": 60,
       "novelty": 46
+    }
+  },
+  {
+    "id": 36,
+    "slug": "deep-partial-lunar-eclipse-on-august-27-28-2026",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://earthsky.org/upl/2026/08/Lunar-eclipse-August-28-visibility.jpeg",
+    "inline_images": [
+      {
+        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Deep partial lunar eclipse on August 27-28, 2026",
+    "title_pt": "Deep partial lunar eclipse on August 27-28, 2026",
+    "title_en": "Deep partial lunar eclipse on August 27-28, 2026",
+    "sub": "A deep partial lunar eclipse of the full Sturgeon Moon takes place on August 27-28, 2026. Will you be able to see it? Maps and details here. The post Deep partial lunar eclipse on.",
+    "sub_pt": "A deep partial lunar eclipse of the full Sturgeon Moon takes place on August 27-28, 2026. Will you be able to see it? Maps and details here. The post Deep partial lunar eclipse on.",
+    "sub_en": "A deep partial lunar eclipse of the full Sturgeon Moon takes place on August 27-28, 2026. Will you be able to see it? Maps and details here. The post Deep partial lunar eclipse on.",
+    "excerpt": "A deep partial lunar eclipse of the full Sturgeon Moon takes place on August 27-28, 2026. Will you be able to see it? Maps and details here. The post Deep partial lunar eclipse on August 27-28, 2026 first appeared on EarthSky.",
+    "excerpt_pt": "A deep partial lunar eclipse of the full Sturgeon Moon takes place on August 27-28, 2026. Will you be able to see it? Maps and details here. The post Deep partial lunar eclipse on August 27-28, 2026 first appeared on EarthSky.",
+    "excerpt_en": "A deep partial lunar eclipse of the full Sturgeon Moon takes place on August 27-28, 2026. Will you be able to see it? Maps and details here. The post Deep partial lunar eclipse on August 27-28, 2026 first appeared on EarthSky.",
+    "body": "<p>A deep partial lunar eclipse of the full Sturgeon Moon takes place on August 27-28, 2026. Will you be able to see it? Maps and details here. The post Deep partial lunar eclipse on August 27-28, 2026 first appeared on EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. A deep partial lunar eclipse of the full Sturgeon Moon takes place on August 27-28, 2026. But it’ll be nearly total, with 96% of the moon within the Earth’s dark umbral shadow at mid-eclipse.</p><p>And the moon will be in Earth’s dark shadow, during the partial phases of the eclipse, for 199 minutes. Since 96% of the moon will be in Earth’s shadow at mid-eclipse, you’ll hopefully see some redness by then.</p><p>At maximum eclipse, about 96% of the moon’s disk will lie inside Earth’s dark umbral shadow. By the way, the moment of greatest eclipse takes place 5.8 days after the moon reaches apogee, its farthest point from Earth for the month of August, 2026.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/astronomy-essentials/partial-lunar-eclipse-of-the-august-27-28-2026/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A deep partial lunar eclipse of the full Sturgeon Moon takes place on August 27-28, 2026. Will you be able to see it? Maps and details here. The post Deep partial lunar eclipse on August 27-28, 2026 first appeared on EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. A deep partial lunar eclipse of the full Sturgeon Moon takes place on August 27-28, 2026. But it’ll be nearly total, with 96% of the moon within the Earth’s dark umbral shadow at mid-eclipse.</p><p>And the moon will be in Earth’s dark shadow, during the partial phases of the eclipse, for 199 minutes. Since 96% of the moon will be in Earth’s shadow at mid-eclipse, you’ll hopefully see some redness by then.</p><p>At maximum eclipse, about 96% of the moon’s disk will lie inside Earth’s dark umbral shadow. By the way, the moment of greatest eclipse takes place 5.8 days after the moon reaches apogee, its farthest point from Earth for the month of August, 2026.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/astronomy-essentials/partial-lunar-eclipse-of-the-august-27-28-2026/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>A deep partial lunar eclipse of the full Sturgeon Moon takes place on August 27-28, 2026. Will you be able to see it? Maps and details here. The post Deep partial lunar eclipse on August 27-28, 2026 first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. A deep partial lunar eclipse of the full Sturgeon Moon takes place on August 27-28, 2026. But it’ll be nearly total, with 96% of the moon within the Earth’s dark umbral shadow at mid-eclipse.</p><p>And the moon will be in Earth’s dark shadow, during the partial phases of the eclipse, for 199 minutes. Since 96% of the moon will be in Earth’s shadow at mid-eclipse, you’ll hopefully see some redness by then.</p><p>At maximum eclipse, about 96% of the moon’s disk will lie inside Earth’s dark umbral shadow. By the way, the moment of greatest eclipse takes place 5.8 days after the moon reaches apogee, its farthest point from Earth for the month of August, 2026.</p><p>“The moon turned red once it was 90% eclipsed.” Thank you, Robert. Eclipses separated by one saros period (18 years, 11 days and 8 hours) belong to the same saros series and share nearly identical elements (including distance from Earth, season.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>The moon will move southward with respect to this node with each succeeding eclipse in Saros 138. The instant of greatest eclipse, when the axis of Earth’s shadow cone passes closest to the moon’s center, takes place at 4: 12 UTC on August 28.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/astronomy-essentials/partial-lunar-eclipse-of-the-august-27-28-2026/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: A deep partial lunar eclipse of the full Sturgeon Moon takes place on August 27-28, 2026. Will you be able to see it? Maps and details here. The post.",
+      "Dado-chave: A deep partial lunar eclipse of the full Sturgeon Moon takes place on August 27-28, 2026.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: A deep partial lunar eclipse of the full Sturgeon Moon takes place on August 27-28, 2026. Will you be able to see it? Maps and details here. The post.",
+      "Dado-chave: A deep partial lunar eclipse of the full Sturgeon Moon takes place on August 27-28, 2026.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: A deep partial lunar eclipse of the full Sturgeon Moon takes place on August 27-28, 2026. Will you be able to see it? Maps and details here. The post.",
+      "Key detail: A deep partial lunar eclipse of the full Sturgeon Moon takes place on August 27-28, 2026.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "25 ago 2026",
+    "date_pt": "25 ago 2026",
+    "date_en": "25 Aug 2026",
+    "time": "10h00",
+    "time_pt": "10h00",
+    "time_en": "10:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-25T10:00:05+00:00",
+    "lastModifiedIso": "2026-08-25T10:00:05+00:00",
+    "source": "EarthSky",
+    "sourceDomain": "earthsky.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "EarthSky",
+      "Cosmos Week",
+      "Deep partial lunar eclipse on August 27",
+      "2026"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "EarthSky",
+      "Cosmos Week",
+      "Deep partial lunar eclipse on August 27",
+      "2026"
+    ],
+    "keywords_en": [
+      "Ciências da Terra",
+      "EarthSky",
+      "Cosmos Week",
+      "Deep partial lunar eclipse on August 27",
+      "2026"
+    ],
+    "srcUrl": "https://earthsky.org/astronomy-essentials/partial-lunar-eclipse-of-the-august-27-28-2026/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=deep-partial-lunar-eclipse-on-august-27-28-2026",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=deep-partial-lunar-eclipse-on-august-27-28-2026",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=deep-partial-lunar-eclipse-on-august-27-28-2026&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 74,
+    "scoreBreakdown": {
+      "source": 72,
+      "evidence": 88,
+      "relevance": 80,
+      "accessibility": 60,
+      "novelty": 55
     }
   },
   {

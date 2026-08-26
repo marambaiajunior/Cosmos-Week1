@@ -37,17 +37,17 @@ window.postsData = [
       "Key detail: National Institutes of Health (NIH) Director Jay Bhattacharya, M. D, Ph. D, today announced the selection of Courtney F.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "25 ago 2026",
-    "date_pt": "25 ago 2026",
-    "date_en": "25 Aug 2026",
-    "time": "23h54",
-    "time_pt": "23h54",
-    "time_en": "23:54 UTC",
+    "date": "26 ago 2026",
+    "date_pt": "26 ago 2026",
+    "date_en": "26 Aug 2026",
+    "time": "01h53",
+    "time_pt": "01h53",
+    "time_en": "01:53 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-25T23:54:47.659971+00:00",
-    "lastModifiedIso": "2026-08-25T23:54:47.659971+00:00",
+    "publishedIso": "2026-08-26T01:53:06.705853+00:00",
+    "lastModifiedIso": "2026-08-26T01:53:06.705853+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -142,17 +142,17 @@ window.postsData = [
       "Key detail: Researchers analyzed data from the long-running, National Institutes of Health (NIH)-funded Pre-symptomatic Familial ALS (Pre-fALS) study, to.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "25 ago 2026",
-    "date_pt": "25 ago 2026",
-    "date_en": "25 Aug 2026",
-    "time": "23h54",
-    "time_pt": "23h54",
-    "time_en": "23:54 UTC",
+    "date": "26 ago 2026",
+    "date_pt": "26 ago 2026",
+    "date_en": "26 Aug 2026",
+    "time": "01h53",
+    "time_pt": "01h53",
+    "time_en": "01:53 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-25T23:54:47.659918+00:00",
-    "lastModifiedIso": "2026-08-25T23:54:47.659918+00:00",
+    "publishedIso": "2026-08-26T01:53:06.705797+00:00",
+    "lastModifiedIso": "2026-08-26T01:53:06.705797+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -250,17 +250,17 @@ window.postsData = [
       "Key detail: NIH-funded, AI-powered analysis of interviews suggests that a youth’s framing of stressful events is a strong indicator of risk for future.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "25 ago 2026",
-    "date_pt": "25 ago 2026",
-    "date_en": "25 Aug 2026",
-    "time": "23h54",
-    "time_pt": "23h54",
-    "time_en": "23:54 UTC",
+    "date": "26 ago 2026",
+    "date_pt": "26 ago 2026",
+    "date_en": "26 Aug 2026",
+    "time": "01h53",
+    "time_pt": "01h53",
+    "time_en": "01:53 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-25T23:54:47.659869+00:00",
-    "lastModifiedIso": "2026-08-25T23:54:47.659869+00:00",
+    "publishedIso": "2026-08-26T01:53:06.705722+00:00",
+    "lastModifiedIso": "2026-08-26T01:53:06.705722+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -355,17 +355,17 @@ window.postsData = [
       "Key detail: NIH-funded international research collaboration catalogues 25 tumor types from thousands of patient donors.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "25 ago 2026",
-    "date_pt": "25 ago 2026",
-    "date_en": "25 Aug 2026",
-    "time": "23h54",
-    "time_pt": "23h54",
-    "time_en": "23:54 UTC",
+    "date": "26 ago 2026",
+    "date_pt": "26 ago 2026",
+    "date_en": "26 Aug 2026",
+    "time": "01h53",
+    "time_pt": "01h53",
+    "time_en": "01:53 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-25T23:54:47.659788+00:00",
-    "lastModifiedIso": "2026-08-25T23:54:47.659788+00:00",
+    "publishedIso": "2026-08-26T01:53:06.705639+00:00",
+    "lastModifiedIso": "2026-08-26T01:53:06.705639+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -460,17 +460,17 @@ window.postsData = [
       "Key detail: Cho joins NIH from the Icahn School of Medicine at Mount Sinai in New York City.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "25 ago 2026",
-    "date_pt": "25 ago 2026",
-    "date_en": "25 Aug 2026",
-    "time": "23h54",
-    "time_pt": "23h54",
-    "time_en": "23:54 UTC",
+    "date": "26 ago 2026",
+    "date_pt": "26 ago 2026",
+    "date_en": "26 Aug 2026",
+    "time": "01h53",
+    "time_pt": "01h53",
+    "time_en": "01:53 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-25T23:54:47.659733+00:00",
-    "lastModifiedIso": "2026-08-25T23:54:47.659733+00:00",
+    "publishedIso": "2026-08-26T01:53:06.705582+00:00",
+    "lastModifiedIso": "2026-08-26T01:53:06.705582+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -531,6 +531,139 @@ window.postsData = [
   },
   {
     "id": 6,
+    "slug": "new-simulations-show-how-galactic-centers-grow-together",
+    "cat": "Física",
+    "catCls": "fisica",
+    "img": "https://www.universetoday.com/article_images/Portrait_of_the_Great_Barred_Spiral_20260825_233846.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.universetoday.com/article_images/JWST-NGC-1365-1024x816.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://www.universetoday.com/article_images/1262px-Hubble2005-01-barred-spiral-galaxy-NGC1300_20251122_095302.jpg",
+        "caption": "Barred spiral galaxy known as NGC 1300 viewed nearly face-on. It",
+        "caption_pt": "Barred spiral galaxy known as NGC 1300 viewed nearly face-on. It",
+        "caption_en": "Barred spiral galaxy known as NGC 1300 viewed nearly face-on. It",
+        "alt": "Barred spiral galaxy known as NGC 1300 viewed nearly face-on. It",
+        "alt_pt": "Barred spiral galaxy known as NGC 1300 viewed nearly face-on. It",
+        "alt_en": "Barred spiral galaxy known as NGC 1300 viewed nearly face-on. It"
+      },
+      {
+        "src": "https://www.universetoday.com/assets/patreon-plus-thumb.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "New Simulations Show How Galactic Centers Grow Together",
+    "title_pt": "New Simulations Show How Galactic Centers Grow Together",
+    "title_en": "New Simulations Show How Galactic Centers Grow Together",
+    "sub": "Using a state-of-the-art galaxy simulation, a team led by scientists from the Leibniz Institute for Astrophysics Potsdam gained new insights into the processes shaping galactic.",
+    "sub_pt": "Using a state-of-the-art galaxy simulation, a team led by scientists from the Leibniz Institute for Astrophysics Potsdam gained new insights into the processes shaping galactic.",
+    "sub_en": "Using a state-of-the-art galaxy simulation, a team led by scientists from the Leibniz Institute for Astrophysics Potsdam gained new insights into the processes shaping galactic.",
+    "excerpt": "Using a state-of-the-art galaxy simulation, a team led by scientists from the Leibniz Institute for Astrophysics Potsdam gained new insights into the processes shaping galactic centres across the Universe and the formation history of the.",
+    "excerpt_pt": "Using a state-of-the-art galaxy simulation, a team led by scientists from the Leibniz Institute for Astrophysics Potsdam gained new insights into the processes shaping galactic centres across the Universe and the formation history of the.",
+    "excerpt_en": "Using a state-of-the-art galaxy simulation, a team led by scientists from the Leibniz Institute for Astrophysics Potsdam gained new insights into the processes shaping galactic centres across the Universe and the formation history of the.",
+    "body": "<p>Using a state-of-the-art galaxy simulation, a team led by scientists from the Leibniz Institute for Astrophysics Potsdam gained new insights into the processes shaping galactic centres across the Universe and the formation history of the. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Using a state-of-the-art galaxy simulation, a team led by scientists from the Leibniz Institute for Astrophysics Potsdam (AIP) gained new insights into the processes shaping. By understanding the mechanics that govern galactic centers, scientists will be able to track how the Universe itself has evolved since the first galaxies emerged.</p><p>Using a state-of-the-art galaxy simulation, a team led by researchers from Leibniz Institute for Astrophysics Potsdam (AIP) has gained new insights into these processes. Their results, described in a study published in Astronomy &amp; Astrophysics, indicate that nuclear star clusters and stellar discs found in the inner core are not independent.</p><p>The diffraction spike in the center of NGC 1365 is a telescope artifact caused by an enormous amount of light in a compact region. NASA, ESA, CSA, STScI, Janice Lee (STScI), Thomas Williams (Oxford), PHANGS Team The team hoped to learn more about the physical processes that led to the formation of two.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/new-simulations-show-how-galactic-centers-grow-together\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Using a state-of-the-art galaxy simulation, a team led by scientists from the Leibniz Institute for Astrophysics Potsdam gained new insights into the processes shaping galactic centres across the Universe and the formation history of the. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Using a state-of-the-art galaxy simulation, a team led by scientists from the Leibniz Institute for Astrophysics Potsdam (AIP) gained new insights into the processes shaping. By understanding the mechanics that govern galactic centers, scientists will be able to track how the Universe itself has evolved since the first galaxies emerged.</p><p>Using a state-of-the-art galaxy simulation, a team led by researchers from Leibniz Institute for Astrophysics Potsdam (AIP) has gained new insights into these processes. Their results, described in a study published in Astronomy &amp; Astrophysics, indicate that nuclear star clusters and stellar discs found in the inner core are not independent.</p><p>The diffraction spike in the center of NGC 1365 is a telescope artifact caused by an enormous amount of light in a compact region. NASA, ESA, CSA, STScI, Janice Lee (STScI), Thomas Williams (Oxford), PHANGS Team The team hoped to learn more about the physical processes that led to the formation of two.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/new-simulations-show-how-galactic-centers-grow-together\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Using a state-of-the-art galaxy simulation, a team led by scientists from the Leibniz Institute for Astrophysics Potsdam gained new insights into the processes shaping galactic centres across the Universe and the formation history of the. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. Using a state-of-the-art galaxy simulation, a team led by scientists from the Leibniz Institute for Astrophysics Potsdam (AIP) gained new insights into the processes shaping. By understanding the mechanics that govern galactic centers, scientists will be able to track how the Universe itself has evolved since the first galaxies emerged.</p><p>Using a state-of-the-art galaxy simulation, a team led by researchers from Leibniz Institute for Astrophysics Potsdam (AIP) has gained new insights into these processes. Their results, described in a study published in Astronomy &amp; Astrophysics, indicate that nuclear star clusters and stellar discs found in the inner core are not independent.</p><p>The diffraction spike in the center of NGC 1365 is a telescope artifact caused by an enormous amount of light in a compact region. NASA, ESA, CSA, STScI, Janice Lee (STScI), Thomas Williams (Oxford), PHANGS Team The team hoped to learn more about the physical processes that led to the formation of two.</p><p>Such features have been observed for only about a decade in the Milky Way and other galaxies, and were thought to be products of separate formation processes. Despite the shared underlying growth mechanism, the clusters and stellar disks appeared remarkably different when observed at different stages in their evolution.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>Barred spiral galaxy known as NGC 1300 viewed nearly face-on. It&#x27;s thought the Milky Way is a barred spiral like this At one point in their simulations, a star cluster of 30 million solar masses spiraled into the galactic center and merged.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/new-simulations-show-how-galactic-centers-grow-together\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Using a state-of-the-art galaxy simulation, a team led by scientists from the Leibniz Institute for Astrophysics Potsdam gained new insights into the.",
+      "Dado-chave: Using a state-of-the-art galaxy simulation, a team led by scientists from the Leibniz Institute for Astrophysics Potsdam (AIP) gained new.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Using a state-of-the-art galaxy simulation, a team led by scientists from the Leibniz Institute for Astrophysics Potsdam gained new insights into the.",
+      "Dado-chave: Using a state-of-the-art galaxy simulation, a team led by scientists from the Leibniz Institute for Astrophysics Potsdam (AIP) gained new.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Using a state-of-the-art galaxy simulation, a team led by scientists from the Leibniz Institute for Astrophysics Potsdam gained new insights into the.",
+      "Key detail: Using a state-of-the-art galaxy simulation, a team led by scientists from the Leibniz Institute for Astrophysics Potsdam (AIP) gained new.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "26 ago 2026",
+    "date_pt": "26 ago 2026",
+    "date_en": "26 Aug 2026",
+    "time": "01h28",
+    "time_pt": "01h28",
+    "time_en": "01:28 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-26T01:28:39+00:00",
+    "lastModifiedIso": "2026-08-26T01:28:39+00:00",
+    "source": "Universe Today",
+    "sourceDomain": "www.universetoday.com",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Física",
+      "Universe Today",
+      "Cosmos Week",
+      "New Simulations Show How Galactic Centers Grow Together"
+    ],
+    "keywords_pt": [
+      "Física",
+      "Universe Today",
+      "Cosmos Week",
+      "New Simulations Show How Galactic Centers Grow Together"
+    ],
+    "keywords_en": [
+      "Física",
+      "Universe Today",
+      "Cosmos Week",
+      "New Simulations Show How Galactic Centers Grow Together"
+    ],
+    "srcUrl": "https://www.universetoday.com/articles/new-simulations-show-how-galactic-centers-grow-together",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=new-simulations-show-how-galactic-centers-grow-together",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=new-simulations-show-how-galactic-centers-grow-together",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=new-simulations-show-how-galactic-centers-grow-together&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 74,
+    "scoreBreakdown": {
+      "source": 73,
+      "evidence": 82,
+      "relevance": 82,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
     "slug": "new-next-gen-dish-adds-muscle-to-nasa-s-deep-space-network",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -624,7 +757,7 @@ window.postsData = [
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -638,7 +771,7 @@ window.postsData = [
     }
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "nasa-invites-media-to-lunarecycle-challenge-finale-event-in-alabama",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -743,7 +876,7 @@ window.postsData = [
     }
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "nasa-ames-contributions-to-roman-s-mission",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -848,7 +981,7 @@ window.postsData = [
     }
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "surface-chemistry-shows-which-massive-stars-have-gained-mass-from-binary-companions",
     "cat": "Química",
     "catCls": "quimica",
@@ -981,73 +1114,82 @@ window.postsData = [
     }
   },
   {
-    "id": 10,
-    "slug": "spacex-announces-plans-for-100-billion-spaceport-in-louisiana",
+    "id": 11,
+    "slug": "science-release-hubble-details-early-galaxy-transforming-neighbourhood",
     "cat": "Astronomia",
     "catCls": "astronomia",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2024/starship.jpg",
+    "img": "https://cdn.esahubble.org/archives/images/screen/heic2609a.jpg",
     "inline_images": [
       {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2024/starship.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
+        "src": "https://cdn.esahubble.org/archives/images/newsfeature/heic2609a.jpg",
+        "caption": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)",
+        "caption_pt": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)",
+        "caption_en": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)",
+        "alt": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)",
+        "alt_pt": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)",
+        "alt_en": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)"
       },
       {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/8b33bc1b4d9f6b4c.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
+        "src": "https://cdn.esahubble.org/archives/images/news/heic2609a.jpg",
+        "caption": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)",
+        "caption_pt": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)",
+        "caption_en": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)",
+        "alt": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)",
+        "alt_pt": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)",
+        "alt_en": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)"
+      },
+      {
+        "src": "https://cdn.esahubble.org/archives/images/news/heic2609b.jpg",
+        "caption": "Galaxy field of MXDFz4.4 (Hubble and Webb clean image)",
+        "caption_pt": "Galaxy field of MXDFz4.4 (Hubble and Webb clean image)",
+        "caption_en": "Galaxy field of MXDFz4.4 (Hubble and Webb clean image)",
+        "alt": "Galaxy field of MXDFz4.4 (Hubble and Webb clean image)",
+        "alt_pt": "Galaxy field of MXDFz4.4 (Hubble and Webb clean image)",
+        "alt_en": "Galaxy field of MXDFz4.4 (Hubble and Webb clean image)"
       }
     ],
     "video": null,
     "audio": null,
-    "title": "SpaceX announces plans for $100 billion 'spaceport' in Louisiana",
-    "title_pt": "SpaceX announces plans for $100 billion 'spaceport' in Louisiana",
-    "title_en": "SpaceX announces plans for $100 billion 'spaceport' in Louisiana",
-    "sub": "Elon Musk's SpaceX announced plans Tuesday to build a $100 billion facility in the southern U. S. state of Louisiana to launch its anticipated Starship megarockets, currently.",
-    "sub_pt": "Elon Musk's SpaceX announced plans Tuesday to build a $100 billion facility in the southern U. S. state of Louisiana to launch its anticipated Starship megarockets, currently.",
-    "sub_en": "Elon Musk's SpaceX announced plans Tuesday to build a $100 billion facility in the southern U. S. state of Louisiana to launch its anticipated Starship megarockets, currently.",
-    "excerpt": "Elon Musk's SpaceX announced plans Tuesday to build a $100 billion facility in the southern U. S. state of Louisiana to launch its anticipated Starship megarockets, currently being developed at the company's Texas Starbase.",
-    "excerpt_pt": "Elon Musk's SpaceX announced plans Tuesday to build a $100 billion facility in the southern U. S. state of Louisiana to launch its anticipated Starship megarockets, currently being developed at the company's Texas Starbase.",
-    "excerpt_en": "Elon Musk's SpaceX announced plans Tuesday to build a $100 billion facility in the southern U. S. state of Louisiana to launch its anticipated Starship megarockets, currently being developed at the company's Texas Starbase.",
-    "body": "<p>Elon Musk&#x27;s SpaceX announced plans Tuesday to build a $100 billion facility in the southern U. S. state of Louisiana to launch its anticipated Starship megarockets, currently being developed at the company&#x27;s Texas Starbase. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Elon Musk&#x27;s SpaceX announced plans Tuesday to build a $100 billion facility in the southern U. S. This article has been reviewed according to Science X&#x27;s editorial process and policies.</p><p>Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source Credit: Unsplash/CC0 Public Domain Elon Musk&#x27;s SpaceX announced. State of Louisiana to launch its anticipated Starship megarockets, currently being developed at the company&#x27;s Texas Starbase.</p><p>The new facility will be built in Vermilion Parish, about 115 miles (185 km) west of New Orleans. We&#x27;re committed to investing at least $100 billion and creating more than 3,000 new jobs at Starbase, Louisiana,&quot; the company said, with construction to begin next year.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-spacex-billion-spaceport-louisiana.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Elon Musk&#x27;s SpaceX announced plans Tuesday to build a $100 billion facility in the southern U. S. state of Louisiana to launch its anticipated Starship megarockets, currently being developed at the company&#x27;s Texas Starbase. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Elon Musk&#x27;s SpaceX announced plans Tuesday to build a $100 billion facility in the southern U. S. This article has been reviewed according to Science X&#x27;s editorial process and policies.</p><p>Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source Credit: Unsplash/CC0 Public Domain Elon Musk&#x27;s SpaceX announced. State of Louisiana to launch its anticipated Starship megarockets, currently being developed at the company&#x27;s Texas Starbase.</p><p>The new facility will be built in Vermilion Parish, about 115 miles (185 km) west of New Orleans. We&#x27;re committed to investing at least $100 billion and creating more than 3,000 new jobs at Starbase, Louisiana,&quot; the company said, with construction to begin next year.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-spacex-billion-spaceport-louisiana.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Elon Musk&#x27;s SpaceX announced plans Tuesday to build a $100 billion facility in the southern U. S. state of Louisiana to launch its anticipated Starship megarockets, currently being developed at the company&#x27;s Texas Starbase. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Elon Musk&#x27;s SpaceX announced plans Tuesday to build a $100 billion facility in the southern U. S. This article has been reviewed according to Science X&#x27;s editorial process and policies.</p><p>Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source Credit: Unsplash/CC0 Public Domain Elon Musk&#x27;s SpaceX announced. State of Louisiana to launch its anticipated Starship megarockets, currently being developed at the company&#x27;s Texas Starbase.</p><p>The new facility will be built in Vermilion Parish, about 115 miles (185 km) west of New Orleans. We&#x27;re committed to investing at least $100 billion and creating more than 3,000 new jobs at Starbase, Louisiana,&quot; the company said, with construction to begin next year.</p><p>SpaceX says the buildout will go beyond launch pads and include all the infrastructure necessary to support &quot;thousands of Starship flights per year,&quot; with the first expected in. Starship is the company&#x27;s megarocket, still under development, which it plans to use for missions to the moon and Mars.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Starbase Louisiana will ultimately have over a dozen launch towers, enabling more than 30 Starship flights per day and making it the biggest launch site on Earth!&quot; Musk wrote on. The Louisiana Economic Development agency said the average salary of workers at the facility would be 192% more than the region&#x27;s current mean wage.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-spacex-billion-spaceport-louisiana.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "title": "Science Release: Hubble details early galaxy transforming neighbourhood",
+    "title_pt": "Science Release: Hubble details early galaxy transforming neighbourhood",
+    "title_en": "Science Release: Hubble details early galaxy transforming neighbourhood",
+    "sub": "Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4 billion years after the Big.",
+    "sub_pt": "Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4 billion years after the Big.",
+    "sub_en": "Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4 billion years after the Big.",
+    "excerpt": "Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4 billion years after the Big Bang. That galaxy contains tightly clustered young stars that.",
+    "excerpt_pt": "Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4 billion years after the Big Bang. That galaxy contains tightly clustered young stars that.",
+    "excerpt_en": "Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4 billion years after the Big Bang. That galaxy contains tightly clustered young stars that.",
+    "body": "<p>Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4 billion years after the Big Bang. That galaxy contains tightly clustered young stars that. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A paper describing this discovery was published 23 June 2026 in the Astrophysical Journal. As this light traveled for over 12 billion years to reach Hubble, space expanded, and the light stretched or redshifted into visible light.</p><p>Hubble’s wavelength coverage, combined with the sensitivity and resolution of its space-based vantage point, makes it the only telescope capable of capturing this ultraviolet. “Astronomers have found many galaxies that existed at this point in the history of the Universe, but we haven’t detected ionising photons from any of them, making MXDFz4.4 one of.</p><p>Hubble’s long exposures, pulled from several existing surveys, revealed that the galaxy’s young, massive stars are the source of the ultraviolet light, which cleared the.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2609/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4 billion years after the Big Bang. That galaxy contains tightly clustered young stars that. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A paper describing this discovery was published 23 June 2026 in the Astrophysical Journal. As this light traveled for over 12 billion years to reach Hubble, space expanded, and the light stretched or redshifted into visible light.</p><p>Hubble’s wavelength coverage, combined with the sensitivity and resolution of its space-based vantage point, makes it the only telescope capable of capturing this ultraviolet. “Astronomers have found many galaxies that existed at this point in the history of the Universe, but we haven’t detected ionising photons from any of them, making MXDFz4.4 one of.</p><p>Hubble’s long exposures, pulled from several existing surveys, revealed that the galaxy’s young, massive stars are the source of the ultraviolet light, which cleared the.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2609/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4 billion years after the Big Bang. That galaxy contains tightly clustered young stars that. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. A paper describing this discovery was published 23 June 2026 in the Astrophysical Journal. As this light traveled for over 12 billion years to reach Hubble, space expanded, and the light stretched or redshifted into visible light.</p><p>Hubble’s wavelength coverage, combined with the sensitivity and resolution of its space-based vantage point, makes it the only telescope capable of capturing this ultraviolet. “Astronomers have found many galaxies that existed at this point in the history of the Universe, but we haven’t detected ionising photons from any of them, making MXDFz4.4 one of.</p><p>Hubble’s long exposures, pulled from several existing surveys, revealed that the galaxy’s young, massive stars are the source of the ultraviolet light, which cleared the. These conclusions are supported by survey data taken by the NASA/ESA/CSA James Webb Space Telescope in near-infrared light and the MUSE eXtremely Deep Field or MXDF, the galaxy’s.</p><p>Before this discovery, researchers had only identified a galaxy emitting ionised light from a time when the Universe was 1.6 billion years old. These insights into MXDFz4.4 were possible thanks to the powerful combination of Hubble, Webb and the VLT,&quot; said co-author Alexander Beckett, a postdoctoral fellow at the.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>In 2023, researchers using Webb showed that galaxies’ stars emitted enough light to heat and ionise the gas around them 900 million years after the Big Bang. This was a breakthrough, but astronomers need galaxies like MXDFz4.4 to fully explain how the process happened, since it shows how the high-energy light from young stars managed.</p><p>Because the account originates with ESA Hubble News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2609/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Ponto central: Elon Musk's SpaceX announced plans Tuesday to build a $100 billion facility in the southern U. S. state of Louisiana to launch its anticipated.",
-      "Dado-chave: Elon Musk's SpaceX announced plans Tuesday to build a $100 billion facility in the southern U. S.",
+      "Ponto central: Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4.",
+      "Dado-chave: Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Ponto central: Elon Musk's SpaceX announced plans Tuesday to build a $100 billion facility in the southern U. S. state of Louisiana to launch its anticipated.",
-      "Dado-chave: Elon Musk's SpaceX announced plans Tuesday to build a $100 billion facility in the southern U. S.",
+      "Ponto central: Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4.",
+      "Dado-chave: Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Core point: Elon Musk's SpaceX announced plans Tuesday to build a $100 billion facility in the southern U. S. state of Louisiana to launch its anticipated.",
-      "Key detail: Elon Musk's SpaceX announced plans Tuesday to build a $100 billion facility in the southern U. S.",
+      "Core point: Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4.",
+      "Key detail: Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "25 ago 2026",
-    "date_pt": "25 ago 2026",
-    "date_en": "25 Aug 2026",
-    "time": "19h15",
-    "time_pt": "19h15",
-    "time_en": "19:15 UTC",
+    "date": "23 jun 2026",
+    "date_pt": "23 jun 2026",
+    "date_en": "23 Jun 2026",
+    "time": "14h00",
+    "time_pt": "14h00",
+    "time_en": "14:00 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-25T19:15:04+00:00",
-    "lastModifiedIso": "2026-08-25T19:15:04+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
+    "publishedIso": "2026-06-23T14:00:00+00:00",
+    "lastModifiedIso": "2026-06-23T14:00:00+00:00",
+    "source": "ESA Hubble News",
+    "sourceDomain": "esahubble.org",
     "sourceType": "agency",
     "sourceTypeLabel": "Fonte institucional",
     "sourceTypeLabel_pt": "Fonte institucional",
@@ -1065,26 +1207,29 @@ window.postsData = [
     "editorialBandLabel_en": "Editorial priority",
     "keywords": [
       "Astronomia",
-      "Phys.org Space",
+      "ESA Hubble News",
       "Cosmos Week",
-      "SpaceX announces plans for $100 billion 'spaceport' in Louisiana"
+      "Science Release",
+      "Hubble details early galaxy transforming neighbourhood"
     ],
     "keywords_pt": [
       "Astronomia",
-      "Phys.org Space",
+      "ESA Hubble News",
       "Cosmos Week",
-      "SpaceX announces plans for $100 billion 'spaceport' in Louisiana"
+      "Science Release",
+      "Hubble details early galaxy transforming neighbourhood"
     ],
     "keywords_en": [
       "Astronomia",
-      "Phys.org Space",
+      "ESA Hubble News",
       "Cosmos Week",
-      "SpaceX announces plans for $100 billion 'spaceport' in Louisiana"
+      "Science Release",
+      "Hubble details early galaxy transforming neighbourhood"
     ],
-    "srcUrl": "https://phys.org/news/2026-08-spacex-billion-spaceport-louisiana.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=spacex-announces-plans-for-100-billion-spaceport-in-louisiana",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=spacex-announces-plans-for-100-billion-spaceport-in-louisiana",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=spacex-announces-plans-for-100-billion-spaceport-in-louisiana&lang=en",
+    "srcUrl": "https://esahubble.org/news/heic2609/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-details-early-galaxy-transforming-neighbourhood",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-details-early-galaxy-transforming-neighbourhood",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-details-early-galaxy-transforming-neighbourhood&lang=en",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",
@@ -1095,17 +1240,17 @@ window.postsData = [
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 70,
+    "score": 79,
     "scoreBreakdown": {
-      "source": 76,
-      "evidence": 82,
-      "relevance": 74,
-      "accessibility": 42,
-      "novelty": 55
+      "source": 89,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 46
     }
   },
   {
-    "id": 11,
+    "id": 12,
     "slug": "integrating-model-based-systems-engineering-and-fault-management-to-enable-autonomous-space-miss",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1241,7 +1386,7 @@ window.postsData = [
     }
   },
   {
-    "id": 12,
+    "id": 13,
     "slug": "nasa-sets-coverage-for-roman-space-telescope-launch-from-florida",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1346,7 +1491,7 @@ window.postsData = [
     }
   },
   {
-    "id": 13,
+    "id": 14,
     "slug": "dust-and-water-spotted-close-to-giant-black-hole",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1451,7 +1596,7 @@ window.postsData = [
     }
   },
   {
-    "id": 14,
+    "id": 15,
     "slug": "science-release-hubble-discovers-first-of-star-cluster-s-missing-black-holes",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1587,7 +1732,7 @@ window.postsData = [
     }
   },
   {
-    "id": 15,
+    "id": 16,
     "slug": "lunar-soil-reads-as-a-cosmic-time-capsule-for-exploding-stars",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1711,7 +1856,7 @@ window.postsData = [
     }
   },
   {
-    "id": 16,
+    "id": 17,
     "slug": "cutting-edge-infrared-space-telescope-roman-set-to-launch",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -1847,7 +1992,7 @@ window.postsData = [
     }
   },
   {
-    "id": 17,
+    "id": 18,
     "slug": "what-can-we-actually-find-on-an-exoplanet-part-4-looking-for-us",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -1965,7 +2110,7 @@ window.postsData = [
     }
   },
   {
-    "id": 18,
+    "id": 19,
     "slug": "dry-martian-meteorite-reveals-early-water-in-mars-s-crust",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2093,7 +2238,7 @@ window.postsData = [
     }
   },
   {
-    "id": 19,
+    "id": 20,
     "slug": "lst-1-and-magic-telescopes-shatter-distance-record-for-the-very-high-energy-blazar-op-313",
     "cat": "Física",
     "catCls": "fisica",
@@ -2229,7 +2374,7 @@ window.postsData = [
     }
   },
   {
-    "id": 20,
+    "id": 21,
     "slug": "mission-fails-to-rescue-swift-observatory-updated",
     "cat": "Física",
     "catCls": "fisica",
@@ -2359,142 +2504,6 @@ window.postsData = [
       "relevance": 82,
       "accessibility": 60,
       "novelty": 52
-    }
-  },
-  {
-    "id": 21,
-    "slug": "stellar-eruptions-in-the-laboratory-first-experimental-evidence-for-their-suppression-in-strong-",
-    "cat": "Física",
-    "catCls": "fisica",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/stellar-eruptions-in-t.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stellar-eruptions-in-t.jpg",
-        "caption": "Stellar eruptions in the laboratory: First experimental evidence for their suppression in strong magnetic fields",
-        "caption_pt": "Stellar eruptions in the laboratory: First experimental evidence for their suppression in strong magnetic fields",
-        "caption_en": "Stellar eruptions in the laboratory: First experimental evidence for their suppression in strong magnetic fields",
-        "alt": "Stellar eruptions in the laboratory: First experimental evidence for their suppression in strong magnetic fields",
-        "alt_pt": "Stellar eruptions in the laboratory: First experimental evidence for their suppression in strong magnetic fields",
-        "alt_en": "Stellar eruptions in the laboratory: First experimental evidence for their suppression in strong magnetic fields"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/stellar-eruptions-in-t-1.jpg",
-        "caption": "Stellar eruptions in the laboratory: First experimental evidence for their suppression in strong magnetic fields",
-        "caption_pt": "Stellar eruptions in the laboratory: First experimental evidence for their suppression in strong magnetic fields",
-        "caption_en": "Stellar eruptions in the laboratory: First experimental evidence for their suppression in strong magnetic fields",
-        "alt": "Stellar eruptions in the laboratory: First experimental evidence for their suppression in strong magnetic fields",
-        "alt_pt": "Stellar eruptions in the laboratory: First experimental evidence for their suppression in strong magnetic fields",
-        "alt_en": "Stellar eruptions in the laboratory: First experimental evidence for their suppression in strong magnetic fields"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/4b5d8e1e5856f832.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Stellar eruptions in the laboratory: First experimental evidence for their suppression in strong magnetic fields",
-    "title_pt": "Stellar eruptions in the laboratory: First experimental evidence for their suppression in strong magnetic fields",
-    "title_en": "Stellar eruptions in the laboratory: First experimental evidence for their suppression in strong magnetic fields",
-    "sub": "An international team of astrophysicists and plasma physicists has provided the first experimental evidence that strong magnetic fields surrounding active stars can completely.",
-    "sub_pt": "An international team of astrophysicists and plasma physicists has provided the first experimental evidence that strong magnetic fields surrounding active stars can completely.",
-    "sub_en": "An international team of astrophysicists and plasma physicists has provided the first experimental evidence that strong magnetic fields surrounding active stars can completely.",
-    "excerpt": "An international team of astrophysicists and plasma physicists has provided the first experimental evidence that strong magnetic fields surrounding active stars can completely suppress coronal mass ejections. This offers clues to why.",
-    "excerpt_pt": "An international team of astrophysicists and plasma physicists has provided the first experimental evidence that strong magnetic fields surrounding active stars can completely suppress coronal mass ejections. This offers clues to why.",
-    "excerpt_en": "An international team of astrophysicists and plasma physicists has provided the first experimental evidence that strong magnetic fields surrounding active stars can completely suppress coronal mass ejections. This offers clues to why.",
-    "body": "<p>An international team of astrophysicists and plasma physicists has provided the first experimental evidence that strong magnetic fields surrounding active stars can completely suppress coronal mass ejections. This offers clues to why. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. By Janine Fohlmeister, Leibniz Institute for Astrophysics Potsdam This article has been reviewed according to Science X&#x27;s editorial process and policies. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source A coronal mass ejection of the sun, observed by the Solar and.</p><p>Such events occur regularly at the sun, but are very rarely observed for other stars. SOHO/ESA/NASA An international team of astrophysicists and plasma physicists has provided the first experimental evidence that strong magnetic fields surrounding active stars can.</p><p>This offers clues to why massive stellar eruptions are rarely observed on stars other than the sun.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-stellar-eruptions-laboratory-experimental-evidence.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>An international team of astrophysicists and plasma physicists has provided the first experimental evidence that strong magnetic fields surrounding active stars can completely suppress coronal mass ejections. This offers clues to why. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. By Janine Fohlmeister, Leibniz Institute for Astrophysics Potsdam This article has been reviewed according to Science X&#x27;s editorial process and policies. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source A coronal mass ejection of the sun, observed by the Solar and.</p><p>Such events occur regularly at the sun, but are very rarely observed for other stars. SOHO/ESA/NASA An international team of astrophysicists and plasma physicists has provided the first experimental evidence that strong magnetic fields surrounding active stars can.</p><p>This offers clues to why massive stellar eruptions are rarely observed on stars other than the sun.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-stellar-eruptions-laboratory-experimental-evidence.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>An international team of astrophysicists and plasma physicists has provided the first experimental evidence that strong magnetic fields surrounding active stars can completely suppress coronal mass ejections. This offers clues to why. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. By Janine Fohlmeister, Leibniz Institute for Astrophysics Potsdam This article has been reviewed according to Science X&#x27;s editorial process and policies. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source A coronal mass ejection of the sun, observed by the Solar and.</p><p>Such events occur regularly at the sun, but are very rarely observed for other stars. SOHO/ESA/NASA An international team of astrophysicists and plasma physicists has provided the first experimental evidence that strong magnetic fields surrounding active stars can.</p><p>This offers clues to why massive stellar eruptions are rarely observed on stars other than the sun. Coronal mass ejections (CMEs) are giant expulsions of magnetized plasma from a star&#x27;s atmosphere into space.</p><p>While they are routinely observed on the sun, convincing detections around other stars have remained surprisingly scarce. The study, published in Physical Review Letters, combines astrophysical simulations, high-energy laser-plasma experiments and advanced three-dimensional numerical plasma modeling.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>The results show that strong magnetic fields of active stars can completely suppress CMEs before they escape into space. This actually came as a surprise when we were increasing the magnetic field strength and observed the change in behavior of the propagating plasma, but this is the essence of.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-stellar-eruptions-laboratory-experimental-evidence.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: An international team of astrophysicists and plasma physicists has provided the first experimental evidence that strong magnetic fields surrounding.",
-      "Dado-chave: An international team of astrophysicists and plasma physicists has provided the first experimental evidence that strong magnetic fields.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: An international team of astrophysicists and plasma physicists has provided the first experimental evidence that strong magnetic fields surrounding.",
-      "Dado-chave: An international team of astrophysicists and plasma physicists has provided the first experimental evidence that strong magnetic fields.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: An international team of astrophysicists and plasma physicists has provided the first experimental evidence that strong magnetic fields surrounding.",
-      "Key detail: An international team of astrophysicists and plasma physicists has provided the first experimental evidence that strong magnetic fields.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "21 ago 2026",
-    "date_pt": "21 ago 2026",
-    "date_en": "21 Aug 2026",
-    "time": "16h20",
-    "time_pt": "16h20",
-    "time_en": "16:20 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-21T16:20:10+00:00",
-    "lastModifiedIso": "2026-08-21T16:20:10+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Física",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Stellar eruptions in the laboratory",
-      "First experimental evidence for their suppression in strong magnetic fields"
-    ],
-    "keywords_pt": [
-      "Física",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Stellar eruptions in the laboratory",
-      "First experimental evidence for their suppression in strong magnetic fields"
-    ],
-    "keywords_en": [
-      "Física",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Stellar eruptions in the laboratory",
-      "First experimental evidence for their suppression in strong magnetic fields"
-    ],
-    "srcUrl": "https://phys.org/news/2026-08-stellar-eruptions-laboratory-experimental-evidence.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=stellar-eruptions-in-the-laboratory-first-experimental-evidence-for-their-suppression-in-strong-",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=stellar-eruptions-in-the-laboratory-first-experimental-evidence-for-their-suppression-in-strong-",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=stellar-eruptions-in-the-laboratory-first-experimental-evidence-for-their-suppression-in-strong-&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 73,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 82,
-      "relevance": 82,
-      "accessibility": 60,
-      "novelty": 46
     }
   },
   {
@@ -2827,142 +2836,6 @@ window.postsData = [
   },
   {
     "id": 25,
-    "slug": "science-release-hubble-details-early-galaxy-transforming-neighbourhood",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://cdn.esahubble.org/archives/images/screen/heic2609a.jpg",
-    "inline_images": [
-      {
-        "src": "https://cdn.esahubble.org/archives/images/newsfeature/heic2609a.jpg",
-        "caption": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)",
-        "caption_pt": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)",
-        "caption_en": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)",
-        "alt": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)",
-        "alt_pt": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)",
-        "alt_en": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)"
-      },
-      {
-        "src": "https://cdn.esahubble.org/archives/images/news/heic2609a.jpg",
-        "caption": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)",
-        "caption_pt": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)",
-        "caption_en": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)",
-        "alt": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)",
-        "alt_pt": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)",
-        "alt_en": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)"
-      },
-      {
-        "src": "https://cdn.esahubble.org/archives/images/news/heic2609b.jpg",
-        "caption": "Galaxy field of MXDFz4.4 (Hubble and Webb clean image)",
-        "caption_pt": "Galaxy field of MXDFz4.4 (Hubble and Webb clean image)",
-        "caption_en": "Galaxy field of MXDFz4.4 (Hubble and Webb clean image)",
-        "alt": "Galaxy field of MXDFz4.4 (Hubble and Webb clean image)",
-        "alt_pt": "Galaxy field of MXDFz4.4 (Hubble and Webb clean image)",
-        "alt_en": "Galaxy field of MXDFz4.4 (Hubble and Webb clean image)"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Science Release: Hubble details early galaxy transforming neighbourhood",
-    "title_pt": "Science Release: Hubble details early galaxy transforming neighbourhood",
-    "title_en": "Science Release: Hubble details early galaxy transforming neighbourhood",
-    "sub": "Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4 billion years after the Big.",
-    "sub_pt": "Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4 billion years after the Big.",
-    "sub_en": "Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4 billion years after the Big.",
-    "excerpt": "Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4 billion years after the Big Bang. That galaxy contains tightly clustered young stars that.",
-    "excerpt_pt": "Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4 billion years after the Big Bang. That galaxy contains tightly clustered young stars that.",
-    "excerpt_en": "Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4 billion years after the Big Bang. That galaxy contains tightly clustered young stars that.",
-    "body": "<p>Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4 billion years after the Big Bang. That galaxy contains tightly clustered young stars that. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A paper describing this discovery was published 23 June 2026 in the Astrophysical Journal. As this light traveled for over 12 billion years to reach Hubble, space expanded, and the light stretched or redshifted into visible light.</p><p>Hubble’s wavelength coverage, combined with the sensitivity and resolution of its space-based vantage point, makes it the only telescope capable of capturing this ultraviolet. “Astronomers have found many galaxies that existed at this point in the history of the Universe, but we haven’t detected ionising photons from any of them, making MXDFz4.4 one of.</p><p>Hubble’s long exposures, pulled from several existing surveys, revealed that the galaxy’s young, massive stars are the source of the ultraviolet light, which cleared the.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2609/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4 billion years after the Big Bang. That galaxy contains tightly clustered young stars that. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A paper describing this discovery was published 23 June 2026 in the Astrophysical Journal. As this light traveled for over 12 billion years to reach Hubble, space expanded, and the light stretched or redshifted into visible light.</p><p>Hubble’s wavelength coverage, combined with the sensitivity and resolution of its space-based vantage point, makes it the only telescope capable of capturing this ultraviolet. “Astronomers have found many galaxies that existed at this point in the history of the Universe, but we haven’t detected ionising photons from any of them, making MXDFz4.4 one of.</p><p>Hubble’s long exposures, pulled from several existing surveys, revealed that the galaxy’s young, massive stars are the source of the ultraviolet light, which cleared the.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2609/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4 billion years after the Big Bang. That galaxy contains tightly clustered young stars that. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. A paper describing this discovery was published 23 June 2026 in the Astrophysical Journal. As this light traveled for over 12 billion years to reach Hubble, space expanded, and the light stretched or redshifted into visible light.</p><p>Hubble’s wavelength coverage, combined with the sensitivity and resolution of its space-based vantage point, makes it the only telescope capable of capturing this ultraviolet. “Astronomers have found many galaxies that existed at this point in the history of the Universe, but we haven’t detected ionising photons from any of them, making MXDFz4.4 one of.</p><p>Hubble’s long exposures, pulled from several existing surveys, revealed that the galaxy’s young, massive stars are the source of the ultraviolet light, which cleared the. These conclusions are supported by survey data taken by the NASA/ESA/CSA James Webb Space Telescope in near-infrared light and the MUSE eXtremely Deep Field or MXDF, the galaxy’s.</p><p>Before this discovery, researchers had only identified a galaxy emitting ionised light from a time when the Universe was 1.6 billion years old. These insights into MXDFz4.4 were possible thanks to the powerful combination of Hubble, Webb and the VLT,&quot; said co-author Alexander Beckett, a postdoctoral fellow at the.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>In 2023, researchers using Webb showed that galaxies’ stars emitted enough light to heat and ionise the gas around them 900 million years after the Big Bang. This was a breakthrough, but astronomers need galaxies like MXDFz4.4 to fully explain how the process happened, since it shows how the high-energy light from young stars managed.</p><p>Because the account originates with ESA Hubble News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2609/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4.",
-      "Dado-chave: Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4.",
-      "Dado-chave: Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4.",
-      "Key detail: Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "23 jun 2026",
-    "date_pt": "23 jun 2026",
-    "date_en": "23 Jun 2026",
-    "time": "14h00",
-    "time_pt": "14h00",
-    "time_en": "14:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-23T14:00:00+00:00",
-    "lastModifiedIso": "2026-06-23T14:00:00+00:00",
-    "source": "ESA Hubble News",
-    "sourceDomain": "esahubble.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astronomia",
-      "ESA Hubble News",
-      "Cosmos Week",
-      "Science Release",
-      "Hubble details early galaxy transforming neighbourhood"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "ESA Hubble News",
-      "Cosmos Week",
-      "Science Release",
-      "Hubble details early galaxy transforming neighbourhood"
-    ],
-    "keywords_en": [
-      "Astronomia",
-      "ESA Hubble News",
-      "Cosmos Week",
-      "Science Release",
-      "Hubble details early galaxy transforming neighbourhood"
-    ],
-    "srcUrl": "https://esahubble.org/news/heic2609/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-details-early-galaxy-transforming-neighbourhood",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-details-early-galaxy-transforming-neighbourhood",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-details-early-galaxy-transforming-neighbourhood&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 79,
-    "scoreBreakdown": {
-      "source": 89,
-      "evidence": 88,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 46
-    }
-  },
-  {
-    "id": 26,
     "slug": "science-release-hubble-unexpectedly-catches-comet-breaking-up",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3098,7 +2971,7 @@ window.postsData = [
     }
   },
   {
-    "id": 27,
+    "id": 26,
     "slug": "science-release-hubble-identifies-one-of-darkest-known-galaxies",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -3234,7 +3107,7 @@ window.postsData = [
     }
   },
   {
-    "id": 28,
+    "id": 27,
     "slug": "science-release-hubble-uncovers-the-secret-of-stars-that-defy-ageing",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3361,7 +3234,7 @@ window.postsData = [
     }
   },
   {
-    "id": 29,
+    "id": 28,
     "slug": "science-with-astrophotography",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3494,7 +3367,7 @@ window.postsData = [
     }
   },
   {
-    "id": 30,
+    "id": 29,
     "slug": "the-little-red-dots-of-our-cosmos-might-hide-something-big",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3627,6 +3500,139 @@ window.postsData = [
     }
   },
   {
+    "id": 30,
+    "slug": "setting-limits-on-phase-transitions-in-the-dark-energy-era",
+    "cat": "Cosmologia",
+    "catCls": "cosmologia",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-sets-limits-on-p.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/study-sets-limits-on-p.jpg",
+        "caption": "Using the cosmic microwave background (CMB) as a backlight to see the dark universe boil. False vacuum decay in a dark sector occurs in different places at different times. CMB photons from different directions enter the true vacuum region.",
+        "caption_pt": "Using the cosmic microwave background (CMB) as a backlight to see the dark universe boil. False vacuum decay in a dark sector occurs in different places at different times. CMB photons from different directions enter the true vacuum region.",
+        "caption_en": "Using the cosmic microwave background (CMB) as a backlight to see the dark universe boil. False vacuum decay in a dark sector occurs in different places at different times. CMB photons from different directions enter the true vacuum region.",
+        "alt": "Study sets limits on phase transitions in the dark energy era",
+        "alt_pt": "Study sets limits on phase transitions in the dark energy era",
+        "alt_en": "Study sets limits on phase transitions in the dark energy era"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/8cff228ee810dd01.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/4b5d8e1e5856f832.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Setting limits on phase transitions in the dark energy era",
+    "title_pt": "Setting limits on phase transitions in the dark energy era",
+    "title_en": "Setting limits on phase transitions in the dark energy era",
+    "sub": "The universe is known to be expanding at an accelerating rate. Physicists typically attribute this acceleration to dark energy, a mysterious component of the universe that exerts.",
+    "sub_pt": "The universe is known to be expanding at an accelerating rate. Physicists typically attribute this acceleration to dark energy, a mysterious component of the universe that exerts.",
+    "sub_en": "The universe is known to be expanding at an accelerating rate. Physicists typically attribute this acceleration to dark energy, a mysterious component of the universe that exerts.",
+    "excerpt": "The universe is known to be expanding at an accelerating rate. Physicists typically attribute this acceleration to dark energy, a mysterious component of the universe that exerts negative pressure, causing space to expand faster. Dark.",
+    "excerpt_pt": "The universe is known to be expanding at an accelerating rate. Physicists typically attribute this acceleration to dark energy, a mysterious component of the universe that exerts negative pressure, causing space to expand faster. Dark.",
+    "excerpt_en": "The universe is known to be expanding at an accelerating rate. Physicists typically attribute this acceleration to dark energy, a mysterious component of the universe that exerts negative pressure, causing space to expand faster. Dark.",
+    "body": "<p>The universe is known to be expanding at an accelerating rate. Physicists typically attribute this acceleration to dark energy, a mysterious component of the universe that exerts negative pressure, causing space to expand faster. Dark. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. This article has been reviewed according to Science X&#x27;s editorial process and policies. Dark energy is thought to have become the predominant influence on the universe&#x27;s evolution around 3, 4 billion years ago, at the beginning of what is known as the dark energy era.</p><p>Using this theoretical approach, outlined in a paper published in Physical Review Letters, Seth Koren, Yuhsin Tsai and Runqing Wang examined a hypothetical first-order phase. As we continue to find null results on interactions of dark sector particles with Standard Model particles, including, importantly, dark matter, we must take more seriously the.</p><p>While science fiction often portrays vacuum decay as an instantaneous, apocalyptic catastrophe, our work highlights that a phase transition in a secluded dark sector would be a. Yet if it occurred unevenly, with bubbles of the new state forming and spreading across space, astronomers could place tighter limits on the energy it released.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-limits-phase-transitions-dark-energy.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>The universe is known to be expanding at an accelerating rate. Physicists typically attribute this acceleration to dark energy, a mysterious component of the universe that exerts negative pressure, causing space to expand faster. Dark. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. This article has been reviewed according to Science X&#x27;s editorial process and policies. Dark energy is thought to have become the predominant influence on the universe&#x27;s evolution around 3, 4 billion years ago, at the beginning of what is known as the dark energy era.</p><p>Using this theoretical approach, outlined in a paper published in Physical Review Letters, Seth Koren, Yuhsin Tsai and Runqing Wang examined a hypothetical first-order phase. As we continue to find null results on interactions of dark sector particles with Standard Model particles, including, importantly, dark matter, we must take more seriously the.</p><p>While science fiction often portrays vacuum decay as an instantaneous, apocalyptic catastrophe, our work highlights that a phase transition in a secluded dark sector would be a. Yet if it occurred unevenly, with bubbles of the new state forming and spreading across space, astronomers could place tighter limits on the energy it released.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-limits-phase-transitions-dark-energy.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The universe is known to be expanding at an accelerating rate. Physicists typically attribute this acceleration to dark energy, a mysterious component of the universe that exerts negative pressure, causing space to expand faster. Dark. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. This article has been reviewed according to Science X&#x27;s editorial process and policies. Dark energy is thought to have become the predominant influence on the universe&#x27;s evolution around 3, 4 billion years ago, at the beginning of what is known as the dark energy era.</p><p>Using this theoretical approach, outlined in a paper published in Physical Review Letters, Seth Koren, Yuhsin Tsai and Runqing Wang examined a hypothetical first-order phase. As we continue to find null results on interactions of dark sector particles with Standard Model particles, including, importantly, dark matter, we must take more seriously the.</p><p>While science fiction often portrays vacuum decay as an instantaneous, apocalyptic catastrophe, our work highlights that a phase transition in a secluded dark sector would be a. Yet if it occurred unevenly, with bubbles of the new state forming and spreading across space, astronomers could place tighter limits on the energy it released.</p><p>Thankfully we are no more than halfway through the lifetime of the universe!&quot; Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org. Yet it would only probe transitions involving around 10% or more of the total dark energy.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>A phase transition will convert some of the dark energy into other degrees of freedom, such as dark matter or massless dark particles (&#x27;dark radiation&#x27;), and this will change the. However, we can only probe this homogeneous Hubble rate at the O(10%) level.&quot; The advanced telescopes available today allow astrophysicists to study not just how the universe as a.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-limits-phase-transitions-dark-energy.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: The universe is known to be expanding at an accelerating rate. Physicists typically attribute this acceleration to dark energy, a mysterious.",
+      "Dado-chave: This article has been reviewed according to Science X's editorial process and policies.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: The universe is known to be expanding at an accelerating rate. Physicists typically attribute this acceleration to dark energy, a mysterious.",
+      "Dado-chave: This article has been reviewed according to Science X's editorial process and policies.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: The universe is known to be expanding at an accelerating rate. Physicists typically attribute this acceleration to dark energy, a mysterious.",
+      "Key detail: This article has been reviewed according to Science X's editorial process and policies.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "25 ago 2026",
+    "date_pt": "25 ago 2026",
+    "date_en": "25 Aug 2026",
+    "time": "11h00",
+    "time_pt": "11h00",
+    "time_en": "11:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-25T11:00:04+00:00",
+    "lastModifiedIso": "2026-08-25T11:00:04+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Cosmologia",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Setting limits on phase transitions in the dark energy era"
+    ],
+    "keywords_pt": [
+      "Cosmologia",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Setting limits on phase transitions in the dark energy era"
+    ],
+    "keywords_en": [
+      "Cosmologia",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Setting limits on phase transitions in the dark energy era"
+    ],
+    "srcUrl": "https://phys.org/news/2026-08-limits-phase-transitions-dark-energy.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=setting-limits-on-phase-transitions-in-the-dark-energy-era",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=setting-limits-on-phase-transitions-in-the-dark-energy-era",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=setting-limits-on-phase-transitions-in-the-dark-energy-era&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 77,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
     "id": 31,
     "slug": "hubble-gaia-solve-our-galaxy-s-merger-mystery",
     "cat": "Biologia",
@@ -3733,6 +3739,142 @@ window.postsData = [
   },
   {
     "id": 32,
+    "slug": "gamma-ray-signal-could-be-long-awaited-evidence-for-wimps",
+    "cat": "Cosmologia",
+    "catCls": "cosmologia",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/gamma-ray-signal-could-1.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/gamma-ray-signal-could-1.jpg",
+        "caption": "Gamma-ray signal could be long awaited evidence for WIMPs",
+        "caption_pt": "Gamma-ray signal could be long awaited evidence for WIMPs",
+        "caption_en": "Gamma-ray signal could be long awaited evidence for WIMPs",
+        "alt": "Gamma-ray signal could be long awaited evidence for WIMPs",
+        "alt_pt": "Gamma-ray signal could be long awaited evidence for WIMPs",
+        "alt_en": "Gamma-ray signal could be long awaited evidence for WIMPs"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/gamma-ray-signal-could.jpg",
+        "caption": "The left panel is for the TS value of the line signal in the direction of each galaxy cluster (the orange line) and the evolution of the net TS value of a group of sources with the accumulation of sources (the blue line). The right panel.",
+        "caption_pt": "The left panel is for the TS value of the line signal in the direction of each galaxy cluster (the orange line) and the evolution of the net TS value of a group of sources with the accumulation of sources (the blue line). The right panel.",
+        "caption_en": "The left panel is for the TS value of the line signal in the direction of each galaxy cluster (the orange line) and the evolution of the net TS value of a group of sources with the accumulation of sources (the blue line). The right panel.",
+        "alt": "Gamma-ray signal could be long awaited evidence for WIMPs",
+        "alt_pt": "Gamma-ray signal could be long awaited evidence for WIMPs",
+        "alt_en": "Gamma-ray signal could be long awaited evidence for WIMPs"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/061a4647609b9c09.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Gamma-ray signal could be long awaited evidence for WIMPs",
+    "title_pt": "Gamma-ray signal could be long awaited evidence for WIMPs",
+    "title_en": "Gamma-ray signal could be long awaited evidence for WIMPs",
+    "sub": "Dark matter is known to make up roughly 85% of all mass in the universe, as evidenced by the way galaxies spin and how galaxy clusters are held together under gravity. Yet despite.",
+    "sub_pt": "Dark matter is known to make up roughly 85% of all mass in the universe, as evidenced by the way galaxies spin and how galaxy clusters are held together under gravity. Yet despite.",
+    "sub_en": "Dark matter is known to make up roughly 85% of all mass in the universe, as evidenced by the way galaxies spin and how galaxy clusters are held together under gravity. Yet despite.",
+    "excerpt": "Dark matter is known to make up roughly 85% of all mass in the universe, as evidenced by the way galaxies spin and how galaxy clusters are held together under gravity. Yet despite decades of searching, physicists have never managed to.",
+    "excerpt_pt": "Dark matter is known to make up roughly 85% of all mass in the universe, as evidenced by the way galaxies spin and how galaxy clusters are held together under gravity. Yet despite decades of searching, physicists have never managed to.",
+    "excerpt_en": "Dark matter is known to make up roughly 85% of all mass in the universe, as evidenced by the way galaxies spin and how galaxy clusters are held together under gravity. Yet despite decades of searching, physicists have never managed to.",
+    "body": "<p>Dark matter is known to make up roughly 85% of all mass in the universe, as evidenced by the way galaxies spin and how galaxy clusters are held together under gravity. Yet despite decades of searching, physicists have never managed to. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Dark matter is known to make up roughly 85% of all mass in the universe, as evidenced by the way galaxies spin and how galaxy clusters are held together under gravity. This article has been reviewed according to Science X&#x27;s editorial process and policies.</p><p>NASA Dark matter is known to make up roughly 85% of all mass in the universe, as evidenced by the way galaxies spin and how galaxy clusters are held together under gravity. In new research published in Physical Review Letters, a team led by Yi-Zhong Fan at the Chinese Academy of Sciences claims to have spotted a strong gamma-ray signal coming from a.</p><p>WIMP collisions and annihilations are predicted to produce particles across a broad energy spectrum that would be nearly impossible to distinguish from ordinary cosmic noise. After searching through more than 15 years of data from the Fermi Gamma-ray Space Telescope and examining signals from 13 nearby massive galaxy clusters, they picked out a narrow.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-gamma-ray-awaited-evidence-wimps.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Dark matter is known to make up roughly 85% of all mass in the universe, as evidenced by the way galaxies spin and how galaxy clusters are held together under gravity. Yet despite decades of searching, physicists have never managed to. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Dark matter is known to make up roughly 85% of all mass in the universe, as evidenced by the way galaxies spin and how galaxy clusters are held together under gravity. This article has been reviewed according to Science X&#x27;s editorial process and policies.</p><p>NASA Dark matter is known to make up roughly 85% of all mass in the universe, as evidenced by the way galaxies spin and how galaxy clusters are held together under gravity. In new research published in Physical Review Letters, a team led by Yi-Zhong Fan at the Chinese Academy of Sciences claims to have spotted a strong gamma-ray signal coming from a.</p><p>WIMP collisions and annihilations are predicted to produce particles across a broad energy spectrum that would be nearly impossible to distinguish from ordinary cosmic noise. After searching through more than 15 years of data from the Fermi Gamma-ray Space Telescope and examining signals from 13 nearby massive galaxy clusters, they picked out a narrow.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-gamma-ray-awaited-evidence-wimps.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Dark matter is known to make up roughly 85% of all mass in the universe, as evidenced by the way galaxies spin and how galaxy clusters are held together under gravity. Yet despite decades of searching, physicists have never managed to. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. Dark matter is known to make up roughly 85% of all mass in the universe, as evidenced by the way galaxies spin and how galaxy clusters are held together under gravity. This article has been reviewed according to Science X&#x27;s editorial process and policies.</p><p>NASA Dark matter is known to make up roughly 85% of all mass in the universe, as evidenced by the way galaxies spin and how galaxy clusters are held together under gravity. In new research published in Physical Review Letters, a team led by Yi-Zhong Fan at the Chinese Academy of Sciences claims to have spotted a strong gamma-ray signal coming from a.</p><p>WIMP collisions and annihilations are predicted to produce particles across a broad energy spectrum that would be nearly impossible to distinguish from ordinary cosmic noise. After searching through more than 15 years of data from the Fermi Gamma-ray Space Telescope and examining signals from 13 nearby massive galaxy clusters, they picked out a narrow.</p><p>According to the team&#x27;s calculations, this kind of sharp spike is difficult to produce through any known astrophysical process but is precisely the kind of signal WIMP. Since the signal&#x27;s strength has fluctuated over the years, dipping around 2016 before climbing again, the researchers stopped short of calling it a confirmed detection.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>If the striking signal really was produced by WIMPs, the researchers now hope it could be confirmed by an as-yet-theoretical Very Large Area Gamma-ray Space Telescope, first. We rely on readers like you to keep independent science journalism alive.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-gamma-ray-awaited-evidence-wimps.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Dark matter is known to make up roughly 85% of all mass in the universe, as evidenced by the way galaxies spin and how galaxy clusters are held.",
+      "Dado-chave: Dark matter is known to make up roughly 85% of all mass in the universe, as evidenced by the way galaxies spin and how galaxy clusters are held.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Dark matter is known to make up roughly 85% of all mass in the universe, as evidenced by the way galaxies spin and how galaxy clusters are held.",
+      "Dado-chave: Dark matter is known to make up roughly 85% of all mass in the universe, as evidenced by the way galaxies spin and how galaxy clusters are held.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Dark matter is known to make up roughly 85% of all mass in the universe, as evidenced by the way galaxies spin and how galaxy clusters are held.",
+      "Key detail: Dark matter is known to make up roughly 85% of all mass in the universe, as evidenced by the way galaxies spin and how galaxy clusters are held.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "25 ago 2026",
+    "date_pt": "25 ago 2026",
+    "date_en": "25 Aug 2026",
+    "time": "18h10",
+    "time_pt": "18h10",
+    "time_en": "18:10 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-25T18:10:01+00:00",
+    "lastModifiedIso": "2026-08-25T18:10:01+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Cosmologia",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Gamma",
+      "ray signal could be long awaited evidence for WIMPs"
+    ],
+    "keywords_pt": [
+      "Cosmologia",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Gamma",
+      "ray signal could be long awaited evidence for WIMPs"
+    ],
+    "keywords_en": [
+      "Cosmologia",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Gamma",
+      "ray signal could be long awaited evidence for WIMPs"
+    ],
+    "srcUrl": "https://phys.org/news/2026-08-gamma-ray-awaited-evidence-wimps.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=gamma-ray-signal-could-be-long-awaited-evidence-for-wimps",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=gamma-ray-signal-could-be-long-awaited-evidence-for-wimps",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=gamma-ray-signal-could-be-long-awaited-evidence-for-wimps&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 76,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 82,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 33,
     "slug": "spying-on-a-split-comet",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3865,7 +4007,7 @@ window.postsData = [
     }
   },
   {
-    "id": 33,
+    "id": 34,
     "slug": "a-distant-stream-of-stars-may-offer-new-clues-to-dark-matter",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -3995,146 +4137,6 @@ window.postsData = [
       "relevance": 88,
       "accessibility": 60,
       "novelty": 55
-    }
-  },
-  {
-    "id": 34,
-    "slug": "strange-signals-called-long-period-radio-transits-come-from-cataclysmic-variables",
-    "cat": "Astrofísica",
-    "catCls": "astrofisica",
-    "img": "https://www.universetoday.com/article_images/ASKAP-Rose-WD-e1780465074367_20260820_225651.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.universetoday.com/article_images/41550_2026_2882_Fig2_HTML_20260821_191401.jpg",
-        "caption": "This figure from the research shows some of the signals received from ASKAP J1745−5051. There",
-        "caption_pt": "This figure from the research shows some of the signals received from ASKAP J1745−5051. There",
-        "caption_en": "This figure from the research shows some of the signals received from ASKAP J1745−5051. There",
-        "alt": "This figure from the research shows some of the signals received from ASKAP J1745−5051. There",
-        "alt_pt": "This figure from the research shows some of the signals received from ASKAP J1745−5051. There",
-        "alt_en": "This figure from the research shows some of the signals received from ASKAP J1745−5051. There"
-      },
-      {
-        "src": "https://www.universetoday.com/assets/patreon-plus-thumb.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": {
-      "kind": "embed",
-      "platform": "youtube",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/qcarnzudwam",
-      "fileUrl": "",
-      "poster": "",
-      "title": "",
-      "title_pt": "",
-      "title_en": "",
-      "caption": "",
-      "caption_pt": "",
-      "caption_en": "",
-      "sourcePage": "https://www.universetoday.com/articles/strange-signals-called-long-period-radio-transits-come-from-cataclysmic-variables"
-    },
-    "audio": null,
-    "title": "Strange Signals Called Long-period Radio Transits Come From Cataclysmic Variables",
-    "title_pt": "Strange Signals Called Long-period Radio Transits Come From Cataclysmic Variables",
-    "title_en": "Strange Signals Called Long-period Radio Transits Come From Cataclysmic Variables",
-    "sub": "Long-period Radio Transients are sources that emit repeating radio and x-ray signals. The signals are polarized and coherent, and are similar to pulsars in some respects. But the.",
-    "sub_pt": "Long-period Radio Transients are sources that emit repeating radio and x-ray signals. The signals are polarized and coherent, and are similar to pulsars in some respects. But the.",
-    "sub_en": "Long-period Radio Transients are sources that emit repeating radio and x-ray signals. The signals are polarized and coherent, and are similar to pulsars in some respects. But the.",
-    "excerpt": "Long-period Radio Transients are sources that emit repeating radio and x-ray signals. The signals are polarized and coherent, and are similar to pulsars in some respects. But the type of astrophysical object responsible for them has been.",
-    "excerpt_pt": "Long-period Radio Transients are sources that emit repeating radio and x-ray signals. The signals are polarized and coherent, and are similar to pulsars in some respects. But the type of astrophysical object responsible for them has been.",
-    "excerpt_en": "Long-period Radio Transients are sources that emit repeating radio and x-ray signals. The signals are polarized and coherent, and are similar to pulsars in some respects. But the type of astrophysical object responsible for them has been.",
-    "body": "<p>Long-period Radio Transients are sources that emit repeating radio and x-ray signals. The signals are polarized and coherent, and are similar to pulsars in some respects. But the type of astrophysical object responsible for them has been. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Scientists detected hints of the first LPT in 2005, and now they know of many more of them. The research is titled &quot; Periodic radio and X-ray emission from an accreting white dwarf binary, &quot; and it&#x27;s published in Nature Astronomy.</p><p>In this work, the researchers present the discovery, and explanation, of a new LPT named LPT ASKAP J174508.9-505149. The new LPT, referred to as J17 in this article, has a 1.3 hour orbit, and &quot;exhibits orbitally modulated X-ray emission and radio bursts,&quot; the authors write.</p><p>These elliptically polarized radio bursts drift in emission frequency, potentially due to a longer beat period, and turn off for several hours at a time.&quot; J17&#x27;s radio signal. ASKAP J1745-5051 exhibits pulse properties not previously observed in LPTs, providing valuable insights into the progenitor system,&quot; the authors write.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/strange-signals-called-long-period-radio-transits-come-from-cataclysmic-variables\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Long-period Radio Transients are sources that emit repeating radio and x-ray signals. The signals are polarized and coherent, and are similar to pulsars in some respects. But the type of astrophysical object responsible for them has been. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Scientists detected hints of the first LPT in 2005, and now they know of many more of them. The research is titled &quot; Periodic radio and X-ray emission from an accreting white dwarf binary, &quot; and it&#x27;s published in Nature Astronomy.</p><p>In this work, the researchers present the discovery, and explanation, of a new LPT named LPT ASKAP J174508.9-505149. The new LPT, referred to as J17 in this article, has a 1.3 hour orbit, and &quot;exhibits orbitally modulated X-ray emission and radio bursts,&quot; the authors write.</p><p>These elliptically polarized radio bursts drift in emission frequency, potentially due to a longer beat period, and turn off for several hours at a time.&quot; J17&#x27;s radio signal. ASKAP J1745-5051 exhibits pulse properties not previously observed in LPTs, providing valuable insights into the progenitor system,&quot; the authors write.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/strange-signals-called-long-period-radio-transits-come-from-cataclysmic-variables\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Long-period Radio Transients are sources that emit repeating radio and x-ray signals. The signals are polarized and coherent, and are similar to pulsars in some respects. But the type of astrophysical object responsible for them has been. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. Scientists detected hints of the first LPT in 2005, and now they know of many more of them. The research is titled &quot; Periodic radio and X-ray emission from an accreting white dwarf binary, &quot; and it&#x27;s published in Nature Astronomy.</p><p>In this work, the researchers present the discovery, and explanation, of a new LPT named LPT ASKAP J174508.9-505149. The new LPT, referred to as J17 in this article, has a 1.3 hour orbit, and &quot;exhibits orbitally modulated X-ray emission and radio bursts,&quot; the authors write.</p><p>These elliptically polarized radio bursts drift in emission frequency, potentially due to a longer beat period, and turn off for several hours at a time.&quot; J17&#x27;s radio signal. ASKAP J1745-5051 exhibits pulse properties not previously observed in LPTs, providing valuable insights into the progenitor system,&quot; the authors write.</p><p>J17&#x27;s signal is dynamic in other ways, too. The companion star is a red dwarf with about 1/10th of the Sun&#x27;s mass.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>There&#x27;s an x-ray component to J17, and that comes from donor star material that gathers on the white dwarf&#x27;s surface and heats up, emitting x-rays. Varying conditions in the local plasma density and magnetic field interaction may explain the intermittency and unique pulse morphologies in the observed radio pulsations from.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/strange-signals-called-long-period-radio-transits-come-from-cataclysmic-variables\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Long-period Radio Transients are sources that emit repeating radio and x-ray signals. The signals are polarized and coherent, and are similar to.",
-      "Dado-chave: Scientists detected hints of the first LPT in 2005, and now they know of many more of them.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Long-period Radio Transients are sources that emit repeating radio and x-ray signals. The signals are polarized and coherent, and are similar to.",
-      "Dado-chave: Scientists detected hints of the first LPT in 2005, and now they know of many more of them.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Long-period Radio Transients are sources that emit repeating radio and x-ray signals. The signals are polarized and coherent, and are similar to.",
-      "Key detail: Scientists detected hints of the first LPT in 2005, and now they know of many more of them.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "21 ago 2026",
-    "date_pt": "21 ago 2026",
-    "date_en": "21 Aug 2026",
-    "time": "19h59",
-    "time_pt": "19h59",
-    "time_en": "19:59 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-21T19:59:01+00:00",
-    "lastModifiedIso": "2026-08-21T19:59:01+00:00",
-    "source": "Universe Today",
-    "sourceDomain": "www.universetoday.com",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astrofísica",
-      "Universe Today",
-      "Cosmos Week",
-      "Strange Signals Called Long",
-      "period Radio Transits Come From Cataclysmic Variables"
-    ],
-    "keywords_pt": [
-      "Astrofísica",
-      "Universe Today",
-      "Cosmos Week",
-      "Strange Signals Called Long",
-      "period Radio Transits Come From Cataclysmic Variables"
-    ],
-    "keywords_en": [
-      "Astrofísica",
-      "Universe Today",
-      "Cosmos Week",
-      "Strange Signals Called Long",
-      "period Radio Transits Come From Cataclysmic Variables"
-    ],
-    "srcUrl": "https://www.universetoday.com/articles/strange-signals-called-long-period-radio-transits-come-from-cataclysmic-variables",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=strange-signals-called-long-period-radio-transits-come-from-cataclysmic-variables",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=strange-signals-called-long-period-radio-transits-come-from-cataclysmic-variables",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=strange-signals-called-long-period-radio-transits-come-from-cataclysmic-variables&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 75,
-    "scoreBreakdown": {
-      "source": 73,
-      "evidence": 88,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 46
     }
   },
   {

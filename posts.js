@@ -37,17 +37,17 @@ window.postsData = [
       "Key detail: National Institutes of Health (NIH) Director Jay Bhattacharya, M. D, Ph. D, today announced the selection of Courtney F.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "30 ago 2026",
-    "date_pt": "30 ago 2026",
-    "date_en": "30 Aug 2026",
-    "time": "22h01",
-    "time_pt": "22h01",
-    "time_en": "22:01 UTC",
+    "date": "31 ago 2026",
+    "date_pt": "31 ago 2026",
+    "date_en": "31 Aug 2026",
+    "time": "00h27",
+    "time_pt": "00h27",
+    "time_en": "00:27 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-30T22:01:50.345734+00:00",
-    "lastModifiedIso": "2026-08-30T22:01:50.345734+00:00",
+    "publishedIso": "2026-08-31T00:27:58.825138+00:00",
+    "lastModifiedIso": "2026-08-31T00:27:58.825138+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -142,17 +142,17 @@ window.postsData = [
       "Key detail: Researchers analyzed data from the long-running, National Institutes of Health (NIH)-funded Pre-symptomatic Familial ALS (Pre-fALS) study, to.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "30 ago 2026",
-    "date_pt": "30 ago 2026",
-    "date_en": "30 Aug 2026",
-    "time": "22h01",
-    "time_pt": "22h01",
-    "time_en": "22:01 UTC",
+    "date": "31 ago 2026",
+    "date_pt": "31 ago 2026",
+    "date_en": "31 Aug 2026",
+    "time": "00h27",
+    "time_pt": "00h27",
+    "time_en": "00:27 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-30T22:01:50.345695+00:00",
-    "lastModifiedIso": "2026-08-30T22:01:50.345695+00:00",
+    "publishedIso": "2026-08-31T00:27:58.825086+00:00",
+    "lastModifiedIso": "2026-08-31T00:27:58.825086+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -250,17 +250,17 @@ window.postsData = [
       "Key detail: NIH-funded, AI-powered analysis of interviews suggests that a youth’s framing of stressful events is a strong indicator of risk for future.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "30 ago 2026",
-    "date_pt": "30 ago 2026",
-    "date_en": "30 Aug 2026",
-    "time": "22h01",
-    "time_pt": "22h01",
-    "time_en": "22:01 UTC",
+    "date": "31 ago 2026",
+    "date_pt": "31 ago 2026",
+    "date_en": "31 Aug 2026",
+    "time": "00h27",
+    "time_pt": "00h27",
+    "time_en": "00:27 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-30T22:01:50.345659+00:00",
-    "lastModifiedIso": "2026-08-30T22:01:50.345659+00:00",
+    "publishedIso": "2026-08-31T00:27:58.825037+00:00",
+    "lastModifiedIso": "2026-08-31T00:27:58.825037+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -355,17 +355,17 @@ window.postsData = [
       "Key detail: NIH-funded international research collaboration catalogues 25 tumor types from thousands of patient donors.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "30 ago 2026",
-    "date_pt": "30 ago 2026",
-    "date_en": "30 Aug 2026",
-    "time": "22h01",
-    "time_pt": "22h01",
-    "time_en": "22:01 UTC",
+    "date": "31 ago 2026",
+    "date_pt": "31 ago 2026",
+    "date_en": "31 Aug 2026",
+    "time": "00h27",
+    "time_pt": "00h27",
+    "time_en": "00:27 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-30T22:01:50.345605+00:00",
-    "lastModifiedIso": "2026-08-30T22:01:50.345605+00:00",
+    "publishedIso": "2026-08-31T00:27:58.824956+00:00",
+    "lastModifiedIso": "2026-08-31T00:27:58.824956+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -460,17 +460,17 @@ window.postsData = [
       "Key detail: Cho joins NIH from the Icahn School of Medicine at Mount Sinai in New York City.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "30 ago 2026",
-    "date_pt": "30 ago 2026",
-    "date_en": "30 Aug 2026",
-    "time": "22h01",
-    "time_pt": "22h01",
-    "time_en": "22:01 UTC",
+    "date": "31 ago 2026",
+    "date_pt": "31 ago 2026",
+    "date_en": "31 Aug 2026",
+    "time": "00h27",
+    "time_pt": "00h27",
+    "time_en": "00:27 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-08-30T22:01:50.345569+00:00",
-    "lastModifiedIso": "2026-08-30T22:01:50.345569+00:00",
+    "publishedIso": "2026-08-31T00:27:58.824900+00:00",
+    "lastModifiedIso": "2026-08-31T00:27:58.824900+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -531,6 +531,139 @@ window.postsData = [
   },
   {
     "id": 6,
+    "slug": "gardening-the-moon-s-cosmic-archives",
+    "cat": "Astrofísica",
+    "catCls": "astrofisica",
+    "img": "https://www.universetoday.com/article_images/s1_Keplers-1920_20260830_233807.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.universetoday.com/article_images/art002e009289large_20260409_204055.jpg",
+        "caption": "The lunar surface fills the frame in sharp detail, as seen during the Artemis II lunar flyby, while a distant Earth sets in the background. Constant bombardment by meteoroids and bits of asteroids has created a mottled, cratered surface.",
+        "caption_pt": "The lunar surface fills the frame in sharp detail, as seen during the Artemis II lunar flyby, while a distant Earth sets in the background. Constant bombardment by meteoroids and bits of asteroids has created a mottled, cratered surface.",
+        "caption_en": "The lunar surface fills the frame in sharp detail, as seen during the Artemis II lunar flyby, while a distant Earth sets in the background. Constant bombardment by meteoroids and bits of asteroids has created a mottled, cratered surface.",
+        "alt": "The lunar surface fills the frame in sharp detail, as seen during the Artemis II lunar flyby, while a distant Earth sets in the background. Constant bombardment by meteoroids and bits of asteroids has created a mottled, cratered surface.",
+        "alt_pt": "The lunar surface fills the frame in sharp detail, as seen during the Artemis II lunar flyby, while a distant Earth sets in the background. Constant bombardment by meteoroids and bits of asteroids has created a mottled, cratered surface.",
+        "alt_en": "The lunar surface fills the frame in sharp detail, as seen during the Artemis II lunar flyby, while a distant Earth sets in the background. Constant bombardment by meteoroids and bits of asteroids has created a mottled, cratered surface."
+      },
+      {
+        "src": "https://www.universetoday.com/article_images/Lunar_Regolith_70050_from_Apollo_17_in_National_Museum_of_Natural_History_20260830_234118.jpg",
+        "caption": "A sample of lunar regolith (70050), collected during the Apollo 17 mission. CC BY-SA 3.0 Wknight94",
+        "caption_pt": "A sample of lunar regolith (70050), collected during the Apollo 17 mission. CC BY-SA 3.0 Wknight94",
+        "caption_en": "A sample of lunar regolith (70050), collected during the Apollo 17 mission. CC BY-SA 3.0 Wknight94",
+        "alt": "A sample of lunar regolith (70050), collected during the Apollo 17 mission. CC BY-SA 3.0 Wknight94",
+        "alt_pt": "A sample of lunar regolith (70050), collected during the Apollo 17 mission. CC BY-SA 3.0 Wknight94",
+        "alt_en": "A sample of lunar regolith (70050), collected during the Apollo 17 mission. CC BY-SA 3.0 Wknight94"
+      },
+      {
+        "src": "https://www.universetoday.com/assets/patreon-plus-thumb.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Gardening the Moon's Cosmic Archives",
+    "title_pt": "Gardening the Moon's Cosmic Archives",
+    "title_en": "Gardening the Moon's Cosmic Archives",
+    "sub": "When a meteoroid hits the Moon's surface, it does more than just dig up a little dirt. It actually excavates a little bit of cosmic history that recorded a long-ago supernova.",
+    "sub_pt": "When a meteoroid hits the Moon's surface, it does more than just dig up a little dirt. It actually excavates a little bit of cosmic history that recorded a long-ago supernova.",
+    "sub_en": "When a meteoroid hits the Moon's surface, it does more than just dig up a little dirt. It actually excavates a little bit of cosmic history that recorded a long-ago supernova.",
+    "excerpt": "When a meteoroid hits the Moon's surface, it does more than just dig up a little dirt. It actually excavates a little bit of cosmic history that recorded a long-ago supernova explosion. Scientists at the University of Hawaii Institute of.",
+    "excerpt_pt": "When a meteoroid hits the Moon's surface, it does more than just dig up a little dirt. It actually excavates a little bit of cosmic history that recorded a long-ago supernova explosion. Scientists at the University of Hawaii Institute of.",
+    "excerpt_en": "When a meteoroid hits the Moon's surface, it does more than just dig up a little dirt. It actually excavates a little bit of cosmic history that recorded a long-ago supernova explosion. Scientists at the University of Hawaii Institute of.",
+    "body": "<p>When a meteoroid hits the Moon&#x27;s surface, it does more than just dig up a little dirt. It actually excavates a little bit of cosmic history that recorded a long-ago supernova explosion. Scientists at the University of Hawaii Institute of. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. The lunar surface fills the frame in sharp detail, as seen during the Artemis II lunar flyby, while a distant Earth sets in the background. NASA When a supermassive star ends as a supernova, the resulting explosion scatters stellar material throughout space.</p><p>The material from such events has made its way to the Solar System, where it settled to the bottom of the ocean on Earth and onto the lunar surface. The dust that lands on Earth gets quickly buried on the sea bottom, making the lunar dust a more reliable study medium, according to Costello.</p><p>“The lunar regolith, however, acts as a long-term cosmic archive that can preserve history spanning 80 to 100 million years or more,&quot; she explained. Understanding the physics of regolith mixing ensures that when future astronauts return deeper cores, we can properly read the scrambled layers to reconstruct the history of our.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/gardening-the-moons-cosmic-archives\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>When a meteoroid hits the Moon&#x27;s surface, it does more than just dig up a little dirt. It actually excavates a little bit of cosmic history that recorded a long-ago supernova explosion. Scientists at the University of Hawaii Institute of. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. The lunar surface fills the frame in sharp detail, as seen during the Artemis II lunar flyby, while a distant Earth sets in the background. NASA When a supermassive star ends as a supernova, the resulting explosion scatters stellar material throughout space.</p><p>The material from such events has made its way to the Solar System, where it settled to the bottom of the ocean on Earth and onto the lunar surface. The dust that lands on Earth gets quickly buried on the sea bottom, making the lunar dust a more reliable study medium, according to Costello.</p><p>“The lunar regolith, however, acts as a long-term cosmic archive that can preserve history spanning 80 to 100 million years or more,&quot; she explained. Understanding the physics of regolith mixing ensures that when future astronauts return deeper cores, we can properly read the scrambled layers to reconstruct the history of our.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/gardening-the-moons-cosmic-archives\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>When a meteoroid hits the Moon&#x27;s surface, it does more than just dig up a little dirt. It actually excavates a little bit of cosmic history that recorded a long-ago supernova explosion. Scientists at the University of Hawaii Institute of. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. The lunar surface fills the frame in sharp detail, as seen during the Artemis II lunar flyby, while a distant Earth sets in the background. NASA When a supermassive star ends as a supernova, the resulting explosion scatters stellar material throughout space.</p><p>The material from such events has made its way to the Solar System, where it settled to the bottom of the ocean on Earth and onto the lunar surface. The dust that lands on Earth gets quickly buried on the sea bottom, making the lunar dust a more reliable study medium, according to Costello.</p><p>“The lunar regolith, however, acts as a long-term cosmic archive that can preserve history spanning 80 to 100 million years or more,&quot; she explained. Understanding the physics of regolith mixing ensures that when future astronauts return deeper cores, we can properly read the scrambled layers to reconstruct the history of our.</p><p>CC BY-SA 3.0 Wknight94 Costello explained the complexity of creating a model to reproduce and predict the results of such impact gardening. It also accounts for radioactive decay of the star remnants while mapping exactly when and where new stardust was delivered by episodic supernovas.” The team&#x27;s model was aimed at.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>Then they compared what they found with timelines of known supernova pulses &quot;felt&quot; on Earth to see how those might line up with model predictions. It turns out that the model can predict the depth concentration profile of the isotope Iron-60 based on the Apollo regolith materials.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/gardening-the-moons-cosmic-archives\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: When a meteoroid hits the Moon's surface, it does more than just dig up a little dirt. It actually excavates a little bit of cosmic history that.",
+      "Dado-chave: The lunar surface fills the frame in sharp detail, as seen during the Artemis II lunar flyby, while a distant Earth sets in the background.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: When a meteoroid hits the Moon's surface, it does more than just dig up a little dirt. It actually excavates a little bit of cosmic history that.",
+      "Dado-chave: The lunar surface fills the frame in sharp detail, as seen during the Artemis II lunar flyby, while a distant Earth sets in the background.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: When a meteoroid hits the Moon's surface, it does more than just dig up a little dirt. It actually excavates a little bit of cosmic history that.",
+      "Key detail: The lunar surface fills the frame in sharp detail, as seen during the Artemis II lunar flyby, while a distant Earth sets in the background.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "30 ago 2026",
+    "date_pt": "30 ago 2026",
+    "date_en": "30 Aug 2026",
+    "time": "23h34",
+    "time_pt": "23h34",
+    "time_en": "23:34 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-30T23:34:00+00:00",
+    "lastModifiedIso": "2026-08-30T23:34:00+00:00",
+    "source": "Universe Today",
+    "sourceDomain": "www.universetoday.com",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astrofísica",
+      "Universe Today",
+      "Cosmos Week",
+      "Gardening the Moon's Cosmic Archives"
+    ],
+    "keywords_pt": [
+      "Astrofísica",
+      "Universe Today",
+      "Cosmos Week",
+      "Gardening the Moon's Cosmic Archives"
+    ],
+    "keywords_en": [
+      "Astrofísica",
+      "Universe Today",
+      "Cosmos Week",
+      "Gardening the Moon's Cosmic Archives"
+    ],
+    "srcUrl": "https://www.universetoday.com/articles/gardening-the-moons-cosmic-archives",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=gardening-the-moon-s-cosmic-archives",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=gardening-the-moon-s-cosmic-archives",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=gardening-the-moon-s-cosmic-archives&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 70,
+    "scoreBreakdown": {
+      "source": 73,
+      "evidence": 82,
+      "relevance": 70,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
     "slug": "roman-rises-five-things-to-know-about-nasa-s-new-space-telescope",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -572,7 +705,7 @@ window.postsData = [
     "excerpt_en": "NASA's newest eye on the sky, the Nancy Grace Roman Space Telescope, has begun its journey to unravel the secrets of dark matter, dark energy and Earthlike planets, months ahead of schedule.",
     "body": "<p>NASA&#x27;s newest eye on the sky, the Nancy Grace Roman Space Telescope, has begun its journey to unravel the secrets of dark matter, dark energy and Earthlike planets, months ahead of schedule. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. The 9-ton telescope rode to space today aboard a SpaceX Falcon Heavy rocket that was launched from NASA&#x27;s Kennedy Space Center in Florida at 7: 26 a. m. The ascent went off without a hitch, setting up the telescope for a three-month cruise to a gravitational balance point known as Earth-sun L2, a million miles beyond our planet.</p><p>NASA had originally scheduled liftoff for 2027, but the $4.3 billion mission came in ahead of schedule and under budget. Here are five key facts about the Roman Space Telescope and its mission: The space telescope&#x27;s two mirrors were originally meant to be used on the National Reconnaissance Office&#x27;s.</p><p>WFIRST was renamed to honor former NASA chief astronomer Nancy Grace Roman, whose work on the Hubble Space Telescope earned her the nickname &quot;Mother of Hubble.&quot; Roman died in 2018. The Roman Space Telescope’s infrared imaging system is designed to match Hubble’s resolution and sensitivity, but with a field of view that’s more than 100 times wider than.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/roman-rises-five-things-to-know-about-nasas-new-space-telescope\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
     "body_pt": "<p>NASA&#x27;s newest eye on the sky, the Nancy Grace Roman Space Telescope, has begun its journey to unravel the secrets of dark matter, dark energy and Earthlike planets, months ahead of schedule. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. The 9-ton telescope rode to space today aboard a SpaceX Falcon Heavy rocket that was launched from NASA&#x27;s Kennedy Space Center in Florida at 7: 26 a. m. The ascent went off without a hitch, setting up the telescope for a three-month cruise to a gravitational balance point known as Earth-sun L2, a million miles beyond our planet.</p><p>NASA had originally scheduled liftoff for 2027, but the $4.3 billion mission came in ahead of schedule and under budget. Here are five key facts about the Roman Space Telescope and its mission: The space telescope&#x27;s two mirrors were originally meant to be used on the National Reconnaissance Office&#x27;s.</p><p>WFIRST was renamed to honor former NASA chief astronomer Nancy Grace Roman, whose work on the Hubble Space Telescope earned her the nickname &quot;Mother of Hubble.&quot; Roman died in 2018. The Roman Space Telescope’s infrared imaging system is designed to match Hubble’s resolution and sensitivity, but with a field of view that’s more than 100 times wider than.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/roman-rises-five-things-to-know-about-nasas-new-space-telescope\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>NASA&#x27;s newest eye on the sky, the Nancy Grace Roman Space Telescope, has begun its journey to unravel the secrets of dark matter, dark energy and Earthlike planets, months ahead of schedule. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. The 9-ton telescope rode to space today aboard a SpaceX Falcon Heavy rocket that was launched from NASA&#x27;s Kennedy Space Center in Florida at 7: 26 a. m. The ascent went off without a hitch, setting up the telescope for a three-month cruise to a gravitational balance point known as Earth-sun L2, a million miles beyond our planet.</p><p>NASA had originally scheduled liftoff for 2027, but the $4.3 billion mission came in ahead of schedule and under budget. Here are five key facts about the Roman Space Telescope and its mission: The space telescope&#x27;s two mirrors were originally meant to be used on the National Reconnaissance Office&#x27;s.</p><p>WFIRST was renamed to honor former NASA chief astronomer Nancy Grace Roman, whose work on the Hubble Space Telescope earned her the nickname &quot;Mother of Hubble.&quot; Roman died in 2018. The Roman Space Telescope’s infrared imaging system is designed to match Hubble’s resolution and sensitivity, but with a field of view that’s more than 100 times wider than.</p><p>“We’ll redefine what it means to find a needle in a haystack.” The telescope’s high-gain antenna is expected to send 1.4 terabytes of science data back to Earth every day. That’s the highest data rate for any NASA astrophysics mission so far.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>Roman&#x27;s largest images will take up a trillion pixels, and for what it’s worth, NASA has set up a system that lets fans “adopt” pixels on one of the first images. NASA says Roman&#x27;s active coronagraph is capable to detect planets that are 100 million times fainter than their stars.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/roman-rises-five-things-to-know-about-nasas-new-space-telescope\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body_en": "<p>NASA&#x27;s newest eye on the sky, the Nancy Grace Roman Space Telescope, has begun its journey to unravel the secrets of dark matter, dark energy and Earthlike planets, months ahead of schedule. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. The 9-ton telescope rode to space today aboard a SpaceX Falcon Heavy rocket that was launched from NASA&#x27;s Kennedy Space Center in Florida at 7: 26 a. m. The ascent went off without a hitch, setting up the telescope for a three-month cruise to a gravitational balance point known as Earth-sun L2, a million miles beyond our planet.</p><p>NASA had originally scheduled liftoff for 2027, but the $4.3 billion mission came in ahead of schedule and under budget. Here are five key facts about the Roman Space Telescope and its mission: The space telescope&#x27;s two mirrors were originally meant to be used on the National Reconnaissance Office&#x27;s.</p><p>WFIRST was renamed to honor former NASA chief astronomer Nancy Grace Roman, whose work on the Hubble Space Telescope earned her the nickname &quot;Mother of Hubble.&quot; Roman died in 2018. The Roman Space Telescope’s infrared imaging system is designed to match Hubble’s resolution and sensitivity, but with a field of view that’s more than 100 times wider than.</p><p>“We’ll redefine what it means to find a needle in a haystack.” The telescope’s high-gain antenna is expected to send 1.4 terabytes of science data back to Earth every day. That’s the highest data rate for any NASA astrophysics mission so far.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>Roman&#x27;s largest images will take up a trillion pixels, and for what it’s worth, NASA has set up a system that lets fans “adopt” pixels on one of the first images. NASA says Roman&#x27;s active coronagraph is capable of detecting planets that are 100 million times fainter than their stars.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/roman-rises-five-things-to-know-about-nasas-new-space-telescope\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: NASA's newest eye on the sky, the Nancy Grace Roman Space Telescope, has begun its journey to unravel the secrets of dark matter, dark energy and.",
       "Dado-chave: The 9-ton telescope rode to space today aboard a SpaceX Falcon Heavy rocket that was launched from NASA's Kennedy Space Center in Florida at 7.",
@@ -644,7 +777,7 @@ window.postsData = [
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -658,7 +791,7 @@ window.postsData = [
     }
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "nasa-s-newest-roman-space-telescope-launches-on-a-quest-to-explore-the-hidden-universe",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -791,7 +924,7 @@ window.postsData = [
     }
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "new-method-tests-magnet-powered-braking-for-safer-more-reusable-spacecraft-reentry",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -921,7 +1054,7 @@ window.postsData = [
     }
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "a-tool-for-measuring-the-mass-of-the-stars-galaxies-and-the-universe-gets-a-tweak",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1060,7 +1193,7 @@ window.postsData = [
     }
   },
   {
-    "id": 10,
+    "id": 11,
     "slug": "nasa-s-dark-universe-seeking-nancy-grace-roman-space-telescope-launches",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1168,7 +1301,7 @@ window.postsData = [
     }
   },
   {
-    "id": 11,
+    "id": 12,
     "slug": "president-trump-signs-executive-order-to-create-us-space-academy",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1273,7 +1406,7 @@ window.postsData = [
     }
   },
   {
-    "id": 12,
+    "id": 13,
     "slug": "science-release-hubble-details-early-galaxy-transforming-neighbourhood",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1409,7 +1542,7 @@ window.postsData = [
     }
   },
   {
-    "id": 13,
+    "id": 14,
     "slug": "science-release-hubble-discovers-first-of-star-cluster-s-missing-black-holes",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1545,7 +1678,7 @@ window.postsData = [
     }
   },
   {
-    "id": 14,
+    "id": 15,
     "slug": "lunar-soil-reads-as-a-cosmic-time-capsule-for-exploding-stars",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1669,173 +1802,12 @@ window.postsData = [
     }
   },
   {
-    "id": 15,
-    "slug": "astrid-traces-13-5-billion-years-of-black-hole-and-galaxy-evolution",
-    "cat": "Astrofísica",
-    "catCls": "astrofisica",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-cosmic-look-from-nea.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-cosmic-look-from-nea.jpg",
-        "caption": "Researchers completed the largest yet cosmological hydrodynamic simulation, called ASTRID, that traces the evolution of the universe from its earliest time to the present, designated as z = 0 and referring to a zero redshift of star light.",
-        "caption_pt": "Researchers completed the largest yet cosmological hydrodynamic simulation, called ASTRID, that traces the evolution of the universe from its earliest time to the present, designated as z = 0 and referring to a zero redshift of star light.",
-        "caption_en": "Researchers completed the largest yet cosmological hydrodynamic simulation, called ASTRID, that traces the evolution of the universe from its earliest time to the present, designated as z = 0 and referring to a zero redshift of star light.",
-        "alt": "A cosmic look from near beginning to now",
-        "alt_pt": "A cosmic look from near beginning to now",
-        "alt_en": "A cosmic look from near beginning to now"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-cosmic-look-from-the.jpg",
-        "caption": "Illustration of ASTRID at z=0.5. The background shows the cosmic web of size 250 Mpc/h. The orange inset zooms into a massive cluster region, illustrating the gas density field colored by temperature. Red and yellow spikes mark massive.",
-        "caption_pt": "Illustration of ASTRID at z=0.5. The background shows the cosmic web of size 250 Mpc/h. The orange inset zooms into a massive cluster region, illustrating the gas density field colored by temperature. Red and yellow spikes mark massive.",
-        "caption_en": "Illustration of ASTRID at z=0.5. The background shows the cosmic web of size 250 Mpc/h. The orange inset zooms into a massive cluster region, illustrating the gas density field colored by temperature. Red and yellow spikes mark massive.",
-        "alt": "A cosmic look from the near beginning to now",
-        "alt_pt": "A cosmic look from the near beginning to now",
-        "alt_en": "A cosmic look from the near beginning to now"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-cosmic-look-from-nea-1.jpg",
-        "caption": "A cosmic look from near beginning to now",
-        "caption_pt": "A cosmic look from near beginning to now",
-        "caption_en": "A cosmic look from near beginning to now",
-        "alt": "A cosmic look from near beginning to now",
-        "alt_pt": "A cosmic look from near beginning to now",
-        "alt_en": "A cosmic look from near beginning to now"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "ASTRID traces 13.5 billion years of black hole and galaxy evolution",
-    "title_pt": "ASTRID traces 13.5 billion years of black hole and galaxy evolution",
-    "title_en": "ASTRID traces 13.5 billion years of black hole and galaxy evolution",
-    "sub": "In dark skies at night, distant starlight twinkles and speaks to vast cosmic histories almost as old as time itself. New data from instruments such as NASA's James Webb Space.",
-    "sub_pt": "In dark skies at night, distant starlight twinkles and speaks to vast cosmic histories almost as old as time itself. New data from instruments such as NASA's James Webb Space.",
-    "sub_en": "In dark skies at night, distant starlight twinkles and speaks to vast cosmic histories almost as old as time itself. New data from instruments such as NASA's James Webb Space.",
-    "excerpt": "In dark skies at night, distant starlight twinkles and speaks to vast cosmic histories almost as old as time itself. New data from instruments such as NASA's James Webb Space Telescope are helping astrophysicists probe deep cosmic.",
-    "excerpt_pt": "In dark skies at night, distant starlight twinkles and speaks to vast cosmic histories almost as old as time itself. New data from instruments such as NASA's James Webb Space Telescope are helping astrophysicists probe deep cosmic.",
-    "excerpt_en": "In dark skies at night, distant starlight twinkles and speaks to vast cosmic histories almost as old as time itself. New data from instruments such as NASA's James Webb Space Telescope are helping astrophysicists probe deep cosmic.",
-    "body": "<p>In dark skies at night, distant starlight twinkles and speaks to vast cosmic histories almost as old as time itself. New data from instruments such as NASA&#x27;s James Webb Space Telescope are helping astrophysicists probe deep cosmic. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. &quot;&gt; Researchers completed the largest yet cosmological hydrodynamic simulation, called ASTRID, that traces the evolution of the universe from its earliest time to the present. New data from instruments such as NASA&#x27;s James Webb Space Telescope are helping astrophysicists probe deep cosmic mysteries, including the evolution of black holes and galaxies.</p><p>Zhou and colleagues published their study in The Astrophysical Journal in March 2026. Zhou&#x27;s team started their cosmological simulations from z = 99, covering the &quot;cosmic dawn&quot; of the universe.</p><p>It gave the ASTRID team the computational power to model 166 billion particles across a volume of space 815 million light-years across, an enormous virtual laboratory for studying. The data input/output process for ASTRID was also computationally demanding, with each simulation snapshot totaling 30 terabytes.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-astrid-billion-years-black-hole.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>In dark skies at night, distant starlight twinkles and speaks to vast cosmic histories almost as old as time itself. New data from instruments such as NASA&#x27;s James Webb Space Telescope are helping astrophysicists probe deep cosmic. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. &quot;&gt; Researchers completed the largest yet cosmological hydrodynamic simulation, called ASTRID, that traces the evolution of the universe from its earliest time to the present. New data from instruments such as NASA&#x27;s James Webb Space Telescope are helping astrophysicists probe deep cosmic mysteries, including the evolution of black holes and galaxies.</p><p>Zhou and colleagues published their study in The Astrophysical Journal in March 2026. Zhou&#x27;s team started their cosmological simulations from z = 99, covering the &quot;cosmic dawn&quot; of the universe.</p><p>It gave the ASTRID team the computational power to model 166 billion particles across a volume of space 815 million light-years across, an enormous virtual laboratory for studying. The data input/output process for ASTRID was also computationally demanding, with each simulation snapshot totaling 30 terabytes.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-astrid-billion-years-black-hole.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>In dark skies at night, distant starlight twinkles and speaks to vast cosmic histories almost as old as time itself. New data from instruments such as NASA&#x27;s James Webb Space Telescope are helping astrophysicists probe deep cosmic. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. &quot;&gt; Researchers completed the largest yet cosmological hydrodynamic simulation, called ASTRID, that traces the evolution of the universe from its earliest time to the present. New data from instruments such as NASA&#x27;s James Webb Space Telescope are helping astrophysicists probe deep cosmic mysteries, including the evolution of black holes and galaxies.</p><p>Zhou and colleagues published their study in The Astrophysical Journal in March 2026. Zhou&#x27;s team started their cosmological simulations from z = 99, covering the &quot;cosmic dawn&quot; of the universe.</p><p>It gave the ASTRID team the computational power to model 166 billion particles across a volume of space 815 million light-years across, an enormous virtual laboratory for studying. The data input/output process for ASTRID was also computationally demanding, with each simulation snapshot totaling 30 terabytes.</p><p>That&#x27;s why we were able to simulate the biggest volume and the highest resolution over a mass range of seven orders of magnitude and with the full physics.&quot; The ASTRID team plans. Horizon will be deployed in two phases, with the first featuring graphics processing units (GPUs) and the second adding central processing units (CPUs).</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. As new data pours in from science missions such as NASA&#x27;s James Webb Space Telescope (JWST), which is probing the earliest stages of galaxy and black hole formation, scientists.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-astrid-billion-years-black-hole.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: In dark skies at night, distant starlight twinkles and speaks to vast cosmic histories almost as old as time itself. New data from instruments such.",
-      "Dado-chave: 10.3847/1538-4357/ae3c08\"> Researchers completed the largest yet cosmological hydrodynamic simulation, called ASTRID, that traces the evolution.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: In dark skies at night, distant starlight twinkles and speaks to vast cosmic histories almost as old as time itself. New data from instruments such.",
-      "Dado-chave: 10.3847/1538-4357/ae3c08\"> Researchers completed the largest yet cosmological hydrodynamic simulation, called ASTRID, that traces the evolution.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: In dark skies at night, distant starlight twinkles and speaks to vast cosmic histories almost as old as time itself. New data from instruments such.",
-      "Key detail: 10.3847/1538-4357/ae3c08\"> Researchers completed the largest yet cosmological hydrodynamic simulation, called ASTRID, that traces the evolution.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "27 ago 2026",
-    "date_pt": "27 ago 2026",
-    "date_en": "27 Aug 2026",
-    "time": "21h10",
-    "time_pt": "21h10",
-    "time_en": "21:10 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-27T21:10:01+00:00",
-    "lastModifiedIso": "2026-08-27T21:10:01+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astrofísica",
-      "Phys.org Space",
-      "Cosmos Week",
-      "ASTRID traces 13.5 billion years of black hole and galaxy evolution"
-    ],
-    "keywords_pt": [
-      "Astrofísica",
-      "Phys.org Space",
-      "Cosmos Week",
-      "ASTRID traces 13.5 billion years of black hole and galaxy evolution"
-    ],
-    "keywords_en": [
-      "Astrofísica",
-      "Phys.org Space",
-      "Cosmos Week",
-      "ASTRID traces 13.5 billion years of black hole and galaxy evolution"
-    ],
-    "srcUrl": "https://phys.org/news/2026-08-astrid-billion-years-black-hole.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=astrid-traces-13-5-billion-years-of-black-hole-and-galaxy-evolution",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=astrid-traces-13-5-billion-years-of-black-hole-and-galaxy-evolution",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=astrid-traces-13-5-billion-years-of-black-hole-and-galaxy-evolution&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 75,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 82,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 49
-    }
-  },
-  {
     "id": 16,
     "slug": "cutting-edge-infrared-space-telescope-roman-set-to-launch",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/02/the_roman_spacecraft/24727076-1-eng-GB/The_Roman_spacecraft_card_full.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/roman_in_a_nutshell/27431808-5-eng-GB/Roman_in_a_nutshell_article.jpg",
-        "caption": "Roman in a nutshell",
-        "caption_pt": "Roman in a nutshell",
-        "caption_en": "Roman in a nutshell",
-        "alt": "Roman in a nutshell",
-        "alt_pt": "Roman in a nutshell",
-        "alt_en": "Roman in a nutshell"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/05/the_light_and_dark_universe/24866581-7-eng-GB/The_light_and_dark_Universe_article.png",
-        "caption": "Roman will join ESA's Euclid in uncovering the mysteries of the dark Universe",
-        "caption_pt": "Roman will join ESA's Euclid in uncovering the mysteries of the dark Universe",
-        "caption_en": "Roman will join ESA's Euclid in uncovering the mysteries of the dark Universe",
-        "alt": "Roman will join ESA",
-        "alt_pt": "Roman will join ESA",
-        "alt_en": "Roman will join ESA"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/05/what_euclid_will_measure_baryonic_acoustic_oscillations/24866716-6-eng-GB/What_Euclid_will_measure_baryonic_acoustic_oscillations_article.png",
-        "caption": "Like ESA’s Euclid, Roman will use the method of baryonic acoustic oscillations to trace the expansion of the Universe",
-        "caption_pt": "Like ESA’s Euclid, Roman will use the method of baryonic acoustic oscillations to trace the expansion of the Universe",
-        "caption_en": "Like ESA’s Euclid, Roman will use the method of baryonic acoustic oscillations to trace the expansion of the Universe",
-        "alt": "Like ESA’s Euclid, Roman will use the method of baryonic acoustic oscillations to trace the expansion of the Universe",
-        "alt_pt": "Like ESA’s Euclid, Roman will use the method of baryonic acoustic oscillations to trace the expansion of the Universe",
-        "alt_en": "Like ESA’s Euclid, Roman will use the method of baryonic acoustic oscillations to trace the expansion of the Universe"
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "Cutting-edge infrared space telescope Roman set to launch",
@@ -1847,9 +1819,9 @@ window.postsData = [
     "excerpt": "The NASA-led Nancy Grace Roman Space Telescope is set to launch on 30 August 2026 at 07: 26 EDT / 12: 26 BST / 13: 26 CEST from NASA’s Kennedy Space Center in Florida, USA. With its wide field of view and advanced optical design, the Roman.",
     "excerpt_pt": "The NASA-led Nancy Grace Roman Space Telescope is set to launch on 30 August 2026 at 07: 26 EDT / 12: 26 BST / 13: 26 CEST from NASA’s Kennedy Space Center in Florida, USA. With its wide field of view and advanced optical design, the Roman.",
     "excerpt_en": "The NASA-led Nancy Grace Roman Space Telescope is set to launch on 30 August 2026 at 07: 26 EDT / 12: 26 BST / 13: 26 CEST from NASA’s Kennedy Space Center in Florida, USA. With its wide field of view and advanced optical design, the Roman.",
-    "body": "<p>The NASA-led Nancy Grace Roman Space Telescope is set to launch on 30 August 2026 at 07: 26 EDT / 12: 26 BST / 13: 26 CEST from NASA’s Kennedy Space Center in Florida, USA. With its wide field of view and advanced optical design, the Roman. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. The NASA-led Nancy Grace Roman Space Telescope is set to launch on 30 August 2026 at 07: 26 EDT / 12: 26 BST / 13: 26 CEST from NASA’s Kennedy Space Center in Florida, USA. In doing so, Roman will help reveal the nature of dark energy and dark matter and find new exoplanets.</p><p>“Through the Mission of Opportunity programme, Europe contributes scientific expertise, helping guide and maximise the mission&#x27;s scientific return.” ESA will also enable data. “It will combine Hubble-quality imaging with a field of view more than 200 times larger, allowing it to study billions of stars, millions of galaxies, thousands of exoplanets, and.</p><p>“This will enable astronomers to address some of the biggest open questions in astrophysics, from the nature of dark energy to the abundance of planets throughout our Milky Way. One of Roman’s main tasks will be to scan about 12% of the sky high above our galactic plane to look for the lensing effect in millions of distant galaxies.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Cutting-edge_infrared_space_telescope_Roman_set_to_launch\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>The NASA-led Nancy Grace Roman Space Telescope is set to launch on 30 August 2026 at 07: 26 EDT / 12: 26 BST / 13: 26 CEST from NASA’s Kennedy Space Center in Florida, USA. With its wide field of view and advanced optical design, the Roman. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. The NASA-led Nancy Grace Roman Space Telescope is set to launch on 30 August 2026 at 07: 26 EDT / 12: 26 BST / 13: 26 CEST from NASA’s Kennedy Space Center in Florida, USA. In doing so, Roman will help reveal the nature of dark energy and dark matter and find new exoplanets.</p><p>“Through the Mission of Opportunity programme, Europe contributes scientific expertise, helping guide and maximise the mission&#x27;s scientific return.” ESA will also enable data. “It will combine Hubble-quality imaging with a field of view more than 200 times larger, allowing it to study billions of stars, millions of galaxies, thousands of exoplanets, and.</p><p>“This will enable astronomers to address some of the biggest open questions in astrophysics, from the nature of dark energy to the abundance of planets throughout our Milky Way. One of Roman’s main tasks will be to scan about 12% of the sky high above our galactic plane to look for the lensing effect in millions of distant galaxies.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Cutting-edge_infrared_space_telescope_Roman_set_to_launch\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The NASA-led Nancy Grace Roman Space Telescope is set to launch on 30 August 2026 at 07: 26 EDT / 12: 26 BST / 13: 26 CEST from NASA’s Kennedy Space Center in Florida, USA. With its wide field of view and advanced optical design, the Roman. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. The NASA-led Nancy Grace Roman Space Telescope is set to launch on 30 August 2026 at 07: 26 EDT / 12: 26 BST / 13: 26 CEST from NASA’s Kennedy Space Center in Florida, USA. In doing so, Roman will help reveal the nature of dark energy and dark matter and find new exoplanets.</p><p>“Through the Mission of Opportunity programme, Europe contributes scientific expertise, helping guide and maximise the mission&#x27;s scientific return.” ESA will also enable data. “It will combine Hubble-quality imaging with a field of view more than 200 times larger, allowing it to study billions of stars, millions of galaxies, thousands of exoplanets, and.</p><p>“This will enable astronomers to address some of the biggest open questions in astrophysics, from the nature of dark energy to the abundance of planets throughout our Milky Way. One of Roman’s main tasks will be to scan about 12% of the sky high above our galactic plane to look for the lensing effect in millions of distant galaxies.</p><p>Scientists think that dark energy makes up about 70% of the Universe and yet its nature remains a mystery. Roman will keep an eye on microlensing events that may reveal over 1200 new worlds.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>At the same time, the telescope is expected to reveal more than 100 000 transiting planets that dim the light of their host stars when the planets cross in front of them. Roman’s advanced coronagraph instrument will allow astronomers to directly image some of the exoplanets in detail by blocking the host stars’ light, even when the planet is over.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Cutting-edge_infrared_space_telescope_Roman_set_to_launch\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>The NASA-led Nancy Grace Roman Space Telescope is set to launch on 30 August 2026 at 07: 26 EDT / 12: 26 BST / 13: 26 CEST from NASA’s Kennedy Space Center in Florida, USA. With its wide field of view and advanced optical design, the Roman. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. The NASA-led Nancy Grace Roman Space Telescope is set to launch on 30 August 2026 at 07: 26 EDT / 12: 26 BST / 13: 26 CEST from NASA’s Kennedy Space Center in Florida, USA. With its wide field of view and advanced optical design, the Roman telescope will conduct detailed scans of the sky in visible to near-infrared light.</p><p>In doing so, Roman will help reveal the nature of dark energy and dark matter and find new exoplanets.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Cutting-edge_infrared_space_telescope_Roman_set_to_launch\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>The NASA-led Nancy Grace Roman Space Telescope is set to launch on 30 August 2026 at 07: 26 EDT / 12: 26 BST / 13: 26 CEST from NASA’s Kennedy Space Center in Florida, USA. With its wide field of view and advanced optical design, the Roman. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. The NASA-led Nancy Grace Roman Space Telescope is set to launch on 30 August 2026 at 07: 26 EDT / 12: 26 BST / 13: 26 CEST from NASA’s Kennedy Space Center in Florida, USA. With its wide field of view and advanced optical design, the Roman telescope will conduct detailed scans of the sky in visible to near-infrared light.</p><p>In doing so, Roman will help reveal the nature of dark energy and dark matter and find new exoplanets.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Cutting-edge_infrared_space_telescope_Roman_set_to_launch\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The NASA-led Nancy Grace Roman Space Telescope is set to launch on 30 August 2026 at 07: 26 EDT / 12: 26 BST / 13: 26 CEST from NASA’s Kennedy Space Center in Florida, USA. With its wide field of view and advanced optical design, the Roman. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. The NASA-led Nancy Grace Roman Space Telescope is set to launch on 30 August 2026 at 07: 26 EDT / 12: 26 BST / 13: 26 CEST from NASA’s Kennedy Space Center in Florida, USA. With its wide field of view and advanced optical design, the Roman telescope will conduct detailed scans of the sky in visible to near-infrared light.</p><p>In doing so, Roman will help reveal the nature of dark energy and dark matter and find new exoplanets.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Cutting-edge_infrared_space_telescope_Roman_set_to_launch\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: The NASA-led Nancy Grace Roman Space Telescope is set to launch on 30 August 2026 at 07: 26 EDT / 12: 26 BST / 13: 26 CEST from NASA’s Kennedy Space.",
       "Dado-chave: The NASA-led Nancy Grace Roman Space Telescope is set to launch on 30 August 2026 at 07: 26 EDT / 12: 26 BST / 13: 26 CEST from NASA’s Kennedy.",
@@ -2196,6 +2168,130 @@ window.postsData = [
   },
   {
     "id": 19,
+    "slug": "nasa-s-roman-telescope-set-to-launch-on-cosmic-mapping-mission",
+    "cat": "Física",
+    "catCls": "fisica",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-journalist-photograp.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-journalist-photograp.jpg",
+        "caption": "A journalist photographing the Nancy Grace Roman Space Telescope at NASA's Goddard Space Center in Greenbelt, Maryland in April 2026.",
+        "caption_pt": "A journalist photographing the Nancy Grace Roman Space Telescope at NASA's Goddard Space Center in Greenbelt, Maryland in April 2026.",
+        "caption_en": "A journalist photographing the Nancy Grace Roman Space Telescope at NASA's Goddard Space Center in Greenbelt, Maryland in April 2026.",
+        "alt": "A journalist photographing the Nancy Grace Roman Space Telescope at NASA's Goddard Space Center in Greenbelt, Maryland in April 2026",
+        "alt_pt": "A journalist photographing the Nancy Grace Roman Space Telescope at NASA's Goddard Space Center in Greenbelt, Maryland in April 2026",
+        "alt_en": "A journalist photographing the Nancy Grace Roman Space Telescope at NASA's Goddard Space Center in Greenbelt, Maryland in April 2026"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/8b33bc1b4d9f6b4c.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "NASA's Roman telescope set to launch on cosmic mapping mission",
+    "title_pt": "NASA's Roman telescope set to launch on cosmic mapping mission",
+    "title_en": "NASA's Roman telescope set to launch on cosmic mapping mission",
+    "sub": "NASA is preparing to launch its new flagship space telescope on Sunday, embarking on a multiyear mission to create an unprecedented map of the cosmos and shed light on some of the.",
+    "sub_pt": "NASA is preparing to launch its new flagship space telescope on Sunday, embarking on a multiyear mission to create an unprecedented map of the cosmos and shed light on some of the.",
+    "sub_en": "NASA is preparing to launch its new flagship space telescope on Sunday, embarking on a multiyear mission to create an unprecedented map of the cosmos and shed light on some of the.",
+    "excerpt": "NASA is preparing to launch its new flagship space telescope on Sunday, embarking on a multiyear mission to create an unprecedented map of the cosmos and shed light on some of the biggest mysteries in physics.",
+    "excerpt_pt": "NASA is preparing to launch its new flagship space telescope on Sunday, embarking on a multiyear mission to create an unprecedented map of the cosmos and shed light on some of the biggest mysteries in physics.",
+    "excerpt_en": "NASA is preparing to launch its new flagship space telescope on Sunday, embarking on a multiyear mission to create an unprecedented map of the cosmos and shed light on some of the biggest mysteries in physics.",
+    "body": "<p>NASA is preparing to launch its new flagship space telescope on Sunday, embarking on a multiyear mission to create an unprecedented map of the cosmos and shed light on some of the biggest mysteries in physics. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. This article has been reviewed according to Science X&#x27;s editorial process and policies. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source A journalist photographing the Nancy Grace Roman Space.</p><p>President Donald Trump said Friday during a ceremony at NASA headquarters in Houston, Texas. Standing more than 12 meters (39 feet) tall, the state-of-the-art observatory is scheduled to launch from Florida at 7: 26 a. m.</p><p>Developed over more than a decade at a cost topping $4 billion, the telescope is named after pioneering U. S.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-nasa-roman-telescope-cosmic-mission.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>NASA is preparing to launch its new flagship space telescope on Sunday, embarking on a multiyear mission to create an unprecedented map of the cosmos and shed light on some of the biggest mysteries in physics. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. This article has been reviewed according to Science X&#x27;s editorial process and policies. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source A journalist photographing the Nancy Grace Roman Space.</p><p>President Donald Trump said Friday during a ceremony at NASA headquarters in Houston, Texas. Standing more than 12 meters (39 feet) tall, the state-of-the-art observatory is scheduled to launch from Florida at 7: 26 a. m.</p><p>Developed over more than a decade at a cost topping $4 billion, the telescope is named after pioneering U. S.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-nasa-roman-telescope-cosmic-mission.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>NASA is preparing to launch its new flagship space telescope on Sunday, embarking on a multiyear mission to create an unprecedented map of the cosmos and shed light on some of the biggest mysteries in physics. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. This article has been reviewed according to Science X&#x27;s editorial process and policies. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source A journalist photographing the Nancy Grace Roman Space.</p><p>President Donald Trump said Friday during a ceremony at NASA headquarters in Houston, Texas. Standing more than 12 meters (39 feet) tall, the state-of-the-art observatory is scheduled to launch from Florida at 7: 26 a. m.</p><p>Developed over more than a decade at a cost topping $4 billion, the telescope is named after pioneering U. S. Astronomer Nancy Grace Roman, who became known as the &quot;Mother of Hubble,&quot; another of NASA&#x27;s flagship telescopes.</p><p>While Hubble revealed that the universe is expanding faster than previously thought, Roman will seek to answer some of the other unsolved mysteries, including those of dark matter. Roman will give the Earth a new atlas of the universe,&quot; NASA administrator Jared Isaacman said in April when he unveiled the project to the press.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>With a field of view more than 100 times larger than Hubble&#x27;s, and significantly wider than James Webb&#x27;s, Roman will survey vast swaths of the sky from a vantage point 1.5 million. Their origins remain unknown, but together they are believed to make up about 95% of the universe.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-nasa-roman-telescope-cosmic-mission.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: NASA is preparing to launch its new flagship space telescope on Sunday, embarking on a multiyear mission to create an unprecedented map of the cosmos.",
+      "Dado-chave: This article has been reviewed according to Science X's editorial process and policies.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: NASA is preparing to launch its new flagship space telescope on Sunday, embarking on a multiyear mission to create an unprecedented map of the cosmos.",
+      "Dado-chave: This article has been reviewed according to Science X's editorial process and policies.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: NASA is preparing to launch its new flagship space telescope on Sunday, embarking on a multiyear mission to create an unprecedented map of the cosmos.",
+      "Key detail: This article has been reviewed according to Science X's editorial process and policies.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "30 ago 2026",
+    "date_pt": "30 ago 2026",
+    "date_en": "30 Aug 2026",
+    "time": "10h00",
+    "time_pt": "10h00",
+    "time_en": "10:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-30T10:00:58+00:00",
+    "lastModifiedIso": "2026-08-30T10:00:58+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Física",
+      "Phys.org Space",
+      "Cosmos Week",
+      "NASA's Roman telescope set to launch on cosmic mapping mission"
+    ],
+    "keywords_pt": [
+      "Física",
+      "Phys.org Space",
+      "Cosmos Week",
+      "NASA's Roman telescope set to launch on cosmic mapping mission"
+    ],
+    "keywords_en": [
+      "Física",
+      "Phys.org Space",
+      "Cosmos Week",
+      "NASA's Roman telescope set to launch on cosmic mapping mission"
+    ],
+    "srcUrl": "https://phys.org/news/2026-08-nasa-roman-telescope-cosmic-mission.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-roman-telescope-set-to-launch-on-cosmic-mapping-mission",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-roman-telescope-set-to-launch-on-cosmic-mapping-mission",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-roman-telescope-set-to-launch-on-cosmic-mapping-mission&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 76,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 88,
+      "relevance": 82,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 20,
     "slug": "mission-fails-to-rescue-swift-observatory-updated",
     "cat": "Física",
     "catCls": "fisica",
@@ -2328,7 +2424,7 @@ window.postsData = [
     }
   },
   {
-    "id": 20,
+    "id": 21,
     "slug": "atlas-and-cms-narrow-in-on-double-higgs-production",
     "cat": "Física",
     "catCls": "fisica",
@@ -2443,139 +2539,6 @@ window.postsData = [
       "relevance": 68,
       "accessibility": 52,
       "novelty": 49
-    }
-  },
-  {
-    "id": 21,
-    "slug": "new-simulations-show-how-galactic-centers-grow-together",
-    "cat": "Física",
-    "catCls": "fisica",
-    "img": "https://www.universetoday.com/article_images/Portrait_of_the_Great_Barred_Spiral_20260825_233846.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.universetoday.com/article_images/JWST-NGC-1365-1024x816.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://www.universetoday.com/article_images/1262px-Hubble2005-01-barred-spiral-galaxy-NGC1300_20251122_095302.jpg",
-        "caption": "Barred spiral galaxy known as NGC 1300 viewed nearly face-on. It",
-        "caption_pt": "Barred spiral galaxy known as NGC 1300 viewed nearly face-on. It",
-        "caption_en": "Barred spiral galaxy known as NGC 1300 viewed nearly face-on. It",
-        "alt": "Barred spiral galaxy known as NGC 1300 viewed nearly face-on. It",
-        "alt_pt": "Barred spiral galaxy known as NGC 1300 viewed nearly face-on. It",
-        "alt_en": "Barred spiral galaxy known as NGC 1300 viewed nearly face-on. It"
-      },
-      {
-        "src": "https://www.universetoday.com/assets/patreon-plus-thumb.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "New Simulations Show How Galactic Centers Grow Together",
-    "title_pt": "New Simulations Show How Galactic Centers Grow Together",
-    "title_en": "New Simulations Show How Galactic Centers Grow Together",
-    "sub": "Using a state-of-the-art galaxy simulation, a team led by scientists from the Leibniz Institute for Astrophysics Potsdam gained new insights into the processes shaping galactic.",
-    "sub_pt": "Using a state-of-the-art galaxy simulation, a team led by scientists from the Leibniz Institute for Astrophysics Potsdam gained new insights into the processes shaping galactic.",
-    "sub_en": "Using a state-of-the-art galaxy simulation, a team led by scientists from the Leibniz Institute for Astrophysics Potsdam gained new insights into the processes shaping galactic.",
-    "excerpt": "Using a state-of-the-art galaxy simulation, a team led by scientists from the Leibniz Institute for Astrophysics Potsdam gained new insights into the processes shaping galactic centres across the Universe and the formation history of the.",
-    "excerpt_pt": "Using a state-of-the-art galaxy simulation, a team led by scientists from the Leibniz Institute for Astrophysics Potsdam gained new insights into the processes shaping galactic centres across the Universe and the formation history of the.",
-    "excerpt_en": "Using a state-of-the-art galaxy simulation, a team led by scientists from the Leibniz Institute for Astrophysics Potsdam gained new insights into the processes shaping galactic centres across the Universe and the formation history of the.",
-    "body": "<p>Using a state-of-the-art galaxy simulation, a team led by scientists from the Leibniz Institute for Astrophysics Potsdam gained new insights into the processes shaping galactic centres across the Universe and the formation history of the. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Using a state-of-the-art galaxy simulation, a team led by scientists from the Leibniz Institute for Astrophysics Potsdam (AIP) gained new insights into the processes shaping. By understanding the mechanics that govern galactic centers, scientists will be able to track how the Universe itself has evolved since the first galaxies emerged.</p><p>Using a state-of-the-art galaxy simulation, a team led by researchers from Leibniz Institute for Astrophysics Potsdam (AIP) has gained new insights into these processes. Their results, described in a study published in Astronomy &amp; Astrophysics, indicate that nuclear star clusters and stellar discs found in the inner core are not independent.</p><p>The diffraction spike in the center of NGC 1365 is a telescope artifact caused by an enormous amount of light in a compact region. NASA, ESA, CSA, STScI, Janice Lee (STScI), Thomas Williams (Oxford), PHANGS Team The team hoped to learn more about the physical processes that led to the formation of two.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/new-simulations-show-how-galactic-centers-grow-together\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Using a state-of-the-art galaxy simulation, a team led by scientists from the Leibniz Institute for Astrophysics Potsdam gained new insights into the processes shaping galactic centres across the Universe and the formation history of the. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Using a state-of-the-art galaxy simulation, a team led by scientists from the Leibniz Institute for Astrophysics Potsdam (AIP) gained new insights into the processes shaping. By understanding the mechanics that govern galactic centers, scientists will be able to track how the Universe itself has evolved since the first galaxies emerged.</p><p>Using a state-of-the-art galaxy simulation, a team led by researchers from Leibniz Institute for Astrophysics Potsdam (AIP) has gained new insights into these processes. Their results, described in a study published in Astronomy &amp; Astrophysics, indicate that nuclear star clusters and stellar discs found in the inner core are not independent.</p><p>The diffraction spike in the center of NGC 1365 is a telescope artifact caused by an enormous amount of light in a compact region. NASA, ESA, CSA, STScI, Janice Lee (STScI), Thomas Williams (Oxford), PHANGS Team The team hoped to learn more about the physical processes that led to the formation of two.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/new-simulations-show-how-galactic-centers-grow-together\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Using a state-of-the-art galaxy simulation, a team led by scientists from the Leibniz Institute for Astrophysics Potsdam gained new insights into the processes shaping galactic centres across the Universe and the formation history of the. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. Using a state-of-the-art galaxy simulation, a team led by scientists from the Leibniz Institute for Astrophysics Potsdam (AIP) gained new insights into the processes shaping. By understanding the mechanics that govern galactic centers, scientists will be able to track how the Universe itself has evolved since the first galaxies emerged.</p><p>Using a state-of-the-art galaxy simulation, a team led by researchers from Leibniz Institute for Astrophysics Potsdam (AIP) has gained new insights into these processes. Their results, described in a study published in Astronomy &amp; Astrophysics, indicate that nuclear star clusters and stellar discs found in the inner core are not independent.</p><p>The diffraction spike in the center of NGC 1365 is a telescope artifact caused by an enormous amount of light in a compact region. NASA, ESA, CSA, STScI, Janice Lee (STScI), Thomas Williams (Oxford), PHANGS Team The team hoped to learn more about the physical processes that led to the formation of two.</p><p>Despite the shared underlying growth mechanism, the clusters and stellar disks appeared remarkably different when observed at different stages in their evolution. Barred spiral galaxy known as NGC 1300 viewed nearly face-on.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>It&#x27;s thought the Milky Way is a barred spiral like this At one point in their simulations, a star cluster of 30 million solar masses spiraled into the galactic center and merged. This was particularly fascinating, since recent observations of NGC 1365 revealed a massive star cluster inside the galaxy&#x27;s bar.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/new-simulations-show-how-galactic-centers-grow-together\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Using a state-of-the-art galaxy simulation, a team led by scientists from the Leibniz Institute for Astrophysics Potsdam gained new insights into the.",
-      "Dado-chave: Using a state-of-the-art galaxy simulation, a team led by scientists from the Leibniz Institute for Astrophysics Potsdam (AIP) gained new.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Using a state-of-the-art galaxy simulation, a team led by scientists from the Leibniz Institute for Astrophysics Potsdam gained new insights into the.",
-      "Dado-chave: Using a state-of-the-art galaxy simulation, a team led by scientists from the Leibniz Institute for Astrophysics Potsdam (AIP) gained new.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Using a state-of-the-art galaxy simulation, a team led by scientists from the Leibniz Institute for Astrophysics Potsdam gained new insights into the.",
-      "Key detail: Using a state-of-the-art galaxy simulation, a team led by scientists from the Leibniz Institute for Astrophysics Potsdam (AIP) gained new.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "26 ago 2026",
-    "date_pt": "26 ago 2026",
-    "date_en": "26 Aug 2026",
-    "time": "01h28",
-    "time_pt": "01h28",
-    "time_en": "01:28 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-26T01:28:39+00:00",
-    "lastModifiedIso": "2026-08-26T01:28:39+00:00",
-    "source": "Universe Today",
-    "sourceDomain": "www.universetoday.com",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Física",
-      "Universe Today",
-      "Cosmos Week",
-      "New Simulations Show How Galactic Centers Grow Together"
-    ],
-    "keywords_pt": [
-      "Física",
-      "Universe Today",
-      "Cosmos Week",
-      "New Simulations Show How Galactic Centers Grow Together"
-    ],
-    "keywords_en": [
-      "Física",
-      "Universe Today",
-      "Cosmos Week",
-      "New Simulations Show How Galactic Centers Grow Together"
-    ],
-    "srcUrl": "https://www.universetoday.com/articles/new-simulations-show-how-galactic-centers-grow-together",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=new-simulations-show-how-galactic-centers-grow-together",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=new-simulations-show-how-galactic-centers-grow-together",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=new-simulations-show-how-galactic-centers-grow-together&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 72,
-    "scoreBreakdown": {
-      "source": 73,
-      "evidence": 82,
-      "relevance": 82,
-      "accessibility": 60,
-      "novelty": 46
     }
   },
   {
@@ -4205,35 +4168,7 @@ window.postsData = [
     "cat": "Ciências da Terra",
     "catCls": "terra",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/mtg-i2_begins_its_journey/27430195-5-eng-GB/MTG-I2_begins_its_journey_card_full.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/ariane_6_takes_mtg-i2_into_orbit/27430259-7-eng-GB/Ariane_6_takes_MTG-I2_into_orbit_article.jpg",
-        "caption": "Ariane 6 takes MTG-I2 into orbit",
-        "caption_pt": "Ariane 6 takes MTG-I2 into orbit",
-        "caption_en": "Ariane 6 takes MTG-I2 into orbit",
-        "alt": "Ariane 6 takes MTG-I2 into orbit",
-        "alt_pt": "Ariane 6 takes MTG-I2 into orbit",
-        "alt_en": "Ariane 6 takes MTG-I2 into orbit"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2022/12/mtg-i_patch/24617414-5-eng-GB/MTG-I_patch_article.png",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/the_mtg-i2_team_in_cleanroom_at_europe_s_spaceport/27407437-1-eng-GB/The_MTG-I2_team_in_cleanroom_at_Europe_s_Spaceport_article.jpg",
-        "caption": "Behind the scenes a team of experts has been inspecting every hinge, bolt and surface",
-        "caption_pt": "Behind the scenes a team of experts has been inspecting every hinge, bolt and surface",
-        "caption_en": "Behind the scenes a team of experts has been inspecting every hinge, bolt and surface",
-        "alt": "Behind the scenes a team of experts has been inspecting every hinge, bolt and surface",
-        "alt_pt": "Behind the scenes a team of experts has been inspecting every hinge, bolt and surface",
-        "alt_en": "Behind the scenes a team of experts has been inspecting every hinge, bolt and surface"
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "MTG-I2 completes Europe’s latest weather trio",
@@ -4245,22 +4180,22 @@ window.postsData = [
     "excerpt": "The second Meteosat Third Generation Imager satellite has been launched on board Ariane 6, flight VA270, from Europe’s Spaceport in French Guiana. It will complete the first family of MTG satellites, delivering data for weather forecasting.",
     "excerpt_pt": "The second Meteosat Third Generation Imager satellite has been launched on board Ariane 6, flight VA270, from Europe’s Spaceport in French Guiana. It will complete the first family of MTG satellites, delivering data for weather forecasting.",
     "excerpt_en": "The second Meteosat Third Generation Imager satellite has been launched on board Ariane 6, flight VA270, from Europe’s Spaceport in French Guiana. It will complete the first family of MTG satellites, delivering data for weather forecasting.",
-    "body": "<p>The second Meteosat Third Generation Imager satellite has been launched on board Ariane 6, flight VA270, from Europe’s Spaceport in French Guiana. It will complete the first family of MTG satellites, delivering data for weather forecasting. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Launch took place on Thursday, 27 August, at 22: 11 CEST (17: 11 local time). It will track developing weather fronts as they happen and provide high-resolution images of the atmosphere over Europe and northern Africa every 2.5 minutes.</p><p>ESA’s Director of Earth Observation Programmes, Simonetta Cheli, said, “My congratulations go to all the teams involved who have ensured the successful development of this mission. ESA’s MTG Project Manager, said, “After years of development and the past few months of intense launch preparations, it’s fantastic to see MTG-I2 being launched and on its way to.</p><p>Since MTG-I2 is the second imaging satellite to join the MTG constellation, it will provide continuity and operational resilience for the mission. The first MTG-Imager satellite was launched in 2022, followed by the MTG-Sounder, launched last year.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/MTG-I2_completes_Europe_s_latest_weather_trio\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>The second Meteosat Third Generation Imager satellite has been launched on board Ariane 6, flight VA270, from Europe’s Spaceport in French Guiana. It will complete the first family of MTG satellites, delivering data for weather forecasting. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Launch took place on Thursday, 27 August, at 22: 11 CEST (17: 11 local time). It will track developing weather fronts as they happen and provide high-resolution images of the atmosphere over Europe and northern Africa every 2.5 minutes.</p><p>ESA’s Director of Earth Observation Programmes, Simonetta Cheli, said, “My congratulations go to all the teams involved who have ensured the successful development of this mission. ESA’s MTG Project Manager, said, “After years of development and the past few months of intense launch preparations, it’s fantastic to see MTG-I2 being launched and on its way to.</p><p>Since MTG-I2 is the second imaging satellite to join the MTG constellation, it will provide continuity and operational resilience for the mission. The first MTG-Imager satellite was launched in 2022, followed by the MTG-Sounder, launched last year.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/MTG-I2_completes_Europe_s_latest_weather_trio\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The second Meteosat Third Generation Imager satellite has been launched on board Ariane 6, flight VA270, from Europe’s Spaceport in French Guiana. It will complete the first family of MTG satellites, delivering data for weather forecasting. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Launch took place on Thursday, 27 August, at 22: 11 CEST (17: 11 local time). It will track developing weather fronts as they happen and provide high-resolution images of the atmosphere over Europe and northern Africa every 2.5 minutes.</p><p>ESA’s Director of Earth Observation Programmes, Simonetta Cheli, said, “My congratulations go to all the teams involved who have ensured the successful development of this mission. ESA’s MTG Project Manager, said, “After years of development and the past few months of intense launch preparations, it’s fantastic to see MTG-I2 being launched and on its way to.</p><p>Since MTG-I2 is the second imaging satellite to join the MTG constellation, it will provide continuity and operational resilience for the mission. The first MTG-Imager satellite was launched in 2022, followed by the MTG-Sounder, launched last year.</p><p>MTG-I2 completes the three-satellite system and, once it has been commissioned, will enable the mission to begin operating at full capacity. From 2033, the second ‘family’ of MTG satellites will be launched in sequence to extend the mission’s duration beyond 2040.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>The satellite will be placed in geostationary orbit, sometimes compared to a ‘hawk’s eye’ position because the satellites follow the same point on Earth’s surface as it rotates. For MTG-I2, it will provide the rapid scanning service over Europe, delivering new observations every 2.5 minutes.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/MTG-I2_completes_Europe_s_latest_weather_trio\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>The second Meteosat Third Generation Imager satellite has been launched on board Ariane 6, flight VA270, from Europe’s Spaceport in French Guiana. It will complete the first family of MTG satellites, delivering data for weather forecasting. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. The second Meteosat Third Generation Imager satellite (MTG-I2) has been launched on board Ariane 6, flight VA270, from Europe’s Spaceport in French Guiana. It will complete the first family of MTG satellites, delivering data for weather forecasting over Europe and northern Africa with unprecedented quality, quantity and frequency.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/MTG-I2_completes_Europe_s_latest_weather_trio\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>The second Meteosat Third Generation Imager satellite has been launched on board Ariane 6, flight VA270, from Europe’s Spaceport in French Guiana. It will complete the first family of MTG satellites, delivering data for weather forecasting. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. The second Meteosat Third Generation Imager satellite (MTG-I2) has been launched on board Ariane 6, flight VA270, from Europe’s Spaceport in French Guiana. It will complete the first family of MTG satellites, delivering data for weather forecasting over Europe and northern Africa with unprecedented quality, quantity and frequency.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/MTG-I2_completes_Europe_s_latest_weather_trio\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The second Meteosat Third Generation Imager satellite has been launched on board Ariane 6, flight VA270, from Europe’s Spaceport in French Guiana. It will complete the first family of MTG satellites, delivering data for weather forecasting. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The second Meteosat Third Generation Imager satellite (MTG-I2) has been launched on board Ariane 6, flight VA270, from Europe’s Spaceport in French Guiana. It will complete the first family of MTG satellites, delivering data for weather forecasting over Europe and northern Africa with unprecedented quality, quantity and frequency.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/MTG-I2_completes_Europe_s_latest_weather_trio\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: The second Meteosat Third Generation Imager satellite has been launched on board Ariane 6, flight VA270, from Europe’s Spaceport in French Guiana. It.",
-      "Dado-chave: Launch took place on Thursday, 27 August, at 22: 11 CEST (17: 11 local time).",
+      "Dado-chave: The second Meteosat Third Generation Imager satellite (MTG-I2) has been launched on board Ariane 6, flight VA270, from Europe’s Spaceport in.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: The second Meteosat Third Generation Imager satellite has been launched on board Ariane 6, flight VA270, from Europe’s Spaceport in French Guiana. It.",
-      "Dado-chave: Launch took place on Thursday, 27 August, at 22: 11 CEST (17: 11 local time).",
+      "Dado-chave: The second Meteosat Third Generation Imager satellite (MTG-I2) has been launched on board Ariane 6, flight VA270, from Europe’s Spaceport in.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: The second Meteosat Third Generation Imager satellite has been launched on board Ariane 6, flight VA270, from Europe’s Spaceport in French Guiana. It.",
-      "Key detail: Launch took place on Thursday, 27 August, at 22: 11 CEST (17: 11 local time).",
+      "Key detail: The second Meteosat Third Generation Imager satellite (MTG-I2) has been launched on board Ariane 6, flight VA270, from Europe’s Spaceport in.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "27 ago 2026",

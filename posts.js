@@ -37,17 +37,17 @@ window.postsData = [
       "Key detail: NIH-funded international research collaboration catalogues 25 tumor types from thousands of patient donors.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "02 set 2026",
-    "date_pt": "02 set 2026",
-    "date_en": "02 Sep 2026",
-    "time": "21h45",
-    "time_pt": "21h45",
-    "time_en": "21:45 UTC",
+    "date": "03 set 2026",
+    "date_pt": "03 set 2026",
+    "date_en": "03 Sep 2026",
+    "time": "00h06",
+    "time_pt": "00h06",
+    "time_en": "00:06 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-09-02T21:45:16.642772+00:00",
-    "lastModifiedIso": "2026-09-02T21:45:16.642772+00:00",
+    "publishedIso": "2026-09-03T00:06:13.613796+00:00",
+    "lastModifiedIso": "2026-09-03T00:06:13.613796+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -142,17 +142,17 @@ window.postsData = [
       "Key detail: Cho joins NIH from the Icahn School of Medicine at Mount Sinai in New York City.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "02 set 2026",
-    "date_pt": "02 set 2026",
-    "date_en": "02 Sep 2026",
-    "time": "21h45",
-    "time_pt": "21h45",
-    "time_en": "21:45 UTC",
+    "date": "03 set 2026",
+    "date_pt": "03 set 2026",
+    "date_en": "03 Sep 2026",
+    "time": "00h06",
+    "time_pt": "00h06",
+    "time_en": "00:06 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-09-02T21:45:16.642721+00:00",
-    "lastModifiedIso": "2026-09-02T21:45:16.642721+00:00",
+    "publishedIso": "2026-09-03T00:06:13.613746+00:00",
+    "lastModifiedIso": "2026-09-03T00:06:13.613746+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -247,17 +247,17 @@ window.postsData = [
       "Key detail: In this new study, researchers tested the efficacy of a new program, called Traditions and Connections for Urban Native Americans (TACUNA), that.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "02 set 2026",
-    "date_pt": "02 set 2026",
-    "date_en": "02 Sep 2026",
-    "time": "21h45",
-    "time_pt": "21h45",
-    "time_en": "21:45 UTC",
+    "date": "03 set 2026",
+    "date_pt": "03 set 2026",
+    "date_en": "03 Sep 2026",
+    "time": "00h06",
+    "time_pt": "00h06",
+    "time_en": "00:06 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-09-02T21:45:16.642673+00:00",
-    "lastModifiedIso": "2026-09-02T21:45:16.642673+00:00",
+    "publishedIso": "2026-09-03T00:06:13.613694+00:00",
+    "lastModifiedIso": "2026-09-03T00:06:13.613694+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -352,17 +352,17 @@ window.postsData = [
       "Key detail: In 2025, adults in the United States reported using cannabis at or near record-high levels, continuing a long-term trend of increasing use.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "02 set 2026",
-    "date_pt": "02 set 2026",
-    "date_en": "02 Sep 2026",
-    "time": "21h45",
-    "time_pt": "21h45",
-    "time_en": "21:45 UTC",
+    "date": "03 set 2026",
+    "date_pt": "03 set 2026",
+    "date_en": "03 Sep 2026",
+    "time": "00h06",
+    "time_pt": "00h06",
+    "time_en": "00:06 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-09-02T21:45:16.642620+00:00",
-    "lastModifiedIso": "2026-09-02T21:45:16.642620+00:00",
+    "publishedIso": "2026-09-03T00:06:13.613642+00:00",
+    "lastModifiedIso": "2026-09-03T00:06:13.613642+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -457,17 +457,17 @@ window.postsData = [
       "Key detail: A National Institutes of Health (NIH)-funded scientific team has shown that under the right circumstances, 3D cell culture models of human brain.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "02 set 2026",
-    "date_pt": "02 set 2026",
-    "date_en": "02 Sep 2026",
-    "time": "21h45",
-    "time_pt": "21h45",
-    "time_en": "21:45 UTC",
+    "date": "03 set 2026",
+    "date_pt": "03 set 2026",
+    "date_en": "03 Sep 2026",
+    "time": "00h06",
+    "time_pt": "00h06",
+    "time_en": "00:06 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-09-02T21:45:16.642567+00:00",
-    "lastModifiedIso": "2026-09-02T21:45:16.642567+00:00",
+    "publishedIso": "2026-09-03T00:06:13.613591+00:00",
+    "lastModifiedIso": "2026-09-03T00:06:13.613591+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -528,6 +528,139 @@ window.postsData = [
   },
   {
     "id": 6,
+    "slug": "physicists-determine-cause-of-runaway-supermassive-black-hole",
+    "cat": "Astrofísica",
+    "catCls": "astrofisica",
+    "img": "https://www.universetoday.com/article_images/Runaway-black-hole-illustration-cropped-NASA_20260829_222940.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.universetoday.com/article_images/Runaway-black-hole-cropped-HST-NASA_20260829_223147.jpg",
+        "caption": "Os cientistas primeiro descartaram a linha como um artefato de imagem do Hubble",
+        "caption_pt": "Os cientistas primeiro descartaram a linha como um artefato de imagem do Hubble",
+        "caption_en": "Scientists first dismissed the line as an imaging artifact from Hubble",
+        "alt": "Os cientistas primeiro descartaram a linha como um artefato de imagem do Hubble",
+        "alt_pt": "Os cientistas primeiro descartaram a linha como um artefato de imagem do Hubble",
+        "alt_en": "Scientists first dismissed the line as an imaging artifact from Hubble"
+      },
+      {
+        "src": "https://www.universetoday.com/article_images/rsmbh_illus_20260902_224030.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://www.universetoday.com/assets/patreon-plus-thumb.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Físicos determinam a causa do buraco negro supermassivo “em fuga”",
+    "title_pt": "Físicos determinam a causa do buraco negro supermassivo “em fuga”",
+    "title_en": "Physicists Determine Cause of \"Runaway\" Supermassive Black Hole",
+    "sub": "Pesquisadores da UCSB e UT Austin determinaram que uma fusão galáctica lançou um buraco negro supermassivo para o espaço intergaláctico.",
+    "sub_pt": "Pesquisadores da UCSB e UT Austin determinaram que uma fusão galáctica lançou um buraco negro supermassivo para o espaço intergaláctico.",
+    "sub_en": "Researchers at UCSB and UT Austin have determined that a galactic merger kicked a supermassive black hole into intergalactic space.",
+    "excerpt": "Pesquisadores da UCSB e UT Austin determinaram que uma fusão galáctica lançou um buraco negro supermassivo para o espaço intergaláctico.",
+    "excerpt_pt": "Pesquisadores da UCSB e UT Austin determinaram que uma fusão galáctica lançou um buraco negro supermassivo para o espaço intergaláctico.",
+    "excerpt_en": "Researchers at UCSB and UT Austin have determined that a galactic merger kicked a supermassive black hole into intergalactic space.",
+    "body": "<p>Pesquisadores da UCSB e UT Austin determinaram que uma fusão galáctica lançou um buraco negro supermassivo para o espaço intergaláctico. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Em setembro de 2022, os astrónomos observaram algo muito estranho numa galáxia a cerca de 7,5 mil milhões de anos-luz da Terra. Estendendo-se a partir desta galáxia havia uma linha fina que se estendia por mais de 202.000 anos-luz do centro da galáxia.</p><p>No final, parecia haver uma característica não resolvida sem estrelas avançando através do espaço intergaláctico a cerca de 1.000 km/s (620 mi/s), causando a formação de novas. A equipe chamou esse recurso de RBH-1 e deduziu que se tratava de um buraco negro supermassivo expulso de sua galáxia por algum evento violento.</p><p>Num estudo recente, uma equipe liderada por astrônomos da Universidade da Califórnia, Santa Bárbara (UCSB) observou RBH-1 usando dados do Telescópio Espacial Hubble e do. Se os buracos negros forem desequilibrados, as ondas produzidas por uma fusão podem ser fortes o suficiente para lançar o buraco negro recém-formado numa direção diferente.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/physicists-determine-cause-of-runaway-supermassive-black-hole\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Pesquisadores da UCSB e UT Austin determinaram que uma fusão galáctica lançou um buraco negro supermassivo para o espaço intergaláctico. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Em setembro de 2022, os astrónomos observaram algo muito estranho numa galáxia a cerca de 7,5 mil milhões de anos-luz da Terra. Estendendo-se a partir desta galáxia havia uma linha fina que se estendia por mais de 202.000 anos-luz do centro da galáxia.</p><p>No final, parecia haver uma característica não resolvida sem estrelas avançando através do espaço intergaláctico a cerca de 1.000 km/s (620 mi/s), causando a formação de novas. A equipe chamou esse recurso de RBH-1 e deduziu que se tratava de um buraco negro supermassivo expulso de sua galáxia por algum evento violento.</p><p>Num estudo recente, uma equipe liderada por astrônomos da Universidade da Califórnia, Santa Bárbara (UCSB) observou RBH-1 usando dados do Telescópio Espacial Hubble e do. Se os buracos negros forem desequilibrados, as ondas produzidas por uma fusão podem ser fortes o suficiente para lançar o buraco negro recém-formado numa direção diferente.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/physicists-determine-cause-of-runaway-supermassive-black-hole\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Researchers at UCSB and UT Austin have determined that a galactic merger kicked a supermassive black hole into intergalactic space. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. In September 2022, astronomers observed something very odd in a galaxy around 7.5 billion light-years from Earth. Extending from this galaxy was a thin line stretching more than 202,000 light-years from the galaxy&#x27;s center.</p><p>At the end, there appeared to be an unresolved feature with no stars pushing through intergalactic space at close to 1,000 km/s (620 mi/s), causing new stars to form in its wake. The team named this feature RBH-1 and deduced that it was a supermassive black hole kicked from its galaxy by some violent event.</p><p>In a recent study, a team led by astronomers from the University of California, Santa Barbara (UCSB) observed RBH-1 using data from the Hubble Space Telescope and the James Webb. If the black holes are lopsided, the waves produced from a merger can be strong enough to launch the newly formed black hole in a different direction.</p><p>Scientists first dismissed the line as an imaging artifact from Hubble&#x27;s cameras. NASA/ESA/Pieter van Dokkum (Yale)/Joseph DePasquale (STScI) The SMBH in question, known as RBH-1, was previously identified by another team of astronomers, who determined it was a.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>The team led by Tousif Islam, a professor of mathematics at the Kavli Institute for Theoretical Physics (KITP) at UCSB and the paper&#x27;s lead author, followed up by tracing RBH-1. However, by the time RBH-1 was created by the merger of two black holes (7.5 billion years ago), neighboring galaxies would have SMBHs that had already grown through consolidation.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/physicists-determine-cause-of-runaway-supermassive-black-hole\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Pesquisadores da UCSB e UT Austin determinaram que uma fusão galáctica lançou um buraco negro supermassivo para o espaço intergaláctico.",
+      "Dado-chave: Em setembro de 2022, os astrónomos observaram algo muito estranho numa galáxia a cerca de 7,5 mil milhões de anos-luz da Terra.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Pesquisadores da UCSB e UT Austin determinaram que uma fusão galáctica lançou um buraco negro supermassivo para o espaço intergaláctico.",
+      "Dado-chave: Em setembro de 2022, os astrónomos observaram algo muito estranho numa galáxia a cerca de 7,5 mil milhões de anos-luz da Terra.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Researchers at UCSB and UT Austin have determined that a galactic merger kicked a supermassive black hole into intergalactic space.",
+      "Key detail: In September 2022, astronomers observed something very odd in a galaxy around 7.5 billion light-years from Earth.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "02 set 2026",
+    "date_pt": "02 set 2026",
+    "date_en": "02 Sep 2026",
+    "time": "20h55",
+    "time_pt": "20h55",
+    "time_en": "20:55 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-09-02T20:55:00+00:00",
+    "lastModifiedIso": "2026-09-02T20:55:00+00:00",
+    "source": "Universe Today",
+    "sourceDomain": "www.universetoday.com",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astrofísica",
+      "Universe Today",
+      "Cosmos Week",
+      "Físicos determinam a causa do buraco negro supermassivo “em fuga”"
+    ],
+    "keywords_pt": [
+      "Astrofísica",
+      "Universe Today",
+      "Cosmos Week",
+      "Físicos determinam a causa do buraco negro supermassivo “em fuga”"
+    ],
+    "keywords_en": [
+      "Astrophysics",
+      "Universe Today",
+      "Cosmos Week",
+      "Physicists determine cause of “runaway” supermassive black hole"
+    ],
+    "srcUrl": "https://www.universetoday.com/articles/physicists-determine-cause-of-runaway-supermassive-black-hole",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=physicists-determine-cause-of-runaway-supermassive-black-hole",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=physicists-determine-cause-of-runaway-supermassive-black-hole",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=physicists-determine-cause-of-runaway-supermassive-black-hole&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 75,
+    "scoreBreakdown": {
+      "source": 73,
+      "evidence": 82,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
     "slug": "hubble-tracks-new-decagon-encircling-saturn-s-south-pole",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -646,7 +779,7 @@ window.postsData = [
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -660,7 +793,7 @@ window.postsData = [
     }
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "cluster-s-final-reentry-strengthens-data-for-safer-more-sustainable-satellite-design",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -806,7 +939,7 @@ window.postsData = [
     }
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "new-research-shows-how-mercury-s-crust-formed-by-extreme-volcanism",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -939,7 +1072,7 @@ window.postsData = [
     }
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "nasa-rocket-takes-first-multi-point-look-inside-radio-disrupting-clouds",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1079,139 +1212,6 @@ window.postsData = [
     "scoreBreakdown": {
       "source": 76,
       "evidence": 82,
-      "relevance": 80,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 10,
-    "slug": "nasa-s-hubble-tracks-new-decagon-encircling-saturn-s-south-pole",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/09/STScI-01M0T8BARTCFQW684XQ932TNNM.png?w=2494&h=1247&fit=clip&crop=faces%2Cfocalpoint",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/07/hubble-space-telescope-hst-6.jpg?w=4031&h=4095&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/internal_resources/462/Pillars_of_Creation-1.jpeg?w=539&h=565&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2024/07/STScI-01J1X1RNTC893XMKJREG898ZXB.tif?w=1536",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Hubble da NASA rastreia novo decágono circundando o pólo sul de Saturno",
-    "title_pt": "Hubble da NASA rastreia novo decágono circundando o pólo sul de Saturno",
-    "title_en": "NASA’s Hubble Tracks New Decagon Encircling Saturn’s South Pole",
-    "sub": "O Telescópio Espacial Hubble da NASA observa uma onda atmosférica gigante, em evolução, de 10 lados, circundando o pólo sul de Saturno.",
-    "sub_pt": "O Telescópio Espacial Hubble da NASA observa uma onda atmosférica gigante, em evolução, de 10 lados, circundando o pólo sul de Saturno.",
-    "sub_en": "NASA’s Hubble Space Telescope observes a giant, evolving, 10-sided atmospheric wave encircling Saturn’s south pole.",
-    "excerpt": "O Telescópio Espacial Hubble da NASA observa uma onda atmosférica gigante, em evolução, de 10 lados, circundando o pólo sul de Saturno.",
-    "excerpt_pt": "O Telescópio Espacial Hubble da NASA observa uma onda atmosférica gigante, em evolução, de 10 lados, circundando o pólo sul de Saturno.",
-    "excerpt_en": "NASA’s Hubble Space Telescope observes a giant, evolving, 10-sided atmospheric wave encircling Saturn’s south pole.",
-    "body": "<p>O Telescópio Espacial Hubble da NASA observa uma onda atmosférica gigante, em evolução, de 10 lados, circundando o pólo sul de Saturno. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Alyssa Pagan Observações recentes com o Telescópio Espacial Hubble da NASA revelaram uma onda atmosférica gigante, em evolução, de 10 lados, circundando o pólo sul de Saturno. Esta característica é diferente, parece estar a fortalecer-se, dando-nos a rara oportunidade de observar o desenvolvimento de um padrão atmosférico gigante.” A descoberta foi.</p><p>Os dados do Hubble confirmaram a presença do recurso até 2023.” Um único filtro do Telescópio Espacial Hubble da NASA mostra claramente uma onda de 10 lados circundando o pólo sul. “A questão é: por que isso se formou de repente agora, quando nunca vimos um antes?” Os autores dizem que são necessários mais estudos do Hubble e do Telescópio Espacial James.</p><p>Continue explorando Descubra mais tópicos do Hubble Telescópio Espacial Hubble Desde seu lançamento em 1990, o Telescópio Espacial Hubble mudou nossa compreensão fundamental do. Equipe Romana Equipe Hubble Aspirações de carreira Astronautas do Hubble Imagens multimídia Vídeos Atividades on-line e-books Sonificações Podcasts Modelos 3D do Hubble.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/missions/hubble/nasas-hubble-tracks-new-decagon-encircling-saturns-south-pole/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>O Telescópio Espacial Hubble da NASA observa uma onda atmosférica gigante, em evolução, de 10 lados, circundando o pólo sul de Saturno. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Alyssa Pagan Observações recentes com o Telescópio Espacial Hubble da NASA revelaram uma onda atmosférica gigante, em evolução, de 10 lados, circundando o pólo sul de Saturno. Esta característica é diferente, parece estar a fortalecer-se, dando-nos a rara oportunidade de observar o desenvolvimento de um padrão atmosférico gigante.” A descoberta foi.</p><p>Os dados do Hubble confirmaram a presença do recurso até 2023.” Um único filtro do Telescópio Espacial Hubble da NASA mostra claramente uma onda de 10 lados circundando o pólo sul. “A questão é: por que isso se formou de repente agora, quando nunca vimos um antes?” Os autores dizem que são necessários mais estudos do Hubble e do Telescópio Espacial James.</p><p>Continue explorando Descubra mais tópicos do Hubble Telescópio Espacial Hubble Desde seu lançamento em 1990, o Telescópio Espacial Hubble mudou nossa compreensão fundamental do. Equipe Romana Equipe Hubble Aspirações de carreira Astronautas do Hubble Imagens multimídia Vídeos Atividades on-line e-books Sonificações Podcasts Modelos 3D do Hubble.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/missions/hubble/nasas-hubble-tracks-new-decagon-encircling-saturns-south-pole/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>NASA’s Hubble Space Telescope observes a giant, evolving, 10-sided atmospheric wave encircling Saturn’s south pole. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Alyssa Pagan Recent observations with NASA’s Hubble Space Telescope have revealed a giant, evolving, 10-sided atmospheric wave encircling Saturn’s south pole. This feature is different, it appears to be strengthening, giving us the rare opportunity to watch a giant atmospheric pattern develop.” The discovery was possible because.</p><p>The Hubble data confirmed the feature’s presence back to 2023.” A single filter from NASA’s Hubble Space Telescope distinctly shows a 10-sided wave encircling Saturn’s south pole. “The question is, why did it suddenly form now when we haven’t seen one before?” The authors say further study is needed from Hubble and NASA’s James Webb Space Telescope, as well.</p><p>Keep Exploring Discover More Topics From Hubble Hubble Space Telescope Since its 1990 launch, the Hubble Space Telescope has changed our fundamental understanding of the universe. Roman Team Hubble Team Career Aspirations Hubble Astronauts Multimedia Images Videos Online Activities e-Books Sonifications Podcasts 3D Hubble Models Lithographs Fact Sheets.</p><p>This feature is different, it appears to be strengthening, giving us the rare opportunity to watch a giant atmospheric pattern develop.&quot; The discovery was possible because. Hubble’s view from space offers unmatched image sharpness and spatial resolution over full rotations of Saturn, without smearing by Earth’s atmosphere.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>“Given Saturn’s symmetry in its north-south jet stream system, we have been searching for a counterpart to Saturn’s northern hexagon on the south pole in Hubble images since. “Images from NASA’s Cassini spacecraft, which orbited Saturn between 2004 and 2017, showed no inkling of a long-lived formation, either.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/missions/hubble/nasas-hubble-tracks-new-decagon-encircling-saturns-south-pole/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: O Telescópio Espacial Hubble da NASA observa uma onda atmosférica gigante, em evolução, de 10 lados, circundando o pólo sul de Saturno.",
-      "Dado-chave: Alyssa Pagan Observações recentes com o Telescópio Espacial Hubble da NASA revelaram uma onda atmosférica gigante, em evolução, de 10 lados.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: O Telescópio Espacial Hubble da NASA observa uma onda atmosférica gigante, em evolução, de 10 lados, circundando o pólo sul de Saturno.",
-      "Dado-chave: Alyssa Pagan Observações recentes com o Telescópio Espacial Hubble da NASA revelaram uma onda atmosférica gigante, em evolução, de 10 lados.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: NASA’s Hubble Space Telescope observes a giant, evolving, 10-sided atmospheric wave encircling Saturn’s south pole.",
-      "Key detail: Alyssa Pagan Recent observations with NASA’s Hubble Space Telescope have revealed a giant, evolving, 10-sided atmospheric wave encircling.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "02 set 2026",
-    "date_pt": "02 set 2026",
-    "date_en": "02 Sep 2026",
-    "time": "18h00",
-    "time_pt": "18h00",
-    "time_en": "18:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-09-02T18:00:37+00:00",
-    "lastModifiedIso": "2026-09-02T18:00:37+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science.nasa.gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Hubble da NASA rastreia novo decágono circundando o pólo sul de Saturno"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Hubble da NASA rastreia novo decágono circundando o pólo sul de Saturno"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA's Hubble tracks new decagon circling Saturn's south pole"
-    ],
-    "srcUrl": "https://science.nasa.gov/missions/hubble/nasas-hubble-tracks-new-decagon-encircling-saturns-south-pole/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-hubble-tracks-new-decagon-encircling-saturn-s-south-pole",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-hubble-tracks-new-decagon-encircling-saturn-s-south-pole",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-hubble-tracks-new-decagon-encircling-saturn-s-south-pole&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 79,
-    "scoreBreakdown": {
-      "source": 94,
-      "evidence": 88,
       "relevance": 80,
       "accessibility": 60,
       "novelty": 55
@@ -2027,139 +2027,6 @@ window.postsData = [
   },
   {
     "id": 17,
-    "slug": "four-little-red-dot-pairs-hint-at-black-hole-mergers-in-early-universe",
-    "cat": "Astrofísica",
-    "catCls": "astrofisica",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-have-uncov.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-have-uncov.jpg",
-        "caption": "Pesquisadores descobriram um buraco negro crescente rumo a uma fusão no universo primitivo",
-        "caption_pt": "Pesquisadores descobriram um buraco negro crescente rumo a uma fusão no universo primitivo",
-        "caption_en": "Researchers have uncovered a growing black hole heading toward a merger in the early universe",
-        "alt": "Pesquisadores descobriram um buraco negro crescente rumo a uma fusão no universo primitivo",
-        "alt_pt": "Pesquisadores descobriram um buraco negro crescente rumo a uma fusão no universo primitivo",
-        "alt_en": "Researchers have uncovered a growing black hole heading toward a merger in the early universe"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-have-uncov-3.jpg",
-        "caption": "Pesquisadores descobriram um buraco negro crescente rumo a uma fusão no universo primitivo",
-        "caption_pt": "Pesquisadores descobriram um buraco negro crescente rumo a uma fusão no universo primitivo",
-        "caption_en": "Researchers have uncovered a growing black hole heading toward a merger in the early universe",
-        "alt": "Pesquisadores descobriram um buraco negro crescente rumo a uma fusão no universo primitivo",
-        "alt_pt": "Pesquisadores descobriram um buraco negro crescente rumo a uma fusão no universo primitivo",
-        "alt_en": "Researchers have uncovered a growing black hole heading toward a merger in the early universe"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800/2026/researchers-have-uncov-1.jpg",
-        "caption": "Pesquisadores descobriram um buraco negro crescente rumo a uma fusão no universo primitivo",
-        "caption_pt": "Pesquisadores descobriram um buraco negro crescente rumo a uma fusão no universo primitivo",
-        "caption_en": "Researchers have uncovered a growing black hole heading toward a merger in the early universe",
-        "alt": "Pesquisadores descobriram um buraco negro crescente rumo a uma fusão no universo primitivo",
-        "alt_pt": "Pesquisadores descobriram um buraco negro crescente rumo a uma fusão no universo primitivo",
-        "alt_en": "Researchers have uncovered a growing black hole heading toward a merger in the early universe"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Quatro pares de 'Little Red Dot' sugerem fusões de buracos negros no início do universo",
-    "title_pt": "Quatro pares de 'Little Red Dot' sugerem fusões de buracos negros no início do universo",
-    "title_en": "Four 'Little Red Dot' pairs hint at black hole mergers in early universe",
-    "sub": "Depois de analisar imagens infravermelhas capturadas pelo Telescópio Espacial James Webb, uma equipe internacional de pesquisadores descobriu vários buracos negros massivos de.",
-    "sub_pt": "Depois de analisar imagens infravermelhas capturadas pelo Telescópio Espacial James Webb, uma equipe internacional de pesquisadores descobriu vários buracos negros massivos de.",
-    "sub_en": "After analyzing infrared images captured by the James Webb Space Telescope, an international team of researchers has discovered multiple massive black holes from approximately.",
-    "excerpt": "Depois de analisar imagens infravermelhas capturadas pelo Telescópio Espacial James Webb, uma equipe internacional de pesquisadores descobriu vários buracos negros massivos de aproximadamente 12,5, 12,8 bilhões de anos atrás que estavam se acumulando.",
-    "excerpt_pt": "Depois de analisar imagens infravermelhas capturadas pelo Telescópio Espacial James Webb, uma equipe internacional de pesquisadores descobriu vários buracos negros massivos de aproximadamente 12,5, 12,8 bilhões de anos atrás que estavam se acumulando.",
-    "excerpt_en": "After analyzing infrared images captured by the James Webb Space Telescope, an international team of researchers has discovered multiple massive black holes from approximately 12.5, 12.8 billion years ago that were actively accumulating.",
-    "body": "<p>Depois de analisar imagens infravermelhas capturadas pelo Telescópio Espacial James Webb, uma equipe internacional de pesquisadores descobriu vários buracos negros massivos de aproximadamente 12,5, 12,8 bilhões de anos atrás que estavam se acumulando ativamente. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Depois de analisar imagens infravermelhas capturadas pelo Telescópio Espacial James Webb (JWST), uma equipe internacional de pesquisadores descobriu vários buracos negros massivos. Por Instituto Kavli de Física e Matemática do Universo, Universidade de Tóquio Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.</p><p>Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida Imagens infravermelhas de cores falsas do JWST. COSMOS-Web / Tanaka Depois de analisar imagens infravermelhas capturadas pelo Telescópio Espacial James Webb (JWST), uma equipe internacional de pesquisadores descobriu vários.</p><p>Ao continuar a busca por essas fusões de buracos negros usando o método de análise de imagem desenvolvido neste estudo e medindo estatisticamente a proporção de buracos negros. O JWST, que está em operação desde 2022, identificou vários novos tipos de objetos no universo distante que são muito pequenos e têm uma cor vermelha característica.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-red-dot-pairs-hint-black.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Depois de analisar imagens infravermelhas capturadas pelo Telescópio Espacial James Webb, uma equipe internacional de pesquisadores descobriu vários buracos negros massivos de aproximadamente 12,5, 12,8 bilhões de anos atrás que estavam se acumulando ativamente. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Depois de analisar imagens infravermelhas capturadas pelo Telescópio Espacial James Webb (JWST), uma equipe internacional de pesquisadores descobriu vários buracos negros massivos. Por Instituto Kavli de Física e Matemática do Universo, Universidade de Tóquio Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.</p><p>Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida Imagens infravermelhas de cores falsas do JWST. COSMOS-Web / Tanaka Depois de analisar imagens infravermelhas capturadas pelo Telescópio Espacial James Webb (JWST), uma equipe internacional de pesquisadores descobriu vários.</p><p>Ao continuar a busca por essas fusões de buracos negros usando o método de análise de imagem desenvolvido neste estudo e medindo estatisticamente a proporção de buracos negros. O JWST, que está em operação desde 2022, identificou vários novos tipos de objetos no universo distante que são muito pequenos e têm uma cor vermelha característica.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-red-dot-pairs-hint-black.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>After analyzing infrared images captured by the James Webb Space Telescope, an international team of researchers has discovered multiple massive black holes from approximately 12.5, 12.8 billion years ago that were actively accumulating. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. After analyzing infrared images captured by the James Webb Space Telescope (JWST), an international team of researchers has discovered multiple massive black holes from. By Kavli Institute for the Physics and Mathematics of the Universe, The University of Tokyo This article has been reviewed according to Science X&#x27;s editorial process and policies.</p><p>Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source False-color, infrared images from the JWST of dual LRDs created. COSMOS-Web / Tanaka After analyzing infrared images captured by the James Webb Space Telescope (JWST), an international team of researchers has discovered multiple massive black.</p><p>By continuing the search for these black hole mergers using the image analysis method developed in this study and statistically measuring the proportion of massive black holes. JWST, which has been operational since 2022, has identified several new types of objects in the far universe that are very small and have a characteristic red color.</p><p>As a result, the researchers uncovered four sets of dual LRDs, with each LRD extremely close to the other, in the universe 12.5, 12.8 billion years ago. The distance between the two celestial bodies ranged from a few thousand to a few tens of thousands of light-years, much smaller than the 100,000-light-year length of our Milky.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>To make sure the two LRDs were in fact close to one another, rather than at different distances and only appearing aligned to observers on Earth, the researchers calculated the. The next step for the researchers will be to analyze the dual LRDs further and improve their new method by using it on a larger sample.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-red-dot-pairs-hint-black.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Depois de analisar imagens infravermelhas capturadas pelo Telescópio Espacial James Webb, uma equipe internacional de pesquisadores descobriu vários.",
-      "Dado-chave: Depois de analisar imagens infravermelhas capturadas pelo Telescópio Espacial James Webb (JWST), uma equipe internacional de pesquisadores.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Depois de analisar imagens infravermelhas capturadas pelo Telescópio Espacial James Webb, uma equipe internacional de pesquisadores descobriu vários.",
-      "Dado-chave: Depois de analisar imagens infravermelhas capturadas pelo Telescópio Espacial James Webb (JWST), uma equipe internacional de pesquisadores.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: After analyzing infrared images captured by the James Webb Space Telescope, an international team of researchers has discovered multiple massive.",
-      "Key detail: After analyzing infrared images captured by the James Webb Space Telescope (JWST), an international team of researchers has discovered multiple.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "31 ago 2026",
-    "date_pt": "31 ago 2026",
-    "date_en": "31 Aug 2026",
-    "time": "19h10",
-    "time_pt": "19h10",
-    "time_en": "19:10 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-31T19:10:01+00:00",
-    "lastModifiedIso": "2026-08-31T19:10:01+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astrofísica",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Quatro pares de 'Little Red Dot' sugerem fusões de buracos negros no início do universo"
-    ],
-    "keywords_pt": [
-      "Astrofísica",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Quatro pares de 'Little Red Dot' sugerem fusões de buracos negros no início do universo"
-    ],
-    "keywords_en": [
-      "Astrophysics",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Four Pairs of 'Little Red Dot' Suggest Black Hole Mergers in Early Universe"
-    ],
-    "srcUrl": "https://phys.org/news/2026-08-red-dot-pairs-hint-black.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=four-little-red-dot-pairs-hint-at-black-hole-mergers-in-early-universe",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=four-little-red-dot-pairs-hint-at-black-hole-mergers-in-early-universe",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=four-little-red-dot-pairs-hint-at-black-hole-mergers-in-early-universe&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 77,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 88,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 49
-    }
-  },
-  {
-    "id": 18,
     "slug": "cutting-edge-infrared-space-telescope-roman-set-to-launch",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2261,6 +2128,139 @@ window.postsData = [
       "relevance": 88,
       "accessibility": 60,
       "novelty": 46
+    }
+  },
+  {
+    "id": 18,
+    "slug": "looking-for-earth-2-0-in-binary-systems",
+    "cat": "Exoplanetas",
+    "catCls": "exoplanetas",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/looking-for-earth-20-i.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/looking-for-earth-20-i.jpg",
+        "caption": "Procurando pela terra 2.0 em sistemas binários",
+        "caption_pt": "Procurando pela terra 2.0 em sistemas binários",
+        "caption_en": "Looking for earth 2.0 in binary systems",
+        "alt": "Procurando pela terra 2.0 em sistemas binários",
+        "alt_pt": "Procurando pela terra 2.0 em sistemas binários",
+        "alt_en": "Looking for earth 2.0 in binary systems"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/f233d40c9bb6ec42.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/8b33bc1b4d9f6b4c.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Procurando pela Terra 2.0 em sistemas binários",
+    "title_pt": "Procurando pela Terra 2.0 em sistemas binários",
+    "title_en": "Looking for Earth 2.0 in binary systems",
+    "sub": "Embora os astrônomos tenham encontrado milhares de exoplanetas nas últimas décadas, o verdadeiro prêmio continua a iludi-los: eles ainda não encontraram um planeta rochoso com a.",
+    "sub_pt": "Embora os astrônomos tenham encontrado milhares de exoplanetas nas últimas décadas, o verdadeiro prêmio continua a iludi-los: eles ainda não encontraram um planeta rochoso com a.",
+    "sub_en": "While astronomers have found thousands of exoplanets over the last few decades, the true prize continues to elude them, they have yet to find an Earth-mass, rocky planet orbiting.",
+    "excerpt": "Embora os astrônomos tenham encontrado milhares de exoplanetas nas últimas décadas, o verdadeiro prêmio continua a iludi-los: eles ainda não encontraram um planeta rochoso com a massa da Terra orbitando na zona habitável de uma estrela semelhante ao Sol. Isso.",
+    "excerpt_pt": "Embora os astrônomos tenham encontrado milhares de exoplanetas nas últimas décadas, o verdadeiro prêmio continua a iludi-los: eles ainda não encontraram um planeta rochoso com a massa da Terra orbitando na zona habitável de uma estrela semelhante ao Sol. Isso.",
+    "excerpt_en": "While astronomers have found thousands of exoplanets over the last few decades, the true prize continues to elude them, they have yet to find an Earth-mass, rocky planet orbiting in the habitable zone of a sun-like star. That's partially.",
+    "body": "<p>Embora os astrônomos tenham encontrado milhares de exoplanetas nas últimas décadas, o verdadeiro prêmio continua a iludi-los: eles ainda não encontraram um planeta rochoso com a massa da Terra orbitando na zona habitável de uma estrela semelhante ao Sol. Isso é parcialmente. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Mas um novo artigo, disponível como pré-impressão no arXiv, sugere uma nova missão Small Explorer da NASA chamada Searching for Habitable Exoplanets with Relative Astrometry. Embora a técnica tenha sido um grande sucesso, ela requer uma quantidade significativa de sorte, já que a órbita de um planeta precisa se alinhar com a Terra para que a técnica.</p><p>Mas um planeta semelhante à Terra puxando uma estrela semelhante ao Sol a partir de uma unidade astronómica (UA) move a sua estrela apenas cerca de 9 cm/s, e o limite do nosso. Para um gêmeo da Terra orbitando uma estrela semelhante ao Sol a 33 anos-luz de distância, a &quot;oscilação&quot; que o planeta induziria apareceria como um movimento de cerca de 0,3.</p><p>Nossa missão astrométrica mais poderosa, GAIA, tem atualmente uma precisão de cerca de 100 uas, várias ordens de magnitude acima do que seria necessário para encontrar este tipo. Isto é criado usando um processo de litografia por feixe de elétrons (semelhante ao usado para fabricar chips de computador) para imprimir um padrão de fase complexo no espelho de.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-earth-binary.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Embora os astrônomos tenham encontrado milhares de exoplanetas nas últimas décadas, o verdadeiro prêmio continua a iludi-los: eles ainda não encontraram um planeta rochoso com a massa da Terra orbitando na zona habitável de uma estrela semelhante ao Sol. Isso é parcialmente. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Mas um novo artigo, disponível como pré-impressão no arXiv, sugere uma nova missão Small Explorer da NASA chamada Searching for Habitable Exoplanets with Relative Astrometry. Embora a técnica tenha sido um grande sucesso, ela requer uma quantidade significativa de sorte, já que a órbita de um planeta precisa se alinhar com a Terra para que a técnica.</p><p>Mas um planeta semelhante à Terra puxando uma estrela semelhante ao Sol a partir de uma unidade astronómica (UA) move a sua estrela apenas cerca de 9 cm/s, e o limite do nosso. Para um gêmeo da Terra orbitando uma estrela semelhante ao Sol a 33 anos-luz de distância, a &quot;oscilação&quot; que o planeta induziria apareceria como um movimento de cerca de 0,3.</p><p>Nossa missão astrométrica mais poderosa, GAIA, tem atualmente uma precisão de cerca de 100 uas, várias ordens de magnitude acima do que seria necessário para encontrar este tipo. Isto é criado usando um processo de litografia por feixe de elétrons (semelhante ao usado para fabricar chips de computador) para imprimir um padrão de fase complexo no espelho de.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-earth-binary.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>While astronomers have found thousands of exoplanets over the last few decades, the true prize continues to elude them, they have yet to find an Earth-mass, rocky planet orbiting in the habitable zone of a sun-like star. That&#x27;s partially. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. But a new paper, available as a preprint on arXiv, suggests a new NASA Small Explorer mission called Searching for Habitable Exoplanets with Relative Astrometry (SHERA), which. While the technique has been wildly successful, it requires a significant amount of luck, as a planet&#x27;s orbit has to align with Earth for the technique to be most effective.</p><p>But an Earth-like planet tugging on a sun-like star from one astronomical unit (AU) moves its star only around 9 cm/s, and the limit of our current suite of instrumentation is. For an Earth twin orbiting a sun-like star 33 light-years away, the &quot;wobble&quot; the planet would induce would show up as a movement of around 0.3 microarcseconds (uas).</p><p>Our most powerful astrometry mission, GAIA, currently has a precision of around 100 uas, several orders of magnitude above what would be needed to find this type of planet. This is created by using an electron-beam lithography process (similar to that used to make computer chips) to imprint a complex phase pattern onto the mirror of a 22-cm space.</p><p>Finally, it stops stellar activity from mimicking the signal expected from a planet by watching the star&#x27;s spectrum and correcting for any changes in the spectrum and absorption. Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>The SHERA team has come up with a list of seven nearby binary systems within 17 parsecs of Earth. First is to find any Earth-mass planets around the closest target stars.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-earth-binary.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Embora os astrônomos tenham encontrado milhares de exoplanetas nas últimas décadas, o verdadeiro prêmio continua a iludi-los: eles ainda não.",
+      "Dado-chave: Mas um novo artigo, disponível como pré-impressão no arXiv, sugere uma nova missão Small Explorer da NASA chamada Searching for Habitable.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Embora os astrônomos tenham encontrado milhares de exoplanetas nas últimas décadas, o verdadeiro prêmio continua a iludi-los: eles ainda não.",
+      "Dado-chave: Mas um novo artigo, disponível como pré-impressão no arXiv, sugere uma nova missão Small Explorer da NASA chamada Searching for Habitable.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: While astronomers have found thousands of exoplanets over the last few decades, the true prize continues to elude them, they have yet to find an.",
+      "Key detail: But a new paper, available as a preprint on arXiv, suggests a new NASA Small Explorer mission called Searching for Habitable Exoplanets with.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "31 ago 2026",
+    "date_pt": "31 ago 2026",
+    "date_en": "31 Aug 2026",
+    "time": "21h20",
+    "time_pt": "21h20",
+    "time_en": "21:20 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-08-31T21:20:01+00:00",
+    "lastModifiedIso": "2026-08-31T21:20:01+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Exoplanetas",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Procurando pela Terra 2.0 em sistemas binários"
+    ],
+    "keywords_pt": [
+      "Exoplanetas",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Procurando pela Terra 2.0 em sistemas binários"
+    ],
+    "keywords_en": [
+      "Exoplanets",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Searching for Earth 2.0 in binary systems"
+    ],
+    "srcUrl": "https://phys.org/news/2026-08-earth-binary.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=looking-for-earth-2-0-in-binary-systems",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=looking-for-earth-2-0-in-binary-systems",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=looking-for-earth-2-0-in-binary-systems&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 75,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 82,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 49
     }
   },
   {
@@ -2380,134 +2380,6 @@ window.postsData = [
   },
   {
     "id": 20,
-    "slug": "looking-for-earth-2-0-in-binary-systems",
-    "cat": "Exoplanetas",
-    "catCls": "exoplanetas",
-    "img": "https://www.universetoday.com/article_images/weic2515a_20260831_135202.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.universetoday.com/assets/patreon-plus-thumb.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": {
-      "kind": "embed",
-      "platform": "youtube",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/jkdu4i0clhe",
-      "fileUrl": "",
-      "poster": "",
-      "title": "",
-      "title_pt": "",
-      "title_en": "",
-      "caption": "",
-      "caption_pt": "",
-      "caption_en": "",
-      "sourcePage": "https://www.universetoday.com/articles/looking-for-earth-20-in-binary-systems"
-    },
-    "audio": null,
-    "title": "Procurando pela Terra 2.0 em sistemas binários",
-    "title_pt": "Procurando pela Terra 2.0 em sistemas binários",
-    "title_en": "Looking for Earth 2.0 in Binary Systems",
-    "sub": "Embora os astrônomos tenham encontrado milhares de exoplanetas nas últimas décadas, o verdadeiro prêmio continua a iludi-los: eles ainda não encontraram um planeta rochoso com a.",
-    "sub_pt": "Embora os astrônomos tenham encontrado milhares de exoplanetas nas últimas décadas, o verdadeiro prêmio continua a iludi-los: eles ainda não encontraram um planeta rochoso com a.",
-    "sub_en": "While astronomers have found thousands of exoplanets over the last few decades, the true prize continues to elude them, they have yet to find an Earth-mass, rocky planet orbiting.",
-    "excerpt": "Embora os astrônomos tenham encontrado milhares de exoplanetas nas últimas décadas, o verdadeiro prêmio continua a iludi-los: eles ainda não encontraram um planeta rochoso com a massa da Terra orbitando na zona habitável de uma estrela semelhante ao Sol. Isso.",
-    "excerpt_pt": "Embora os astrônomos tenham encontrado milhares de exoplanetas nas últimas décadas, o verdadeiro prêmio continua a iludi-los: eles ainda não encontraram um planeta rochoso com a massa da Terra orbitando na zona habitável de uma estrela semelhante ao Sol. Isso.",
-    "excerpt_en": "While astronomers have found thousands of exoplanets over the last few decades, the true prize continues to elude them, they have yet to find an Earth-mass, rocky planet orbiting in the habitable zone of a Sun-like star. That’s partially.",
-    "body": "<p>Embora os astrônomos tenham encontrado milhares de exoplanetas nas últimas décadas, o verdadeiro prêmio continua a iludi-los: eles ainda não encontraram um planeta rochoso com a massa da Terra orbitando na zona habitável de uma estrela semelhante ao Sol. Isso é parcialmente. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Mas um novo artigo, disponível em pré-impressão no arXiv, sugere uma nova missão Small Explorer da NASA chamada Searching for Habitable Exoplanets with Relative Astrometry. Embora a técnica tenha sido um grande sucesso, ela requer muita sorte, pois a órbita precisa se alinhar com a Terra para que a técnica seja mais eficaz.</p><p>Mas um planeta semelhante à Terra puxando uma estrela semelhante ao Sol a partir de uma unidade astronómica (UA) apenas move a sua estrela cerca de 9 cm/s, e o limite do nosso. Para um gêmeo da Terra orbitando uma estrela semelhante ao Sol a 33 anos-luz de distância, a “oscilação” que o planeta induziria apareceria como um movimento de cerca de 0,3.</p><p>Nossa missão astrométrica mais poderosa, GAIA, tem atualmente uma precisão de cerca de 100 uas, várias ordens de grandeza acima do que seria necessário para encontrar este tipo de. Isto é criado usando um processo de litografia por feixe de elétrons (semelhante ao usado para fabricar chips de computador) para imprimir um padrão de fase complexo no espelho de.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/looking-for-earth-20-in-binary-systems\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Embora os astrônomos tenham encontrado milhares de exoplanetas nas últimas décadas, o verdadeiro prêmio continua a iludi-los: eles ainda não encontraram um planeta rochoso com a massa da Terra orbitando na zona habitável de uma estrela semelhante ao Sol. Isso é parcialmente. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Mas um novo artigo, disponível em pré-impressão no arXiv, sugere uma nova missão Small Explorer da NASA chamada Searching for Habitable Exoplanets with Relative Astrometry. Embora a técnica tenha sido um grande sucesso, ela requer muita sorte, pois a órbita precisa se alinhar com a Terra para que a técnica seja mais eficaz.</p><p>Mas um planeta semelhante à Terra puxando uma estrela semelhante ao Sol a partir de uma unidade astronómica (UA) apenas move a sua estrela cerca de 9 cm/s, e o limite do nosso. Para um gêmeo da Terra orbitando uma estrela semelhante ao Sol a 33 anos-luz de distância, a “oscilação” que o planeta induziria apareceria como um movimento de cerca de 0,3.</p><p>Nossa missão astrométrica mais poderosa, GAIA, tem atualmente uma precisão de cerca de 100 uas, várias ordens de grandeza acima do que seria necessário para encontrar este tipo de. Isto é criado usando um processo de litografia por feixe de elétrons (semelhante ao usado para fabricar chips de computador) para imprimir um padrão de fase complexo no espelho de.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/looking-for-earth-20-in-binary-systems\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>While astronomers have found thousands of exoplanets over the last few decades, the true prize continues to elude them, they have yet to find an Earth-mass, rocky planet orbiting in the habitable zone of a Sun-like star. That’s partially. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. But a new paper, available in pre-print on arXiv, suggests a new NASA Small Explorer mission called Searching for Habitable Exoplanets with Relative Astrometry (SHERA), which aims. While the technique has been wildly successful, it requires a significant amount of luck, as the orbit has to align with Earth in order for the technique to be most effective.</p><p>But an Earth-like planet tugging on a Sun-like star from one astronomical unit (AU) only moves its star around 9 cm/s, and the limit of our current suite of instrumentation is. For an Earth-twin orbiting around a Sun-like star 33 light years away, the “wobble” the planet would induce to show up as a movement of around 0.3 microarcseconds (uas).</p><p>Our most powerful astrometry mission, GAIA, currently has a precision of around 100 uas, several orders of magnitude above what would be needed to find this type of planet. This is created by using an electron-beam lithography process (similar to that used to make computer chips) to imprint a complex phase pattern onto the mirror of a 22-cm space.</p><p>And finally, it stops stellar activity from mimicking the signal expected by a planet by watching the star’s spectra and correcting for any changes in the spectrum and absorption. The SHERA team has come up with a list of 7 nearby binary systems within 17 parsecs of Earth.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>First is to find any Earth-mass planets around the closest target stars. According to the authors calculations, based on standard detection rates, the mission is expected to find around four small, habitable zone planets across its target stars.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/looking-for-earth-20-in-binary-systems\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Embora os astrônomos tenham encontrado milhares de exoplanetas nas últimas décadas, o verdadeiro prêmio continua a iludi-los: eles ainda não.",
-      "Dado-chave: Mas um novo artigo, disponível em pré-impressão no arXiv, sugere uma nova missão Small Explorer da NASA chamada Searching for Habitable.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Embora os astrônomos tenham encontrado milhares de exoplanetas nas últimas décadas, o verdadeiro prêmio continua a iludi-los: eles ainda não.",
-      "Dado-chave: Mas um novo artigo, disponível em pré-impressão no arXiv, sugere uma nova missão Small Explorer da NASA chamada Searching for Habitable.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: While astronomers have found thousands of exoplanets over the last few decades, the true prize continues to elude them, they have yet to find an.",
-      "Key detail: But a new paper, available in pre-print on arXiv, suggests a new NASA Small Explorer mission called Searching for Habitable Exoplanets with.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "31 ago 2026",
-    "date_pt": "31 ago 2026",
-    "date_en": "31 Aug 2026",
-    "time": "13h52",
-    "time_pt": "13h52",
-    "time_en": "13:52 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-08-31T13:52:30+00:00",
-    "lastModifiedIso": "2026-08-31T13:52:30+00:00",
-    "source": "Universe Today",
-    "sourceDomain": "www.universetoday.com",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Exoplanetas",
-      "Universe Today",
-      "Cosmos Week",
-      "Procurando pela Terra 2.0 em sistemas binários"
-    ],
-    "keywords_pt": [
-      "Exoplanetas",
-      "Universe Today",
-      "Cosmos Week",
-      "Procurando pela Terra 2.0 em sistemas binários"
-    ],
-    "keywords_en": [
-      "Exoplanets",
-      "Universe Today",
-      "Cosmos Week",
-      "Searching for Earth 2.0 in binary systems"
-    ],
-    "srcUrl": "https://www.universetoday.com/articles/looking-for-earth-20-in-binary-systems",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=looking-for-earth-2-0-in-binary-systems",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=looking-for-earth-2-0-in-binary-systems",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=looking-for-earth-2-0-in-binary-systems&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 74,
-    "scoreBreakdown": {
-      "source": 73,
-      "evidence": 82,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 49
-    }
-  },
-  {
-    "id": 21,
     "slug": "official-news-regarding-the-cern-safety-rules-storage-of-hazardous-chemical-agents-hca",
     "cat": "Física",
     "catCls": "fisica",
@@ -2615,7 +2487,7 @@ window.postsData = [
     }
   },
   {
-    "id": 22,
+    "id": 21,
     "slug": "exceptional-transport-operations-to-make-way-for-hilumi-lhc",
     "cat": "Física",
     "catCls": "fisica",
@@ -2733,7 +2605,7 @@ window.postsData = [
     }
   },
   {
-    "id": 23,
+    "id": 22,
     "slug": "cern-mobility-week-2026-discover-smart-and-sustainable-mobility-options",
     "cat": "Física",
     "catCls": "fisica",
@@ -2848,6 +2720,139 @@ window.postsData = [
       "relevance": 68,
       "accessibility": 52,
       "novelty": 52
+    }
+  },
+  {
+    "id": 23,
+    "slug": "nasa-s-hubble-tracks-new-decagon-encircling-saturn-s-south-pole",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/09/STScI-01M0T8BARTCFQW684XQ932TNNM.png?w=2494&h=1247&fit=clip&crop=faces%2Cfocalpoint",
+    "inline_images": [
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/07/hubble-space-telescope-hst-6.jpg?w=4031&h=4095&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/internal_resources/462/Pillars_of_Creation-1.jpeg?w=539&h=565&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2024/07/STScI-01J1X1RNTC893XMKJREG898ZXB.tif?w=1536",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Hubble da NASA rastreia novo decágono circundando o pólo sul de Saturno",
+    "title_pt": "Hubble da NASA rastreia novo decágono circundando o pólo sul de Saturno",
+    "title_en": "NASA’s Hubble Tracks New Decagon Encircling Saturn’s South Pole",
+    "sub": "O Telescópio Espacial Hubble da NASA observa uma onda atmosférica gigante, em evolução, de 10 lados, circundando o pólo sul de Saturno.",
+    "sub_pt": "O Telescópio Espacial Hubble da NASA observa uma onda atmosférica gigante, em evolução, de 10 lados, circundando o pólo sul de Saturno.",
+    "sub_en": "NASA’s Hubble Space Telescope observes a giant, evolving, 10-sided atmospheric wave encircling Saturn’s south pole.",
+    "excerpt": "O Telescópio Espacial Hubble da NASA observa uma onda atmosférica gigante, em evolução, de 10 lados, circundando o pólo sul de Saturno.",
+    "excerpt_pt": "O Telescópio Espacial Hubble da NASA observa uma onda atmosférica gigante, em evolução, de 10 lados, circundando o pólo sul de Saturno.",
+    "excerpt_en": "NASA’s Hubble Space Telescope observes a giant, evolving, 10-sided atmospheric wave encircling Saturn’s south pole.",
+    "body": "<p>O Telescópio Espacial Hubble da NASA observa uma onda atmosférica gigante, em evolução, de 10 lados, circundando o pólo sul de Saturno. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Alyssa Pagan Observações recentes com o Telescópio Espacial Hubble da NASA revelaram uma onda atmosférica gigante, em evolução, de 10 lados, circundando o pólo sul de Saturno. Esta característica é diferente, parece estar a fortalecer-se, dando-nos a rara oportunidade de observar o desenvolvimento de um padrão atmosférico gigante.” A descoberta foi.</p><p>Os dados do Hubble confirmaram a presença do recurso até 2023.” Um único filtro do Telescópio Espacial Hubble da NASA mostra claramente uma onda de 10 lados circundando o pólo sul. “A questão é: por que isso se formou de repente agora, quando nunca vimos um antes?” Os autores dizem que são necessários mais estudos do Hubble e do Telescópio Espacial James.</p><p>Continue explorando Descubra mais tópicos do Hubble Telescópio Espacial Hubble Desde seu lançamento em 1990, o Telescópio Espacial Hubble mudou nossa compreensão fundamental do. Equipe Romana Equipe Hubble Aspirações de carreira Astronautas do Hubble Imagens multimídia Vídeos Atividades on-line e-books Sonificações Podcasts Modelos 3D do Hubble.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/missions/hubble/nasas-hubble-tracks-new-decagon-encircling-saturns-south-pole/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>O Telescópio Espacial Hubble da NASA observa uma onda atmosférica gigante, em evolução, de 10 lados, circundando o pólo sul de Saturno. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Alyssa Pagan Observações recentes com o Telescópio Espacial Hubble da NASA revelaram uma onda atmosférica gigante, em evolução, de 10 lados, circundando o pólo sul de Saturno. Esta característica é diferente, parece estar a fortalecer-se, dando-nos a rara oportunidade de observar o desenvolvimento de um padrão atmosférico gigante.” A descoberta foi.</p><p>Os dados do Hubble confirmaram a presença do recurso até 2023.” Um único filtro do Telescópio Espacial Hubble da NASA mostra claramente uma onda de 10 lados circundando o pólo sul. “A questão é: por que isso se formou de repente agora, quando nunca vimos um antes?” Os autores dizem que são necessários mais estudos do Hubble e do Telescópio Espacial James.</p><p>Continue explorando Descubra mais tópicos do Hubble Telescópio Espacial Hubble Desde seu lançamento em 1990, o Telescópio Espacial Hubble mudou nossa compreensão fundamental do. Equipe Romana Equipe Hubble Aspirações de carreira Astronautas do Hubble Imagens multimídia Vídeos Atividades on-line e-books Sonificações Podcasts Modelos 3D do Hubble.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/missions/hubble/nasas-hubble-tracks-new-decagon-encircling-saturns-south-pole/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>NASA’s Hubble Space Telescope observes a giant, evolving, 10-sided atmospheric wave encircling Saturn’s south pole. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Alyssa Pagan Recent observations with NASA’s Hubble Space Telescope have revealed a giant, evolving, 10-sided atmospheric wave encircling Saturn’s south pole. This feature is different, it appears to be strengthening, giving us the rare opportunity to watch a giant atmospheric pattern develop.” The discovery was possible because.</p><p>The Hubble data confirmed the feature’s presence back to 2023.” A single filter from NASA’s Hubble Space Telescope distinctly shows a 10-sided wave encircling Saturn’s south pole. “The question is, why did it suddenly form now when we haven’t seen one before?” The authors say further study is needed from Hubble and NASA’s James Webb Space Telescope, as well.</p><p>Keep Exploring Discover More Topics From Hubble Hubble Space Telescope Since its 1990 launch, the Hubble Space Telescope has changed our fundamental understanding of the universe. Roman Team Hubble Team Career Aspirations Hubble Astronauts Multimedia Images Videos Online Activities e-Books Sonifications Podcasts 3D Hubble Models Lithographs Fact Sheets.</p><p>This feature is different, it appears to be strengthening, giving us the rare opportunity to watch a giant atmospheric pattern develop.&quot; The discovery was possible because. Hubble’s view from space offers unmatched image sharpness and spatial resolution over full rotations of Saturn, without smearing by Earth’s atmosphere.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>“Given Saturn’s symmetry in its north-south jet stream system, we have been searching for a counterpart to Saturn’s northern hexagon on the south pole in Hubble images since. “Images from NASA’s Cassini spacecraft, which orbited Saturn between 2004 and 2017, showed no inkling of a long-lived formation, either.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/missions/hubble/nasas-hubble-tracks-new-decagon-encircling-saturns-south-pole/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: O Telescópio Espacial Hubble da NASA observa uma onda atmosférica gigante, em evolução, de 10 lados, circundando o pólo sul de Saturno.",
+      "Dado-chave: Alyssa Pagan Observações recentes com o Telescópio Espacial Hubble da NASA revelaram uma onda atmosférica gigante, em evolução, de 10 lados.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: O Telescópio Espacial Hubble da NASA observa uma onda atmosférica gigante, em evolução, de 10 lados, circundando o pólo sul de Saturno.",
+      "Dado-chave: Alyssa Pagan Observações recentes com o Telescópio Espacial Hubble da NASA revelaram uma onda atmosférica gigante, em evolução, de 10 lados.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: NASA’s Hubble Space Telescope observes a giant, evolving, 10-sided atmospheric wave encircling Saturn’s south pole.",
+      "Key detail: Alyssa Pagan Recent observations with NASA’s Hubble Space Telescope have revealed a giant, evolving, 10-sided atmospheric wave encircling.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "02 set 2026",
+    "date_pt": "02 set 2026",
+    "date_en": "02 Sep 2026",
+    "time": "18h00",
+    "time_pt": "18h00",
+    "time_en": "18:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-09-02T18:00:37+00:00",
+    "lastModifiedIso": "2026-09-02T18:00:37+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science.nasa.gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Hubble da NASA rastreia novo decágono circundando o pólo sul de Saturno"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Hubble da NASA rastreia novo decágono circundando o pólo sul de Saturno"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA's Hubble tracks new decagon circling Saturn's south pole"
+    ],
+    "srcUrl": "https://science.nasa.gov/missions/hubble/nasas-hubble-tracks-new-decagon-encircling-saturns-south-pole/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-hubble-tracks-new-decagon-encircling-saturn-s-south-pole",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-hubble-tracks-new-decagon-encircling-saturn-s-south-pole",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-hubble-tracks-new-decagon-encircling-saturn-s-south-pole&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 79,
+    "scoreBreakdown": {
+      "source": 94,
+      "evidence": 88,
+      "relevance": 80,
+      "accessibility": 60,
+      "novelty": 55
     }
   },
   {
@@ -3755,26 +3760,7 @@ window.postsData = [
     "cat": "Astronomia",
     "catCls": "astronomia",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/esa_astronaut_sophie_adenot_during_eva-99/27446273-1-eng-GB/ESA_astronaut_Sophie_Adenot_during_EVA-99_card_full.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/esa_astronaut_sophie_adenot_and_nasa_astronaut_jessica_meir_during_eva-99_preparations/27446320-2-eng-GB/ESA_astronaut_Sophie_Adenot_and_NASA_astronaut_Jessica_Meir_during_EVA-99_preparations_article.jpg",
-        "caption": "A astronauta da ESA Sophie Adenot e a astronauta da NASA Jessica Meir durante os preparativos do EVA-99",
-        "caption_pt": "A astronauta da ESA Sophie Adenot e a astronauta da NASA Jessica Meir durante os preparativos do EVA-99",
-        "caption_en": "ESA astronaut Sophie Adenot and NASA astronaut Jessica Meir during EVA-99 preparations",
-        "alt": "A astronauta da ESA Sophie Adenot e a astronauta da NASA Jessica Meir durante os preparativos do EVA-99",
-        "alt_pt": "A astronauta da ESA Sophie Adenot e a astronauta da NASA Jessica Meir durante os preparativos do EVA-99",
-        "alt_en": "ESA astronaut Sophie Adenot and NASA astronaut Jessica Meir during EVA-99 preparations"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/esa_astronaut_sophie_adenot_during_eva-99/27446273-1-eng-GB/ESA_astronaut_Sophie_Adenot_during_EVA-99_article.jpg",
-        "caption": "Volte para a câmara de descompressão durante o EVA para buscar o kit de coleta de amostras de MicroOrganismos.",
-        "caption_pt": "Volte para a câmara de descompressão durante o EVA para buscar o kit de coleta de amostras de MicroOrganismos.",
-        "caption_en": "Back to the airlock during the EVA to fetch the MicroOrganisms sample collection kit.",
-        "alt": "Volte para a câmara de descompressão durante o EVA para buscar o kit de coleta de amostras de MicroOrganismos.",
-        "alt_pt": "Volte para a câmara de descompressão durante o EVA para buscar o kit de coleta de amostras de MicroOrganismos.",
-        "alt_en": "Back to the airlock during the EVA to fetch the MicroOrganisms sample collection kit."
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "Terceira caminhada espacial concluída para Sophie Adenot",
@@ -3786,9 +3772,9 @@ window.postsData = [
     "excerpt": "A astronauta da ESA Sophie Adenot e a astronauta da NASA Jessica Meir completaram com sucesso o US EVA-99 às 21h29 CEST na terça-feira, 1 de setembro. Foi a terceira caminhada espacial de Sophie e a 33ª conduzida por um astronauta europeu.",
     "excerpt_pt": "A astronauta da ESA Sophie Adenot e a astronauta da NASA Jessica Meir completaram com sucesso o US EVA-99 às 21h29 CEST na terça-feira, 1 de setembro. Foi a terceira caminhada espacial de Sophie e a 33ª conduzida por um astronauta europeu.",
     "excerpt_en": "ESA astronaut Sophie Adenot and NASA astronaut Jessica Meir successfully completed US EVA-99 at 21: 29 CEST on Tuesday 1 September. It was Sophie’s third spacewalk, and the 33rd conducted by a European astronaut.",
-    "body": "<p>A astronauta da ESA Sophie Adenot e a astronauta da NASA Jessica Meir completaram com sucesso o US EVA-99 às 21h29 CEST na terça-feira, 1 de setembro. Foi a terceira caminhada espacial de Sophie e a 33ª conduzida por um astronauta europeu. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A astronauta da ESA Sophie Adenot e a astronauta da NASA Jessica Meir completaram com sucesso o US EVA-99 às 21: 29 CEST na terça-feira, 1 de setembro. Foi a terceira caminhada espacial de Sophie e a 33ª conduzida por um astronauta europeu.</p><p>Durante a caminhada espacial de 6 horas e 49 minutos, Sophie e Jessica completaram várias tarefas de manutenção, incluindo a substituição de um auxílio à navegação da nave. Sophie e Jessica trocaram seus trajes espaciais para bateria às 14: 41 CEST, iniciando oficialmente a atividade extraveicular (EVA), antes de sair da câmara de descompressão da.</p><p>Depois de deixar a câmara de descompressão, Sophie e Jessica seguiram para locais de trabalho separados. Sophie foi transferida para a porta dianteira do módulo Harmony da Estação, onde substituiu um retrorrefletor com defeito, um dispositivo usado pela espaçonave como auxílio à.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Third_spacewalk_completed_for_Sophie_Adenot\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A astronauta da ESA Sophie Adenot e a astronauta da NASA Jessica Meir completaram com sucesso o US EVA-99 às 21h29 CEST na terça-feira, 1 de setembro. Foi a terceira caminhada espacial de Sophie e a 33ª conduzida por um astronauta europeu. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A astronauta da ESA Sophie Adenot e a astronauta da NASA Jessica Meir completaram com sucesso o US EVA-99 às 21: 29 CEST na terça-feira, 1 de setembro. Foi a terceira caminhada espacial de Sophie e a 33ª conduzida por um astronauta europeu.</p><p>Durante a caminhada espacial de 6 horas e 49 minutos, Sophie e Jessica completaram várias tarefas de manutenção, incluindo a substituição de um auxílio à navegação da nave. Sophie e Jessica trocaram seus trajes espaciais para bateria às 14: 41 CEST, iniciando oficialmente a atividade extraveicular (EVA), antes de sair da câmara de descompressão da.</p><p>Depois de deixar a câmara de descompressão, Sophie e Jessica seguiram para locais de trabalho separados. Sophie foi transferida para a porta dianteira do módulo Harmony da Estação, onde substituiu um retrorrefletor com defeito, um dispositivo usado pela espaçonave como auxílio à.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Third_spacewalk_completed_for_Sophie_Adenot\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>ESA astronaut Sophie Adenot and NASA astronaut Jessica Meir successfully completed US EVA-99 at 21: 29 CEST on Tuesday 1 September. It was Sophie’s third spacewalk, and the 33rd conducted by a European astronaut. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. ESA astronaut Sophie Adenot and NASA astronaut Jessica Meir successfully completed US EVA-99 at 21: 29 CEST on Tuesday 1 September. It was Sophie’s third spacewalk, and the 33rd conducted by a European astronaut.</p><p>During the 6-hour, 49-minute spacewalk, Sophie and Jessica completed several maintenance tasks, including replacing a spacecraft navigational aid, preparing a cosmic particle. Sophie and Jessica switched their spacesuits to battery power at 14: 41 CEST, officially beginning the extravehicular activity (EVA), before exiting the Quest airlock into the.</p><p>After leaving the airlock, Sophie and Jessica made their way to separate work sites. Sophie translated to the forward port of the Station’s Harmony module, where she replaced a failed retroreflector, a device used by the spacecraft as a navigational aid during.</p><p>Meanwhile, Jessica rode the Canadarm2 to the location of a failed high-definition camera, which she replaced with a spare. Sophie then collected swab samples around the airlock and from her gloves for NASA’s MicroOrganisms experiment, which aims to determine whether microorganisms are released through.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>She also relocated and installed power and thermal jumpers to enhance station power and thermal system capabilities. Meanwhile, Jessica worked on the Alpha Magnetic Spectrometer, beginning preparation of a future upgrade, and relocated a portable foot restreint in preparation for the next.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Third_spacewalk_completed_for_Sophie_Adenot\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>A astronauta da ESA Sophie Adenot e a astronauta da NASA Jessica Meir completaram com sucesso o US EVA-99 às 21h29 CEST na terça-feira, 1 de setembro. Foi a terceira caminhada espacial de Sophie e a 33ª conduzida por um astronauta europeu. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A astronauta da ESA Sophie Adenot e a astronauta da NASA Jessica Meir completaram com sucesso o US EVA-99 às 21: 29 CEST na terça-feira, 1 de setembro. Foi a terceira caminhada espacial de Sophie e a 33ª conduzida por um astronauta europeu.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Third_spacewalk_completed_for_Sophie_Adenot\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A astronauta da ESA Sophie Adenot e a astronauta da NASA Jessica Meir completaram com sucesso o US EVA-99 às 21h29 CEST na terça-feira, 1 de setembro. Foi a terceira caminhada espacial de Sophie e a 33ª conduzida por um astronauta europeu. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A astronauta da ESA Sophie Adenot e a astronauta da NASA Jessica Meir completaram com sucesso o US EVA-99 às 21: 29 CEST na terça-feira, 1 de setembro. Foi a terceira caminhada espacial de Sophie e a 33ª conduzida por um astronauta europeu.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Third_spacewalk_completed_for_Sophie_Adenot\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>ESA astronaut Sophie Adenot and NASA astronaut Jessica Meir successfully completed US EVA-99 at 21: 29 CEST on Tuesday 1 September. It was Sophie’s third spacewalk, and the 33rd conducted by a European astronaut. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. ESA astronaut Sophie Adenot and NASA astronaut Jessica Meir successfully completed US EVA-99 at 21: 29 CEST on Tuesday 1 September. It was Sophie’s third spacewalk, and the 33rd conducted by a European astronaut.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Third_spacewalk_completed_for_Sophie_Adenot\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: A astronauta da ESA Sophie Adenot e a astronauta da NASA Jessica Meir completaram com sucesso o US EVA-99 às 21h29 CEST na terça-feira, 1 de.",
       "Dado-chave: A astronauta da ESA Sophie Adenot e a astronauta da NASA Jessica Meir completaram com sucesso o US EVA-99 às 21: 29 CEST na terça-feira, 1 de.",
@@ -5034,7 +5020,7 @@ window.postsData = [
       "evidence": 88,
       "relevance": 62,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   }
 ];

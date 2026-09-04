@@ -40,14 +40,14 @@ window.postsData = [
     "date": "04 set 2026",
     "date_pt": "04 set 2026",
     "date_en": "04 Sep 2026",
-    "time": "21h24",
-    "time_pt": "21h24",
-    "time_en": "21:24 UTC",
+    "time": "23h14",
+    "time_pt": "23h14",
+    "time_en": "23:14 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-09-04T21:24:54.262664+00:00",
-    "lastModifiedIso": "2026-09-04T21:24:54.262664+00:00",
+    "publishedIso": "2026-09-04T23:14:52.177605+00:00",
+    "lastModifiedIso": "2026-09-04T23:14:52.177605+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -145,14 +145,14 @@ window.postsData = [
     "date": "04 set 2026",
     "date_pt": "04 set 2026",
     "date_en": "04 Sep 2026",
-    "time": "21h24",
-    "time_pt": "21h24",
-    "time_en": "21:24 UTC",
+    "time": "23h14",
+    "time_pt": "23h14",
+    "time_en": "23:14 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-09-04T21:24:54.262629+00:00",
-    "lastModifiedIso": "2026-09-04T21:24:54.262629+00:00",
+    "publishedIso": "2026-09-04T23:14:52.177566+00:00",
+    "lastModifiedIso": "2026-09-04T23:14:52.177566+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -250,14 +250,14 @@ window.postsData = [
     "date": "04 set 2026",
     "date_pt": "04 set 2026",
     "date_en": "04 Sep 2026",
-    "time": "21h24",
-    "time_pt": "21h24",
-    "time_en": "21:24 UTC",
+    "time": "23h14",
+    "time_pt": "23h14",
+    "time_en": "23:14 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-09-04T21:24:54.262593+00:00",
-    "lastModifiedIso": "2026-09-04T21:24:54.262593+00:00",
+    "publishedIso": "2026-09-04T23:14:52.177524+00:00",
+    "lastModifiedIso": "2026-09-04T23:14:52.177524+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -355,14 +355,14 @@ window.postsData = [
     "date": "04 set 2026",
     "date_pt": "04 set 2026",
     "date_en": "04 Sep 2026",
-    "time": "21h24",
-    "time_pt": "21h24",
-    "time_en": "21:24 UTC",
+    "time": "23h14",
+    "time_pt": "23h14",
+    "time_en": "23:14 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-09-04T21:24:54.262559+00:00",
-    "lastModifiedIso": "2026-09-04T21:24:54.262559+00:00",
+    "publishedIso": "2026-09-04T23:14:52.177481+00:00",
+    "lastModifiedIso": "2026-09-04T23:14:52.177481+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -460,14 +460,14 @@ window.postsData = [
     "date": "04 set 2026",
     "date_pt": "04 set 2026",
     "date_en": "04 Sep 2026",
-    "time": "21h24",
-    "time_pt": "21h24",
-    "time_en": "21:24 UTC",
+    "time": "23h14",
+    "time_pt": "23h14",
+    "time_en": "23:14 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-09-04T21:24:54.262525+00:00",
-    "lastModifiedIso": "2026-09-04T21:24:54.262525+00:00",
+    "publishedIso": "2026-09-04T23:14:52.177440+00:00",
+    "lastModifiedIso": "2026-09-04T23:14:52.177440+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -528,6 +528,143 @@ window.postsData = [
   },
   {
     "id": 6,
+    "slug": "the-desi-legacy-imaging-survey-releases-the-largest-2-d-map-of-the-universe",
+    "cat": "Cosmologia",
+    "catCls": "cosmologia",
+    "img": "https://www.universetoday.com/article_images/noirlab2408a_20260904_195751.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.universetoday.com/article_images/noirlab2408c_20260904_195408.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://www.universetoday.com/assets/patreon-plus-thumb.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": {
+      "kind": "embed",
+      "platform": "youtube",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/10amlzt7prg",
+      "fileUrl": "",
+      "poster": "",
+      "title": "",
+      "title_pt": "",
+      "title_en": "",
+      "caption": "",
+      "caption_pt": "",
+      "caption_en": "",
+      "sourcePage": "https://www.universetoday.com/articles/the-desi-legacy-imaging-survey-releases-the-largest-2-d-map-of-the-universe"
+    },
+    "audio": null,
+    "title": "A DESI Legacy Imaging Survey lança o maior mapa 2D do Universo",
+    "title_pt": "A DESI Legacy Imaging Survey lança o maior mapa 2D do Universo",
+    "title_en": "The DESI Legacy Imaging Survey Releases the Largest 2-D Map of the Universe",
+    "sub": "O mais novo mapa do DESI Legacy Imaging Surveys cobre três quartos do céu e cataloga quase quatro bilhões de objetos. Este banco de dados disponível publicamente contém estrelas.",
+    "sub_pt": "O mais novo mapa do DESI Legacy Imaging Surveys cobre três quartos do céu e cataloga quase quatro bilhões de objetos. Este banco de dados disponível publicamente contém estrelas.",
+    "sub_en": "The newest DESI Legacy Imaging Surveys map covers three-quarters of the sky and catalogs nearly four billion objects. This publicly-available database contains stars, galaxies.",
+    "excerpt": "O mais novo mapa do DESI Legacy Imaging Surveys cobre três quartos do céu e cataloga quase quatro bilhões de objetos. Este banco de dados disponível publicamente contém estrelas, galáxias, supernovas, lentes gravitacionais e muito mais.",
+    "excerpt_pt": "O mais novo mapa do DESI Legacy Imaging Surveys cobre três quartos do céu e cataloga quase quatro bilhões de objetos. Este banco de dados disponível publicamente contém estrelas, galáxias, supernovas, lentes gravitacionais e muito mais.",
+    "excerpt_en": "The newest DESI Legacy Imaging Surveys map covers three-quarters of the sky and catalogs nearly four billion objects. This publicly-available database contains stars, galaxies, supernovae, gravitational lenses, and much more.",
+    "body": "<p>O mais novo mapa do DESI Legacy Imaging Surveys cobre três quartos do céu e cataloga quase quatro bilhões de objetos. Este banco de dados disponível publicamente contém estrelas, galáxias, supernovas, lentes gravitacionais e muito mais. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Em 2012, o Instrumento Espectroscópico de Energia Escura (DESI) foi encomendado para medir o efeito da Energia Escura, a força misteriosa que impulsiona a expansão do cosmos. Desde então, o DESI Legacy Imaging Surveys obteve espectros ópticos para dezenas de milhões de galáxias e quasares usando o telescópio Nicholas U.</p><p>Em notícias recentes, a equipe DESI Legacy Imaging Surveys fez seu décimo primeiro lançamento de dados (DR 11), constituindo o maior mapa 2D do Universo já feito. Quando você está trabalhando com objetos astronômicos hoje, muitas vezes você começa abrindo o Legacy Imaging Viewer para ver o que está olhando.&quot; Mais de 160 cientistas.</p><p>Telescópio Mayall de 4 metros e Telescópio UA Bok de 2,3 metros no Observatório Nacional NSF Kitt Peak (KPNO), no Observatório Steward da Universidade do Arizona, e complementado. O mapa baseia-se em versões anteriores do DESI Legacy Imaging Surveys, que completou a sua missão originalmente planeada de cinco anos no início deste ano, mapeando mais de 47.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/the-desi-legacy-imaging-survey-releases-the-largest-2-d-map-of-the-universe\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>O mais novo mapa do DESI Legacy Imaging Surveys cobre três quartos do céu e cataloga quase quatro bilhões de objetos. Este banco de dados disponível publicamente contém estrelas, galáxias, supernovas, lentes gravitacionais e muito mais. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Em 2012, o Instrumento Espectroscópico de Energia Escura (DESI) foi encomendado para medir o efeito da Energia Escura, a força misteriosa que impulsiona a expansão do cosmos. Desde então, o DESI Legacy Imaging Surveys obteve espectros ópticos para dezenas de milhões de galáxias e quasares usando o telescópio Nicholas U.</p><p>Em notícias recentes, a equipe DESI Legacy Imaging Surveys fez seu décimo primeiro lançamento de dados (DR 11), constituindo o maior mapa 2D do Universo já feito. Quando você está trabalhando com objetos astronômicos hoje, muitas vezes você começa abrindo o Legacy Imaging Viewer para ver o que está olhando.&quot; Mais de 160 cientistas.</p><p>Telescópio Mayall de 4 metros e Telescópio UA Bok de 2,3 metros no Observatório Nacional NSF Kitt Peak (KPNO), no Observatório Steward da Universidade do Arizona, e complementado. O mapa baseia-se em versões anteriores do DESI Legacy Imaging Surveys, que completou a sua missão originalmente planeada de cinco anos no início deste ano, mapeando mais de 47.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/the-desi-legacy-imaging-survey-releases-the-largest-2-d-map-of-the-universe\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The newest DESI Legacy Imaging Surveys map covers three-quarters of the sky and catalogs nearly four billion objects. This publicly-available database contains stars, galaxies, supernovae, gravitational lenses, and much more. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. In 2012, the Dark Energy Spectroscopic Instrument (DESI) was commissioned to measure the effect of Dark Energy, the mysterious force that is driving the expansion of the cosmos. Since then, the DESI Legacy Imaging Surveys has obtained optical spectra for tens of millions of galaxies and quasars using the NOIRLab’s Nicholas U.</p><p>In recent news, the DESI Legacy Imaging Surveys team made its eleventh data release (DR 11), constituting the largest-ever 2D map of the Universe. When you&#x27;re working with astronomical objects today, you often start by pulling up the Legacy Imaging Viewer to see what you’re looking at.&quot; More than 160 scientists contributed.</p><p>Mayall 4-meter Telescope and UA Bok 2.3-meter Telescope at the NSF Kitt Peak National Observatory (KPNO), the University of Arizona&#x27;s Steward Observatory, and complemented by. The map builds on earlier versions of the DESI Legacy Imaging Surveys, which completed its originally planned five-year mission earlier this year, mapping more than 47 galaxies.</p><p>By providing the location and brightness of galaxies and stars, the 2D map enables DESI to select objects and measure their light in different wavelengths to determine their. This will fulfill DESI&#x27;s purpose of creating the largest high-resolution 3D map of the Universe, which scientists will use to map and study how galaxies have clustered across.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>From this, scientists hope to constrain the effects Dark Energy has had on cosmic evolution, a mystery that first emerged when the venerable Hubble Space Telescope conducted the. A slice of the 3D map of galaxies collected in the first year of the Dark Energy Spectroscopic Instrument (DESI) Survey.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/the-desi-legacy-imaging-survey-releases-the-largest-2-d-map-of-the-universe\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: O mais novo mapa do DESI Legacy Imaging Surveys cobre três quartos do céu e cataloga quase quatro bilhões de objetos. Este banco de dados disponível.",
+      "Dado-chave: Em 2012, o Instrumento Espectroscópico de Energia Escura (DESI) foi encomendado para medir o efeito da Energia Escura, a força misteriosa que.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: O mais novo mapa do DESI Legacy Imaging Surveys cobre três quartos do céu e cataloga quase quatro bilhões de objetos. Este banco de dados disponível.",
+      "Dado-chave: Em 2012, o Instrumento Espectroscópico de Energia Escura (DESI) foi encomendado para medir o efeito da Energia Escura, a força misteriosa que.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: The newest DESI Legacy Imaging Surveys map covers three-quarters of the sky and catalogs nearly four billion objects. This publicly-available.",
+      "Key detail: In 2012, the Dark Energy Spectroscopic Instrument (DESI) was commissioned to measure the effect of Dark Energy, the mysterious force that is.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "04 set 2026",
+    "date_pt": "04 set 2026",
+    "date_en": "04 Sep 2026",
+    "time": "21h30",
+    "time_pt": "21h30",
+    "time_en": "21:30 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-09-04T21:30:12+00:00",
+    "lastModifiedIso": "2026-09-04T21:30:12+00:00",
+    "source": "Universe Today",
+    "sourceDomain": "www.universetoday.com",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Cosmologia",
+      "Universe Today",
+      "Cosmos Week",
+      "A DESI Legacy Imaging Survey lança o maior mapa 2D do Universo"
+    ],
+    "keywords_pt": [
+      "Cosmologia",
+      "Universe Today",
+      "Cosmos Week",
+      "A DESI Legacy Imaging Survey lança o maior mapa 2D do Universo"
+    ],
+    "keywords_en": [
+      "Cosmology",
+      "Universe Today",
+      "Cosmos Week",
+      "DESI Legacy Imaging Survey launches largest 2D map of the Universe"
+    ],
+    "srcUrl": "https://www.universetoday.com/articles/the-desi-legacy-imaging-survey-releases-the-largest-2-d-map-of-the-universe",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=the-desi-legacy-imaging-survey-releases-the-largest-2-d-map-of-the-universe",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=the-desi-legacy-imaging-survey-releases-the-largest-2-d-map-of-the-universe",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=the-desi-legacy-imaging-survey-releases-the-largest-2-d-map-of-the-universe&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 77,
+    "scoreBreakdown": {
+      "source": 73,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
     "slug": "how-mercury-formed-its-graphite-crust-and-core",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -646,7 +783,7 @@ window.postsData = [
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -660,7 +797,7 @@ window.postsData = [
     }
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "nasa-ames-fire-department-aircraft-firefighting-training",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -765,7 +902,7 @@ window.postsData = [
     }
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "the-20th-data-release-dr-20-of-the-sloan-digital-sky-survey-sdss-is-here",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -889,7 +1026,7 @@ window.postsData = [
     }
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "particle-shape-and-size-predict-asteroid-strength-revealing-bennu-s-surface-is-50-times-weaker-t",
     "cat": "Física",
     "catCls": "fisica",
@@ -1021,139 +1158,6 @@ window.postsData = [
       "evidence": 88,
       "relevance": 68,
       "accessibility": 52,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 10,
-    "slug": "turbulent-times-for-star-formation-in-stephan-s-quintet",
-    "cat": "Química",
-    "catCls": "quimica",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/turbulent-times-for-st.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/turbulent-times-for-st.jpg",
-        "caption": "As linhas de contorno mostram emissões de rádio de moléculas de monóxido de carbono no Quinteto de Stephan, dispostas como os contornos de um mapa topográfico. Assim como os contornos mais altos em um mapa representam elevações mais altas, os níveis de contorno mais altos aqui representam.",
-        "caption_pt": "As linhas de contorno mostram emissões de rádio de moléculas de monóxido de carbono no Quinteto de Stephan, dispostas como os contornos de um mapa topográfico. Assim como os contornos mais altos em um mapa representam elevações mais altas, os níveis de contorno mais altos aqui representam.",
-        "caption_en": "The contour lines show radio emissions from carbon monoxide molecules in Stephan's Quintet, arranged like the contours on a topographic map. Just as higher contours on a map represent higher elevations, higher contour levels here represent.",
-        "alt": "Tempos turbulentos para a formação de estrelas no Quinteto de Stephan",
-        "alt_pt": "Tempos turbulentos para a formação de estrelas no Quinteto de Stephan",
-        "alt_en": "Turbulent times for star formation in Stephan's Quintet"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/4b5d8e1e5856f832.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/782dcfc6701d278c.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Tempos turbulentos para a formação de estrelas no Quinteto de Stephan",
-    "title_pt": "Tempos turbulentos para a formação de estrelas no Quinteto de Stephan",
-    "title_en": "Turbulent times for star formation in Stephan's Quintet",
-    "sub": "A formação de estrelas nas galáxias está intimamente ligada ao gás molecular. No passado distante, quando as interações galácticas eram mais comuns, estes encontros comprimiam o.",
-    "sub_pt": "A formação de estrelas nas galáxias está intimamente ligada ao gás molecular. No passado distante, quando as interações galácticas eram mais comuns, estes encontros comprimiam o.",
-    "sub_en": "Star formation in galaxies is closely linked to molecular gas. In the distant past, when galaxy interactions were more common, these encounters compressed molecular gas, causing.",
-    "excerpt": "A formação de estrelas nas galáxias está intimamente ligada ao gás molecular. No passado distante, quando as interações galácticas eram mais comuns, estes encontros comprimiam o gás molecular, fazendo com que nuvens densas colapsassem sob a sua própria.",
-    "excerpt_pt": "A formação de estrelas nas galáxias está intimamente ligada ao gás molecular. No passado distante, quando as interações galácticas eram mais comuns, estes encontros comprimiam o gás molecular, fazendo com que nuvens densas colapsassem sob a sua própria.",
-    "excerpt_en": "Star formation in galaxies is closely linked to molecular gas. In the distant past, when galaxy interactions were more common, these encounters compressed molecular gas, causing dense clouds to collapse under their own gravity and form new.",
-    "body": "<p>A formação de estrelas nas galáxias está intimamente ligada ao gás molecular. No passado distante, quando as interações galácticas eram mais comuns, estes encontros comprimiam o gás molecular, fazendo com que nuvens densas colapsassem sob a sua própria gravidade e formassem. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a química ganha força quando uma estrutura ou processo alegado pode ser descrito com precisão suficiente para ser reproduzido por outros. Rotas sintéticas, assinaturas espectroscópicas, rendimento em condições definidas e estabilidade em parâmetros operacionais realistas são a moeda de credibilidade na química, e um resultado que carece desses detalhes não pode ser avaliado de forma independente. A distância entre uma descoberta em bancada de laboratório e um processo que funciona confiavelmente em escala é medida em anos de otimização, e cada etapa revela restrições que eram invisíveis em escala menor. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida As curvas de nível mostram as emissões de.</p><p>Assim como os contornos mais elevados num mapa representam elevações mais elevadas, os níveis de contorno mais elevados aqui representam uma emissão de CO mais forte, indicando. No passado distante, quando as interações galácticas eram mais comuns, estes encontros comprimiam o gás molecular, fazendo com que nuvens densas colapsassem sob a sua própria.</p><p>Porém, um fenômeno curioso ocorre em algumas regiões com gás molecular abundante. Para compreender este fenómeno, uma equipa de investigação da Universidade Metropolitana de Osaka utilizou o Atacama Compact Array, uma rede de radiotelescópios no Chile, para.</p><p>O interesse mais amplo está em saber se a propriedade ou rota de reação alegada pode ser caracterizada com precisão suficiente para sustentar replicação por outros grupos. A química tem um problema de replicação menos discutido do que o da psicologia ou da medicina, mas ele é real: procedimentos sintéticos que funcionam confiavelmente em um laboratório às vezes não se transferem, por razões que vão de materiais de partida impuros a sensibilidades de temperatura não documentadas. Um resultado que vem com detalhes experimentais completos e caracterização clara do produto é muito mais valioso do que um que relata uma descoberta sem o arcabouço procedimental.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se grupos independentes trabalhando com técnicas ortogonais chegam a conclusões compatíveis e se o resultado escala além das condições usadas no estudo original. Descobertas químicas que importam tendem a ser aquelas cujas propriedades principais podem ser medidas por múltiplos métodos espectroscópicos, cristalográficos ou computacionais que provavelmente não compartilham os mesmos pontos cegos. Escalabilidade, custo e estabilidade de longo prazo sob condições operacionais realistas são filtros adicionais que entram em jogo antes que qualquer aplicação prática se torne viável.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-09-turbulent-star-formation-stephan-quintet.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A formação de estrelas nas galáxias está intimamente ligada ao gás molecular. No passado distante, quando as interações galácticas eram mais comuns, estes encontros comprimiam o gás molecular, fazendo com que nuvens densas colapsassem sob a sua própria gravidade e formassem. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a química ganha força quando uma estrutura ou processo alegado pode ser descrito com precisão suficiente para ser reproduzido por outros. Rotas sintéticas, assinaturas espectroscópicas, rendimento em condições definidas e estabilidade em parâmetros operacionais realistas são a moeda de credibilidade na química, e um resultado que carece desses detalhes não pode ser avaliado de forma independente. A distância entre uma descoberta em bancada de laboratório e um processo que funciona confiavelmente em escala é medida em anos de otimização, e cada etapa revela restrições que eram invisíveis em escala menor. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferida As curvas de nível mostram as emissões de.</p><p>Assim como os contornos mais elevados num mapa representam elevações mais elevadas, os níveis de contorno mais elevados aqui representam uma emissão de CO mais forte, indicando. No passado distante, quando as interações galácticas eram mais comuns, estes encontros comprimiam o gás molecular, fazendo com que nuvens densas colapsassem sob a sua própria.</p><p>Porém, um fenômeno curioso ocorre em algumas regiões com gás molecular abundante. Para compreender este fenómeno, uma equipa de investigação da Universidade Metropolitana de Osaka utilizou o Atacama Compact Array, uma rede de radiotelescópios no Chile, para.</p><p>O interesse mais amplo está em saber se a propriedade ou rota de reação alegada pode ser caracterizada com precisão suficiente para sustentar replicação por outros grupos. A química tem um problema de replicação menos discutido do que o da psicologia ou da medicina, mas ele é real: procedimentos sintéticos que funcionam confiavelmente em um laboratório às vezes não se transferem, por razões que vão de materiais de partida impuros a sensibilidades de temperatura não documentadas. Um resultado que vem com detalhes experimentais completos e caracterização clara do produto é muito mais valioso do que um que relata uma descoberta sem o arcabouço procedimental.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se grupos independentes trabalhando com técnicas ortogonais chegam a conclusões compatíveis e se o resultado escala além das condições usadas no estudo original. Descobertas químicas que importam tendem a ser aquelas cujas propriedades principais podem ser medidas por múltiplos métodos espectroscópicos, cristalográficos ou computacionais que provavelmente não compartilham os mesmos pontos cegos. Escalabilidade, custo e estabilidade de longo prazo sob condições operacionais realistas são filtros adicionais que entram em jogo antes que qualquer aplicação prática se torne viável.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-09-turbulent-star-formation-stephan-quintet.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Star formation in galaxies is closely linked to molecular gas. In the distant past, when galaxy interactions were more common, these encounters compressed molecular gas, causing dense clouds to collapse under their own gravity and form new. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because chemistry gains force when a claimed structure or process can be described with enough precision to be reproduced by others. Synthetic routes, spectroscopic signatures, yield under defined conditions and stability under realistic operating parameters are the currency of credibility in chemistry, and a result that lacks these details cannot be evaluated independently. The distance between a discovery on a laboratory bench and a process that works reliably at scale is measured in years of optimization, and each step reveals constraints that were invisible at smaller scale. This article has been reviewed according to Science X&#x27;s editorial process and policies. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source The contour lines show radio emissions from carbon monoxide.</p><p>Just as higher contours on a map represent higher elevations, higher contour levels here represent stronger CO emission, indicating regions with more molecular gas. In the distant past, when galaxy interactions were more common, these encounters compressed molecular gas, causing dense clouds to collapse under their own gravity and form new.</p><p>However, a curious phenomenon occurs in some regions with abundant molecular gas. To understand this phenomenon, a research team at Osaka Metropolitan University used the Atacama Compact Array, a network of radio telescopes in Chile, to create the first.</p><p>The findings are published in The Astrophysical Journal. When the researchers compared the amount and motion of gas in different regions with how efficiently each region was forming stars, they found that regions where molecular gas was.</p><p>The broader interest lies in whether the claimed property or reaction pathway can be characterized with enough precision to support replication by other groups. Chemistry has a replication problem that is less discussed than the one in psychology or medicine, but it is real: synthetic procedures that work reliably in one laboratory sometimes fail to transfer, for reasons ranging from impure starting materials to undocumented temperature sensitivities. A result that comes with full experimental detail and a clear characterization of the product is far more valuable than one that reports a discovery without the procedural backbone.</p><p>Interactions between galaxies can both compress and disperse molecular gas, creating dramatic differences in star formation activity,&quot; Misaki Yamamoto of the Graduate School of. If the gas is highly turbulent, its motions spread out the gas, preventing parts of the cloud from settling, becoming concentrated and collapsing.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent groups working with orthogonal techniques reach compatible conclusions, and whether the result scales beyond the conditions used in the original study. Chemical discoveries that matter tend to be ones whose key properties can be measured by multiple spectroscopic, crystallographic or computational methods that are unlikely to share the same blind spots. Scalability, cost and long-term stability under realistic operating conditions are additional filters that come into play before any practical application becomes viable.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-09-turbulent-star-formation-stephan-quintet.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: A formação de estrelas nas galáxias está intimamente ligada ao gás molecular. No passado distante, quando as interações galácticas eram mais comuns.",
-      "Dado-chave: Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: A formação de estrelas nas galáxias está intimamente ligada ao gás molecular. No passado distante, quando as interações galácticas eram mais comuns.",
-      "Dado-chave: Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Star formation in galaxies is closely linked to molecular gas. In the distant past, when galaxy interactions were more common, these encounters.",
-      "Key detail: This article has been reviewed according to Science X's editorial process and policies.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "04 set 2026",
-    "date_pt": "04 set 2026",
-    "date_en": "04 Sep 2026",
-    "time": "17h40",
-    "time_pt": "17h40",
-    "time_en": "17:40 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-09-04T17:40:04+00:00",
-    "lastModifiedIso": "2026-09-04T17:40:04+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Química",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Tempos turbulentos para a formação de estrelas no Quinteto de Stephan"
-    ],
-    "keywords_pt": [
-      "Química",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Tempos turbulentos para a formação de estrelas no Quinteto de Stephan"
-    ],
-    "keywords_en": [
-      "Chemical",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Turbulent times for star-making in the Stephan Quintet"
-    ],
-    "srcUrl": "https://phys.org/news/2026-09-turbulent-star-formation-stephan-quintet.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=turbulent-times-for-star-formation-in-stephan-s-quintet",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=turbulent-times-for-star-formation-in-stephan-s-quintet",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=turbulent-times-for-star-formation-in-stephan-s-quintet&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 74,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 82,
-      "relevance": 82,
-      "accessibility": 60,
       "novelty": 55
     }
   },
@@ -1400,124 +1404,6 @@ window.postsData = [
   },
   {
     "id": 13,
-    "slug": "na64-a-decade-of-hunting-dark-matter",
-    "cat": "Cosmologia",
-    "catCls": "cosmologia",
-    "img": "https://home.cern/wp-content/uploads/2026/09/202111-172_22.jpg",
-    "inline_images": [
-      {
-        "src": "https://home.cern/na64-a-decade-of-hunting-dark-matter/context.post.image",
-        "caption": "contexto.post.título",
-        "caption_pt": "contexto.post.título",
-        "caption_en": "context.post.title",
-        "alt": "contexto.post.título",
-        "alt_pt": "contexto.post.título",
-        "alt_en": "context.post.title"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "NA64, uma década de caça à matéria escura",
-    "title_pt": "NA64, uma década de caça à matéria escura",
-    "title_en": "NA64, a decade of hunting dark matter",
-    "sub": "Na física de partículas, a energia nunca é perdida. Quando as partículas colidem ou decaem, toda a energia inicial que transportam deve ser conservada nos produtos resultantes, e.",
-    "sub_pt": "Na física de partículas, a energia nunca é perdida. Quando as partículas colidem ou decaem, toda a energia inicial que transportam deve ser conservada nos produtos resultantes, e.",
-    "sub_en": "In particle physics, energy is never lost. When particles collide or decay, all the initial energy they carry must be conserved in the resulting products, and a shortfall signals.",
-    "excerpt": "Na física de partículas, a energia nunca é perdida. Quando as partículas colidem ou decaem, toda a energia inicial que transportam deve ser conservada nos produtos resultantes, e uma deficiência sinaliza que algo escapou sem ser visto. Foi a energia que.",
-    "excerpt_pt": "Na física de partículas, a energia nunca é perdida. Quando as partículas colidem ou decaem, toda a energia inicial que transportam deve ser conservada nos produtos resultantes, e uma deficiência sinaliza que algo escapou sem ser visto. Foi a energia que.",
-    "excerpt_en": "In particle physics, energy is never lost. When particles collide or decay, all the initial energy they carry must be conserved in the resulting products, and a shortfall signals that something has escaped unseen. It was the energy missing.",
-    "body": "<p>Na física de partículas, a energia nunca é perdida. Quando as partículas colidem ou decaem, toda a energia inicial que transportam deve ser conservada nos produtos resultantes, e uma deficiência sinaliza que algo escapou sem ser visto. Foi a energia que faltou. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Foi a energia que faltava nos decaimentos radioativos que levou Wolfgang Pauli a propor o neutrino em 1930, uma partícula tão elusiva que escapou à detecção por. Física NA64, uma década de caça à matéria escura O experimento NA64 no CERN procura matéria escura desde 2016, procurando energia que desaparece quando as partículas atingem seu.</p><p>Comunidade CERN CERN Courier matéria escura Público geral NA64 Área Norte Super Próton Síncrotron Artigos relacionados Ver todas as notícias Nenhuma postagem foi encontrada. Foi a energia que faltava nos decaimentos radioactivos que levou Wolfgang Pauli a propor o neutrino em 1930, uma partícula tão esquiva que escapou à detecção durante um quarto de.</p><p>Evidências que vão desde o brilho do Big Bang até à forma como as galáxias se formaram e agruparam, por exemplo, indicam que cerca de 85% da matéria do Universo não emite luz. Durante décadas, o principal candidato a esta matéria escura foi uma nova partícula pesada, cerca de cem vezes mais massiva que o protão.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de CERN News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://home.cern/na64-a-decade-of-hunting-dark-matter/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Na física de partículas, a energia nunca é perdida. Quando as partículas colidem ou decaem, toda a energia inicial que transportam deve ser conservada nos produtos resultantes, e uma deficiência sinaliza que algo escapou sem ser visto. Foi a energia que faltou. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Foi a energia que faltava nos decaimentos radioativos que levou Wolfgang Pauli a propor o neutrino em 1930, uma partícula tão elusiva que escapou à detecção por. Física NA64, uma década de caça à matéria escura O experimento NA64 no CERN procura matéria escura desde 2016, procurando energia que desaparece quando as partículas atingem seu.</p><p>Comunidade CERN CERN Courier matéria escura Público geral NA64 Área Norte Super Próton Síncrotron Artigos relacionados Ver todas as notícias Nenhuma postagem foi encontrada. Foi a energia que faltava nos decaimentos radioactivos que levou Wolfgang Pauli a propor o neutrino em 1930, uma partícula tão esquiva que escapou à detecção durante um quarto de.</p><p>Evidências que vão desde o brilho do Big Bang até à forma como as galáxias se formaram e agruparam, por exemplo, indicam que cerca de 85% da matéria do Universo não emite luz. Durante décadas, o principal candidato a esta matéria escura foi uma nova partícula pesada, cerca de cem vezes mais massiva que o protão.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de CERN News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://home.cern/na64-a-decade-of-hunting-dark-matter/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>In particle physics, energy is never lost. When particles collide or decay, all the initial energy they carry must be conserved in the resulting products, and a shortfall signals that something has escaped unseen. It was the energy missing. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. It was the energy missing from radioactive decays that led Wolfgang Pauli to propose the neutrino in 1930, a particle so elusive that it evaded detection for. Physics NA64, a decade of hunting dark matter The NA64 experiment at CERN has searched for dark matter since 2016 by looking for energy that goes missing when particles strike its.</p><p>CERN community CERN Courier dark matter General public NA64 North Area Super Proton Synchrotron Related Articles View all news No posts were found. It was the energy missing from radioactive decays that led Wolfgang Pauli to propose the neutrino in 1930, a particle so elusive that it evaded detection for a quarter of a.</p><p>Evidence ranging from the afterglow of the Big Bang to the way galaxies formed and clustered, for instance, indicates that around 85% of the matter in the Universe emits no light. For decades, the leading candidate for this dark matter was a new heavy particle, roughly a hundred times more massive than the proton.</p><p>However, the absence of a signal may simply suggest that dark matter is lighter and interacts more weakly than first assumed. A particle of this kind could naturally fit into a broader dark sector, a hidden family of new particles and forces, in contact with known matter only through a handful of feeble.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>Dark matter particles of this kind are what NA64 has spent the past ten years looking for. The experiment sits in CERN’s North Area, where 400 GeV protons from the Super Proton Synchrotron hit a beryllium target, producing a spray of secondary particles that are sorted.</p><p>Because the account originates with CERN News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://home.cern/na64-a-decade-of-hunting-dark-matter/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Na física de partículas, a energia nunca é perdida. Quando as partículas colidem ou decaem, toda a energia inicial que transportam deve ser.",
-      "Dado-chave: Foi a energia que faltava nos decaimentos radioativos que levou Wolfgang Pauli a propor o neutrino em 1930, uma partícula tão elusiva que.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Na física de partículas, a energia nunca é perdida. Quando as partículas colidem ou decaem, toda a energia inicial que transportam deve ser.",
-      "Dado-chave: Foi a energia que faltava nos decaimentos radioativos que levou Wolfgang Pauli a propor o neutrino em 1930, uma partícula tão elusiva que.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: In particle physics, energy is never lost. When particles collide or decay, all the initial energy they carry must be conserved in the resulting.",
-      "Key detail: It was the energy missing from radioactive decays that led Wolfgang Pauli to propose the neutrino in 1930, a particle so elusive that it evaded.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "04 set 2026",
-    "date_pt": "04 set 2026",
-    "date_en": "04 Sep 2026",
-    "time": "14h57",
-    "time_pt": "14h57",
-    "time_en": "14:57 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-09-04T14:57:00+00:00",
-    "lastModifiedIso": "2026-09-04T14:57:00+00:00",
-    "source": "CERN News",
-    "sourceDomain": "home.cern",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Cosmologia",
-      "CERN News",
-      "Cosmos Week",
-      "NA64",
-      "uma década de caça à matéria escura"
-    ],
-    "keywords_pt": [
-      "Cosmologia",
-      "CERN News",
-      "Cosmos Week",
-      "NA64",
-      "uma década de caça à matéria escura"
-    ],
-    "keywords_en": [
-      "Cosmology",
-      "CERN News",
-      "Cosmos Week",
-      "NA64",
-      "a decade of hunting for dark matter"
-    ],
-    "srcUrl": "https://home.cern/na64-a-decade-of-hunting-dark-matter/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=na64-a-decade-of-hunting-dark-matter",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=na64-a-decade-of-hunting-dark-matter",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=na64-a-decade-of-hunting-dark-matter&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 78,
-    "scoreBreakdown": {
-      "source": 86,
-      "evidence": 82,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 14,
     "slug": "meerkat-directly-detects-faint-hydrogen-signal-from-the-distant-universe",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1650,7 +1536,7 @@ window.postsData = [
     }
   },
   {
-    "id": 15,
+    "id": 14,
     "slug": "science-release-hubble-discovers-first-of-star-cluster-s-missing-black-holes",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1786,7 +1672,7 @@ window.postsData = [
     }
   },
   {
-    "id": 16,
+    "id": 15,
     "slug": "the-biggest-black-hole-merger-ever-observed-could-be-less-massive-than-it-appears",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1919,23 +1805,23 @@ window.postsData = [
     }
   },
   {
-    "id": 17,
-    "slug": "physicists-determine-cause-of-runaway-supermassive-black-hole",
+    "id": 16,
+    "slug": "a-supermassive-black-hole-erupted-in-x-rays-and-its-radio-jets-followed-300-days-later",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
-    "img": "https://www.universetoday.com/article_images/Runaway-black-hole-illustration-cropped-NASA_20260829_222940.jpg",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-supermassive-black-h.jpg",
     "inline_images": [
       {
-        "src": "https://www.universetoday.com/article_images/Runaway-black-hole-cropped-HST-NASA_20260829_223147.jpg",
-        "caption": "Os cientistas primeiro descartaram a linha como um artefato de imagem do Hubble",
-        "caption_pt": "Os cientistas primeiro descartaram a linha como um artefato de imagem do Hubble",
-        "caption_en": "Scientists first dismissed the line as an imaging artifact from Hubble",
-        "alt": "Os cientistas primeiro descartaram a linha como um artefato de imagem do Hubble",
-        "alt_pt": "Os cientistas primeiro descartaram a linha como um artefato de imagem do Hubble",
-        "alt_en": "Scientists first dismissed the line as an imaging artifact from Hubble"
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-supermassive-black-h.jpg",
+        "caption": "Um buraco negro supermassivo entrou em erupção em raios X, e seus jatos de rádio o seguiram 300 dias depois",
+        "caption_pt": "Um buraco negro supermassivo entrou em erupção em raios X, e seus jatos de rádio o seguiram 300 dias depois",
+        "caption_en": "A supermassive black hole erupted in X-rays, and its radio jets followed 300 days later",
+        "alt": "Um buraco negro supermassivo entrou em erupção em raios X, e seus jatos de rádio o seguiram 300 dias depois",
+        "alt_pt": "Um buraco negro supermassivo entrou em erupção em raios X, e seus jatos de rádio o seguiram 300 dias depois",
+        "alt_en": "A supermassive black hole erupted in X-rays, and its radio jets followed 300 days later"
       },
       {
-        "src": "https://www.universetoday.com/article_images/rsmbh_illus_20260902_224030.jpg",
+        "src": "https://scx1.b-cdn.net/gfx/profiles/05cc00b31f2c5b10.jpg",
         "caption": "",
         "caption_pt": "",
         "caption_en": "",
@@ -1944,7 +1830,7 @@ window.postsData = [
         "alt_en": ""
       },
       {
-        "src": "https://www.universetoday.com/assets/patreon-plus-thumb.jpg",
+        "src": "https://scx1.b-cdn.net/gfx/profiles/f233d40c9bb6ec42.jpg",
         "caption": "",
         "caption_pt": "",
         "caption_en": "",
@@ -1955,46 +1841,46 @@ window.postsData = [
     ],
     "video": null,
     "audio": null,
-    "title": "Físicos determinam a causa do buraco negro supermassivo “em fuga”",
-    "title_pt": "Físicos determinam a causa do buraco negro supermassivo “em fuga”",
-    "title_en": "Physicists Determine Cause of \"Runaway\" Supermassive Black Hole",
-    "sub": "Pesquisadores da UCSB e UT Austin determinaram que uma fusão galáctica lançou um buraco negro supermassivo para o espaço intergaláctico.",
-    "sub_pt": "Pesquisadores da UCSB e UT Austin determinaram que uma fusão galáctica lançou um buraco negro supermassivo para o espaço intergaláctico.",
-    "sub_en": "Researchers at UCSB and UT Austin have determined that a galactic merger kicked a supermassive black hole into intergalactic space.",
-    "excerpt": "Pesquisadores da UCSB e UT Austin determinaram que uma fusão galáctica lançou um buraco negro supermassivo para o espaço intergaláctico.",
-    "excerpt_pt": "Pesquisadores da UCSB e UT Austin determinaram que uma fusão galáctica lançou um buraco negro supermassivo para o espaço intergaláctico.",
-    "excerpt_en": "Researchers at UCSB and UT Austin have determined that a galactic merger kicked a supermassive black hole into intergalactic space.",
-    "body": "<p>Pesquisadores da UCSB e UT Austin determinaram que uma fusão galáctica lançou um buraco negro supermassivo para o espaço intergaláctico. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Em setembro de 2022, os astrónomos observaram algo muito estranho numa galáxia a cerca de 7,5 mil milhões de anos-luz da Terra. Estendendo-se a partir desta galáxia havia uma linha fina que se estendia por mais de 202.000 anos-luz do centro da galáxia.</p><p>No final, parecia haver uma característica não resolvida sem estrelas avançando através do espaço intergaláctico a cerca de 1.000 km/s (620 mi/s), causando a formação de novas. A equipe chamou esse recurso de RBH-1 e deduziu que se tratava de um buraco negro supermassivo expulso de sua galáxia por algum evento violento.</p><p>Num estudo recente, uma equipe liderada por astrônomos da Universidade da Califórnia, Santa Bárbara (UCSB) observou RBH-1 usando dados do Telescópio Espacial Hubble e do. Se os buracos negros forem desequilibrados, as ondas produzidas por uma fusão podem ser fortes o suficiente para lançar o buraco negro recém-formado numa direção diferente.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/physicists-determine-cause-of-runaway-supermassive-black-hole\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Pesquisadores da UCSB e UT Austin determinaram que uma fusão galáctica lançou um buraco negro supermassivo para o espaço intergaláctico. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Em setembro de 2022, os astrónomos observaram algo muito estranho numa galáxia a cerca de 7,5 mil milhões de anos-luz da Terra. Estendendo-se a partir desta galáxia havia uma linha fina que se estendia por mais de 202.000 anos-luz do centro da galáxia.</p><p>No final, parecia haver uma característica não resolvida sem estrelas avançando através do espaço intergaláctico a cerca de 1.000 km/s (620 mi/s), causando a formação de novas. A equipe chamou esse recurso de RBH-1 e deduziu que se tratava de um buraco negro supermassivo expulso de sua galáxia por algum evento violento.</p><p>Num estudo recente, uma equipe liderada por astrônomos da Universidade da Califórnia, Santa Bárbara (UCSB) observou RBH-1 usando dados do Telescópio Espacial Hubble e do. Se os buracos negros forem desequilibrados, as ondas produzidas por uma fusão podem ser fortes o suficiente para lançar o buraco negro recém-formado numa direção diferente.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/physicists-determine-cause-of-runaway-supermassive-black-hole\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Researchers at UCSB and UT Austin have determined that a galactic merger kicked a supermassive black hole into intergalactic space. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. In September 2022, astronomers observed something very odd in a galaxy around 7.5 billion light-years from Earth. Extending from this galaxy was a thin line stretching more than 202,000 light-years from the galaxy&#x27;s center.</p><p>At the end, there appeared to be an unresolved feature with no stars pushing through intergalactic space at close to 1,000 km/s (620 mi/s), causing new stars to form in its wake. The team named this feature RBH-1 and deduced that it was a supermassive black hole kicked from its galaxy by some violent event.</p><p>In a recent study, a team led by astronomers from the University of California, Santa Barbara (UCSB) observed RBH-1 using data from the Hubble Space Telescope and the James Webb. If the black holes are lopsided, the waves produced from a merger can be strong enough to launch the newly formed black hole in a different direction.</p><p>Scientists first dismissed the line as an imaging artifact from Hubble&#x27;s cameras. NASA/ESA/Pieter van Dokkum (Yale)/Joseph DePasquale (STScI) The SMBH in question, known as RBH-1, was previously identified by another team of astronomers, who determined it was a.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>The team led by Tousif Islam, a professor of mathematics at the Kavli Institute for Theoretical Physics (KITP) at UCSB and the paper&#x27;s lead author, followed up by tracing RBH-1. However, by the time RBH-1 was created by the merger of two black holes (7.5 billion years ago), neighboring galaxies would have SMBHs that had already grown through consolidation.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/physicists-determine-cause-of-runaway-supermassive-black-hole\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "title": "Um buraco negro supermassivo entrou em erupção em raios X, e seus jatos de rádio o seguiram 300 dias depois",
+    "title_pt": "Um buraco negro supermassivo entrou em erupção em raios X, e seus jatos de rádio o seguiram 300 dias depois",
+    "title_en": "A supermassive black hole erupted in X-rays, and its radio jets followed 300 days later",
+    "sub": "Ao combinar cerca de duas décadas de observações do Telescópio de Raios X Swift da NASA com monitoramento de rádio, os astrônomos capturaram um buraco negro supermassivo no.",
+    "sub_pt": "Ao combinar cerca de duas décadas de observações do Telescópio de Raios X Swift da NASA com monitoramento de rádio, os astrônomos capturaram um buraco negro supermassivo no.",
+    "sub_en": "By combining roughly two decades of observations from NASA's Swift X-ray Telescope with radio monitoring, astronomers have caught a supermassive black hole at the heart of the.",
+    "excerpt": "Ao combinar cerca de duas décadas de observações do Telescópio de Raios X Swift da NASA com monitoramento de rádio, os astrônomos capturaram um buraco negro supermassivo no coração do Aglomerado de Perseu, queimando repentinamente em raios X, e cerca de 300.",
+    "excerpt_pt": "Ao combinar cerca de duas décadas de observações do Telescópio de Raios X Swift da NASA com monitoramento de rádio, os astrônomos capturaram um buraco negro supermassivo no coração do Aglomerado de Perseu, queimando repentinamente em raios X, e cerca de 300.",
+    "excerpt_en": "By combining roughly two decades of observations from NASA's Swift X-ray Telescope with radio monitoring, astronomers have caught a supermassive black hole at the heart of the Perseus Cluster suddenly flaring in X-rays, and about 300 days.",
+    "body": "<p>Ao combinar cerca de duas décadas de observações do Telescópio de Raios X Swift da NASA com monitoramento de rádio, os astrônomos capturaram um buraco negro supermassivo no coração do Aglomerado de Perseu, queimando repentinamente em raios X, e cerca de 300 dias depois. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Ao combinar cerca de duas décadas de observações do Telescópio de Raios-X Swift da NASA com monitorização de rádio, os astrónomos captaram um buraco negro supermassivo no coração. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferencial O Telescópio Espacial Hubble captura a.</p><p>Fabian (Instituto de Astronomia, Universidade de Cambridge, Reino Unido) Ao combinar cerca de duas décadas de observações do Telescópio de Raios-X Swift da NASA com monitorização. O artigo que descreve a conexão entre o disco de acreção deste buraco negro e os jatos que ele lança foi submetido ao servidor de pré-impressão arXiv em agosto de 2018.</p><p>Para resolver esta questão, os astrónomos recorreram ao Swift, um telescópio menos poderoso, mas disponível com muito mais frequência, compilando quase 20 anos de dados de. Os pesquisadores encontraram a explosão de raios X mais forte já registrada nesta galáxia, começando por volta de fevereiro de 2023.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-supermassive-black-hole-erupted-rays.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Ao combinar cerca de duas décadas de observações do Telescópio de Raios X Swift da NASA com monitoramento de rádio, os astrônomos capturaram um buraco negro supermassivo no coração do Aglomerado de Perseu, queimando repentinamente em raios X, e cerca de 300 dias depois. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Ao combinar cerca de duas décadas de observações do Telescópio de Raios-X Swift da NASA com monitorização de rádio, os astrónomos captaram um buraco negro supermassivo no coração. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferencial O Telescópio Espacial Hubble captura a.</p><p>Fabian (Instituto de Astronomia, Universidade de Cambridge, Reino Unido) Ao combinar cerca de duas décadas de observações do Telescópio de Raios-X Swift da NASA com monitorização. O artigo que descreve a conexão entre o disco de acreção deste buraco negro e os jatos que ele lança foi submetido ao servidor de pré-impressão arXiv em agosto de 2018.</p><p>Para resolver esta questão, os astrónomos recorreram ao Swift, um telescópio menos poderoso, mas disponível com muito mais frequência, compilando quase 20 anos de dados de. Os pesquisadores encontraram a explosão de raios X mais forte já registrada nesta galáxia, começando por volta de fevereiro de 2023.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-supermassive-black-hole-erupted-rays.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>By combining roughly two decades of observations from NASA&#x27;s Swift X-ray Telescope with radio monitoring, astronomers have caught a supermassive black hole at the heart of the Perseus Cluster suddenly flaring in X-rays, and about 300 days. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source Hubble Space Telescope captures the active galaxy NGC 1275. Fabian (Institute of Astronomy, University of Cambridge, UK) By combining roughly two decades of observations from NASA&#x27;s Swift X-ray Telescope with radio monitoring, astronomers.</p><p>Their paper describing the connection between this black hole&#x27;s accretion disk and the jets it launches was submitted to the arXiv preprint server on Aug. To address this, astronomers turned to Swift, a less powerful but far more frequently available telescope, compiling nearly 20 years of X-ray monitoring data.</p><p>The strongest X-ray flare ever recorded from this galaxy, starting around February 2023. This flaring episode lasted less than 60 days and appeared to consist of at least two distinct bursts, each lasting only about 5 days.</p><p>However, researchers are not 100% sure that all the emission came from an X-ray-emitting corona close to the black hole, as some flares may arise farther along the jet&#x27;s path. Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>Comparing X-ray and radio data revealed a radio counterpart that followed the flare by 296 days. Sarah Ketchum et al, X-ray Flaring and Variability in NGC 1275, the Heart of the Perseus Cluster, arXiv (2026).</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-08-supermassive-black-hole-erupted-rays.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Ponto central: Pesquisadores da UCSB e UT Austin determinaram que uma fusão galáctica lançou um buraco negro supermassivo para o espaço intergaláctico.",
-      "Dado-chave: Em setembro de 2022, os astrónomos observaram algo muito estranho numa galáxia a cerca de 7,5 mil milhões de anos-luz da Terra.",
+      "Ponto central: Ao combinar cerca de duas décadas de observações do Telescópio de Raios X Swift da NASA com monitoramento de rádio, os astrônomos capturaram um.",
+      "Dado-chave: Ao combinar cerca de duas décadas de observações do Telescópio de Raios-X Swift da NASA com monitorização de rádio, os astrónomos captaram um.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Ponto central: Pesquisadores da UCSB e UT Austin determinaram que uma fusão galáctica lançou um buraco negro supermassivo para o espaço intergaláctico.",
-      "Dado-chave: Em setembro de 2022, os astrónomos observaram algo muito estranho numa galáxia a cerca de 7,5 mil milhões de anos-luz da Terra.",
+      "Ponto central: Ao combinar cerca de duas décadas de observações do Telescópio de Raios X Swift da NASA com monitoramento de rádio, os astrônomos capturaram um.",
+      "Dado-chave: Ao combinar cerca de duas décadas de observações do Telescópio de Raios-X Swift da NASA com monitorização de rádio, os astrónomos captaram um.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Core point: Researchers at UCSB and UT Austin have determined that a galactic merger kicked a supermassive black hole into intergalactic space.",
-      "Key detail: In September 2022, astronomers observed something very odd in a galaxy around 7.5 billion light-years from Earth.",
+      "Core point: By combining roughly two decades of observations from NASA's Swift X-ray Telescope with radio monitoring, astronomers have caught a supermassive.",
+      "Key detail: By combining roughly two decades of observations from NASA's Swift X-ray Telescope with radio monitoring, astronomers have caught a supermassive.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "02 set 2026",
-    "date_pt": "02 set 2026",
-    "date_en": "02 Sep 2026",
-    "time": "20h55",
-    "time_pt": "20h55",
-    "time_en": "20:55 UTC",
+    "date": "01 set 2026",
+    "date_pt": "01 set 2026",
+    "date_en": "01 Sep 2026",
+    "time": "12h40",
+    "time_pt": "12h40",
+    "time_en": "12:40 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-09-02T20:55:00+00:00",
-    "lastModifiedIso": "2026-09-02T20:55:00+00:00",
-    "source": "Universe Today",
-    "sourceDomain": "www.universetoday.com",
+    "publishedIso": "2026-09-01T12:40:01+00:00",
+    "lastModifiedIso": "2026-09-01T12:40:01+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
     "sourceType": "agency",
     "sourceTypeLabel": "Fonte institucional",
     "sourceTypeLabel_pt": "Fonte institucional",
@@ -2012,26 +1898,29 @@ window.postsData = [
     "editorialBandLabel_en": "Editorial priority",
     "keywords": [
       "Astrofísica",
-      "Universe Today",
+      "Phys.org Space",
       "Cosmos Week",
-      "Físicos determinam a causa do buraco negro supermassivo “em fuga”"
+      "Um buraco negro supermassivo entrou em erupção em raios X",
+      "e seus jatos de rádio o seguiram 300 dias depois"
     ],
     "keywords_pt": [
       "Astrofísica",
-      "Universe Today",
+      "Phys.org Space",
       "Cosmos Week",
-      "Físicos determinam a causa do buraco negro supermassivo “em fuga”"
+      "Um buraco negro supermassivo entrou em erupção em raios X",
+      "e seus jatos de rádio o seguiram 300 dias depois"
     ],
     "keywords_en": [
       "Astrophysics",
-      "Universe Today",
+      "Phys.org Space",
       "Cosmos Week",
-      "Physicists determine cause of “runaway” supermassive black hole"
+      "A supermassive black hole erupted in X-rays",
+      "and his radio jets followed him 300 days later"
     ],
-    "srcUrl": "https://www.universetoday.com/articles/physicists-determine-cause-of-runaway-supermassive-black-hole",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=physicists-determine-cause-of-runaway-supermassive-black-hole",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=physicists-determine-cause-of-runaway-supermassive-black-hole",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=physicists-determine-cause-of-runaway-supermassive-black-hole&lang=en",
+    "srcUrl": "https://phys.org/news/2026-08-supermassive-black-hole-erupted-rays.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=a-supermassive-black-hole-erupted-in-x-rays-and-its-radio-jets-followed-300-days-later",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=a-supermassive-black-hole-erupted-in-x-rays-and-its-radio-jets-followed-300-days-later",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=a-supermassive-black-hole-erupted-in-x-rays-and-its-radio-jets-followed-300-days-later&lang=en",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",
@@ -2042,17 +1931,17 @@ window.postsData = [
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 74,
+    "score": 77,
     "scoreBreakdown": {
-      "source": 73,
-      "evidence": 82,
+      "source": 76,
+      "evidence": 88,
       "relevance": 88,
       "accessibility": 60,
       "novelty": 49
     }
   },
   {
-    "id": 18,
+    "id": 17,
     "slug": "cutting-edge-infrared-space-telescope-roman-set-to-launch",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2185,7 +2074,7 @@ window.postsData = [
     }
   },
   {
-    "id": 19,
+    "id": 18,
     "slug": "giant-mega-earth-is-23-times-more-massive-than-earth",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2303,7 +2192,7 @@ window.postsData = [
     }
   },
   {
-    "id": 20,
+    "id": 19,
     "slug": "evolutionary-pathways-toward-survival-of-a-thick-co2-or-so2-rich-atmosphere-on-the-lava-world-to",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2411,7 +2300,7 @@ window.postsData = [
     }
   },
   {
-    "id": 21,
+    "id": 20,
     "slug": "official-news-regarding-the-cern-safety-rules",
     "cat": "Física",
     "catCls": "fisica",
@@ -2516,7 +2405,7 @@ window.postsData = [
     }
   },
   {
-    "id": 22,
+    "id": 21,
     "slug": "official-news-regarding-the-cern-safety-rules-storage-of-hazardous-chemical-agents-hca",
     "cat": "Física",
     "catCls": "fisica",
@@ -2624,7 +2513,7 @@ window.postsData = [
     }
   },
   {
-    "id": 23,
+    "id": 22,
     "slug": "hubble-tracks-new-decagon-encircling-saturn-s-south-pole",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2757,7 +2646,7 @@ window.postsData = [
     }
   },
   {
-    "id": 24,
+    "id": 23,
     "slug": "science-release-hubble-tracks-new-decagon-encircling-saturn-s-south-pole",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -2893,7 +2782,7 @@ window.postsData = [
     }
   },
   {
-    "id": 25,
+    "id": 24,
     "slug": "science-release-hubble-details-early-galaxy-transforming-neighbourhood",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3029,7 +2918,7 @@ window.postsData = [
     }
   },
   {
-    "id": 26,
+    "id": 25,
     "slug": "science-release-hubble-unexpectedly-catches-comet-breaking-up",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3165,12 +3054,31 @@ window.postsData = [
     }
   },
   {
-    "id": 27,
+    "id": 26,
     "slug": "latest-updates-bepicolombo-s-arrival-at-mercury",
     "cat": "Astronomia",
     "catCls": "astronomia",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2018/03/mercury_transfer_module_separation3/17405480-1-eng-GB/Mercury_Transfer_Module_separation_card_full.jpg",
-    "inline_images": [],
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2018/03/mercury_transfer_module_separation2/17405443-1-eng-GB/Mercury_Transfer_Module_separation_article.jpg",
+        "caption": "Separação do Módulo de Transferência de Mercúrio",
+        "caption_pt": "Separação do Módulo de Transferência de Mercúrio",
+        "caption_en": "Mercury Transfer Module separation",
+        "alt": "Separação do Módulo de Transferência de Mercúrio",
+        "alt_pt": "Separação do Módulo de Transferência de Mercúrio",
+        "alt_en": "Mercury Transfer Module separation"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2018/10/bepicolombo_arrival_at_mercury_timeline/17772651-2-eng-GB/BepiColombo_arrival_at_Mercury_timeline_article.png",
+        "caption": "Chegada do BepiColombo na linha do tempo de Mercúrio",
+        "caption_pt": "Chegada do BepiColombo na linha do tempo de Mercúrio",
+        "caption_en": "BepiColombo arrival at Mercury timeline",
+        "alt": "Chegada do BepiColombo na linha do tempo de Mercúrio",
+        "alt_pt": "Chegada do BepiColombo na linha do tempo de Mercúrio",
+        "alt_en": "BepiColombo arrival at Mercury timeline"
+      }
+    ],
     "video": null,
     "audio": null,
     "title": "Últimas atualizações: chegada da BepiColombo à Mercury",
@@ -3182,22 +3090,22 @@ window.postsData = [
     "excerpt": "Após oito anos viajando pelo interior do Sistema Solar, BepiColombo está chegando a Mercúrio. Esta página mostrará as últimas atualizações durante a chegada da missão.",
     "excerpt_pt": "Após oito anos viajando pelo interior do Sistema Solar, BepiColombo está chegando a Mercúrio. Esta página mostrará as últimas atualizações durante a chegada da missão.",
     "excerpt_en": "After eight years of travelling through the inner Solar System, BepiColombo is arriving at Mercury. This page will show the latest updates throughout the mission's arrival.",
-    "body": "<p>Após oito anos viajando pelo interior do Sistema Solar, BepiColombo está chegando a Mercúrio. Esta página mostrará as últimas atualizações durante a chegada da missão. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Após oito anos viajando pelo interior do Sistema Solar, BepiColombo está chegando a Mercúrio. Esta página mostrará as últimas atualizações durante a chegada da missão.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Após oito anos viajando pelo interior do Sistema Solar, BepiColombo está chegando a Mercúrio. Esta página mostrará as últimas atualizações durante a chegada da missão. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Após oito anos viajando pelo interior do Sistema Solar, BepiColombo está chegando a Mercúrio. Esta página mostrará as últimas atualizações durante a chegada da missão.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>After eight years of travelling through the inner Solar System, BepiColombo is arriving at Mercury. This page will show the latest updates throughout the mission&#x27;s arrival. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. After eight years of travelling through the inner Solar System, BepiColombo is arriving at Mercury. This page will show the latest updates throughout the mission&#x27;s arrival.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>Após oito anos viajando pelo interior do Sistema Solar, BepiColombo está chegando a Mercúrio. Esta página mostrará as últimas atualizações durante a chegada da missão. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. BepiColombo é uma missão científica de classe mundial liderada pela Agência Espacial Europeia (ESA) em estreita colaboração com a Agência Japonesa de Exploração Aeroespacial. Será a primeira missão a orbitar Mercúrio com duas naves espaciais, com o Mercury Planetary Orbiter (MPO) da ESA e o Mercury Magnetospheric Orbiter (Mio) da JAXA orbitando o.</p><p>A &#x27;fase de chegada&#x27; começa com a separação do Módulo de Transferência de Mercúrio (MTM) da pilha de naves espaciais em 3 de setembro de 2026. A espaçonave composta entrará em órbita ao redor de Mercúrio em 21 de novembro de 2026, e MPO e Mio se separarão entre 9 e 10 de dezembro de 2026.</p><p>A fase científica da missão está prevista para começar em abril de 2027. 14: 52 BST / 15: 52 CEST A aquisição de sinal através de duas antenas de espaço profundo Estrack, em Cebreros (Espanha) e Malargüe (Argentina), confirmou a separação bem-sucedida.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Após oito anos viajando pelo interior do Sistema Solar, BepiColombo está chegando a Mercúrio. Esta página mostrará as últimas atualizações durante a chegada da missão. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. BepiColombo é uma missão científica de classe mundial liderada pela Agência Espacial Europeia (ESA) em estreita colaboração com a Agência Japonesa de Exploração Aeroespacial. Será a primeira missão a orbitar Mercúrio com duas naves espaciais, com o Mercury Planetary Orbiter (MPO) da ESA e o Mercury Magnetospheric Orbiter (Mio) da JAXA orbitando o.</p><p>A &#x27;fase de chegada&#x27; começa com a separação do Módulo de Transferência de Mercúrio (MTM) da pilha de naves espaciais em 3 de setembro de 2026. A espaçonave composta entrará em órbita ao redor de Mercúrio em 21 de novembro de 2026, e MPO e Mio se separarão entre 9 e 10 de dezembro de 2026.</p><p>A fase científica da missão está prevista para começar em abril de 2027. 14: 52 BST / 15: 52 CEST A aquisição de sinal através de duas antenas de espaço profundo Estrack, em Cebreros (Espanha) e Malargüe (Argentina), confirmou a separação bem-sucedida.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>After eight years of travelling through the inner Solar System, BepiColombo is arriving at Mercury. This page will show the latest updates throughout the mission&#x27;s arrival. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. BepiColombo is a world-class science mission led by the European Space Agency ( ESA ) in close collaboration with the Japan Aerospace Exploration Agency ( JAXA ). It will be the first mission to orbit Mercury with two spacecraft, with ESA’s Mercury Planetary Orbiter ( MPO ) and JAXA’s Mercury Magnetospheric Orbiter ( Mio ) orbiting the.</p><p>The &#x27; arrival phase &#x27; begins with the separation of the Mercury Transfer Module ( MTM ) from the spacecraft stack on 3 September 2026. The composite spacecraft will enter orbit around Mercury on 21 November 2026, and MPO and Mio will separate from each other on 9, 10 December 2026.</p><p>The mission’s science phase is set to begin in April 2027. 14: 52 BST / 15: 52 CEST Acquisition of signal via two Estrack deep space antennas, in Cebreros (Spain) and Malargüe (Argentina), have confirmed the successful separation of.</p><p>Executing a critical separation more than 200 million kilometres from Earth demands precise planning, navigation and commanding, with no opportunity for real-time intervention. 13: 41 BST / 14: 41 CEST We have detected the preliminary Doppler signal indicating that MTM has separated from the BepiColombo spacecraft stack.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>The Doppler signal is a variation in the radio frequency established between Earth and the spacecraft. For full confirmation of the separation being successful, we&#x27;re awaiting a signal from the MPO spacecraft at around 14: 53 BST / 15: 53 CEST.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Após oito anos viajando pelo interior do Sistema Solar, BepiColombo está chegando a Mercúrio. Esta página mostrará as últimas atualizações durante a.",
-      "Dado-chave: Após oito anos viajando pelo interior do Sistema Solar, BepiColombo está chegando a Mercúrio.",
+      "Dado-chave: BepiColombo é uma missão científica de classe mundial liderada pela Agência Espacial Europeia (ESA) em estreita colaboração com a Agência.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: Após oito anos viajando pelo interior do Sistema Solar, BepiColombo está chegando a Mercúrio. Esta página mostrará as últimas atualizações durante a.",
-      "Dado-chave: Após oito anos viajando pelo interior do Sistema Solar, BepiColombo está chegando a Mercúrio.",
+      "Dado-chave: BepiColombo é uma missão científica de classe mundial liderada pela Agência Espacial Europeia (ESA) em estreita colaboração com a Agência.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: After eight years of travelling through the inner Solar System, BepiColombo is arriving at Mercury. This page will show the latest updates throughout.",
-      "Key detail: After eight years of travelling through the inner Solar System, BepiColombo is arriving at Mercury.",
+      "Key detail: BepiColombo is a world-class science mission led by the European Space Agency ( ESA ) in close collaboration with the Japan Aerospace.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "03 set 2026",
@@ -3273,7 +3181,7 @@ window.postsData = [
     }
   },
   {
-    "id": 28,
+    "id": 27,
     "slug": "hubble-gaia-solve-our-galaxy-s-merger-mystery",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -3406,7 +3314,7 @@ window.postsData = [
     }
   },
   {
-    "id": 29,
+    "id": 28,
     "slug": "a-trio-of-tropical-cyclones-in-the-pacific",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3535,11 +3443,11 @@ window.postsData = [
       "evidence": 88,
       "relevance": 70,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
-    "id": 30,
+    "id": 29,
     "slug": "new-research-shows-how-mercury-s-crust-formed-by-extreme-volcanism",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3672,7 +3580,7 @@ window.postsData = [
     }
   },
   {
-    "id": 31,
+    "id": 30,
     "slug": "supercdms-snolab-starts-its-dark-matter-hunt",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -3800,7 +3708,7 @@ window.postsData = [
     }
   },
   {
-    "id": 32,
+    "id": 31,
     "slug": "pulsar-timing-arrays-could-look-for-evidence-of-dark-matter-stars",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -3924,12 +3832,40 @@ window.postsData = [
     }
   },
   {
-    "id": 33,
+    "id": 32,
     "slug": "how-sentinel-3-tracks-climate-change",
     "cat": "Ciências da Terra",
     "catCls": "terra",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/smoke_plume_from_greek_wildfires_seen_by_sentinel-3/27404001-1-eng-GB/Smoke_plume_from_Greek_wildfires_seen_by_Sentinel-3_card_full.jpg",
-    "inline_images": [],
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/smoke_plume_from_greek_wildfires_seen_by_sentinel-3/27404001-1-eng-GB/Smoke_plume_from_Greek_wildfires_seen_by_Sentinel-3_article.jpg",
+        "caption": "Pluma de fumaça de incêndios florestais na Grécia vista pelo Sentinel-3",
+        "caption_pt": "Pluma de fumaça de incêndios florestais na Grécia vista pelo Sentinel-3",
+        "caption_en": "Smoke plume from Greek wildfires seen by Sentinel-3",
+        "alt": "Pluma de fumaça de incêndios florestais na Grécia vista pelo Sentinel-3",
+        "alt_pt": "Pluma de fumaça de incêndios florestais na Grécia vista pelo Sentinel-3",
+        "alt_en": "Smoke plume from Greek wildfires seen by Sentinel-3"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/09/a_three-tiered_approach_for_methane_detection/25093400-2-eng-GB/A_three-tiered_approach_for_methane_detection_article.jpg",
+        "caption": "Uma abordagem em três níveis para detecção de metano",
+        "caption_pt": "Uma abordagem em três níveis para detecção de metano",
+        "caption_en": "A three-tiered approach for methane detection",
+        "alt": "Uma abordagem em três níveis para detecção de metano",
+        "alt_pt": "Uma abordagem em três níveis para detecção de metano",
+        "alt_en": "A three-tiered approach for methane detection"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/05/hot_surfaces_during_europe_s_heatwave_seen_by_sentinel-3/27297713-1-eng-GB/Hot_surfaces_during_Europe_s_heatwave_seen_by_Sentinel-3_article.jpg",
+        "caption": "A Europa está no meio de uma onda de calor – Copernicus Sentinel-3 capturou esta imagem na terça-feira, 26 de maio",
+        "caption_pt": "A Europa está no meio de uma onda de calor – Copernicus Sentinel-3 capturou esta imagem na terça-feira, 26 de maio",
+        "caption_en": "Europe is in the middle of a heatwave – Copernicus Sentinel-3 captured this image on Tuesday 26 May",
+        "alt": "A Europa está no meio de uma onda de calor – Copernicus Sentinel-3 capturou esta imagem na terça-feira, 26 de maio",
+        "alt_pt": "A Europa está no meio de uma onda de calor – Copernicus Sentinel-3 capturou esta imagem na terça-feira, 26 de maio",
+        "alt_en": "Europe is in the middle of a heatwave – Copernicus Sentinel-3 captured this image on Tuesday 26 May"
+      }
+    ],
     "video": null,
     "audio": null,
     "title": "Como o Sentinel-3 rastreia as mudanças climáticas",
@@ -3941,22 +3877,22 @@ window.postsData = [
     "excerpt": "Copernicus Sentinel-3 é uma das mais diversas missões para medir e monitorar os sistemas climáticos da Terra. Capta uma vasta gama de dados sobre o ambiente e contribuiu substancialmente para o que sabemos sobre as alterações climáticas.",
     "excerpt_pt": "Copernicus Sentinel-3 é uma das mais diversas missões para medir e monitorar os sistemas climáticos da Terra. Capta uma vasta gama de dados sobre o ambiente e contribuiu substancialmente para o que sabemos sobre as alterações climáticas.",
     "excerpt_en": "Copernicus Sentinel-3 is one of the most diverse missions for measuring and monitoring Earth’s climate systems. It captures a breadth of data about the environment and has contributed substantially to what we know about climate change over.",
-    "body": "<p>Copernicus Sentinel-3 é uma das mais diversas missões para medir e monitorar os sistemas climáticos da Terra. Capta uma vasta gama de dados sobre o ambiente e contribuiu substancialmente para o que sabemos sobre as alterações climáticas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Copernicus Sentinel-3 é uma das mais diversas missões para medir e monitorar os sistemas climáticos da Terra. Capta uma vasta gama de dados sobre o ambiente e contribuiu substancialmente para o que sabemos sobre as alterações climáticas ao longo da última década.</p><p>O lançamento do terceiro satélite da missão anuncia a continuidade desta fonte vital de conhecimento.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-3/How_Sentinel-3_tracks_climate_change\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Copernicus Sentinel-3 é uma das mais diversas missões para medir e monitorar os sistemas climáticos da Terra. Capta uma vasta gama de dados sobre o ambiente e contribuiu substancialmente para o que sabemos sobre as alterações climáticas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Copernicus Sentinel-3 é uma das mais diversas missões para medir e monitorar os sistemas climáticos da Terra. Capta uma vasta gama de dados sobre o ambiente e contribuiu substancialmente para o que sabemos sobre as alterações climáticas ao longo da última década.</p><p>O lançamento do terceiro satélite da missão anuncia a continuidade desta fonte vital de conhecimento.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-3/How_Sentinel-3_tracks_climate_change\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Copernicus Sentinel-3 is one of the most diverse missions for measuring and monitoring Earth’s climate systems. It captures a breadth of data about the environment and has contributed substantially to what we know about climate change over. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Copernicus Sentinel-3 is one of the most diverse missions for measuring and monitoring Earth’s climate systems. It captures a breadth of data about the environment and has contributed substantially to what we know about climate change over the past decade.</p><p>The launch of the mission’s third satellite heralds the continuity of this vital source of knowledge.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-3/How_Sentinel-3_tracks_climate_change\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>Copernicus Sentinel-3 é uma das mais diversas missões para medir e monitorar os sistemas climáticos da Terra. Capta uma vasta gama de dados sobre o ambiente e contribuiu substancialmente para o que sabemos sobre as alterações climáticas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Desde que o primeiro satélite Sentinel-3 foi lançado, há uma década, os dados da missão sobre os oceanos, a terra e a atmosfera têm sido utilizados numa variedade de contextos. O que permite à missão desempenhar um papel tão importante no nosso conhecimento das alterações climáticas é a sua combinação única de sensores a bordo de cada satélite, de acordo.</p><p>É a única missão atual dentro da família Copérnico com uma capacidade tão diversificada.” Desde a monitorização das características dos oceanos e da superfície do gelo, ao calor. A missão contribuiu para conjuntos de dados que informam os relatórios do Painel Intergovernamental sobre Alterações Climáticas (IPCC), que se tornaram sinónimo dos mais recentes.</p><p>A Diretora de Programas de Observação da Terra da ESA, Simonetta Cheli, sublinhou o papel crucial da missão no apoio aos esforços do IPCC, observando que “Os satélites Sentinel-3. A adição de um terceiro satélite garante a continuidade da missão, permitindo-nos investir na nossa resiliência às alterações climáticas e continuar a monitorizar os principais.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-3/How_Sentinel-3_tracks_climate_change\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Copernicus Sentinel-3 é uma das mais diversas missões para medir e monitorar os sistemas climáticos da Terra. Capta uma vasta gama de dados sobre o ambiente e contribuiu substancialmente para o que sabemos sobre as alterações climáticas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Desde que o primeiro satélite Sentinel-3 foi lançado, há uma década, os dados da missão sobre os oceanos, a terra e a atmosfera têm sido utilizados numa variedade de contextos. O que permite à missão desempenhar um papel tão importante no nosso conhecimento das alterações climáticas é a sua combinação única de sensores a bordo de cada satélite, de acordo.</p><p>É a única missão atual dentro da família Copérnico com uma capacidade tão diversificada.” Desde a monitorização das características dos oceanos e da superfície do gelo, ao calor. A missão contribuiu para conjuntos de dados que informam os relatórios do Painel Intergovernamental sobre Alterações Climáticas (IPCC), que se tornaram sinónimo dos mais recentes.</p><p>A Diretora de Programas de Observação da Terra da ESA, Simonetta Cheli, sublinhou o papel crucial da missão no apoio aos esforços do IPCC, observando que “Os satélites Sentinel-3. A adição de um terceiro satélite garante a continuidade da missão, permitindo-nos investir na nossa resiliência às alterações climáticas e continuar a monitorizar os principais.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-3/How_Sentinel-3_tracks_climate_change\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Copernicus Sentinel-3 is one of the most diverse missions for measuring and monitoring Earth’s climate systems. It captures a breadth of data about the environment and has contributed substantially to what we know about climate change over. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Since the first Sentinel-3 satellite was launched a decade ago, the mission’s data on oceans, land and atmosphere have been used in a variety of scientific contexts, from. What enables the mission to play such an integral role in our knowledge of climate change is its unique combination of sensors on board each satellite, according to ESA’s.</p><p>It is the only current mission within the Copernicus family with such a diverse capacity.” From monitoring ocean and ice surface characteristics, to land heat and changing land. The mission has contributed to datasets that inform the Intergovernmental Panel on Climate Change (IPCC) reports, which have become synonymous with the latest scientific knowledge.</p><p>ESA’s Director of Earth Observation Programmes, Simonetta Cheli, underlined the mission’s crucial role in supporting the efforts of the IPCC, noting “The Sentinel-3 satellites. The addition of a third satellite ensures the mission’s continuity, enabling us to invest in our resilience to climate change and continue tracking key indicators of climate.</p><p>Jerome Bouffard, Sentinel-3 Mission Manager at ESA, said, “Sentinel-3 data are widely used in what we call ECVs. Because the mission captures such a wide range of geophysical data, it contributes to datasets upon which a lot of climate science is based.” Sentinel-3 satellites provide global.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>The mission’s wide-angle sensors, able to capture data over an area of up to 1400 km across, are suited to monitoring phenomena on regional or national scales, such as industrial. As part of ESA’s Climate Change Initiative Sea Ice Project, Sentinel-3 data on sea-ice in the Arctic were analysed together with data from ESA’s CryoSat and SMOS missions.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-3/How_Sentinel-3_tracks_climate_change\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Copernicus Sentinel-3 é uma das mais diversas missões para medir e monitorar os sistemas climáticos da Terra. Capta uma vasta gama de dados sobre o.",
-      "Dado-chave: Copernicus Sentinel-3 é uma das mais diversas missões para medir e monitorar os sistemas climáticos da Terra.",
+      "Dado-chave: Desde que o primeiro satélite Sentinel-3 foi lançado, há uma década, os dados da missão sobre os oceanos, a terra e a atmosfera têm sido.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: Copernicus Sentinel-3 é uma das mais diversas missões para medir e monitorar os sistemas climáticos da Terra. Capta uma vasta gama de dados sobre o.",
-      "Dado-chave: Copernicus Sentinel-3 é uma das mais diversas missões para medir e monitorar os sistemas climáticos da Terra.",
+      "Dado-chave: Desde que o primeiro satélite Sentinel-3 foi lançado, há uma década, os dados da missão sobre os oceanos, a terra e a atmosfera têm sido.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: Copernicus Sentinel-3 is one of the most diverse missions for measuring and monitoring Earth’s climate systems. It captures a breadth of data about.",
-      "Key detail: Copernicus Sentinel-3 is one of the most diverse missions for measuring and monitoring Earth’s climate systems.",
+      "Key detail: Since the first Sentinel-3 satellite was launched a decade ago, the mission’s data on oceans, land and atmosphere have been used in a variety of.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "04 set 2026",
@@ -4032,7 +3968,7 @@ window.postsData = [
     }
   },
   {
-    "id": 34,
+    "id": 33,
     "slug": "peatland-fires-darken-skies-in-indonesia",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4165,7 +4101,7 @@ window.postsData = [
     }
   },
   {
-    "id": 35,
+    "id": 34,
     "slug": "nasa-to-cover-progress-96-spacecraft-launch-docking",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4270,7 +4206,7 @@ window.postsData = [
     }
   },
   {
-    "id": 36,
+    "id": 35,
     "slug": "flex-and-sentinel-3c-sealed-within-vega-c-fairing",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4378,7 +4314,7 @@ window.postsData = [
     }
   },
   {
-    "id": 37,
+    "id": 36,
     "slug": "mars-southern-hemisphere-is-unusually-hot-deep-underground",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4493,12 +4429,40 @@ window.postsData = [
     }
   },
   {
-    "id": 38,
+    "id": 37,
     "slug": "third-spacewalk-completed-for-sophie-adenot",
     "cat": "Astronomia",
     "catCls": "astronomia",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/eva-99_sophie_adenot_working_in_the_vacuum_of_space/27449119-1-eng-GB/EVA-99_Sophie_Adenot_working_in_the_vacuum_of_space_card_full.jpg",
-    "inline_images": [],
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/08/esa_astronaut_sophie_adenot_and_nasa_astronaut_jessica_meir_during_eva-99_preparations/27446320-2-eng-GB/ESA_astronaut_Sophie_Adenot_and_NASA_astronaut_Jessica_Meir_during_EVA-99_preparations_article.jpg",
+        "caption": "A astronauta da ESA Sophie Adenot e a astronauta da NASA Jessica Meir durante os preparativos do EVA-99",
+        "caption_pt": "A astronauta da ESA Sophie Adenot e a astronauta da NASA Jessica Meir durante os preparativos do EVA-99",
+        "caption_en": "ESA astronaut Sophie Adenot and NASA astronaut Jessica Meir during EVA-99 preparations",
+        "alt": "A astronauta da ESA Sophie Adenot e a astronauta da NASA Jessica Meir durante os preparativos do EVA-99",
+        "alt_pt": "A astronauta da ESA Sophie Adenot e a astronauta da NASA Jessica Meir durante os preparativos do EVA-99",
+        "alt_en": "ESA astronaut Sophie Adenot and NASA astronaut Jessica Meir during EVA-99 preparations"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/eva-99_sophie_adenot_working_in_the_vacuum_of_space/27449119-1-eng-GB/EVA-99_Sophie_Adenot_working_in_the_vacuum_of_space_pillars.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/eva-99_sophie_adenot_working_in_the_vacuum_of_space2/27449166-2-eng-GB/EVA-99_Sophie_Adenot_working_in_the_vacuum_of_space_pillars.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
     "video": null,
     "audio": null,
     "title": "Terceira caminhada espacial concluída para Sophie Adenot",
@@ -4510,9 +4474,9 @@ window.postsData = [
     "excerpt": "A astronauta da ESA Sophie Adenot e a astronauta da NASA Jessica Meir completaram com sucesso o US EVA-99 às 21h29 CEST na terça-feira, 1 de setembro. Foi a terceira caminhada espacial de Sophie e a 33ª conduzida por um astronauta europeu.",
     "excerpt_pt": "A astronauta da ESA Sophie Adenot e a astronauta da NASA Jessica Meir completaram com sucesso o US EVA-99 às 21h29 CEST na terça-feira, 1 de setembro. Foi a terceira caminhada espacial de Sophie e a 33ª conduzida por um astronauta europeu.",
     "excerpt_en": "ESA astronaut Sophie Adenot and NASA astronaut Jessica Meir successfully completed US EVA-99 at 21: 29 CEST on Tuesday 1 September. It was Sophie’s third spacewalk, and the 33rd conducted by a European astronaut.",
-    "body": "<p>A astronauta da ESA Sophie Adenot e a astronauta da NASA Jessica Meir completaram com sucesso o US EVA-99 às 21h29 CEST na terça-feira, 1 de setembro. Foi a terceira caminhada espacial de Sophie e a 33ª conduzida por um astronauta europeu. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A astronauta da ESA Sophie Adenot e a astronauta da NASA Jessica Meir completaram com sucesso o US EVA-99 às 21: 29 CEST na terça-feira, 1 de setembro. Foi a terceira caminhada espacial de Sophie e a 33ª conduzida por um astronauta europeu.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Third_spacewalk_completed_for_Sophie_Adenot\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A astronauta da ESA Sophie Adenot e a astronauta da NASA Jessica Meir completaram com sucesso o US EVA-99 às 21h29 CEST na terça-feira, 1 de setembro. Foi a terceira caminhada espacial de Sophie e a 33ª conduzida por um astronauta europeu. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A astronauta da ESA Sophie Adenot e a astronauta da NASA Jessica Meir completaram com sucesso o US EVA-99 às 21: 29 CEST na terça-feira, 1 de setembro. Foi a terceira caminhada espacial de Sophie e a 33ª conduzida por um astronauta europeu.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Third_spacewalk_completed_for_Sophie_Adenot\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>ESA astronaut Sophie Adenot and NASA astronaut Jessica Meir successfully completed US EVA-99 at 21: 29 CEST on Tuesday 1 September. It was Sophie’s third spacewalk, and the 33rd conducted by a European astronaut. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. ESA astronaut Sophie Adenot and NASA astronaut Jessica Meir successfully completed US EVA-99 at 21: 29 CEST on Tuesday 1 September. It was Sophie’s third spacewalk, and the 33rd conducted by a European astronaut.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Third_spacewalk_completed_for_Sophie_Adenot\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>A astronauta da ESA Sophie Adenot e a astronauta da NASA Jessica Meir completaram com sucesso o US EVA-99 às 21h29 CEST na terça-feira, 1 de setembro. Foi a terceira caminhada espacial de Sophie e a 33ª conduzida por um astronauta europeu. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A astronauta da ESA Sophie Adenot e a astronauta da NASA Jessica Meir completaram com sucesso o US EVA-99 às 21: 29 CEST na terça-feira, 1 de setembro. Foi a terceira caminhada espacial de Sophie e a 33ª conduzida por um astronauta europeu.</p><p>Durante a caminhada espacial de 6 horas e 49 minutos, Sophie e Jessica completaram várias tarefas de manutenção, incluindo a substituição de um auxílio à navegação da nave. Sophie e Jessica trocaram seus trajes espaciais para bateria às 14: 41 CEST, iniciando oficialmente a atividade extraveicular (EVA), antes de sair da câmara de descompressão da.</p><p>Depois de deixar a câmara de descompressão, Sophie e Jessica seguiram para locais de trabalho separados. Sophie foi transferida para a porta dianteira do módulo Harmony da Estação, onde substituiu um retrorrefletor com defeito, um dispositivo usado pela espaçonave como auxílio à.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Third_spacewalk_completed_for_Sophie_Adenot\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A astronauta da ESA Sophie Adenot e a astronauta da NASA Jessica Meir completaram com sucesso o US EVA-99 às 21h29 CEST na terça-feira, 1 de setembro. Foi a terceira caminhada espacial de Sophie e a 33ª conduzida por um astronauta europeu. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A astronauta da ESA Sophie Adenot e a astronauta da NASA Jessica Meir completaram com sucesso o US EVA-99 às 21: 29 CEST na terça-feira, 1 de setembro. Foi a terceira caminhada espacial de Sophie e a 33ª conduzida por um astronauta europeu.</p><p>Durante a caminhada espacial de 6 horas e 49 minutos, Sophie e Jessica completaram várias tarefas de manutenção, incluindo a substituição de um auxílio à navegação da nave. Sophie e Jessica trocaram seus trajes espaciais para bateria às 14: 41 CEST, iniciando oficialmente a atividade extraveicular (EVA), antes de sair da câmara de descompressão da.</p><p>Depois de deixar a câmara de descompressão, Sophie e Jessica seguiram para locais de trabalho separados. Sophie foi transferida para a porta dianteira do módulo Harmony da Estação, onde substituiu um retrorrefletor com defeito, um dispositivo usado pela espaçonave como auxílio à.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Third_spacewalk_completed_for_Sophie_Adenot\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>ESA astronaut Sophie Adenot and NASA astronaut Jessica Meir successfully completed US EVA-99 at 21: 29 CEST on Tuesday 1 September. It was Sophie’s third spacewalk, and the 33rd conducted by a European astronaut. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. ESA astronaut Sophie Adenot and NASA astronaut Jessica Meir successfully completed US EVA-99 at 21: 29 CEST on Tuesday 1 September. It was Sophie’s third spacewalk, and the 33rd conducted by a European astronaut.</p><p>During the 6-hour, 49-minute spacewalk, Sophie and Jessica completed several maintenance tasks, including replacing a spacecraft navigational aid, preparing a cosmic particle. Sophie and Jessica switched their spacesuits to battery power at 14: 41 CEST, officially beginning the extravehicular activity (EVA), before exiting the Quest airlock into the.</p><p>After leaving the airlock, Sophie and Jessica made their way to separate work sites. Sophie translated to the forward port of the Station’s Harmony module, where she replaced a failed retroreflector, a device used by the spacecraft as a navigational aid during.</p><p>Meanwhile, Jessica rode the Canadarm2 to the location of a failed high-definition camera, which she replaced with a spare. Sophie then collected swab samples around the airlock and from her gloves for NASA’s MicroOrganisms experiment, which aims to determine whether microorganisms are released through.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>She also relocated and installed power and thermal jumpers to enhance station power and thermal system capabilities. Meanwhile, Jessica worked on the Alpha Magnetic Spectrometer, beginning preparation of a future upgrade, and relocated a portable foot restreint in preparation for the next.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Third_spacewalk_completed_for_Sophie_Adenot\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: A astronauta da ESA Sophie Adenot e a astronauta da NASA Jessica Meir completaram com sucesso o US EVA-99 às 21h29 CEST na terça-feira, 1 de.",
       "Dado-chave: A astronauta da ESA Sophie Adenot e a astronauta da NASA Jessica Meir completaram com sucesso o US EVA-99 às 21: 29 CEST na terça-feira, 1 de.",
@@ -4598,7 +4562,7 @@ window.postsData = [
     }
   },
   {
-    "id": 39,
+    "id": 38,
     "slug": "saturn-s-south-pole-decagon-confirmed-a-mysterious-10-sided-figure",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4713,7 +4677,7 @@ window.postsData = [
     }
   },
   {
-    "id": 40,
+    "id": 39,
     "slug": "bepicolombo-mission-1-step-closer-to-mercury-today",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4825,6 +4789,121 @@ window.postsData = [
       "relevance": 80,
       "accessibility": 60,
       "novelty": 52
+    }
+  },
+  {
+    "id": 40,
+    "slug": "roman-space-telescope-has-launched-you-can-adopt-a-pixel",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://earthsky.org/upl/2026/08/EarthSky-roman-pixel-certificate-scaled-e1788194026219.jpg",
+    "inline_images": [
+      {
+        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "O telescópio espacial romano foi lançado! Você pode adotar um pixel",
+    "title_pt": "O telescópio espacial romano foi lançado! Você pode adotar um pixel",
+    "title_en": "Roman space telescope has launched! You can adopt a pixel",
+    "sub": "O Telescópio Espacial Nancy Grace Roman foi lançado em 30 de agosto no Centro Espacial Kennedy. Quer adicionar seu nome a um pixel? Descubra como aqui! O telescópio espacial.",
+    "sub_pt": "O Telescópio Espacial Nancy Grace Roman foi lançado em 30 de agosto no Centro Espacial Kennedy. Quer adicionar seu nome a um pixel? Descubra como aqui! O telescópio espacial.",
+    "sub_en": "The Nancy Grace Roman Space Telescope launched on August 30 from the Kennedy Space Center. Want to add your name to a pixel? Find out how here! The post Roman space telescope has.",
+    "excerpt": "O Telescópio Espacial Nancy Grace Roman foi lançado em 30 de agosto no Centro Espacial Kennedy. Quer adicionar seu nome a um pixel? Descubra como aqui! O telescópio espacial pós-romano foi lançado! Você pode adotar um pixel que apareceu pela primeira vez no.",
+    "excerpt_pt": "O Telescópio Espacial Nancy Grace Roman foi lançado em 30 de agosto no Centro Espacial Kennedy. Quer adicionar seu nome a um pixel? Descubra como aqui! O telescópio espacial pós-romano foi lançado! Você pode adotar um pixel que apareceu pela primeira vez no.",
+    "excerpt_en": "The Nancy Grace Roman Space Telescope launched on August 30 from the Kennedy Space Center. Want to add your name to a pixel? Find out how here! The post Roman space telescope has launched! You can adopt a pixel first appeared on EarthSky.",
+    "body": "<p>O Telescópio Espacial Nancy Grace Roman foi lançado em 30 de agosto no Centro Espacial Kennedy. Quer adicionar seu nome a um pixel? Descubra como aqui! O telescópio espacial pós-romano foi lançado! Você pode adotar um pixel que apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O lançamento ocorreu no Complexo de Lançamento 39A do Centro Espacial Kennedy. A nave está agora se dirigindo para L2, o segundo ponto Lagrange entre o Sol e a Terra. um dos “pontos de estacionamento” espaciais mais valiosos da astronomia. O telescópio.</p><p>Embora ambos os observatórios operem em luz infravermelha e orbitem a 1,6 milhão de quilômetros de distância da Terra, no ponto L2 Lagrange, eles desempenham funções. O amplo campo de visão e as capacidades de pesquisa rápida de Roman revelarão bilhões de galáxias, centenas de milhares de novos exoplanetas, centenas de buracos negros, e.</p><p>O Telescópio Espacial Nancy Grace Roman estava posicionado na plataforma de lançamento no sábado, 29 de agosto de 2026. Neste clipe de 52 segundos, o astrônomo Néstor Espinoza do Space Telescope Science Institute diz a Deborah Byrd da EarthSky que o Telescópio Espacial Romano Nancy Grace deveria.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/nancy-grace-roman-space-telescope/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>O Telescópio Espacial Nancy Grace Roman foi lançado em 30 de agosto no Centro Espacial Kennedy. Quer adicionar seu nome a um pixel? Descubra como aqui! O telescópio espacial pós-romano foi lançado! Você pode adotar um pixel que apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O lançamento ocorreu no Complexo de Lançamento 39A do Centro Espacial Kennedy. A nave está agora se dirigindo para L2, o segundo ponto Lagrange entre o Sol e a Terra. um dos “pontos de estacionamento” espaciais mais valiosos da astronomia. O telescópio.</p><p>Embora ambos os observatórios operem em luz infravermelha e orbitem a 1,6 milhão de quilômetros de distância da Terra, no ponto L2 Lagrange, eles desempenham funções. O amplo campo de visão e as capacidades de pesquisa rápida de Roman revelarão bilhões de galáxias, centenas de milhares de novos exoplanetas, centenas de buracos negros, e.</p><p>O Telescópio Espacial Nancy Grace Roman estava posicionado na plataforma de lançamento no sábado, 29 de agosto de 2026. Neste clipe de 52 segundos, o astrônomo Néstor Espinoza do Space Telescope Science Institute diz a Deborah Byrd da EarthSky que o Telescópio Espacial Romano Nancy Grace deveria.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/nancy-grace-roman-space-telescope/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The Nancy Grace Roman Space Telescope launched on August 30 from the Kennedy Space Center. Want to add your name to a pixel? Find out how here! The post Roman space telescope has launched! You can adopt a pixel first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The launch took place at Launch Complex 39A at Kennedy Space Center. The craft is now heading to L2, the 2nd sun-Earth Lagrange point. one of astronomy’s most valuable space-based “parking spots.” It’ll take the telescope about three months to.</p><p>While both observatories operate in infrared light and orbit 1 million miles (1.6 million kilometers) away from Earth at the L2 Lagrange point, they serve fundamentally different. Roman’s wide field of view and rapid survey capabilities will reveal billions of galaxies, hundreds of thousands of new exoplanets, hundreds of black holes, and will provide vast.</p><p>The Nancy Grace Roman Space Telescope stood poised on the launch pad on Saturday, August 29, 2026. In this 52-second clip, astronomer Néstor Espinoza of the Space Telescope Science Institute tells EarthSky’s Deborah Byrd that the Nancy Grace Roman Space Telescope should.</p><p>Hubble was the first large optical telescope to be launched into space, above Earth’s obscuring atmosphere. But a single image from the Nancy Grace Roman Space Telescope will equal the sky coverage of 100 Hubble images.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>The telescope’s Wide Field Instrument ( WFI ), its primary instrument, has a field of view 100 times greater than Hubble’s infrared instrument. The Roman telescope’s 100,000 new exoplanets The Roman space telescope will survey our galaxy, taking observations every 15 minutes for more than a year.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/nancy-grace-roman-space-telescope/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: O Telescópio Espacial Nancy Grace Roman foi lançado em 30 de agosto no Centro Espacial Kennedy. Quer adicionar seu nome a um pixel? Descubra como.",
+      "Dado-chave: O lançamento ocorreu no Complexo de Lançamento 39A do Centro Espacial Kennedy.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: O Telescópio Espacial Nancy Grace Roman foi lançado em 30 de agosto no Centro Espacial Kennedy. Quer adicionar seu nome a um pixel? Descubra como.",
+      "Dado-chave: O lançamento ocorreu no Complexo de Lançamento 39A do Centro Espacial Kennedy.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: The Nancy Grace Roman Space Telescope launched on August 30 from the Kennedy Space Center. Want to add your name to a pixel? Find out how here! The.",
+      "Key detail: The launch took place at Launch Complex 39A at Kennedy Space Center.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "02 set 2026",
+    "date_pt": "02 set 2026",
+    "date_en": "02 Sep 2026",
+    "time": "11h00",
+    "time_pt": "11h00",
+    "time_en": "11:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-09-02T11:00:19+00:00",
+    "lastModifiedIso": "2026-09-02T11:00:19+00:00",
+    "source": "EarthSky",
+    "sourceDomain": "earthsky.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "EarthSky",
+      "Cosmos Week",
+      "O telescópio espacial romano foi lançado! Você pode adotar um pixel"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "EarthSky",
+      "Cosmos Week",
+      "O telescópio espacial romano foi lançado! Você pode adotar um pixel"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "EarthSky",
+      "Cosmos Week",
+      "The Roman space telescope has been launched! You can adopt a pixel"
+    ],
+    "srcUrl": "https://earthsky.org/space/nancy-grace-roman-space-telescope/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=roman-space-telescope-has-launched-you-can-adopt-a-pixel",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=roman-space-telescope-has-launched-you-can-adopt-a-pixel",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=roman-space-telescope-has-launched-you-can-adopt-a-pixel&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 72,
+    "scoreBreakdown": {
+      "source": 72,
+      "evidence": 82,
+      "relevance": 80,
+      "accessibility": 60,
+      "novelty": 49
     }
   }
 ];

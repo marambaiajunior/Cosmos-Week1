@@ -40,14 +40,14 @@ window.postsData = [
     "date": "17 set 2026",
     "date_pt": "17 set 2026",
     "date_en": "17 Sep 2026",
-    "time": "19h13",
-    "time_pt": "19h13",
-    "time_en": "19:13 UTC",
+    "time": "22h24",
+    "time_pt": "22h24",
+    "time_en": "22:24 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-09-17T19:13:27.545990+00:00",
-    "lastModifiedIso": "2026-09-17T19:13:27.545990+00:00",
+    "publishedIso": "2026-09-17T22:24:06.954185+00:00",
+    "lastModifiedIso": "2026-09-17T22:24:06.954185+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -145,14 +145,14 @@ window.postsData = [
     "date": "17 set 2026",
     "date_pt": "17 set 2026",
     "date_en": "17 Sep 2026",
-    "time": "19h13",
-    "time_pt": "19h13",
-    "time_en": "19:13 UTC",
+    "time": "22h24",
+    "time_pt": "22h24",
+    "time_en": "22:24 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-09-17T19:13:27.545929+00:00",
-    "lastModifiedIso": "2026-09-17T19:13:27.545929+00:00",
+    "publishedIso": "2026-09-17T22:24:06.954132+00:00",
+    "lastModifiedIso": "2026-09-17T22:24:06.954132+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -250,14 +250,14 @@ window.postsData = [
     "date": "17 set 2026",
     "date_pt": "17 set 2026",
     "date_en": "17 Sep 2026",
-    "time": "19h13",
-    "time_pt": "19h13",
-    "time_en": "19:13 UTC",
+    "time": "22h24",
+    "time_pt": "22h24",
+    "time_en": "22:24 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-09-17T19:13:27.545864+00:00",
-    "lastModifiedIso": "2026-09-17T19:13:27.545864+00:00",
+    "publishedIso": "2026-09-17T22:24:06.954083+00:00",
+    "lastModifiedIso": "2026-09-17T22:24:06.954083+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -355,14 +355,14 @@ window.postsData = [
     "date": "17 set 2026",
     "date_pt": "17 set 2026",
     "date_en": "17 Sep 2026",
-    "time": "19h13",
-    "time_pt": "19h13",
-    "time_en": "19:13 UTC",
+    "time": "22h24",
+    "time_pt": "22h24",
+    "time_en": "22:24 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-09-17T19:13:27.545764+00:00",
-    "lastModifiedIso": "2026-09-17T19:13:27.545764+00:00",
+    "publishedIso": "2026-09-17T22:24:06.954035+00:00",
+    "lastModifiedIso": "2026-09-17T22:24:06.954035+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -460,14 +460,14 @@ window.postsData = [
     "date": "17 set 2026",
     "date_pt": "17 set 2026",
     "date_en": "17 Sep 2026",
-    "time": "19h13",
-    "time_pt": "19h13",
-    "time_en": "19:13 UTC",
+    "time": "22h24",
+    "time_pt": "22h24",
+    "time_en": "22:24 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-09-17T19:13:27.545717+00:00",
-    "lastModifiedIso": "2026-09-17T19:13:27.545717+00:00",
+    "publishedIso": "2026-09-17T22:24:06.953989+00:00",
+    "lastModifiedIso": "2026-09-17T22:24:06.953989+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -528,6 +528,254 @@ window.postsData = [
   },
   {
     "id": 6,
+    "slug": "nsf-invests-in-translating-low-dimensional-semiconductor-technologies-to-establish-u-s-leadershi",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://nsf-gov-resources.nsf.gov/styles/_inline_image_full_width/s3/media_hub/Generic_Thumbnails_G.jpg?itok=6Mlw2Szp",
+    "inline_images": [
+      {
+        "src": "https://nsf-gov-resources.nsf.gov/styles/news_sidebar_teaser/s3/media_hub/Generic_Thumbnails_C.jpg?itok=QNton7PO",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "NSF investe na tradução de tecnologias de semicondutores de baixa dimensão para estabelecer a liderança dos EUA em microeletrônica",
+    "title_pt": "NSF investe na tradução de tecnologias de semicondutores de baixa dimensão para estabelecer a liderança dos EUA em microeletrônica",
+    "title_en": "NSF invests in translating low-dimensional semiconductor technologies to establish U.S. leadership in microelectronics",
+    "sub": "A Fundação Nacional de Ciência dos EUA anunciou hoje uma iniciativa para traduzir tecnologias de semicondutores de baixa dimensão de demonstrações de laboratório em plataformas.",
+    "sub_pt": "A Fundação Nacional de Ciência dos EUA anunciou hoje uma iniciativa para traduzir tecnologias de semicondutores de baixa dimensão de demonstrações de laboratório em plataformas.",
+    "sub_en": "The U. S. National Science Foundation today announced an initiative to translate low-dimensional semiconductor technologies from laboratory demonstrations into platforms for U. S.",
+    "excerpt": "A Fundação Nacional de Ciência dos EUA anunciou hoje uma iniciativa para traduzir tecnologias de semicondutores de baixa dimensão de demonstrações de laboratório em plataformas para os fabricantes dos EUA desenvolverem e implantarem tecnologias avançadas.",
+    "excerpt_pt": "A Fundação Nacional de Ciência dos EUA anunciou hoje uma iniciativa para traduzir tecnologias de semicondutores de baixa dimensão de demonstrações de laboratório em plataformas para os fabricantes dos EUA desenvolverem e implantarem tecnologias avançadas.",
+    "excerpt_en": "The U. S. National Science Foundation today announced an initiative to translate low-dimensional semiconductor technologies from laboratory demonstrations into platforms for U. S. manufacturers to develop and deploy advanced.",
+    "body": "<p>A Fundação Nacional de Ciência dos EUA anunciou hoje uma iniciativa para traduzir tecnologias de semicondutores de baixa dimensão de demonstrações de laboratório em plataformas para os fabricantes dos EUA desenvolverem e implantarem tecnologias avançadas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A National Science Foundation anunciou hoje uma iniciativa para traduzir tecnologias de semicondutores de baixa dimensão de demonstrações de laboratório em plataformas para os EUA. Fabricantes para desenvolver e implantar microeletrônica avançada.</p><p>O programa NSF Ecossistema para Eletrônica de Baixa Dimensão: Crescimento, Montagem, Nanoeletrônica e Tradução (NSF ELEGANT) posicionará os EUA. Para o sucesso na tradução de tecnologias microeletrónicas avançadas em capacidades de próxima geração para inteligência artificial, computação de alto desempenho, comunicações.</p><p>A NSF ELEGANT visa reduzir o risco da tecnologia avançada de fabricação de microeletrônica até o ponto em que a indústria possa assumir um compromisso oportuno, confiável e. A participação sustentada da indústria é fundamental para a forma como este programa é concebido e medido, o progresso de cada equipa de desempenho é validado pelos parceiros da.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NSF News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nsf.gov/news/nsf-invests-translating-low-dimensional-semiconductor\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A Fundação Nacional de Ciência dos EUA anunciou hoje uma iniciativa para traduzir tecnologias de semicondutores de baixa dimensão de demonstrações de laboratório em plataformas para os fabricantes dos EUA desenvolverem e implantarem tecnologias avançadas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A National Science Foundation anunciou hoje uma iniciativa para traduzir tecnologias de semicondutores de baixa dimensão de demonstrações de laboratório em plataformas para os EUA. Fabricantes para desenvolver e implantar microeletrônica avançada.</p><p>O programa NSF Ecossistema para Eletrônica de Baixa Dimensão: Crescimento, Montagem, Nanoeletrônica e Tradução (NSF ELEGANT) posicionará os EUA. Para o sucesso na tradução de tecnologias microeletrónicas avançadas em capacidades de próxima geração para inteligência artificial, computação de alto desempenho, comunicações.</p><p>A NSF ELEGANT visa reduzir o risco da tecnologia avançada de fabricação de microeletrônica até o ponto em que a indústria possa assumir um compromisso oportuno, confiável e. A participação sustentada da indústria é fundamental para a forma como este programa é concebido e medido, o progresso de cada equipa de desempenho é validado pelos parceiros da.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NSF News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nsf.gov/news/nsf-invests-translating-low-dimensional-semiconductor\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The U. S. National Science Foundation today announced an initiative to translate low-dimensional semiconductor technologies from laboratory demonstrations into platforms for U. S. manufacturers to develop and deploy advanced. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. National Science Foundation today announced an initiative to translate low-dimensional semiconductor technologies from laboratory demonstrations into platforms for U. S. Manufacturers to develop and deploy advanced microelectronics.</p><p>The NSF Ecosystem for Low-dimensional Electronics: Growth, Assembly, Nanoelectronics, and Translation (NSF ELEGANT) program will position the U. S. For success in translating advanced microelectronics technologies into next-generation capabilities for artificial intelligence, high-performance computing, advanced.</p><p>NSF ELEGANT aims to de-risk advanced microelectronics manufacturing technology to the point where industry can make a timely, credible, evidence-based commitment to its adoption,&quot;. Sustained industry participation is central to how this program is designed and measured, every performing team&#x27;s progress is validated by industry partners at each stage, so the.</p><p>However, current microelectronics manufacturing methods are no longer able to keep pace with the demand for smaller-scale microelectronics technologies at the scale needed. The ELEGANT program advances innovation in low-dimension materials for semiconductor manufacturing and simultaneously bridges the gap between laboratory demonstrations and the.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>To achieve program objectives, NSF released an Other Transaction Agreement Solutions Offering (OTASO) seeking an Ecosystems Coordinator and Expert Performer Teams in five. The directorate partners across sectors to advance three strategies, accelerating critical and emerging technology, expanding the geography of American innovation, and building a.</p><p>Because the account originates with NSF News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.nsf.gov/news/nsf-invests-translating-low-dimensional-semiconductor\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: A Fundação Nacional de Ciência dos EUA anunciou hoje uma iniciativa para traduzir tecnologias de semicondutores de baixa dimensão de demonstrações de.",
+      "Dado-chave: A National Science Foundation anunciou hoje uma iniciativa para traduzir tecnologias de semicondutores de baixa dimensão de demonstrações de.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: A Fundação Nacional de Ciência dos EUA anunciou hoje uma iniciativa para traduzir tecnologias de semicondutores de baixa dimensão de demonstrações de.",
+      "Dado-chave: A National Science Foundation anunciou hoje uma iniciativa para traduzir tecnologias de semicondutores de baixa dimensão de demonstrações de.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: The U. S. National Science Foundation today announced an initiative to translate low-dimensional semiconductor technologies from laboratory.",
+      "Key detail: National Science Foundation today announced an initiative to translate low-dimensional semiconductor technologies from laboratory demonstrations.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "17 set 2026",
+    "date_pt": "17 set 2026",
+    "date_en": "17 Sep 2026",
+    "time": "20h21",
+    "time_pt": "20h21",
+    "time_en": "20:21 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-09-17T20:21:43+00:00",
+    "lastModifiedIso": "2026-09-17T20:21:43+00:00",
+    "source": "NSF News",
+    "sourceDomain": "www.nsf.gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astronomia",
+      "NSF News",
+      "Cosmos Week",
+      "NSF investe na tradução de tecnologias de semicondutores de baixa dimensão para estabelecer a liderança dos EUA em microeletrônica"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NSF News",
+      "Cosmos Week",
+      "NSF investe na tradução de tecnologias de semicondutores de baixa dimensão para estabelecer a liderança dos EUA em microeletrônica"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NSF News",
+      "Cosmos Week",
+      "NSF invests in translating low-dimensional semiconductor technologies to establish U.S. leadership in microelectronics"
+    ],
+    "srcUrl": "https://www.nsf.gov/news/nsf-invests-translating-low-dimensional-semiconductor",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nsf-invests-in-translating-low-dimensional-semiconductor-technologies-to-establish-u-s-leadershi",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nsf-invests-in-translating-low-dimensional-semiconductor-technologies-to-establish-u-s-leadershi",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nsf-invests-in-translating-low-dimensional-semiconductor-technologies-to-establish-u-s-leadershi&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 69,
+    "scoreBreakdown": {
+      "source": 80,
+      "evidence": 88,
+      "relevance": 56,
+      "accessibility": 52,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
+    "slug": "a-zombie-white-dwarf-star-is-born-again-hallelujah",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://www.universetoday.com/article_images/sakurai_20260917_185121.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.universetoday.com/article_images/Sakurais_Object_cropped_20260917_190552.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://www.universetoday.com/article_images/stag1533fig1_20260917_170340.jpg",
+        "caption": "Nestes painéis, a linha preta sólida representa o espectro VLT/FORS2 de Sakurai",
+        "caption_pt": "Nestes painéis, a linha preta sólida representa o espectro VLT/FORS2 de Sakurai",
+        "caption_en": "In these panels, the black solid line represents the VLT/FORS2 spectrum of Sakurai",
+        "alt": "Nestes painéis, a linha preta sólida representa o espectro VLT/FORS2 de Sakurai",
+        "alt_pt": "Nestes painéis, a linha preta sólida representa o espectro VLT/FORS2 de Sakurai",
+        "alt_en": "In these panels, the black solid line represents the VLT/FORS2 spectrum of Sakurai"
+      },
+      {
+        "src": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzg4ZG1jNnc1aWJ5dzJ3emlqd293cjZxcThzcHJqcWZ6cnFtOG9pYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kALxIDM3TZPc9dCz3a/giphy.gif",
+        "caption": "Animação Giphy",
+        "caption_pt": "Animação Giphy",
+        "caption_en": "Giphy animation",
+        "alt": "Animação Giphy",
+        "alt_pt": "Animação Giphy",
+        "alt_en": "Giphy animation"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Uma estrela anã branca zumbi nasce de novo. Aleluia!",
+    "title_pt": "Uma estrela anã branca zumbi nasce de novo. Aleluia!",
+    "title_en": "A Zombie White Dwarf Star is Born Again. Hallelujah!",
+    "sub": "Há 30 anos, um astrônomo amador notou uma estrela anã branca subitamente ficando mais brilhante. Uma nova pesquisa mostra que isso se deve a um Pulso Térmico Muito Tardio, um tipo.",
+    "sub_pt": "Há 30 anos, um astrônomo amador notou uma estrela anã branca subitamente ficando mais brilhante. Uma nova pesquisa mostra que isso se deve a um Pulso Térmico Muito Tardio, um tipo.",
+    "sub_en": "30 years ago, an amateur astronomer noticed a white dwarf star suddenly getting brighter. New research shows this is due to a Very Late Thermal Pulse, a type of helium flash. The.",
+    "excerpt": "Há 30 anos, um astrônomo amador notou uma estrela anã branca subitamente ficando mais brilhante. Uma nova pesquisa mostra que isso se deve a um Pulso Térmico Muito Tardio, um tipo de flash de hélio. A estrela aqueceu e tornou-se mais brilhante, e agora é.",
+    "excerpt_pt": "Há 30 anos, um astrônomo amador notou uma estrela anã branca subitamente ficando mais brilhante. Uma nova pesquisa mostra que isso se deve a um Pulso Térmico Muito Tardio, um tipo de flash de hélio. A estrela aqueceu e tornou-se mais brilhante, e agora é.",
+    "excerpt_en": "30 years ago, an amateur astronomer noticed a white dwarf star suddenly getting brighter. New research shows this is due to a Very Late Thermal Pulse, a type of helium flash. The star has heated up and become brighter, and is now called a.",
+    "body": "<p>Há 30 anos, um astrônomo amador notou uma estrela anã branca subitamente ficando mais brilhante. Uma nova pesquisa mostra que isso se deve a um Pulso Térmico Muito Tardio, um tipo de flash de hélio. A estrela aqueceu e tornou-se mais brilhante, e agora é chamada de. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Há 30 anos, um astrônomo amador notou uma estrela anã branca subitamente ficando mais brilhante. O objeto de Sakurai recebeu o nome do astrônomo amador Yukio Sakurai, que detectou o pulso em 1996.</p><p>Em 30 anos, ficou seis vezes mais quente devido a um flash de hélio. Uma nova pesquisa publicada na revista Monthly Notices of the Royal Astronomical Society diz que o objeto de Sakurai entrou em uma nova fase estelar e é uma estrela do tipo.</p><p>Desde o seu evento de renascimento e detecção em 1996, a sua evolução tem sido extensivamente monitorizada, e a espectroscopia óptica recente sugeriu o surgimento de. O objeto de Sakurai tem apenas cerca de 0,6 massa solar, enquanto as estrelas WR são muito mais massivas e podem explodir como supernovas.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/a-zombie-white-dwarf-star-is-born-again-hallelujah\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Há 30 anos, um astrônomo amador notou uma estrela anã branca subitamente ficando mais brilhante. Uma nova pesquisa mostra que isso se deve a um Pulso Térmico Muito Tardio, um tipo de flash de hélio. A estrela aqueceu e tornou-se mais brilhante, e agora é chamada de. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Há 30 anos, um astrônomo amador notou uma estrela anã branca subitamente ficando mais brilhante. O objeto de Sakurai recebeu o nome do astrônomo amador Yukio Sakurai, que detectou o pulso em 1996.</p><p>Em 30 anos, ficou seis vezes mais quente devido a um flash de hélio. Uma nova pesquisa publicada na revista Monthly Notices of the Royal Astronomical Society diz que o objeto de Sakurai entrou em uma nova fase estelar e é uma estrela do tipo.</p><p>Desde o seu evento de renascimento e detecção em 1996, a sua evolução tem sido extensivamente monitorizada, e a espectroscopia óptica recente sugeriu o surgimento de. O objeto de Sakurai tem apenas cerca de 0,6 massa solar, enquanto as estrelas WR são muito mais massivas e podem explodir como supernovas.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/a-zombie-white-dwarf-star-is-born-again-hallelujah\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>30 years ago, an amateur astronomer noticed a white dwarf star suddenly getting brighter. New research shows this is due to a Very Late Thermal Pulse, a type of helium flash. The star has heated up and become brighter, and is now called a. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. 30 years ago, an amateur astronomer noticed a white dwarf star suddenly getting brighter. Sakurai&#x27;s object is named after amateur astronomer Yukio Sakurai, who spotted the pulse in 1996.</p><p>In 30 years, it has become six times hotter due to a helium flash. New research in Monthly Notices of the Royal Astronomical Society says Sakurai&#x27;s object has entered a new stellar phase and is a type star.</p><p>Since its born-again event and detection in 1996, its evolution has been extensively monitored, and recent optical spectroscopy has suggested the emergence of -type emission. Sakurai&#x27;s object is only about 0.6 solar masses, whereas as WR stars are far more massive and can explode as supernovae.</p><p>It is one of the very few stars known to have changed dramatically within just a few decades, giving us the opportunity to watch stellar evolution unfold in real time.&quot; The. Several observed emission lines arise in a -type stellar wind, establishing the central star as a object,&quot; the researchers explain.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>The relative intensities of several optical emission lines are reasonably reproduced by our synthetic spectra, indicating that most originate from C ii, iii and He i,&quot; the. Our results support a classification for Sakurai&#x27;s Object.&quot; A WCL is a Wolf-Rayet-type star that&#x27;s dominated by carbon and oxygen lines.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/a-zombie-white-dwarf-star-is-born-again-hallelujah\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Há 30 anos, um astrônomo amador notou uma estrela anã branca subitamente ficando mais brilhante. Uma nova pesquisa mostra que isso se deve a um Pulso.",
+      "Dado-chave: Há 30 anos, um astrônomo amador notou uma estrela anã branca subitamente ficando mais brilhante.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Há 30 anos, um astrônomo amador notou uma estrela anã branca subitamente ficando mais brilhante. Uma nova pesquisa mostra que isso se deve a um Pulso.",
+      "Dado-chave: Há 30 anos, um astrônomo amador notou uma estrela anã branca subitamente ficando mais brilhante.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: 30 years ago, an amateur astronomer noticed a white dwarf star suddenly getting brighter. New research shows this is due to a Very Late Thermal.",
+      "Key detail: 30 years ago, an amateur astronomer noticed a white dwarf star suddenly getting brighter.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "17 set 2026",
+    "date_pt": "17 set 2026",
+    "date_en": "17 Sep 2026",
+    "time": "19h11",
+    "time_pt": "19h11",
+    "time_en": "19:11 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-09-17T19:11:55+00:00",
+    "lastModifiedIso": "2026-09-17T19:11:55+00:00",
+    "source": "Universe Today",
+    "sourceDomain": "www.universetoday.com",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astronomia",
+      "Universe Today",
+      "Cosmos Week",
+      "Uma estrela anã branca zumbi nasce de novo. Aleluia!"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "Universe Today",
+      "Cosmos Week",
+      "Uma estrela anã branca zumbi nasce de novo. Aleluia!"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "Universe Today",
+      "Cosmos Week",
+      "A zombie white dwarf star is born again. Hallelujah!"
+    ],
+    "srcUrl": "https://www.universetoday.com/articles/a-zombie-white-dwarf-star-is-born-again-hallelujah",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=a-zombie-white-dwarf-star-is-born-again-hallelujah",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=a-zombie-white-dwarf-star-is-born-again-hallelujah",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=a-zombie-white-dwarf-star-is-born-again-hallelujah&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 75,
+    "scoreBreakdown": {
+      "source": 73,
+      "evidence": 82,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 8,
     "slug": "a-glimpse-of-the-solar-system-s-origins-striking-details-on-the-molecules-inside-a-meteorite",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -649,7 +897,7 @@ window.postsData = [
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -663,7 +911,7 @@ window.postsData = [
     }
   },
   {
-    "id": 7,
+    "id": 9,
     "slug": "nasa-invites-media-to-spacex-s-35th-resupply-launch-to-space-station",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -778,7 +1026,7 @@ window.postsData = [
     }
   },
   {
-    "id": 8,
+    "id": 10,
     "slug": "what-ancient-mars-rocks-reveal-about-its-buried-carbonate-stores",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -911,547 +1159,7 @@ window.postsData = [
     }
   },
   {
-    "id": 9,
-    "slug": "catching-2026-jovian-moon-mutual-eclipse-season",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://www.universetoday.com/article_images/Screenshot_2026-09-14_130753_20260916_184331.png",
-    "inline_images": [
-      {
-        "src": "https://www.universetoday.com/article_images/gany-io20090816_20260916_184931.gif",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://www.universetoday.com/article_images/Orbits_20260916_184756.jpg",
-        "caption": "A geometria dos eclipses e ocultações de Júpiter",
-        "caption_pt": "A geometria dos eclipses e ocultações de Júpiter",
-        "caption_en": "The geometry of eclipses and occultations for Jupiter",
-        "alt": "A geometria dos eclipses e ocultações de Júpiter",
-        "alt_pt": "A geometria dos eclipses e ocultações de Júpiter",
-        "alt_en": "The geometry of eclipses and occultations for Jupiter"
-      },
-      {
-        "src": "https://www.universetoday.com/article_images/Mutuals_20260916_184620.webp",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": {
-      "kind": "embed",
-      "platform": "youtube",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/boezeasre1w",
-      "fileUrl": "",
-      "poster": "",
-      "title": "",
-      "title_pt": "",
-      "title_en": "",
-      "caption": "",
-      "caption_pt": "",
-      "caption_en": "",
-      "sourcePage": "https://www.universetoday.com/articles/catching-2026-jovian-moon-mutual-eclipse-season"
-    },
-    "audio": null,
-    "title": "Capturando a temporada de eclipses mútuos da Lua Joviana de 2026",
-    "title_pt": "Capturando a temporada de eclipses mútuos da Lua Joviana de 2026",
-    "title_en": "Catching 2026 Jovian Moon Mutual Eclipse Season",
-    "sub": "É aquela época da década novamente. O final de 2026 e o ​​início de 2027 é um momento especial para as principais luas jupiterianas, pois elas trocam de lugar passando uma na.",
-    "sub_pt": "É aquela época da década novamente. O final de 2026 e o ​​início de 2027 é um momento especial para as principais luas jupiterianas, pois elas trocam de lugar passando uma na.",
-    "sub_en": "It’s that time of the decade again. Late 2026 going into early 2027 is a special time for the major Jovian moons, as they trade places passing one in front of another as seen from.",
-    "excerpt": "É aquela época da década novamente. O final de 2026 e o ​​início de 2027 é um momento especial para as principais luas jupiterianas, pois elas trocam de lugar passando uma na frente da outra, vistas do nosso ponto de vista terrestre. Chamamos isso de mútuo.",
-    "excerpt_pt": "É aquela época da década novamente. O final de 2026 e o ​​início de 2027 é um momento especial para as principais luas jupiterianas, pois elas trocam de lugar passando uma na frente da outra, vistas do nosso ponto de vista terrestre. Chamamos isso de mútuo.",
-    "excerpt_en": "It’s that time of the decade again. Late 2026 going into early 2027 is a special time for the major Jovian moons, as they trade places passing one in front of another as seen from our Earthly point of view. We call this mutual.",
-    "body": "<p>É aquela época da década novamente. O final de 2026 e o ​​início de 2027 é um momento especial para as principais luas jupiterianas, pois elas trocam de lugar passando uma na frente da outra, vistas do nosso ponto de vista terrestre. Chamamos isso de mútuo. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O final de 2026 e o ​​início de 2027 é um momento especial para as principais luas jupiterianas, pois elas trocam de lugar passando uma na frente da outra, vistas do nosso ponto. Tal como os eclipses na Terra, este seria um estado de coisas contínuo se as órbitas das principais luas não se inclinassem ligeiramente em relação à trajetória de Júpiter em.</p><p>A órbita geral de Júpiter está inclinada pouco mais de um grau em relação ao plano da eclíptica, o caminho traçado pelo curso da Terra em torno do Sol. Esta lua voltou a lançar uma sombra sobre Júpiter em 20 de maio de 2025, anunciando a aproximação da temporada de trânsito-eclipse mútuo, e o fará até 5 de agosto de 2028.</p><p>Embora a temporada atual já esteja bem encaminhada, ela também começou enquanto Júpiter passava pela conjunção solar em 29 de julho. Observe que Júpiter projeta sua sombra para um lado à medida que se aproxima da quadratura 90 graus a oeste do Sol em 18 de novembro, e se estreita quase diretamente atrás do.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/catching-2026-jovian-moon-mutual-eclipse-season\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>É aquela época da década novamente. O final de 2026 e o ​​início de 2027 é um momento especial para as principais luas jupiterianas, pois elas trocam de lugar passando uma na frente da outra, vistas do nosso ponto de vista terrestre. Chamamos isso de mútuo. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O final de 2026 e o ​​início de 2027 é um momento especial para as principais luas jupiterianas, pois elas trocam de lugar passando uma na frente da outra, vistas do nosso ponto. Tal como os eclipses na Terra, este seria um estado de coisas contínuo se as órbitas das principais luas não se inclinassem ligeiramente em relação à trajetória de Júpiter em.</p><p>A órbita geral de Júpiter está inclinada pouco mais de um grau em relação ao plano da eclíptica, o caminho traçado pelo curso da Terra em torno do Sol. Esta lua voltou a lançar uma sombra sobre Júpiter em 20 de maio de 2025, anunciando a aproximação da temporada de trânsito-eclipse mútuo, e o fará até 5 de agosto de 2028.</p><p>Embora a temporada atual já esteja bem encaminhada, ela também começou enquanto Júpiter passava pela conjunção solar em 29 de julho. Observe que Júpiter projeta sua sombra para um lado à medida que se aproxima da quadratura 90 graus a oeste do Sol em 18 de novembro, e se estreita quase diretamente atrás do.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/catching-2026-jovian-moon-mutual-eclipse-season\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>It’s that time of the decade again. Late 2026 going into early 2027 is a special time for the major Jovian moons, as they trade places passing one in front of another as seen from our Earthly point of view. We call this mutual. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Late 2026 going into early 2027 is a special time for the major Jovian moons, as they trade places passing one in front of another as seen from our Earthly point of view. Like eclipses on Earth, this would be a continual state of affairs were the orbits of the major moons not tipped slightly versus Jupiter’s path around the Sun.</p><p>Jupiter’s orbit overall is tipped just over a degree versus the ecliptic plane, the path traced out by the Earth&#x27;s course around the Sun. This moon resumed casting a shadow on Jove on May 20th, 2025 heralding the approach of mutual transit-eclipse season, and will do so until August 5th, 2028.</p><p>Though the current season is already well underway, it also commenced while Jupiter passed solar conjunction on July 29th. Note that Jupiter casts its shadow off to one side as it approaches quadrature 90 degrees west of the Sun on November 18th, and narrows back to nearly straight behind the planet.</p><p>One moon can pass in front of another in an occultation, while the shadow of a moon can cross the disk of another in an eclipse. Dave Dickinson A seasoned observer can actually tell which moon is currently casting a shadow based on its appearance alone, from the large, ragged diffuse shadow of Callisto, to.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>What’s more, the innermost three large moons Ganymede, Europa and Io are in a 1-2-4 resonance with one another. The largest moon Ganymede presents a tiny 1.3” disk.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/catching-2026-jovian-moon-mutual-eclipse-season\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: É aquela época da década novamente. O final de 2026 e o ​​início de 2027 é um momento especial para as principais luas jupiterianas, pois elas trocam.",
-      "Dado-chave: O final de 2026 e o ​​início de 2027 é um momento especial para as principais luas jupiterianas, pois elas trocam de lugar passando uma na.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: É aquela época da década novamente. O final de 2026 e o ​​início de 2027 é um momento especial para as principais luas jupiterianas, pois elas trocam.",
-      "Dado-chave: O final de 2026 e o ​​início de 2027 é um momento especial para as principais luas jupiterianas, pois elas trocam de lugar passando uma na.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: It’s that time of the decade again. Late 2026 going into early 2027 is a special time for the major Jovian moons, as they trade places passing one in.",
-      "Key detail: Late 2026 going into early 2027 is a special time for the major Jovian moons, as they trade places passing one in front of another as seen from.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "17 set 2026",
-    "date_pt": "17 set 2026",
-    "date_en": "17 Sep 2026",
-    "time": "16h13",
-    "time_pt": "16h13",
-    "time_en": "16:13 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-09-17T16:13:00+00:00",
-    "lastModifiedIso": "2026-09-17T16:13:00+00:00",
-    "source": "Universe Today",
-    "sourceDomain": "www.universetoday.com",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "Universe Today",
-      "Cosmos Week",
-      "Capturando a temporada de eclipses mútuos da Lua Joviana de 2026"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "Universe Today",
-      "Cosmos Week",
-      "Capturando a temporada de eclipses mútuos da Lua Joviana de 2026"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "Universe Today",
-      "Cosmos Week",
-      "Capturing the 2026 Jovian Moon mutual eclipse season"
-    ],
-    "srcUrl": "https://www.universetoday.com/articles/catching-2026-jovian-moon-mutual-eclipse-season",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=catching-2026-jovian-moon-mutual-eclipse-season",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=catching-2026-jovian-moon-mutual-eclipse-season",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=catching-2026-jovian-moon-mutual-eclipse-season&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 70,
-    "scoreBreakdown": {
-      "source": 73,
-      "evidence": 88,
-      "relevance": 62,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 10,
-    "slug": "japanese-supercomputer-simulations-may-explain-webb-s-little-red-dots",
-    "cat": "Astrofísica",
-    "catCls": "astrofisica",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/japanese-supercomputer.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/japanese-supercomputer.jpg",
-        "caption": "Supercomputador japonês explica os pequenos pontos vermelhos de Webb",
-        "caption_pt": "Supercomputador japonês explica os pequenos pontos vermelhos de Webb",
-        "caption_en": "Japanese supercomputer explains Webb's Little Red Dots",
-        "alt": "Supercomputador japonês explica os pequenos pontos vermelhos de Webb",
-        "alt_pt": "Supercomputador japonês explica os pequenos pontos vermelhos de Webb",
-        "alt_en": "Japanese supercomputer explains Webb's Little Red Dots"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/4b5d8e1e5856f832.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/782dcfc6701d278c.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": {
-      "kind": "embed",
-      "platform": "youtube",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/8jsqf5z8eg4",
-      "fileUrl": "",
-      "poster": "",
-      "title": "",
-      "title_pt": "",
-      "title_en": "",
-      "caption": "",
-      "caption_pt": "",
-      "caption_en": "",
-      "sourcePage": "https://phys.org/news/2026-09-japanese-supercomputer-simulations-webb-red.html"
-    },
-    "audio": null,
-    "title": "Simulações de supercomputadores japoneses podem explicar os pequenos pontos vermelhos de Webb",
-    "title_pt": "Simulações de supercomputadores japoneses podem explicar os pequenos pontos vermelhos de Webb",
-    "title_en": "Japanese supercomputer simulations may explain Webb's Little Red Dots",
-    "sub": "De todas as descobertas do Telescópio Espacial James Webb, a multidão de Pequenos Pontos Vermelhos que observou está entre as mais enigmáticas. Agora, simulações usando o.",
-    "sub_pt": "De todas as descobertas do Telescópio Espacial James Webb, a multidão de Pequenos Pontos Vermelhos que observou está entre as mais enigmáticas. Agora, simulações usando o.",
-    "sub_en": "Of all the discoveries from the James Webb Space Telescope, the multitude of Little Red Dots it has observed is among the most enigmatic. Now, simulations using the Japanese.",
-    "excerpt": "De todas as descobertas do Telescópio Espacial James Webb, a multidão de Pequenos Pontos Vermelhos que observou está entre as mais enigmáticas. Agora, simulações usando o supercomputador japonês ATERUI III explicaram a natureza do Little.",
-    "excerpt_pt": "De todas as descobertas do Telescópio Espacial James Webb, a multidão de Pequenos Pontos Vermelhos que observou está entre as mais enigmáticas. Agora, simulações usando o supercomputador japonês ATERUI III explicaram a natureza do Little.",
-    "excerpt_en": "Of all the discoveries from the James Webb Space Telescope, the multitude of Little Red Dots it has observed is among the most enigmatic. Now, simulations using the Japanese Supercomputer ATERUI III have explained the nature of the Little.",
-    "body": "<p>De todas as descobertas do Telescópio Espacial James Webb, a multidão de Pequenos Pontos Vermelhos que observou está entre as mais enigmáticas. Agora, simulações usando o supercomputador japonês ATERUI III explicaram a natureza do Little. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. De todas as descobertas do Telescópio Espacial James Webb, a multidão de Pequenos Pontos Vermelhos que observou está entre as mais enigmáticas. Sunmyon Chon, Takaaki Takeda, Projeto 4D2U, NAOJ De todas as descobertas do Telescópio Espacial James Webb, a multidão de Pequenos Pontos Vermelhos que observou está entre as mais.</p><p>Agora, simulações usando o supercomputador japonês ATERUI III explicaram a natureza dos Pequenos Pontos Vermelhos sem exigir quaisquer suposições exóticas. No estudo, publicado na revista Nature, uma equipa de investigação liderada por Sunmyon Chon do Instituto Max Planck de Astrofísica utilizou o supercomputador ATERUI III do.</p><p>As propriedades simuladas destes buracos negros de rápido crescimento proporcionam uma boa correspondência com os Pequenos Pontos Vermelhos (LRDs) observados pelo Telescópio. Um mistério de longa data na astronomia tem sido a forma como os buracos negros supermassivos, com massas de milhões ou mesmo milhares de milhões de vezes a do Sol, observados no.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-09-japanese-supercomputer-simulations-webb-red.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>De todas as descobertas do Telescópio Espacial James Webb, a multidão de Pequenos Pontos Vermelhos que observou está entre as mais enigmáticas. Agora, simulações usando o supercomputador japonês ATERUI III explicaram a natureza do Little. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. De todas as descobertas do Telescópio Espacial James Webb, a multidão de Pequenos Pontos Vermelhos que observou está entre as mais enigmáticas. Sunmyon Chon, Takaaki Takeda, Projeto 4D2U, NAOJ De todas as descobertas do Telescópio Espacial James Webb, a multidão de Pequenos Pontos Vermelhos que observou está entre as mais.</p><p>Agora, simulações usando o supercomputador japonês ATERUI III explicaram a natureza dos Pequenos Pontos Vermelhos sem exigir quaisquer suposições exóticas. No estudo, publicado na revista Nature, uma equipa de investigação liderada por Sunmyon Chon do Instituto Max Planck de Astrofísica utilizou o supercomputador ATERUI III do.</p><p>As propriedades simuladas destes buracos negros de rápido crescimento proporcionam uma boa correspondência com os Pequenos Pontos Vermelhos (LRDs) observados pelo Telescópio. Um mistério de longa data na astronomia tem sido a forma como os buracos negros supermassivos, com massas de milhões ou mesmo milhares de milhões de vezes a do Sol, observados no.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-09-japanese-supercomputer-simulations-webb-red.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Of all the discoveries from the James Webb Space Telescope, the multitude of Little Red Dots it has observed is among the most enigmatic. Now, simulations using the Japanese Supercomputer ATERUI III have explained the nature of the Little. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. Of all the discoveries from the James Webb Space Telescope, the multitude of Little Red Dots it has observed is among the most enigmatic. Sunmyon Chon, Takaaki Takeda, 4D2U Project, NAOJ Of all the discoveries from the James Webb Space Telescope, the multitude of Little Red Dots it has observed is among the most.</p><p>Now, simulations using the Japanese Supercomputer ATERUI III have explained the nature of the Little Red Dots without requiring any exotic assumptions. In the study, published in the journal Nature, a research team led by Sunmyon Chon at the Max Planck Institute for Astrophysics used the ATERUI III supercomputer at the National.</p><p>The simulated properties of these rapidly growing black holes provide a good match to the Little Red Dots (LRDs) observed by the James Webb Space Telescope (JWST). A long-standing mystery in astronomy has been how the supermassive black holes, with masses millions or even billions of times that of the sun, observed in the early universe.</p><p>JWST was expected to answer this question by allowing us to see fainter, more distant galaxies. When we observe a galaxy 11 billion light-years away, that light has had to travel 11 billion years to reach us.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>Likewise, the light from a galaxy 12 billion light-years away is 12 billion years old. JWST allows us to look back farther in time than ever before, but instead of finding the answer to the rapid growth of black holes, it revealed a population of small, enigmatic.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-09-japanese-supercomputer-simulations-webb-red.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: De todas as descobertas do Telescópio Espacial James Webb, a multidão de Pequenos Pontos Vermelhos que observou está entre as mais enigmáticas.",
-      "Dado-chave: De todas as descobertas do Telescópio Espacial James Webb, a multidão de Pequenos Pontos Vermelhos que observou está entre as mais enigmáticas.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: De todas as descobertas do Telescópio Espacial James Webb, a multidão de Pequenos Pontos Vermelhos que observou está entre as mais enigmáticas.",
-      "Dado-chave: De todas as descobertas do Telescópio Espacial James Webb, a multidão de Pequenos Pontos Vermelhos que observou está entre as mais enigmáticas.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Of all the discoveries from the James Webb Space Telescope, the multitude of Little Red Dots it has observed is among the most enigmatic. Now.",
-      "Key detail: Of all the discoveries from the James Webb Space Telescope, the multitude of Little Red Dots it has observed is among the most enigmatic.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "17 set 2026",
-    "date_pt": "17 set 2026",
-    "date_en": "17 Sep 2026",
-    "time": "16h00",
-    "time_pt": "16h00",
-    "time_en": "16:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-09-17T16:00:03+00:00",
-    "lastModifiedIso": "2026-09-17T16:00:03+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astrofísica",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Simulações de supercomputadores japoneses podem explicar os pequenos pontos vermelhos de Webb"
-    ],
-    "keywords_pt": [
-      "Astrofísica",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Simulações de supercomputadores japoneses podem explicar os pequenos pontos vermelhos de Webb"
-    ],
-    "keywords_en": [
-      "Astrophysics",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Japanese supercomputer simulations could explain Webb's little red dots"
-    ],
-    "srcUrl": "https://phys.org/news/2026-09-japanese-supercomputer-simulations-webb-red.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=japanese-supercomputer-simulations-may-explain-webb-s-little-red-dots",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=japanese-supercomputer-simulations-may-explain-webb-s-little-red-dots",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=japanese-supercomputer-simulations-may-explain-webb-s-little-red-dots&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 77,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 88,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
     "id": 11,
-    "slug": "nasa-s-moon-orbiter-spots-new-once-in-century-moon-crater",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/lro/McGetchin_Discovery_Reenactment.png?w=1881&h=1041&fit=clip&crop=faces%2Cfocalpoint",
-    "inline_images": [
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/lro/McGetchin_Before_After_38mile_2x.png?w=2452&h=1214&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "Duas imagens em preto e branco quase idênticas aparecem lado a lado, separadas por uma linha preta vertical. Cada um mostra uma superfície escura e irregular com pequenas depressões circulares espalhadas e várias formações redondas maiores com bordas brilhantes e elevadas.",
-        "caption_pt": "Duas imagens em preto e branco quase idênticas aparecem lado a lado, separadas por uma linha preta vertical. Cada um mostra uma superfície escura e irregular com pequenas depressões circulares espalhadas e várias formações redondas maiores com bordas brilhantes e elevadas.",
-        "caption_en": "Two nearly identical black-and-white images appear side by side, separated by a vertical black line. Each shows a dark, uneven surface with scattered small circular depressions and several larger round formations with bright, raised rims.",
-        "alt": "Duas imagens em preto e branco quase idênticas aparecem lado a lado, separadas por uma linha preta vertical. Cada um mostra uma superfície escura e irregular com pequenas depressões circulares espalhadas e várias formações redondas maiores com bordas brilhantes e elevadas.",
-        "alt_pt": "Duas imagens em preto e branco quase idênticas aparecem lado a lado, separadas por uma linha preta vertical. Cada um mostra uma superfície escura e irregular com pequenas depressões circulares espalhadas e várias formações redondas maiores com bordas brilhantes e elevadas.",
-        "alt_en": "Two nearly identical black-and-white images appear side by side, separated by a vertical black line. Each shows a dark, uneven surface with scattered small circular depressions and several larger round formations with bright, raised rims."
-      },
-      {
-        "src": "https://assets.science.nasa.gov/content/dam/science/missions/lro/McGetchinLROblinkImage.gif?w=592&h=824&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "Mapa de temperatura animado que alterna entre duas imagens. Uma faixa vertical no centro pisca, revelando uma área circular azul escura ao redor de um pequeno ponto branco próximo ao meio. O mapa azul claro também contém.",
-        "caption_pt": "Mapa de temperatura animado que alterna entre duas imagens. Uma faixa vertical no centro pisca, revelando uma área circular azul escura ao redor de um pequeno ponto branco próximo ao meio. O mapa azul claro também contém.",
-        "caption_en": "Animated temperature map that alternates between two images. A vertical strip through the center blinks on and off, revealing a dark blue circular area surrounding a small white spot near the middle. The pale blue map also contains.",
-        "alt": "Mapa de temperatura animado que alterna entre duas imagens. Uma faixa vertical no centro pisca, revelando uma área circular azul escura ao redor de um pequeno ponto branco próximo ao meio. O mapa azul claro também contém.",
-        "alt_pt": "Mapa de temperatura animado que alterna entre duas imagens. Uma faixa vertical no centro pisca, revelando uma área circular azul escura ao redor de um pequeno ponto branco próximo ao meio. O mapa azul claro também contém.",
-        "alt_en": "Animated temperature map that alternates between two images. A vertical strip through the center blinks on and off, revealing a dark blue circular area surrounding a small white spot near the middle. The pale blue map also contains."
-      },
-      {
-        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/lro/McGetchinStretchedTemporalRatio.png?w=2419&h=1058&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "Ampla imagem em preto e branco de uma superfície áspera e irregular, densamente coberta por depressões circulares e áreas elevadas. As bordas superior e inferior são especialmente robustas, enquanto o centro é mais suave e dividido por sutis faixas verticais. Um preto.",
-        "caption_pt": "Ampla imagem em preto e branco de uma superfície áspera e irregular, densamente coberta por depressões circulares e áreas elevadas. As bordas superior e inferior são especialmente robustas, enquanto o centro é mais suave e dividido por sutis faixas verticais. Um preto.",
-        "caption_en": "Wide black-and-white image of a rough, uneven surface densely covered with circular depressions and raised areas. The upper and lower edges are especially rugged, while the center is smoother and divided by subtle vertical bands. A black.",
-        "alt": "Ampla imagem em preto e branco de uma superfície áspera e irregular, densamente coberta por depressões circulares e áreas elevadas. As bordas superior e inferior são especialmente robustas, enquanto o centro é mais suave e dividido por sutis faixas verticais. Um preto.",
-        "alt_pt": "Ampla imagem em preto e branco de uma superfície áspera e irregular, densamente coberta por depressões circulares e áreas elevadas. As bordas superior e inferior são especialmente robustas, enquanto o centro é mais suave e dividido por sutis faixas verticais. Um preto.",
-        "alt_en": "Wide black-and-white image of a rough, uneven surface densely covered with circular depressions and raised areas. The upper and lower edges are especially rugged, while the center is smoother and divided by subtle vertical bands. A black."
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "O Moon Orbiter da NASA detecta uma nova cratera lunar ‘única no século’",
-    "title_pt": "O Moon Orbiter da NASA detecta uma nova cratera lunar ‘única no século’",
-    "title_en": "NASA’s Moon Orbiter Spots New, ‘Once-in-Century’ Moon Crater",
-    "sub": "Tudo começou como uma verificação rotineira da qualidade dos dados. Mas quando Robert Wagner, um cientista da Lunar Reconnaissance Orbiter da NASA, escaneou um mapa gigante da Lua.",
-    "sub_pt": "Tudo começou como uma verificação rotineira da qualidade dos dados. Mas quando Robert Wagner, um cientista da Lunar Reconnaissance Orbiter da NASA, escaneou um mapa gigante da Lua.",
-    "sub_en": "It started as a routine data-quality check. But as Robert Wagner, a scientist with NASA’s Lunar Reconnaissance Orbiter, scanned a giant Moon map on his computer screen, an.",
-    "excerpt": "Tudo começou como uma verificação rotineira da qualidade dos dados. Mas quando Robert Wagner, um cientista da Lunar Reconnaissance Orbiter da NASA, escaneou um mapa gigante da Lua no ecrã do seu computador, um ponto brilhante invulgarmente grande rodeado por.",
-    "excerpt_pt": "Tudo começou como uma verificação rotineira da qualidade dos dados. Mas quando Robert Wagner, um cientista da Lunar Reconnaissance Orbiter da NASA, escaneou um mapa gigante da Lua no ecrã do seu computador, um ponto brilhante invulgarmente grande rodeado por.",
-    "excerpt_en": "It started as a routine data-quality check. But as Robert Wagner, a scientist with NASA’s Lunar Reconnaissance Orbiter, scanned a giant Moon map on his computer screen, an unusually large bright spot circled by a dark halo caught his eye.",
-    "body": "<p>Tudo começou como uma verificação rotineira da qualidade dos dados. Mas quando Robert Wagner, um cientista da Lunar Reconnaissance Orbiter da NASA, escaneou um mapa gigante da Lua no ecrã do seu computador, um ponto brilhante invulgarmente grande rodeado por um halo escuro. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. 6 min Leia o Moon Orbiter da NASA avista uma nova cratera lunar ‘Once-in-Century’ Uma visão ampliada da Lua feita a partir de imagens da Lunar Reconnaissance Orbiter Camera da. O painel à esquerda é feito a partir de imagens capturadas pela câmera grande angular Lunar Reconnaissance Orbiter da NASA no verão de 2025.</p><p>A Lua sofre alguns impactos Há mais de 17 anos que a LRO circula a Lua e utiliza os seus sete instrumentos para mapear a topografia, a composição da superfície, a temperatura e o. Este conjunto de imagens animadas mostra uma área no extremo leste da Lua antes e depois da formação da cratera McGetchin em algum momento entre 11 de abril e 22 de maio de 2024.</p><p>NASA Goddard/Intuitive Machines/Robert Wagner Caminho para a descoberta O sistema LROC coleta imagens de cerca de 60 milhas acima da Lua enquanto o LRO faz um loop de pólo a pólo. 5 de janeiro de 2025, pela câmera de ângulo estreito (NAC) do Lunar Reconnaissance Orbiter (LRO) da NASA.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Tudo começou como uma verificação rotineira da qualidade dos dados. Mas quando Robert Wagner, um cientista da Lunar Reconnaissance Orbiter da NASA, escaneou um mapa gigante da Lua no ecrã do seu computador, um ponto brilhante invulgarmente grande rodeado por um halo escuro. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. 6 min Leia o Moon Orbiter da NASA avista uma nova cratera lunar ‘Once-in-Century’ Uma visão ampliada da Lua feita a partir de imagens da Lunar Reconnaissance Orbiter Camera da. O painel à esquerda é feito a partir de imagens capturadas pela câmera grande angular Lunar Reconnaissance Orbiter da NASA no verão de 2025.</p><p>A Lua sofre alguns impactos Há mais de 17 anos que a LRO circula a Lua e utiliza os seus sete instrumentos para mapear a topografia, a composição da superfície, a temperatura e o. Este conjunto de imagens animadas mostra uma área no extremo leste da Lua antes e depois da formação da cratera McGetchin em algum momento entre 11 de abril e 22 de maio de 2024.</p><p>NASA Goddard/Intuitive Machines/Robert Wagner Caminho para a descoberta O sistema LROC coleta imagens de cerca de 60 milhas acima da Lua enquanto o LRO faz um loop de pólo a pólo. 5 de janeiro de 2025, pela câmera de ângulo estreito (NAC) do Lunar Reconnaissance Orbiter (LRO) da NASA.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>It started as a routine data-quality check. But as Robert Wagner, a scientist with NASA’s Lunar Reconnaissance Orbiter, scanned a giant Moon map on his computer screen, an unusually large bright spot circled by a dark halo caught his eye. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. 6 Min Read NASA’s Moon Orbiter Spots New, ‘Once-in-Century’ Moon Crater A zoomed-in view of the Moon made from images from NASA’s Lunar Reconnaissance Orbiter Camera. The panel on the left is made from images captured by NASA’s Lunar Reconnaissance Orbiter Wide-Angle Camera in summer 2025.</p><p>Moon takes some hits For more than 17 years, LRO has been circling the Moon and using its seven instruments to map the topography, surface composition, temperature, and radiation. This animated image set shows an area on the eastern limb of the Moon before and after McGetchin crater formed there sometime between April 11 and May 22, 2024.</p><p>NASA Goddard/Intuitive Machines/Robert Wagner Road to discovery The LROC system collects images from about 60 miles above the Moon as LRO loops from pole to pole. 5, 2025, by NASA’s Lunar Reconnaissance Orbiter (LRO) Narrow-Angle Camera (NAC).</p><p>NASA Goddard/Intuitive Machines This view from the side (55° away from straight down) towards the east, covers an area of the Moon that’s about 1.5 miles wide. It was taken by NASA’s Lunar Reconnaissance Orbiter Narrow-Angle Camera on March 3, 2026.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>For more than 17 years, LRO has been circling the Moon and using its seven instruments to map the topography, surface composition, temperature, and radiation environment there. The spacecraft’s team has identified at least 1,000 new impact craters throughout the mission and flagged 100,000 more surface changes from an object smashing into the Moon or.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Tudo começou como uma verificação rotineira da qualidade dos dados. Mas quando Robert Wagner, um cientista da Lunar Reconnaissance Orbiter da NASA.",
-      "Dado-chave: 6 min Leia o Moon Orbiter da NASA avista uma nova cratera lunar ‘Once-in-Century’ Uma visão ampliada da Lua feita a partir de imagens da Lunar.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Tudo começou como uma verificação rotineira da qualidade dos dados. Mas quando Robert Wagner, um cientista da Lunar Reconnaissance Orbiter da NASA.",
-      "Dado-chave: 6 min Leia o Moon Orbiter da NASA avista uma nova cratera lunar ‘Once-in-Century’ Uma visão ampliada da Lua feita a partir de imagens da Lunar.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: It started as a routine data-quality check. But as Robert Wagner, a scientist with NASA’s Lunar Reconnaissance Orbiter, scanned a giant Moon map on.",
-      "Key detail: 6 Min Read NASA’s Moon Orbiter Spots New, ‘Once-in-Century’ Moon Crater A zoomed-in view of the Moon made from images from NASA’s Lunar.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "16 set 2026",
-    "date_pt": "16 set 2026",
-    "date_en": "16 Sep 2026",
-    "time": "18h06",
-    "time_pt": "18h06",
-    "time_en": "18:06 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-09-16T18:06:35+00:00",
-    "lastModifiedIso": "2026-09-16T18:06:35+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "science.nasa.gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "O Moon Orbiter da NASA detecta uma nova cratera lunar ‘única no século’"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "O Moon Orbiter da NASA detecta uma nova cratera lunar ‘única no século’"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NASA News Releases",
-      "Cosmos Week",
-      "NASA's Moon Orbiter detects new 'once-in-a-century' lunar crater"
-    ],
-    "srcUrl": "https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-moon-orbiter-spots-new-once-in-century-moon-crater",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-moon-orbiter-spots-new-once-in-century-moon-crater",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-moon-orbiter-spots-new-once-in-century-moon-crater&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 81,
-    "scoreBreakdown": {
-      "source": 94,
-      "evidence": 88,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 52
-    }
-  },
-  {
-    "id": 12,
-    "slug": "passion-meets-precision-at-nasa-s-flight-research-lab",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://images-assets.nasa.gov/image/AFRC2026-0179-08/AFRC2026-0179-08~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint",
-    "inline_images": [
-      {
-        "src": "https://images-assets.nasa.gov/image/AFRC2020-0083-05/AFRC2020-0083-05~large.jpg?w=1280&h=1920&fit=clip&crop=faces%2Cfocalpoint",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "A paixão encontra a precisão no laboratório de pesquisa de voo da NASA",
-    "title_pt": "A paixão encontra a precisão no laboratório de pesquisa de voo da NASA",
-    "title_en": "Passion Meets Precision at NASA’s Flight Research Lab",
-    "sub": "Muito antes de ajudarem a moldar os futuros avanços aeroespaciais da NASA, Derek Abramson, Justin Hall e Justin Link estavam nas suas garagens e casas a construir aeronaves.",
-    "sub_pt": "Muito antes de ajudarem a moldar os futuros avanços aeroespaciais da NASA, Derek Abramson, Justin Hall e Justin Link estavam nas suas garagens e casas a construir aeronaves.",
-    "sub_en": "Long before they helped shape NASA’s future aerospace breakthroughs, Derek Abramson, Justin Hall, and Justin Link were in their garages and homes building radio‑controlled.",
-    "excerpt": "Muito antes de ajudarem a moldar os futuros avanços aeroespaciais da NASA, Derek Abramson, Justin Hall e Justin Link estavam nas suas garagens e casas a construir aeronaves controladas por rádio, a testar novas ideias e a pilotar as suas criações como hobby.",
-    "excerpt_pt": "Muito antes de ajudarem a moldar os futuros avanços aeroespaciais da NASA, Derek Abramson, Justin Hall e Justin Link estavam nas suas garagens e casas a construir aeronaves controladas por rádio, a testar novas ideias e a pilotar as suas criações como hobby.",
-    "excerpt_en": "Long before they helped shape NASA’s future aerospace breakthroughs, Derek Abramson, Justin Hall, and Justin Link were in their garages and homes building radio‑controlled aircraft, testing new ideas, and flying their creations at hobby.",
-    "body": "<p>Muito antes de ajudarem a moldar os futuros avanços aeroespaciais da NASA, Derek Abramson, Justin Hall e Justin Link estavam nas suas garagens e casas a construir aeronaves controladas por rádio, a testar novas ideias e a pilotar as suas criações como hobby. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. 4 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento (e subaquáticas) Derek Abramson, engenheiro-chefe do Dale Reed Subscale Flight Research. Derek Abramson, engenheiro-chefe do Dale Reed Subscale Flight Research Laboratory no Armstrong Flight Research Center da NASA em Edwards, Califórnia, é mostrado com seu.</p><p>Justin Hall, piloto-chefe do Dale Reed Subscale Flight Research Laboratory no Armstrong Flight Research Center da NASA em Edwards, Califórnia, está na frente de uma aeronave. Justin Hall Justin Link, piloto de drone no Dale Reed Subscale Flight Research Laboratory no Armstrong Flight Research Center da NASA em Edwards, Califórnia, e seu pai, Don Link.</p><p>O engenheiro-chefe do Dale Reed Subscale Flight Research Laboratory, à esquerda, se comunica com a torre de controle de tráfego aéreo da Base Aérea de Edwards para aprovação para.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/people-of-nasa/armstrong-people/passion-meets-precision-at-nasas-flight-research-lab/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Muito antes de ajudarem a moldar os futuros avanços aeroespaciais da NASA, Derek Abramson, Justin Hall e Justin Link estavam nas suas garagens e casas a construir aeronaves controladas por rádio, a testar novas ideias e a pilotar as suas criações como hobby. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. 4 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento (e subaquáticas) Derek Abramson, engenheiro-chefe do Dale Reed Subscale Flight Research. Derek Abramson, engenheiro-chefe do Dale Reed Subscale Flight Research Laboratory no Armstrong Flight Research Center da NASA em Edwards, Califórnia, é mostrado com seu.</p><p>Justin Hall, piloto-chefe do Dale Reed Subscale Flight Research Laboratory no Armstrong Flight Research Center da NASA em Edwards, Califórnia, está na frente de uma aeronave. Justin Hall Justin Link, piloto de drone no Dale Reed Subscale Flight Research Laboratory no Armstrong Flight Research Center da NASA em Edwards, Califórnia, e seu pai, Don Link.</p><p>O engenheiro-chefe do Dale Reed Subscale Flight Research Laboratory, à esquerda, se comunica com a torre de controle de tráfego aéreo da Base Aérea de Edwards para aprovação para.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/people-of-nasa/armstrong-people/passion-meets-precision-at-nasas-flight-research-lab/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Long before they helped shape NASA’s future aerospace breakthroughs, Derek Abramson, Justin Hall, and Justin Link were in their garages and homes building radio‑controlled aircraft, testing new ideas, and flying their creations at hobby. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. 4 min read Preparations for Next Moonwalk Simulations Underway (and Underwater) Derek Abramson, Dale Reed Subscale Flight Research Laboratory chief engineer, left, communicates. Derek Abramson, chief engineer at the Dale Reed Subscale Flight Research Laboratory at NASA’s Armstrong Flight Research Center in Edwards, California, is shown with his Kalt.</p><p>Justin Hall, chief pilot at the Dale Reed Subscale Flight Research Laboratory at NASA’s Armstrong Flight Research Center in Edwards, California, stands in front of a. Justin Hall Justin link, drone pilot at the Dale Reed Subscale Flight Research Laboratory at NASA’s Armstrong Flight Research Center in Edwards, California, and his dad, Don Link.</p><p>Dale Reed Subscale Flight Research Laboratory chief engineer, left, communicates with the Edwards Air Force Base air traffic control tower for approval to fly the Alta-X drone. Researchers at NASA’s Johnson Space Center in Houston developed the advanced guidance and navigation system known as the Safe and Precise Landing, Integrated Capabilities.</p><p>NASA/Ryan Kline Long before they helped shape NASA’s future aerospace breakthroughs, Derek Abramson, Justin Hall, and Justin Link were in their garages and homes building. At NASA Armstrong’s subscale flight lab, the team turns that lifelong enthusiasm into mission-focused innovation.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>The laboratory supports research that ranges from advanced navigation systems for future landings on the Moon and Mars to emerging aeronautics concepts that need quick, low-cost. Together, they integrate emerging aerospace technologies with the lab’s subscale aircraft fleet and, when needed, design and build aircraft or flight experiments to evaluate new.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/people-of-nasa/armstrong-people/passion-meets-precision-at-nasas-flight-research-lab/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Muito antes de ajudarem a moldar os futuros avanços aeroespaciais da NASA, Derek Abramson, Justin Hall e Justin Link estavam nas suas garagens e.",
-      "Dado-chave: Muito antes de ajudarem a moldar os futuros avanços aeroespaciais da NASA, Derek Abramson, Justin Hall e Justin Link estavam nas suas garagens e.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Muito antes de ajudarem a moldar os futuros avanços aeroespaciais da NASA, Derek Abramson, Justin Hall e Justin Link estavam nas suas garagens e.",
-      "Dado-chave: Muito antes de ajudarem a moldar os futuros avanços aeroespaciais da NASA, Derek Abramson, Justin Hall e Justin Link estavam nas suas garagens e.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Long before they helped shape NASA’s future aerospace breakthroughs, Derek Abramson, Justin Hall, and Justin Link were in their garages and homes.",
-      "Key detail: Long before they helped shape NASA’s future aerospace breakthroughs, Derek Abramson, Justin Hall, and Justin Link were in their garages and.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "16 set 2026",
-    "date_pt": "16 set 2026",
-    "date_en": "16 Sep 2026",
-    "time": "21h06",
-    "time_pt": "21h06",
-    "time_en": "21:06 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-09-16T21:06:08+00:00",
-    "lastModifiedIso": "2026-09-16T21:06:08+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "www.nasa.gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "A paixão encontra a precisão no laboratório de pesquisa de voo da NASA"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "A paixão encontra a precisão no laboratório de pesquisa de voo da NASA"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Passion Meets Precision at NASA's Flight Research Lab"
-    ],
-    "srcUrl": "https://www.nasa.gov/people-of-nasa/armstrong-people/passion-meets-precision-at-nasas-flight-research-lab/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=passion-meets-precision-at-nasa-s-flight-research-lab",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=passion-meets-precision-at-nasa-s-flight-research-lab",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=passion-meets-precision-at-nasa-s-flight-research-lab&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 80,
-    "scoreBreakdown": {
-      "source": 94,
-      "evidence": 82,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 52
-    }
-  },
-  {
-    "id": 13,
     "slug": "science-release-hubble-identifies-one-of-darkest-known-galaxies",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1587,7 +1295,7 @@ window.postsData = [
     }
   },
   {
-    "id": 14,
+    "id": 12,
     "slug": "a-new-catalog-of-close-to-3-000-supernova-challenges-theories-on-dark-energy",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1711,7 +1419,7 @@ window.postsData = [
     }
   },
   {
-    "id": 15,
+    "id": 13,
     "slug": "a-new-plasma-thruster-design-breathes-thin-air-for-propellant",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1857,7 +1565,7 @@ window.postsData = [
     }
   },
   {
-    "id": 16,
+    "id": 14,
     "slug": "science-release-hubble-discovers-first-of-star-cluster-s-missing-black-holes",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1993,7 +1701,153 @@ window.postsData = [
     }
   },
   {
-    "id": 17,
+    "id": 15,
+    "slug": "japanese-supercomputer-simulations-may-explain-webb-s-little-red-dots",
+    "cat": "Astrofísica",
+    "catCls": "astrofisica",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/japanese-supercomputer.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/japanese-supercomputer.jpg",
+        "caption": "Supercomputador japonês explica os pequenos pontos vermelhos de Webb",
+        "caption_pt": "Supercomputador japonês explica os pequenos pontos vermelhos de Webb",
+        "caption_en": "Japanese supercomputer explains Webb's Little Red Dots",
+        "alt": "Supercomputador japonês explica os pequenos pontos vermelhos de Webb",
+        "alt_pt": "Supercomputador japonês explica os pequenos pontos vermelhos de Webb",
+        "alt_en": "Japanese supercomputer explains Webb's Little Red Dots"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/4b5d8e1e5856f832.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/782dcfc6701d278c.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": {
+      "kind": "embed",
+      "platform": "youtube",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/8jsqf5z8eg4",
+      "fileUrl": "",
+      "poster": "",
+      "title": "",
+      "title_pt": "",
+      "title_en": "",
+      "caption": "",
+      "caption_pt": "",
+      "caption_en": "",
+      "sourcePage": "https://phys.org/news/2026-09-japanese-supercomputer-simulations-webb-red.html"
+    },
+    "audio": null,
+    "title": "Simulações de supercomputadores japoneses podem explicar os pequenos pontos vermelhos de Webb",
+    "title_pt": "Simulações de supercomputadores japoneses podem explicar os pequenos pontos vermelhos de Webb",
+    "title_en": "Japanese supercomputer simulations may explain Webb's Little Red Dots",
+    "sub": "De todas as descobertas do Telescópio Espacial James Webb, a multidão de Pequenos Pontos Vermelhos que observou está entre as mais enigmáticas. Agora, simulações usando o.",
+    "sub_pt": "De todas as descobertas do Telescópio Espacial James Webb, a multidão de Pequenos Pontos Vermelhos que observou está entre as mais enigmáticas. Agora, simulações usando o.",
+    "sub_en": "Of all the discoveries from the James Webb Space Telescope, the multitude of Little Red Dots it has observed is among the most enigmatic. Now, simulations using the Japanese.",
+    "excerpt": "De todas as descobertas do Telescópio Espacial James Webb, a multidão de Pequenos Pontos Vermelhos que observou está entre as mais enigmáticas. Agora, simulações usando o supercomputador japonês ATERUI III explicaram a natureza do Little.",
+    "excerpt_pt": "De todas as descobertas do Telescópio Espacial James Webb, a multidão de Pequenos Pontos Vermelhos que observou está entre as mais enigmáticas. Agora, simulações usando o supercomputador japonês ATERUI III explicaram a natureza do Little.",
+    "excerpt_en": "Of all the discoveries from the James Webb Space Telescope, the multitude of Little Red Dots it has observed is among the most enigmatic. Now, simulations using the Japanese Supercomputer ATERUI III have explained the nature of the Little.",
+    "body": "<p>De todas as descobertas do Telescópio Espacial James Webb, a multidão de Pequenos Pontos Vermelhos que observou está entre as mais enigmáticas. Agora, simulações usando o supercomputador japonês ATERUI III explicaram a natureza do Little. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. De todas as descobertas do Telescópio Espacial James Webb, a multidão de Pequenos Pontos Vermelhos que observou está entre as mais enigmáticas. Sunmyon Chon, Takaaki Takeda, Projeto 4D2U, NAOJ De todas as descobertas do Telescópio Espacial James Webb, a multidão de Pequenos Pontos Vermelhos que observou está entre as mais.</p><p>Agora, simulações usando o supercomputador japonês ATERUI III explicaram a natureza dos Pequenos Pontos Vermelhos sem exigir quaisquer suposições exóticas. No estudo, publicado na revista Nature, uma equipa de investigação liderada por Sunmyon Chon do Instituto Max Planck de Astrofísica utilizou o supercomputador ATERUI III do.</p><p>As propriedades simuladas destes buracos negros de rápido crescimento proporcionam uma boa correspondência com os Pequenos Pontos Vermelhos (LRDs) observados pelo Telescópio. Um mistério de longa data na astronomia tem sido a forma como os buracos negros supermassivos, com massas de milhões ou mesmo milhares de milhões de vezes a do Sol, observados no.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-09-japanese-supercomputer-simulations-webb-red.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>De todas as descobertas do Telescópio Espacial James Webb, a multidão de Pequenos Pontos Vermelhos que observou está entre as mais enigmáticas. Agora, simulações usando o supercomputador japonês ATERUI III explicaram a natureza do Little. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. De todas as descobertas do Telescópio Espacial James Webb, a multidão de Pequenos Pontos Vermelhos que observou está entre as mais enigmáticas. Sunmyon Chon, Takaaki Takeda, Projeto 4D2U, NAOJ De todas as descobertas do Telescópio Espacial James Webb, a multidão de Pequenos Pontos Vermelhos que observou está entre as mais.</p><p>Agora, simulações usando o supercomputador japonês ATERUI III explicaram a natureza dos Pequenos Pontos Vermelhos sem exigir quaisquer suposições exóticas. No estudo, publicado na revista Nature, uma equipa de investigação liderada por Sunmyon Chon do Instituto Max Planck de Astrofísica utilizou o supercomputador ATERUI III do.</p><p>As propriedades simuladas destes buracos negros de rápido crescimento proporcionam uma boa correspondência com os Pequenos Pontos Vermelhos (LRDs) observados pelo Telescópio. Um mistério de longa data na astronomia tem sido a forma como os buracos negros supermassivos, com massas de milhões ou mesmo milhares de milhões de vezes a do Sol, observados no.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-09-japanese-supercomputer-simulations-webb-red.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Of all the discoveries from the James Webb Space Telescope, the multitude of Little Red Dots it has observed is among the most enigmatic. Now, simulations using the Japanese Supercomputer ATERUI III have explained the nature of the Little. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. Of all the discoveries from the James Webb Space Telescope, the multitude of Little Red Dots it has observed is among the most enigmatic. Sunmyon Chon, Takaaki Takeda, 4D2U Project, NAOJ Of all the discoveries from the James Webb Space Telescope, the multitude of Little Red Dots it has observed is among the most.</p><p>Now, simulations using the Japanese Supercomputer ATERUI III have explained the nature of the Little Red Dots without requiring any exotic assumptions. In the study, published in the journal Nature, a research team led by Sunmyon Chon at the Max Planck Institute for Astrophysics used the ATERUI III supercomputer at the National.</p><p>The simulated properties of these rapidly growing black holes provide a good match to the Little Red Dots (LRDs) observed by the James Webb Space Telescope (JWST). A long-standing mystery in astronomy has been how the supermassive black holes, with masses millions or even billions of times that of the sun, observed in the early universe.</p><p>JWST was expected to answer this question by allowing us to see fainter, more distant galaxies. When we observe a galaxy 11 billion light-years away, that light has had to travel 11 billion years to reach us.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>Likewise, the light from a galaxy 12 billion light-years away is 12 billion years old. JWST allows us to look back farther in time than ever before, but instead of finding the answer to the rapid growth of black holes, it revealed a population of small, enigmatic.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-09-japanese-supercomputer-simulations-webb-red.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: De todas as descobertas do Telescópio Espacial James Webb, a multidão de Pequenos Pontos Vermelhos que observou está entre as mais enigmáticas.",
+      "Dado-chave: De todas as descobertas do Telescópio Espacial James Webb, a multidão de Pequenos Pontos Vermelhos que observou está entre as mais enigmáticas.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: De todas as descobertas do Telescópio Espacial James Webb, a multidão de Pequenos Pontos Vermelhos que observou está entre as mais enigmáticas.",
+      "Dado-chave: De todas as descobertas do Telescópio Espacial James Webb, a multidão de Pequenos Pontos Vermelhos que observou está entre as mais enigmáticas.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Of all the discoveries from the James Webb Space Telescope, the multitude of Little Red Dots it has observed is among the most enigmatic. Now.",
+      "Key detail: Of all the discoveries from the James Webb Space Telescope, the multitude of Little Red Dots it has observed is among the most enigmatic.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "17 set 2026",
+    "date_pt": "17 set 2026",
+    "date_en": "17 Sep 2026",
+    "time": "16h00",
+    "time_pt": "16h00",
+    "time_en": "16:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-09-17T16:00:03+00:00",
+    "lastModifiedIso": "2026-09-17T16:00:03+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astrofísica",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Simulações de supercomputadores japoneses podem explicar os pequenos pontos vermelhos de Webb"
+    ],
+    "keywords_pt": [
+      "Astrofísica",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Simulações de supercomputadores japoneses podem explicar os pequenos pontos vermelhos de Webb"
+    ],
+    "keywords_en": [
+      "Astrophysics",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Japanese supercomputer simulations could explain Webb's little red dots"
+    ],
+    "srcUrl": "https://phys.org/news/2026-09-japanese-supercomputer-simulations-webb-red.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=japanese-supercomputer-simulations-may-explain-webb-s-little-red-dots",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=japanese-supercomputer-simulations-may-explain-webb-s-little-red-dots",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=japanese-supercomputer-simulations-may-explain-webb-s-little-red-dots&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 77,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 16,
     "slug": "a-famous-galaxy-s-black-hole-has-been-hiding-its-most-violent-behavior",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2126,7 +1980,7 @@ window.postsData = [
     }
   },
   {
-    "id": 18,
+    "id": 17,
     "slug": "genetically-engineered-yeast-could-build-the-first-martian-outposts",
     "cat": "Física",
     "catCls": "fisica",
@@ -2244,7 +2098,7 @@ window.postsData = [
     }
   },
   {
-    "id": 19,
+    "id": 18,
     "slug": "the-september-october-2026-issue-of-the-cern-courier-is-out",
     "cat": "Física",
     "catCls": "fisica",
@@ -2359,7 +2213,7 @@ window.postsData = [
     }
   },
   {
-    "id": 20,
+    "id": 19,
     "slug": "computer-security-kids-at-the-keyboard",
     "cat": "Física",
     "catCls": "fisica",
@@ -2467,7 +2321,255 @@ window.postsData = [
     }
   },
   {
+    "id": 20,
+    "slug": "nasa-s-moon-orbiter-spots-new-once-in-century-moon-crater",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/lro/McGetchin_Discovery_Reenactment.png?w=1881&h=1041&fit=clip&crop=faces%2Cfocalpoint",
+    "inline_images": [
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/lro/McGetchin_Before_After_38mile_2x.png?w=2452&h=1214&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "Duas imagens em preto e branco quase idênticas aparecem lado a lado, separadas por uma linha preta vertical. Cada um mostra uma superfície escura e irregular com pequenas depressões circulares espalhadas e várias formações redondas maiores com bordas brilhantes e elevadas.",
+        "caption_pt": "Duas imagens em preto e branco quase idênticas aparecem lado a lado, separadas por uma linha preta vertical. Cada um mostra uma superfície escura e irregular com pequenas depressões circulares espalhadas e várias formações redondas maiores com bordas brilhantes e elevadas.",
+        "caption_en": "Two nearly identical black-and-white images appear side by side, separated by a vertical black line. Each shows a dark, uneven surface with scattered small circular depressions and several larger round formations with bright, raised rims.",
+        "alt": "Duas imagens em preto e branco quase idênticas aparecem lado a lado, separadas por uma linha preta vertical. Cada um mostra uma superfície escura e irregular com pequenas depressões circulares espalhadas e várias formações redondas maiores com bordas brilhantes e elevadas.",
+        "alt_pt": "Duas imagens em preto e branco quase idênticas aparecem lado a lado, separadas por uma linha preta vertical. Cada um mostra uma superfície escura e irregular com pequenas depressões circulares espalhadas e várias formações redondas maiores com bordas brilhantes e elevadas.",
+        "alt_en": "Two nearly identical black-and-white images appear side by side, separated by a vertical black line. Each shows a dark, uneven surface with scattered small circular depressions and several larger round formations with bright, raised rims."
+      },
+      {
+        "src": "https://assets.science.nasa.gov/content/dam/science/missions/lro/McGetchinLROblinkImage.gif?w=592&h=824&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "Mapa de temperatura animado que alterna entre duas imagens. Uma faixa vertical no centro pisca, revelando uma área circular azul escura ao redor de um pequeno ponto branco próximo ao meio. O mapa azul claro também contém.",
+        "caption_pt": "Mapa de temperatura animado que alterna entre duas imagens. Uma faixa vertical no centro pisca, revelando uma área circular azul escura ao redor de um pequeno ponto branco próximo ao meio. O mapa azul claro também contém.",
+        "caption_en": "Animated temperature map that alternates between two images. A vertical strip through the center blinks on and off, revealing a dark blue circular area surrounding a small white spot near the middle. The pale blue map also contains.",
+        "alt": "Mapa de temperatura animado que alterna entre duas imagens. Uma faixa vertical no centro pisca, revelando uma área circular azul escura ao redor de um pequeno ponto branco próximo ao meio. O mapa azul claro também contém.",
+        "alt_pt": "Mapa de temperatura animado que alterna entre duas imagens. Uma faixa vertical no centro pisca, revelando uma área circular azul escura ao redor de um pequeno ponto branco próximo ao meio. O mapa azul claro também contém.",
+        "alt_en": "Animated temperature map that alternates between two images. A vertical strip through the center blinks on and off, revealing a dark blue circular area surrounding a small white spot near the middle. The pale blue map also contains."
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/lro/McGetchinStretchedTemporalRatio.png?w=2419&h=1058&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "Ampla imagem em preto e branco de uma superfície áspera e irregular, densamente coberta por depressões circulares e áreas elevadas. As bordas superior e inferior são especialmente robustas, enquanto o centro é mais suave e dividido por sutis faixas verticais. Um preto.",
+        "caption_pt": "Ampla imagem em preto e branco de uma superfície áspera e irregular, densamente coberta por depressões circulares e áreas elevadas. As bordas superior e inferior são especialmente robustas, enquanto o centro é mais suave e dividido por sutis faixas verticais. Um preto.",
+        "caption_en": "Wide black-and-white image of a rough, uneven surface densely covered with circular depressions and raised areas. The upper and lower edges are especially rugged, while the center is smoother and divided by subtle vertical bands. A black.",
+        "alt": "Ampla imagem em preto e branco de uma superfície áspera e irregular, densamente coberta por depressões circulares e áreas elevadas. As bordas superior e inferior são especialmente robustas, enquanto o centro é mais suave e dividido por sutis faixas verticais. Um preto.",
+        "alt_pt": "Ampla imagem em preto e branco de uma superfície áspera e irregular, densamente coberta por depressões circulares e áreas elevadas. As bordas superior e inferior são especialmente robustas, enquanto o centro é mais suave e dividido por sutis faixas verticais. Um preto.",
+        "alt_en": "Wide black-and-white image of a rough, uneven surface densely covered with circular depressions and raised areas. The upper and lower edges are especially rugged, while the center is smoother and divided by subtle vertical bands. A black."
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "O Moon Orbiter da NASA detecta uma nova cratera lunar ‘única no século’",
+    "title_pt": "O Moon Orbiter da NASA detecta uma nova cratera lunar ‘única no século’",
+    "title_en": "NASA’s Moon Orbiter Spots New, ‘Once-in-Century’ Moon Crater",
+    "sub": "Tudo começou como uma verificação rotineira da qualidade dos dados. Mas quando Robert Wagner, um cientista da Lunar Reconnaissance Orbiter da NASA, escaneou um mapa gigante da Lua.",
+    "sub_pt": "Tudo começou como uma verificação rotineira da qualidade dos dados. Mas quando Robert Wagner, um cientista da Lunar Reconnaissance Orbiter da NASA, escaneou um mapa gigante da Lua.",
+    "sub_en": "It started as a routine data-quality check. But as Robert Wagner, a scientist with NASA’s Lunar Reconnaissance Orbiter, scanned a giant Moon map on his computer screen, an.",
+    "excerpt": "Tudo começou como uma verificação rotineira da qualidade dos dados. Mas quando Robert Wagner, um cientista da Lunar Reconnaissance Orbiter da NASA, escaneou um mapa gigante da Lua no ecrã do seu computador, um ponto brilhante invulgarmente grande rodeado por.",
+    "excerpt_pt": "Tudo começou como uma verificação rotineira da qualidade dos dados. Mas quando Robert Wagner, um cientista da Lunar Reconnaissance Orbiter da NASA, escaneou um mapa gigante da Lua no ecrã do seu computador, um ponto brilhante invulgarmente grande rodeado por.",
+    "excerpt_en": "It started as a routine data-quality check. But as Robert Wagner, a scientist with NASA’s Lunar Reconnaissance Orbiter, scanned a giant Moon map on his computer screen, an unusually large bright spot circled by a dark halo caught his eye.",
+    "body": "<p>Tudo começou como uma verificação rotineira da qualidade dos dados. Mas quando Robert Wagner, um cientista da Lunar Reconnaissance Orbiter da NASA, escaneou um mapa gigante da Lua no ecrã do seu computador, um ponto brilhante invulgarmente grande rodeado por um halo escuro. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. 6 min Leia o Moon Orbiter da NASA avista uma nova cratera lunar ‘Once-in-Century’ Uma visão ampliada da Lua feita a partir de imagens da Lunar Reconnaissance Orbiter Camera da. O painel à esquerda é feito a partir de imagens capturadas pela câmera grande angular Lunar Reconnaissance Orbiter da NASA no verão de 2025.</p><p>A Lua sofre alguns impactos Há mais de 17 anos que a LRO circula a Lua e utiliza os seus sete instrumentos para mapear a topografia, a composição da superfície, a temperatura e o. Este conjunto de imagens animadas mostra uma área no extremo leste da Lua antes e depois da formação da cratera McGetchin em algum momento entre 11 de abril e 22 de maio de 2024.</p><p>NASA Goddard/Intuitive Machines/Robert Wagner Caminho para a descoberta O sistema LROC coleta imagens de cerca de 60 milhas acima da Lua enquanto o LRO faz um loop de pólo a pólo. 5 de janeiro de 2025, pela câmera de ângulo estreito (NAC) do Lunar Reconnaissance Orbiter (LRO) da NASA.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Tudo começou como uma verificação rotineira da qualidade dos dados. Mas quando Robert Wagner, um cientista da Lunar Reconnaissance Orbiter da NASA, escaneou um mapa gigante da Lua no ecrã do seu computador, um ponto brilhante invulgarmente grande rodeado por um halo escuro. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. 6 min Leia o Moon Orbiter da NASA avista uma nova cratera lunar ‘Once-in-Century’ Uma visão ampliada da Lua feita a partir de imagens da Lunar Reconnaissance Orbiter Camera da. O painel à esquerda é feito a partir de imagens capturadas pela câmera grande angular Lunar Reconnaissance Orbiter da NASA no verão de 2025.</p><p>A Lua sofre alguns impactos Há mais de 17 anos que a LRO circula a Lua e utiliza os seus sete instrumentos para mapear a topografia, a composição da superfície, a temperatura e o. Este conjunto de imagens animadas mostra uma área no extremo leste da Lua antes e depois da formação da cratera McGetchin em algum momento entre 11 de abril e 22 de maio de 2024.</p><p>NASA Goddard/Intuitive Machines/Robert Wagner Caminho para a descoberta O sistema LROC coleta imagens de cerca de 60 milhas acima da Lua enquanto o LRO faz um loop de pólo a pólo. 5 de janeiro de 2025, pela câmera de ângulo estreito (NAC) do Lunar Reconnaissance Orbiter (LRO) da NASA.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>It started as a routine data-quality check. But as Robert Wagner, a scientist with NASA’s Lunar Reconnaissance Orbiter, scanned a giant Moon map on his computer screen, an unusually large bright spot circled by a dark halo caught his eye. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. 6 Min Read NASA’s Moon Orbiter Spots New, ‘Once-in-Century’ Moon Crater A zoomed-in view of the Moon made from images from NASA’s Lunar Reconnaissance Orbiter Camera. The panel on the left is made from images captured by NASA’s Lunar Reconnaissance Orbiter Wide-Angle Camera in summer 2025.</p><p>Moon takes some hits For more than 17 years, LRO has been circling the Moon and using its seven instruments to map the topography, surface composition, temperature, and radiation. This animated image set shows an area on the eastern limb of the Moon before and after McGetchin crater formed there sometime between April 11 and May 22, 2024.</p><p>NASA Goddard/Intuitive Machines/Robert Wagner Road to discovery The LROC system collects images from about 60 miles above the Moon as LRO loops from pole to pole. 5, 2025, by NASA’s Lunar Reconnaissance Orbiter (LRO) Narrow-Angle Camera (NAC).</p><p>NASA Goddard/Intuitive Machines This view from the side (55° away from straight down) towards the east, covers an area of the Moon that’s about 1.5 miles wide. It was taken by NASA’s Lunar Reconnaissance Orbiter Narrow-Angle Camera on March 3, 2026.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>For more than 17 years, LRO has been circling the Moon and using its seven instruments to map the topography, surface composition, temperature, and radiation environment there. The spacecraft’s team has identified at least 1,000 new impact craters throughout the mission and flagged 100,000 more surface changes from an object smashing into the Moon or.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Tudo começou como uma verificação rotineira da qualidade dos dados. Mas quando Robert Wagner, um cientista da Lunar Reconnaissance Orbiter da NASA.",
+      "Dado-chave: 6 min Leia o Moon Orbiter da NASA avista uma nova cratera lunar ‘Once-in-Century’ Uma visão ampliada da Lua feita a partir de imagens da Lunar.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Tudo começou como uma verificação rotineira da qualidade dos dados. Mas quando Robert Wagner, um cientista da Lunar Reconnaissance Orbiter da NASA.",
+      "Dado-chave: 6 min Leia o Moon Orbiter da NASA avista uma nova cratera lunar ‘Once-in-Century’ Uma visão ampliada da Lua feita a partir de imagens da Lunar.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: It started as a routine data-quality check. But as Robert Wagner, a scientist with NASA’s Lunar Reconnaissance Orbiter, scanned a giant Moon map on.",
+      "Key detail: 6 Min Read NASA’s Moon Orbiter Spots New, ‘Once-in-Century’ Moon Crater A zoomed-in view of the Moon made from images from NASA’s Lunar.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "16 set 2026",
+    "date_pt": "16 set 2026",
+    "date_en": "16 Sep 2026",
+    "time": "18h06",
+    "time_pt": "18h06",
+    "time_en": "18:06 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-09-16T18:06:35+00:00",
+    "lastModifiedIso": "2026-09-16T18:06:35+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science.nasa.gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
+    "keywords": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "O Moon Orbiter da NASA detecta uma nova cratera lunar ‘única no século’"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "O Moon Orbiter da NASA detecta uma nova cratera lunar ‘única no século’"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NASA News Releases",
+      "Cosmos Week",
+      "NASA's Moon Orbiter detects new 'once-in-a-century' lunar crater"
+    ],
+    "srcUrl": "https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-moon-orbiter-spots-new-once-in-century-moon-crater",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-moon-orbiter-spots-new-once-in-century-moon-crater",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-moon-orbiter-spots-new-once-in-century-moon-crater&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 81,
+    "scoreBreakdown": {
+      "source": 94,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 52
+    }
+  },
+  {
     "id": 21,
+    "slug": "passion-meets-precision-at-nasa-s-flight-research-lab",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://images-assets.nasa.gov/image/AFRC2026-0179-08/AFRC2026-0179-08~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint",
+    "inline_images": [
+      {
+        "src": "https://images-assets.nasa.gov/image/AFRC2020-0083-05/AFRC2020-0083-05~large.jpg?w=1280&h=1920&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "A paixão encontra a precisão no laboratório de pesquisa de voo da NASA",
+    "title_pt": "A paixão encontra a precisão no laboratório de pesquisa de voo da NASA",
+    "title_en": "Passion Meets Precision at NASA’s Flight Research Lab",
+    "sub": "Muito antes de ajudarem a moldar os futuros avanços aeroespaciais da NASA, Derek Abramson, Justin Hall e Justin Link estavam nas suas garagens e casas a construir aeronaves.",
+    "sub_pt": "Muito antes de ajudarem a moldar os futuros avanços aeroespaciais da NASA, Derek Abramson, Justin Hall e Justin Link estavam nas suas garagens e casas a construir aeronaves.",
+    "sub_en": "Long before they helped shape NASA’s future aerospace breakthroughs, Derek Abramson, Justin Hall, and Justin Link were in their garages and homes building radio‑controlled.",
+    "excerpt": "Muito antes de ajudarem a moldar os futuros avanços aeroespaciais da NASA, Derek Abramson, Justin Hall e Justin Link estavam nas suas garagens e casas a construir aeronaves controladas por rádio, a testar novas ideias e a pilotar as suas criações como hobby.",
+    "excerpt_pt": "Muito antes de ajudarem a moldar os futuros avanços aeroespaciais da NASA, Derek Abramson, Justin Hall e Justin Link estavam nas suas garagens e casas a construir aeronaves controladas por rádio, a testar novas ideias e a pilotar as suas criações como hobby.",
+    "excerpt_en": "Long before they helped shape NASA’s future aerospace breakthroughs, Derek Abramson, Justin Hall, and Justin Link were in their garages and homes building radio‑controlled aircraft, testing new ideas, and flying their creations at hobby.",
+    "body": "<p>Muito antes de ajudarem a moldar os futuros avanços aeroespaciais da NASA, Derek Abramson, Justin Hall e Justin Link estavam nas suas garagens e casas a construir aeronaves controladas por rádio, a testar novas ideias e a pilotar as suas criações como hobby. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. 4 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento (e subaquáticas) Derek Abramson, engenheiro-chefe do Dale Reed Subscale Flight Research. Derek Abramson, engenheiro-chefe do Dale Reed Subscale Flight Research Laboratory no Armstrong Flight Research Center da NASA em Edwards, Califórnia, é mostrado com seu.</p><p>Justin Hall, piloto-chefe do Dale Reed Subscale Flight Research Laboratory no Armstrong Flight Research Center da NASA em Edwards, Califórnia, está na frente de uma aeronave. Justin Hall Justin Link, piloto de drone no Dale Reed Subscale Flight Research Laboratory no Armstrong Flight Research Center da NASA em Edwards, Califórnia, e seu pai, Don Link.</p><p>O engenheiro-chefe do Dale Reed Subscale Flight Research Laboratory, à esquerda, se comunica com a torre de controle de tráfego aéreo da Base Aérea de Edwards para aprovação para.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/people-of-nasa/armstrong-people/passion-meets-precision-at-nasas-flight-research-lab/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Muito antes de ajudarem a moldar os futuros avanços aeroespaciais da NASA, Derek Abramson, Justin Hall e Justin Link estavam nas suas garagens e casas a construir aeronaves controladas por rádio, a testar novas ideias e a pilotar as suas criações como hobby. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. 4 min de leitura Preparativos para as próximas simulações de Moonwalk em andamento (e subaquáticas) Derek Abramson, engenheiro-chefe do Dale Reed Subscale Flight Research. Derek Abramson, engenheiro-chefe do Dale Reed Subscale Flight Research Laboratory no Armstrong Flight Research Center da NASA em Edwards, Califórnia, é mostrado com seu.</p><p>Justin Hall, piloto-chefe do Dale Reed Subscale Flight Research Laboratory no Armstrong Flight Research Center da NASA em Edwards, Califórnia, está na frente de uma aeronave. Justin Hall Justin Link, piloto de drone no Dale Reed Subscale Flight Research Laboratory no Armstrong Flight Research Center da NASA em Edwards, Califórnia, e seu pai, Don Link.</p><p>O engenheiro-chefe do Dale Reed Subscale Flight Research Laboratory, à esquerda, se comunica com a torre de controle de tráfego aéreo da Base Aérea de Edwards para aprovação para.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/people-of-nasa/armstrong-people/passion-meets-precision-at-nasas-flight-research-lab/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Long before they helped shape NASA’s future aerospace breakthroughs, Derek Abramson, Justin Hall, and Justin Link were in their garages and homes building radio‑controlled aircraft, testing new ideas, and flying their creations at hobby. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. 4 min read Preparations for Next Moonwalk Simulations Underway (and Underwater) Derek Abramson, Dale Reed Subscale Flight Research Laboratory chief engineer, left, communicates. Derek Abramson, chief engineer at the Dale Reed Subscale Flight Research Laboratory at NASA’s Armstrong Flight Research Center in Edwards, California, is shown with his Kalt.</p><p>Justin Hall, chief pilot at the Dale Reed Subscale Flight Research Laboratory at NASA’s Armstrong Flight Research Center in Edwards, California, stands in front of a. Justin Hall Justin link, drone pilot at the Dale Reed Subscale Flight Research Laboratory at NASA’s Armstrong Flight Research Center in Edwards, California, and his dad, Don Link.</p><p>Dale Reed Subscale Flight Research Laboratory chief engineer, left, communicates with the Edwards Air Force Base air traffic control tower for approval to fly the Alta-X drone. Researchers at NASA’s Johnson Space Center in Houston developed the advanced guidance and navigation system known as the Safe and Precise Landing, Integrated Capabilities.</p><p>NASA/Ryan Kline Long before they helped shape NASA’s future aerospace breakthroughs, Derek Abramson, Justin Hall, and Justin Link were in their garages and homes building. At NASA Armstrong’s subscale flight lab, the team turns that lifelong enthusiasm into mission-focused innovation.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>The laboratory supports research that ranges from advanced navigation systems for future landings on the Moon and Mars to emerging aeronautics concepts that need quick, low-cost. Together, they integrate emerging aerospace technologies with the lab’s subscale aircraft fleet and, when needed, design and build aircraft or flight experiments to evaluate new.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/people-of-nasa/armstrong-people/passion-meets-precision-at-nasas-flight-research-lab/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Muito antes de ajudarem a moldar os futuros avanços aeroespaciais da NASA, Derek Abramson, Justin Hall e Justin Link estavam nas suas garagens e.",
+      "Dado-chave: Muito antes de ajudarem a moldar os futuros avanços aeroespaciais da NASA, Derek Abramson, Justin Hall e Justin Link estavam nas suas garagens e.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Muito antes de ajudarem a moldar os futuros avanços aeroespaciais da NASA, Derek Abramson, Justin Hall e Justin Link estavam nas suas garagens e.",
+      "Dado-chave: Muito antes de ajudarem a moldar os futuros avanços aeroespaciais da NASA, Derek Abramson, Justin Hall e Justin Link estavam nas suas garagens e.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Long before they helped shape NASA’s future aerospace breakthroughs, Derek Abramson, Justin Hall, and Justin Link were in their garages and homes.",
+      "Key detail: Long before they helped shape NASA’s future aerospace breakthroughs, Derek Abramson, Justin Hall, and Justin Link were in their garages and.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "16 set 2026",
+    "date_pt": "16 set 2026",
+    "date_en": "16 Sep 2026",
+    "time": "21h06",
+    "time_pt": "21h06",
+    "time_en": "21:06 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-09-16T21:06:08+00:00",
+    "lastModifiedIso": "2026-09-16T21:06:08+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "www.nasa.gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "high",
+    "editorialBandLabel": "Alta prioridade",
+    "editorialBandLabel_pt": "Alta prioridade",
+    "editorialBandLabel_en": "High priority",
+    "keywords": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "A paixão encontra a precisão no laboratório de pesquisa de voo da NASA"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "A paixão encontra a precisão no laboratório de pesquisa de voo da NASA"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NASA News Releases",
+      "Cosmos Week",
+      "Passion Meets Precision at NASA's Flight Research Lab"
+    ],
+    "srcUrl": "https://www.nasa.gov/people-of-nasa/armstrong-people/passion-meets-precision-at-nasas-flight-research-lab/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=passion-meets-precision-at-nasa-s-flight-research-lab",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=passion-meets-precision-at-nasa-s-flight-research-lab",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=passion-meets-precision-at-nasa-s-flight-research-lab&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 80,
+    "scoreBreakdown": {
+      "source": 94,
+      "evidence": 82,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 52
+    }
+  },
+  {
+    "id": 22,
     "slug": "bepicolombo-begins-mercury-arrival-with-mtm-separation-success",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2600,7 +2702,7 @@ window.postsData = [
     }
   },
   {
-    "id": 22,
+    "id": 23,
     "slug": "science-release-hubble-details-early-galaxy-transforming-neighbourhood",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2736,7 +2838,7 @@ window.postsData = [
     }
   },
   {
-    "id": 23,
+    "id": 24,
     "slug": "science-release-hubble-unexpectedly-catches-comet-breaking-up",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -2872,7 +2974,7 @@ window.postsData = [
     }
   },
   {
-    "id": 24,
+    "id": 25,
     "slug": "nasa-watches-earth-s-weight-finds-center-of-mass",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3018,31 +3120,12 @@ window.postsData = [
     }
   },
   {
-    "id": 25,
+    "id": 26,
     "slug": "galileo-s-first-civil-authenticated-position-fix-under-spoofing-conditions",
     "cat": "Astronomia",
     "catCls": "astronomia",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/galileo_signal_authentication_service_test_in_norway/27526219-7-eng-GB/Galileo_Signal_Authentication_Service_test_in_Norway_card_full.png",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/galileo_signal_authentication_service_first_position_fix/27525934-1-eng-GB/Galileo_Signal_Authentication_Service_first_position_fix_article.jpg",
-        "caption": "Correção da primeira posição do Galileo Signal Authentication Service",
-        "caption_pt": "Correção da primeira posição do Galileo Signal Authentication Service",
-        "caption_en": "Galileo Signal Authentication Service first position fix",
-        "alt": "Correção da primeira posição do Galileo Signal Authentication Service",
-        "alt_pt": "Correção da primeira posição do Galileo Signal Authentication Service",
-        "alt_en": "Galileo Signal Authentication Service first position fix"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/galileo_sas_resists_spoofing/27526617-1-eng-GB/Galileo_SAS_resists_spoofing_article.png",
-        "caption": "Galileo SAS resiste à falsificação",
-        "caption_pt": "Galileo SAS resiste à falsificação",
-        "caption_en": "Galileo SAS resists spoofing",
-        "alt": "Galileo SAS resiste à falsificação",
-        "alt_pt": "Galileo SAS resiste à falsificação",
-        "alt_en": "Galileo SAS resists spoofing"
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "A primeira correção de posição civil autenticada do Galileo sob condições de falsificação",
@@ -3054,9 +3137,9 @@ window.postsData = [
     "excerpt": "Durante duas horas, na tarde de quarta-feira, 16 de Setembro, cinco satélites Galileo operacionais a transmitir sobre a Europa transmitiram um novo sinal encriptado para teste. No terreno em Andøya, Noruega, e no laboratório de navegação da ESA em.",
     "excerpt_pt": "Durante duas horas, na tarde de quarta-feira, 16 de Setembro, cinco satélites Galileo operacionais a transmitir sobre a Europa transmitiram um novo sinal encriptado para teste. No terreno em Andøya, Noruega, e no laboratório de navegação da ESA em.",
     "excerpt_en": "For two hours on the afternoon of Wednesday 16 September, five operational Galileo satellites broadcasting over Europe transmitted a new encrypted signal for testing. On the ground in Andøya, Norway, and at ESA’s navigation laboratory at.",
-    "body": "<p>Durante duas horas, na tarde de quarta-feira, 16 de Setembro, cinco satélites Galileo operacionais a transmitir sobre a Europa transmitiram um novo sinal encriptado para teste. No terreno em Andøya, Noruega, e no laboratório de navegação da ESA em. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Durante duas horas, na tarde de quarta-feira, 16 de Setembro, cinco satélites Galileo operacionais a transmitir sobre a Europa transmitiram um novo sinal encriptado para teste. No terreno em Andøya, Noruega, e no laboratório de navegação da ESA em ESTEC, na Holanda, os receptores estabeleceram com sucesso a sua localização utilizando estes sinais.</p><p>Uma de suas inovações mais significativas é o Signal Authentication Service, que junto com o Open Service Navigation Message Authentication (OSNMA) já disponível irá desbloquear. “Ao combinar a autenticação de sinal e a autenticação de mensagens de navegação, os utilizadores saberão que podem confiar na posição que o seu dispositivo está a mostrar”.</p><p>A Comissão Europeia (CE) definiu o conceito, enquanto a Agência Espacial Europeia (ESA) e a Agência da União Europeia para o Programa Espacial (EUSPA) conceberam a arquitectura e. Agora, após extensos testes em laboratórios e ambientes controlados, o novo sinal comprovou seu desempenho em condições reais, no Jammertest.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Satellite_navigation/Galileo/Galileo_s_first_civil_authenticated_position_fix_under_spoofing_conditions\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Durante duas horas, na tarde de quarta-feira, 16 de Setembro, cinco satélites Galileo operacionais a transmitir sobre a Europa transmitiram um novo sinal encriptado para teste. No terreno em Andøya, Noruega, e no laboratório de navegação da ESA em. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Durante duas horas, na tarde de quarta-feira, 16 de Setembro, cinco satélites Galileo operacionais a transmitir sobre a Europa transmitiram um novo sinal encriptado para teste. No terreno em Andøya, Noruega, e no laboratório de navegação da ESA em ESTEC, na Holanda, os receptores estabeleceram com sucesso a sua localização utilizando estes sinais.</p><p>Uma de suas inovações mais significativas é o Signal Authentication Service, que junto com o Open Service Navigation Message Authentication (OSNMA) já disponível irá desbloquear. “Ao combinar a autenticação de sinal e a autenticação de mensagens de navegação, os utilizadores saberão que podem confiar na posição que o seu dispositivo está a mostrar”.</p><p>A Comissão Europeia (CE) definiu o conceito, enquanto a Agência Espacial Europeia (ESA) e a Agência da União Europeia para o Programa Espacial (EUSPA) conceberam a arquitectura e. Agora, após extensos testes em laboratórios e ambientes controlados, o novo sinal comprovou seu desempenho em condições reais, no Jammertest.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Satellite_navigation/Galileo/Galileo_s_first_civil_authenticated_position_fix_under_spoofing_conditions\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>For two hours on the afternoon of Wednesday 16 September, five operational Galileo satellites broadcasting over Europe transmitted a new encrypted signal for testing. On the ground in Andøya, Norway, and at ESA’s navigation laboratory at. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. For two hours on the afternoon of Wednesday 16 September, five operational Galileo satellites broadcasting over Europe transmitted a new encrypted signal for testing. On the ground in Andøya, Norway, and at ESA’s navigation laboratory at ESTEC, in the Netherlands, receivers successfully established their location using these encrypted signals.</p><p>One of its most significant innovations is the Signal Authentication Service, that together with the already available Open Service Navigation Message Authentication (OSNMA) will. “By combining signal authentication and navigation message authentication, users will know they can trust the position their device is showing,” explained ESA’s Galileo Head of.</p><p>The European Commission (EC) defined the concept, while the European Space Agency (ESA) and the European Union Agency for the Space Programme (EUSPA) designed the architecture and. Now, after extensive testing in laboratories and controlled environments, the new signal has proven its performance under real world conditions, at Jammertest.</p><p>ESA and the Commission’s Joint Research Centre took advantage of this unique opportunity to test the Signal Authentication Service under realistic conditions, demonstrating that. To establish a position, satellite navigation receivers work with two main pieces of data: the information sent by the satellites, known as the navigation message, and the ranging.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>The Signal Authentication Service relies on encrypted ranging signals and is complemented by OSNMA, which enables receivers to confirm the navigation message originated in the. OSNMA is operational since 2025 and represents Galileo’s first major upgrade to enhance its resilience to interference.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Satellite_navigation/Galileo/Galileo_s_first_civil_authenticated_position_fix_under_spoofing_conditions\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>Durante duas horas, na tarde de quarta-feira, 16 de Setembro, cinco satélites Galileo operacionais a transmitir sobre a Europa transmitiram um novo sinal encriptado para teste. No terreno em Andøya, Noruega, e no laboratório de navegação da ESA em. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Durante duas horas, na tarde de quarta-feira, 16 de Setembro, cinco satélites Galileo operacionais a transmitir sobre a Europa transmitiram um novo sinal encriptado para teste. No terreno em Andøya, Noruega, e no laboratório de navegação da ESA em ESTEC, na Holanda, os receptores estabeleceram com sucesso a sua localização utilizando estes sinais.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Satellite_navigation/Galileo/Galileo_s_first_civil_authenticated_position_fix_under_spoofing_conditions\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Durante duas horas, na tarde de quarta-feira, 16 de Setembro, cinco satélites Galileo operacionais a transmitir sobre a Europa transmitiram um novo sinal encriptado para teste. No terreno em Andøya, Noruega, e no laboratório de navegação da ESA em. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Durante duas horas, na tarde de quarta-feira, 16 de Setembro, cinco satélites Galileo operacionais a transmitir sobre a Europa transmitiram um novo sinal encriptado para teste. No terreno em Andøya, Noruega, e no laboratório de navegação da ESA em ESTEC, na Holanda, os receptores estabeleceram com sucesso a sua localização utilizando estes sinais.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Satellite_navigation/Galileo/Galileo_s_first_civil_authenticated_position_fix_under_spoofing_conditions\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>For two hours on the afternoon of Wednesday 16 September, five operational Galileo satellites broadcasting over Europe transmitted a new encrypted signal for testing. On the ground in Andøya, Norway, and at ESA’s navigation laboratory at. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. For two hours on the afternoon of Wednesday 16 September, five operational Galileo satellites broadcasting over Europe transmitted a new encrypted signal for testing. On the ground in Andøya, Norway, and at ESA’s navigation laboratory at ESTEC, in the Netherlands, receivers successfully established their location using these encrypted signals.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Satellite_navigation/Galileo/Galileo_s_first_civil_authenticated_position_fix_under_spoofing_conditions\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Durante duas horas, na tarde de quarta-feira, 16 de Setembro, cinco satélites Galileo operacionais a transmitir sobre a Europa transmitiram um novo.",
       "Dado-chave: Durante duas horas, na tarde de quarta-feira, 16 de Setembro, cinco satélites Galileo operacionais a transmitir sobre a Europa transmitiram um.",
@@ -3142,12 +3225,40 @@ window.postsData = [
     }
   },
   {
-    "id": 26,
+    "id": 27,
     "slug": "hubble-tracks-new-decagon-encircling-saturn-s-south-pole",
     "cat": "Ciências da Terra",
     "catCls": "terra",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/decagon_on_saturn_s_south_pole_colour_image/27443469-5-eng-GB/Decagon_on_Saturn_s_south_pole_colour_image_card_full.jpg",
-    "inline_images": [],
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/decagon_on_saturn_s_south_pole_colour_image/27443469-5-eng-GB/Decagon_on_Saturn_s_south_pole_colour_image_article.jpg",
+        "caption": "Decágono no pólo sul de Saturno (imagem colorida)",
+        "caption_pt": "Decágono no pólo sul de Saturno (imagem colorida)",
+        "caption_en": "Decagon on Saturn’s south pole (colour image)",
+        "alt": "Decágono no pólo sul de Saturno (imagem colorida)",
+        "alt_pt": "Decágono no pólo sul de Saturno (imagem colorida)",
+        "alt_en": "Decagon on Saturn’s south pole (colour image)"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/decagon_on_saturn_s_south_pole_single_filter_image/27445094-5-eng-GB/Decagon_on_Saturn_s_south_pole_single_filter_image_article.jpg",
+        "caption": "Decágono no pólo sul de Saturno (imagem de filtro único)",
+        "caption_pt": "Decágono no pólo sul de Saturno (imagem de filtro único)",
+        "caption_en": "Decagon on Saturn’s south pole (single filter image)",
+        "alt": "Decágono no pólo sul de Saturno (imagem de filtro único)",
+        "alt_pt": "Decágono no pólo sul de Saturno (imagem de filtro único)",
+        "alt_en": "Decagon on Saturn’s south pole (single filter image)"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2003/05/hubble_in_free_orbit/9767064-3-eng-GB/Hubble_in_free_orbit_article.jpg",
+        "caption": "Hubble em órbita livre",
+        "caption_pt": "Hubble em órbita livre",
+        "caption_en": "Hubble in free orbit",
+        "alt": "Hubble em órbita livre",
+        "alt_pt": "Hubble em órbita livre",
+        "alt_en": "Hubble in free orbit"
+      }
+    ],
     "video": null,
     "audio": null,
     "title": "Hubble rastreia novo decágono circundando o pólo sul de Saturno",
@@ -3159,22 +3270,22 @@ window.postsData = [
     "excerpt": "Observações recentes com o Telescópio Espacial Hubble da NASA/ESA revelaram uma onda atmosférica gigante e em evolução de 10 lados que circunda o pólo sul de Saturno. Esta descoberta marca a primeira vez que um grande padrão de jato de lados regulares foi.",
     "excerpt_pt": "Observações recentes com o Telescópio Espacial Hubble da NASA/ESA revelaram uma onda atmosférica gigante e em evolução de 10 lados que circunda o pólo sul de Saturno. Esta descoberta marca a primeira vez que um grande padrão de jato de lados regulares foi.",
     "excerpt_en": "Recent observations with the NASA/ESA Hubble Space Telescope have revealed a giant, evolving 10-sided atmospheric wave encircling Saturn’s south pole. This discovery marks the first time a large regular-sided jet pattern has been observed.",
-    "body": "<p>Observações recentes com o Telescópio Espacial Hubble da NASA/ESA revelaram uma onda atmosférica gigante e em evolução de 10 lados que circunda o pólo sul de Saturno. Esta descoberta marca a primeira vez que um grande padrão de jato de lados regulares foi observado. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. A estrutura parece notavelmente semelhante ao famoso hexágono de Saturno no seu pólo norte, mas também é distintamente diferente, sugerindo que os cientistas podem estar a. Observações recentes com o Telescópio Espacial Hubble da NASA/ESA revelaram uma onda atmosférica gigante e em evolução de 10 lados que circunda o pólo sul de Saturno.</p><p>Esta descoberta marca a primeira vez que um grande padrão de jato de lados regulares foi observado no hemisfério sul do planeta.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Hubble_tracks_new_decagon_encircling_Saturn_s_south_pole\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Observações recentes com o Telescópio Espacial Hubble da NASA/ESA revelaram uma onda atmosférica gigante e em evolução de 10 lados que circunda o pólo sul de Saturno. Esta descoberta marca a primeira vez que um grande padrão de jato de lados regulares foi observado. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. A estrutura parece notavelmente semelhante ao famoso hexágono de Saturno no seu pólo norte, mas também é distintamente diferente, sugerindo que os cientistas podem estar a. Observações recentes com o Telescópio Espacial Hubble da NASA/ESA revelaram uma onda atmosférica gigante e em evolução de 10 lados que circunda o pólo sul de Saturno.</p><p>Esta descoberta marca a primeira vez que um grande padrão de jato de lados regulares foi observado no hemisfério sul do planeta.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Hubble_tracks_new_decagon_encircling_Saturn_s_south_pole\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Recent observations with the NASA/ESA Hubble Space Telescope have revealed a giant, evolving 10-sided atmospheric wave encircling Saturn’s south pole. This discovery marks the first time a large regular-sided jet pattern has been observed. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The feature appears remarkably similar to Saturn’s famous hexagon at its northern pole, but is also distinctly different, suggesting scientists may be witnessing a new atmospheric. Recent observations with the NASA/ESA Hubble Space Telescope have revealed a giant, evolving 10-sided atmospheric wave encircling Saturn’s south pole.</p><p>This discovery marks the first time a large regular-sided jet pattern has been observed in the planet’s southern hemisphere.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Hubble_tracks_new_decagon_encircling_Saturn_s_south_pole\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>Observações recentes com o Telescópio Espacial Hubble da NASA/ESA revelaram uma onda atmosférica gigante e em evolução de 10 lados que circunda o pólo sul de Saturno. Esta descoberta marca a primeira vez que um grande padrão de jato de lados regulares foi observado. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Observações recentes com o Telescópio Espacial Hubble da NASA/ESA revelaram uma onda atmosférica gigante e em evolução de 10 lados que circunda o pólo sul de Saturno. Ao reunir vários anos de observações do Hubble que remontam a 2023, os investigadores encontraram indícios subtis da estrutura que começava a emergir antes de se tornar um padrão.</p><p>Os resultados foram publicados na revista Science Advances. “Nunca vimos nada assim no hemisfério sul de Saturno”, disse Amy Simon, coautora do estudo e investigadora principal do OPAL, Centro de Voo Espacial Goddard da NASA em Greenbelt.</p><p>Foi nessas imagens, pela primeira vez em 2024, que Agustín e os astrónomos amadores Trevor Barry e Jean-Paul Oger notaram uma banda ondulada subtil ao longo do pólo sul. Imagens adicionais de 2025 tiradas do solo sugeriam ainda mais fortemente essa estrutura decágono.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Hubble_tracks_new_decagon_encircling_Saturn_s_south_pole\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Observações recentes com o Telescópio Espacial Hubble da NASA/ESA revelaram uma onda atmosférica gigante e em evolução de 10 lados que circunda o pólo sul de Saturno. Esta descoberta marca a primeira vez que um grande padrão de jato de lados regulares foi observado. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Observações recentes com o Telescópio Espacial Hubble da NASA/ESA revelaram uma onda atmosférica gigante e em evolução de 10 lados que circunda o pólo sul de Saturno. Ao reunir vários anos de observações do Hubble que remontam a 2023, os investigadores encontraram indícios subtis da estrutura que começava a emergir antes de se tornar um padrão.</p><p>Os resultados foram publicados na revista Science Advances. “Nunca vimos nada assim no hemisfério sul de Saturno”, disse Amy Simon, coautora do estudo e investigadora principal do OPAL, Centro de Voo Espacial Goddard da NASA em Greenbelt.</p><p>Foi nessas imagens, pela primeira vez em 2024, que Agustín e os astrónomos amadores Trevor Barry e Jean-Paul Oger notaram uma banda ondulada subtil ao longo do pólo sul. Imagens adicionais de 2025 tiradas do solo sugeriam ainda mais fortemente essa estrutura decágono.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Hubble_tracks_new_decagon_encircling_Saturn_s_south_pole\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Recent observations with the NASA/ESA Hubble Space Telescope have revealed a giant, evolving 10-sided atmospheric wave encircling Saturn’s south pole. This discovery marks the first time a large regular-sided jet pattern has been observed. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Recent observations with the NASA/ESA Hubble Space Telescope have revealed a giant, evolving 10-sided atmospheric wave encircling Saturn’s south pole. By piecing together several years of Hubble observations dating back to 2023, researchers found subtle hints of the structure beginning to emerge before it became a clearly.</p><p>The results have been published in the journal Science Advances. “We’ve never seen anything quite like this in Saturn’s southern hemisphere,” said Amy Simon, study co-author and OPAL principal investigator, NASA’s Goddard Space Flight Center in.</p><p>It was in those images, first in 2024, that Agustín and amateur astronomers Trevor Barry and Jean-Paul Oger noticed a subtle undulating band along the southern pole. Additional 2025 imagery taken from the ground hinted even more strongly toward this decagon structure.</p><p>Hubble’s vantage from space offers unmatched image sharpness and spatial resolution over full rotations of Saturn, without smearing by Earth’s atmosphere. “Given Saturn’s symmetry in its north-south jet stream system, we have been searching for a counterpart to Saturn’s northern hexagon on the south pole in Hubble images since.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>“Images from the Cassini spacecraft, which orbited Saturn between 2004 and 2017, showed no inkling of a long-lived formation, either. The Hubble data confirmed the feature’s presence back to 2023.” The wave sits within one of Saturn’s powerful jet streams and extends through multiple layers of the atmosphere.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Hubble_tracks_new_decagon_encircling_Saturn_s_south_pole\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Observações recentes com o Telescópio Espacial Hubble da NASA/ESA revelaram uma onda atmosférica gigante e em evolução de 10 lados que circunda o.",
-      "Dado-chave: A estrutura parece notavelmente semelhante ao famoso hexágono de Saturno no seu pólo norte, mas também é distintamente diferente, sugerindo que.",
+      "Dado-chave: Observações recentes com o Telescópio Espacial Hubble da NASA/ESA revelaram uma onda atmosférica gigante e em evolução de 10 lados que circunda.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: Observações recentes com o Telescópio Espacial Hubble da NASA/ESA revelaram uma onda atmosférica gigante e em evolução de 10 lados que circunda o.",
-      "Dado-chave: A estrutura parece notavelmente semelhante ao famoso hexágono de Saturno no seu pólo norte, mas também é distintamente diferente, sugerindo que.",
+      "Dado-chave: Observações recentes com o Telescópio Espacial Hubble da NASA/ESA revelaram uma onda atmosférica gigante e em evolução de 10 lados que circunda.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: Recent observations with the NASA/ESA Hubble Space Telescope have revealed a giant, evolving 10-sided atmospheric wave encircling Saturn’s south.",
-      "Key detail: The feature appears remarkably similar to Saturn’s famous hexagon at its northern pole, but is also distinctly different, suggesting scientists.",
+      "Key detail: Recent observations with the NASA/ESA Hubble Space Telescope have revealed a giant, evolving 10-sided atmospheric wave encircling Saturn’s south.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "02 set 2026",
@@ -3247,7 +3358,7 @@ window.postsData = [
     }
   },
   {
-    "id": 27,
+    "id": 28,
     "slug": "science-release-hubble-tracks-new-decagon-encircling-saturn-s-south-pole",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3383,7 +3494,7 @@ window.postsData = [
     }
   },
   {
-    "id": 28,
+    "id": 29,
     "slug": "summer-goes-out-with-a-heat-dome",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3512,11 +3623,11 @@ window.postsData = [
       "evidence": 88,
       "relevance": 70,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
-    "id": 29,
+    "id": 30,
     "slug": "little-red-dots-are-the-seeds-of-quasars-and-supermassive-black-holes",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -3621,7 +3732,7 @@ window.postsData = [
     }
   },
   {
-    "id": 30,
+    "id": 31,
     "slug": "when-stars-engulf-rocky-planets-beryllium-gives-it-away",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3748,7 +3859,7 @@ window.postsData = [
     }
   },
   {
-    "id": 31,
+    "id": 32,
     "slug": "esa-starts-next-phase-of-iris-evolution-through-low-leo-activities",
     "cat": "Biologia",
     "catCls": "biologia",
@@ -3872,7 +3983,7 @@ window.postsData = [
     }
   },
   {
-    "id": 32,
+    "id": 33,
     "slug": "the-rings-of-chariklo-are-unexpectedly-dynamic-and-changing",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3987,7 +4098,7 @@ window.postsData = [
     }
   },
   {
-    "id": 33,
+    "id": 34,
     "slug": "faster-flowing-glaciers-fuel-decades-of-polar-ice-loss",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4120,7 +4231,7 @@ window.postsData = [
     }
   },
   {
-    "id": 34,
+    "id": 35,
     "slug": "anak-krakatau-rumbles-again",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4253,7 +4364,7 @@ window.postsData = [
     }
   },
   {
-    "id": 35,
+    "id": 36,
     "slug": "peatland-fires-darken-skies-in-indonesia",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4386,7 +4497,7 @@ window.postsData = [
     }
   },
   {
-    "id": 36,
+    "id": 37,
     "slug": "1st-adult-t-rex-trackway-found-by-high-school-teacher",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4501,7 +4612,7 @@ window.postsData = [
     }
   },
   {
-    "id": 37,
+    "id": 38,
     "slug": "equinox-fun-track-the-sun-s-shift-now-until-the-solstice",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4619,7 +4730,7 @@ window.postsData = [
     }
   },
   {
-    "id": 38,
+    "id": 39,
     "slug": "sun-news-a-near-spotless-day-on-our-star",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4737,14 +4848,14 @@ window.postsData = [
     }
   },
   {
-    "id": 39,
+    "id": 40,
     "slug": "nsf-announces-3-additional-topics-as-part-of-the-nsf-x-labs-initiative-to-pursue-generational-br",
     "cat": "Astronomia",
     "catCls": "astronomia",
     "img": "https://nsf-gov-resources.nsf.gov/styles/_inline_image_full_width/s3/media_hub/Generic_Thumbnails_F.jpg?itok=DiiqIkf0",
     "inline_images": [
       {
-        "src": "https://nsf-gov-resources.nsf.gov/styles/news_sidebar_teaser/s3/media/images/DFPod_GraphicForNSFNews_3DThermalCloak_240x160.png?itok=ibWsS1fm",
+        "src": "https://nsf-gov-resources.nsf.gov/styles/news_sidebar_teaser/s3/media_hub/Generic_Thumbnails_G.jpg?itok=CNuVSLK_",
         "caption": "",
         "caption_pt": "",
         "caption_en": "",
@@ -4753,7 +4864,7 @@ window.postsData = [
         "alt_en": ""
       },
       {
-        "src": "https://nsf-gov-resources.nsf.gov/styles/news_sidebar_teaser/s3/media_hub/Generic_Thumbnails_C.jpg?itok=QNton7PO",
+        "src": "https://nsf-gov-resources.nsf.gov/styles/news_sidebar_teaser/s3/media/images/DFPod_GraphicForNSFNews_3DThermalCloak_240x160.png?itok=ibWsS1fm",
         "caption": "",
         "caption_pt": "",
         "caption_en": "",
@@ -4860,121 +4971,6 @@ window.postsData = [
       "evidence": 88,
       "relevance": 74,
       "accessibility": 52,
-      "novelty": 52
-    }
-  },
-  {
-    "id": 40,
-    "slug": "wildfires-near-the-south-pole-burned-90-million-years-ago",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://earthsky.org/upl/2026/09/Antarctic_fire_illus-JamesMcKay-AWI-e1789476502135.jpg",
-    "inline_images": [
-      {
-        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Incêndios florestais perto do Pólo Sul ocorreram há 90 milhões de anos",
-    "title_pt": "Incêndios florestais perto do Pólo Sul ocorreram há 90 milhões de anos",
-    "title_en": "Wildfires near the South Pole burned 90 million years ago",
-    "sub": "Os investigadores encontraram evidências num núcleo de sedimentos na Antártida de que incêndios florestais perto do Pólo Sul eram uma ocorrência regular há cerca de 90 milhões de.",
-    "sub_pt": "Os investigadores encontraram evidências num núcleo de sedimentos na Antártida de que incêndios florestais perto do Pólo Sul eram uma ocorrência regular há cerca de 90 milhões de.",
-    "sub_en": "Researchers have found evidence in a sediment core in Antarctica that wildfires near the South Pole were a regular occurrence some 90 million years ago. The post Wildfires near.",
-    "excerpt": "Os investigadores encontraram evidências num núcleo de sedimentos na Antártida de que incêndios florestais perto do Pólo Sul eram uma ocorrência regular há cerca de 90 milhões de anos. O post Incêndios florestais perto do Pólo Sul queimaram há 90 milhões de.",
-    "excerpt_pt": "Os investigadores encontraram evidências num núcleo de sedimentos na Antártida de que incêndios florestais perto do Pólo Sul eram uma ocorrência regular há cerca de 90 milhões de anos. O post Incêndios florestais perto do Pólo Sul queimaram há 90 milhões de.",
-    "excerpt_en": "Researchers have found evidence in a sediment core in Antarctica that wildfires near the South Pole were a regular occurrence some 90 million years ago. The post Wildfires near the South Pole burned 90 million years ago first appeared on.",
-    "body": "<p>Os investigadores encontraram evidências num núcleo de sedimentos na Antártida de que incêndios florestais perto do Pólo Sul eram uma ocorrência regular há cerca de 90 milhões de anos. O post Incêndios florestais perto do Pólo Sul queimaram há 90 milhões de anos apareceu pela. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O post Incêndios florestais perto do Pólo Sul ocorreram há 90 milhões de anos e apareceu pela primeira vez no EarthSky. E em 7 de setembro de 2026, pesquisadores do Instituto Alfred Wegener em Bremerhaven, Alemanha, disseram que incêndios florestais aconteciam aqui regularmente.</p><p>Os pesquisadores publicaram seu artigo revisado por pares na revista Communications Earth and Environment em 7 de setembro de 2026. O Pólo Sul já foi uma floresta tropical Em 2020, pesquisadores do Instituto Alfred Wegener (AWI) disseram ter encontrado evidências de que uma vez existiu uma floresta tropical no.</p><p>O coautor Johann Klages da AWI disse: Em um núcleo de sedimentos do Mar de Amundsen, na Antártida Ocidental, encontramos um solo florestal extremamente bem preservado que data de.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/earth/wildfires-near-the-south-pole-90-million-years-ago/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Os investigadores encontraram evidências num núcleo de sedimentos na Antártida de que incêndios florestais perto do Pólo Sul eram uma ocorrência regular há cerca de 90 milhões de anos. O post Incêndios florestais perto do Pólo Sul queimaram há 90 milhões de anos apareceu pela. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O post Incêndios florestais perto do Pólo Sul ocorreram há 90 milhões de anos e apareceu pela primeira vez no EarthSky. E em 7 de setembro de 2026, pesquisadores do Instituto Alfred Wegener em Bremerhaven, Alemanha, disseram que incêndios florestais aconteciam aqui regularmente.</p><p>Os pesquisadores publicaram seu artigo revisado por pares na revista Communications Earth and Environment em 7 de setembro de 2026. O Pólo Sul já foi uma floresta tropical Em 2020, pesquisadores do Instituto Alfred Wegener (AWI) disseram ter encontrado evidências de que uma vez existiu uma floresta tropical no.</p><p>O coautor Johann Klages da AWI disse: Em um núcleo de sedimentos do Mar de Amundsen, na Antártida Ocidental, encontramos um solo florestal extremamente bem preservado que data de.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/earth/wildfires-near-the-south-pole-90-million-years-ago/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Found evidence in a sediment core in Antarctica that wildfires near the South Pole were a regular occurrence some 90 million years ago. The post Wildfires near the South Pole burned 90 million years ago first appeared on. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Found evidence in a sediment core in Antarctica that wildfires near the South Pole were a regular occurrence some 90 million years ago. The post Wildfires near the South Pole burned 90 million years ago first appeared on EarthSky.</p><p>And on September 7, 2026, researchers with the Alfred Wegener Institute in Bremerhaven, Germany, said wildfires happened here regularly. The researchers published their peer-reviewed paper in the journal Communications Earth and Environment on September 7, 2026.</p><p>The South Pole was once a rainforest Back in 2020, researchers with the Alfred Wegener Institute (AWI) said they found evidence that a rainforest once existed in what is now. Co-author Johann Klages of AWI said: In a sediment core from the Amundsen Sea in West Antarctica, we found an extremely well-preserved forest soil dating back around 90 million.</p><p>During the Cretaceous, tectonic conditions meant that this temperate rainforest lay even farther south, just 900 kilometers from the South Pole. Today, average annual temperatures at this location are around -30 Celsius and everything is covered by an ice sheet several kilometers thick.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Our discovery showed that during the warmest period of the Cretaceous, when atmospheric CO2 levels were four to six times higher than today, a relatively warm and humid climate. Their analysis showed the charcoal was mostly coming from soft conifer wood burning at low temperatures.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/earth/wildfires-near-the-south-pole-90-million-years-ago/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Os investigadores encontraram evidências num núcleo de sedimentos na Antártida de que incêndios florestais perto do Pólo Sul eram uma ocorrência.",
-      "Dado-chave: Os investigadores encontraram evidências num núcleo de sedimentos na Antártida de que incêndios florestais perto do Pólo Sul eram uma ocorrência.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Os investigadores encontraram evidências num núcleo de sedimentos na Antártida de que incêndios florestais perto do Pólo Sul eram uma ocorrência.",
-      "Dado-chave: Os investigadores encontraram evidências num núcleo de sedimentos na Antártida de que incêndios florestais perto do Pólo Sul eram uma ocorrência.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Researchers have found evidence in a sediment core in Antarctica that wildfires near the South Pole were a regular occurrence some 90 million years.",
-      "Key detail: Researchers have found evidence in a sediment core in Antarctica that wildfires near the South Pole were a regular occurrence some 90 million.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "16 set 2026",
-    "date_pt": "16 set 2026",
-    "date_en": "16 Sep 2026",
-    "time": "11h37",
-    "time_pt": "11h37",
-    "time_en": "11:37 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-09-16T11:37:20+00:00",
-    "lastModifiedIso": "2026-09-16T11:37:20+00:00",
-    "source": "EarthSky",
-    "sourceDomain": "earthsky.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "EarthSky",
-      "Cosmos Week",
-      "Incêndios florestais perto do Pólo Sul ocorreram há 90 milhões de anos"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "EarthSky",
-      "Cosmos Week",
-      "Incêndios florestais perto do Pólo Sul ocorreram há 90 milhões de anos"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "EarthSky",
-      "Cosmos Week",
-      "Forest fires near the South Pole occurred 90 million years ago"
-    ],
-    "srcUrl": "https://earthsky.org/earth/wildfires-near-the-south-pole-90-million-years-ago/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=wildfires-near-the-south-pole-burned-90-million-years-ago",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=wildfires-near-the-south-pole-burned-90-million-years-ago",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=wildfires-near-the-south-pole-burned-90-million-years-ago&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 72,
-    "scoreBreakdown": {
-      "source": 72,
-      "evidence": 82,
-      "relevance": 80,
-      "accessibility": 60,
       "novelty": 52
     }
   }

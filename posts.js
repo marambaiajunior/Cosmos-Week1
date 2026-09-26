@@ -40,14 +40,14 @@ window.postsData = [
     "date": "26 set 2026",
     "date_pt": "26 set 2026",
     "date_en": "26 Sep 2026",
-    "time": "12h24",
-    "time_pt": "12h24",
-    "time_en": "12:24 UTC",
+    "time": "16h43",
+    "time_pt": "16h43",
+    "time_en": "16:43 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-09-26T12:24:54.046934+00:00",
-    "lastModifiedIso": "2026-09-26T12:24:54.046934+00:00",
+    "publishedIso": "2026-09-26T16:43:15.129382+00:00",
+    "lastModifiedIso": "2026-09-26T16:43:15.129382+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -148,14 +148,14 @@ window.postsData = [
     "date": "26 set 2026",
     "date_pt": "26 set 2026",
     "date_en": "26 Sep 2026",
-    "time": "12h24",
-    "time_pt": "12h24",
-    "time_en": "12:24 UTC",
+    "time": "16h43",
+    "time_pt": "16h43",
+    "time_en": "16:43 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-09-26T12:24:54.046887+00:00",
-    "lastModifiedIso": "2026-09-26T12:24:54.046887+00:00",
+    "publishedIso": "2026-09-26T16:43:15.129333+00:00",
+    "lastModifiedIso": "2026-09-26T16:43:15.129333+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -262,14 +262,14 @@ window.postsData = [
     "date": "26 set 2026",
     "date_pt": "26 set 2026",
     "date_en": "26 Sep 2026",
-    "time": "12h24",
-    "time_pt": "12h24",
-    "time_en": "12:24 UTC",
+    "time": "16h43",
+    "time_pt": "16h43",
+    "time_en": "16:43 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-09-26T12:24:54.046836+00:00",
-    "lastModifiedIso": "2026-09-26T12:24:54.046836+00:00",
+    "publishedIso": "2026-09-26T16:43:15.129280+00:00",
+    "lastModifiedIso": "2026-09-26T16:43:15.129280+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -367,14 +367,14 @@ window.postsData = [
     "date": "26 set 2026",
     "date_pt": "26 set 2026",
     "date_en": "26 Sep 2026",
-    "time": "12h24",
-    "time_pt": "12h24",
-    "time_en": "12:24 UTC",
+    "time": "16h43",
+    "time_pt": "16h43",
+    "time_en": "16:43 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-09-26T12:24:54.046776+00:00",
-    "lastModifiedIso": "2026-09-26T12:24:54.046776+00:00",
+    "publishedIso": "2026-09-26T16:43:15.129196+00:00",
+    "lastModifiedIso": "2026-09-26T16:43:15.129196+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -472,14 +472,14 @@ window.postsData = [
     "date": "26 set 2026",
     "date_pt": "26 set 2026",
     "date_en": "26 Sep 2026",
-    "time": "12h24",
-    "time_pt": "12h24",
-    "time_en": "12:24 UTC",
+    "time": "16h43",
+    "time_pt": "16h43",
+    "time_en": "16:43 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-09-26T12:24:54.046728+00:00",
-    "lastModifiedIso": "2026-09-26T12:24:54.046728+00:00",
+    "publishedIso": "2026-09-26T16:43:15.129149+00:00",
+    "lastModifiedIso": "2026-09-26T16:43:15.129149+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -540,6 +540,139 @@ window.postsData = [
   },
   {
     "id": 6,
+    "slug": "a-real-time-look-inside-spacecraft-heat-shields-during-extreme-heat-conditions",
+    "cat": "Física",
+    "catCls": "fisica",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-large-circular-heat.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-large-circular-heat.jpg",
+        "caption": "Um grande escudo térmico circular com um padrão de ladrilhos que mostra marcas escuras de queimadura no centro, montado em uma estrutura de metal em um laboratório.",
+        "caption_pt": "Um grande escudo térmico circular com um padrão de ladrilhos que mostra marcas escuras de queimadura no centro, montado em uma estrutura de metal em um laboratório.",
+        "caption_en": "A large circular heat shield with a tiled pattern that shows dark burn marks from the center, mounted on a metal frame in a lab.",
+        "alt": "Um grande escudo térmico circular com um padrão de ladrilhos que mostra marcas escuras de queimadura no centro, montado em uma estrutura de metal em um laboratório.",
+        "alt_pt": "Um grande escudo térmico circular com um padrão de ladrilhos que mostra marcas escuras de queimadura no centro, montado em uma estrutura de metal em um laboratório.",
+        "alt_en": "A large circular heat shield with a tiled pattern that shows dark burn marks from the center, mounted on a metal frame in a lab."
+      },
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-cylindrical-object-s.jpg",
+        "caption": "Um objeto cilíndrico cercado por material branco pairando ao seu redor e viajando em direção a uma superfície gigante e vermelha do planeta.",
+        "caption_pt": "Um objeto cilíndrico cercado por material branco pairando ao seu redor e viajando em direção a uma superfície gigante e vermelha do planeta.",
+        "caption_en": "A cylindrical object surrounded by white material hovering around it and is traveling towards a giant, red, planet surface.",
+        "alt": "Um objeto cilíndrico cercado por material branco pairando ao seu redor e viajando em direção a uma superfície gigante e vermelha do planeta.",
+        "alt_pt": "Um objeto cilíndrico cercado por material branco pairando ao seu redor e viajando em direção a uma superfície gigante e vermelha do planeta.",
+        "alt_en": "A cylindrical object surrounded by white material hovering around it and is traveling towards a giant, red, planet surface."
+      },
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-person-leaning-over.jpg",
+        "caption": "Uma pessoa inclinando-se e examinando um grande escudo redondo com azulejos.",
+        "caption_pt": "Uma pessoa inclinando-se e examinando um grande escudo redondo com azulejos.",
+        "caption_en": "A person leaning over and examining a large round shield with tiles on it.",
+        "alt": "Uma pessoa inclinando-se e examinando um grande escudo redondo com azulejos.",
+        "alt_pt": "Uma pessoa inclinando-se e examinando um grande escudo redondo com azulejos.",
+        "alt_en": "A person leaning over and examining a large round shield with tiles on it."
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Uma visão em tempo real do interior dos escudos térmicos de naves espaciais durante condições de calor extremo",
+    "title_pt": "Uma visão em tempo real do interior dos escudos térmicos de naves espaciais durante condições de calor extremo",
+    "title_en": "A real-time look inside spacecraft heat shields during extreme heat conditions",
+    "sub": "Quando uma nave espacial reentra na atmosfera da Terra a velocidades hipersónicas, o seu escudo térmico protector enfrenta condições extremas, incluindo temperaturas superiores a.",
+    "sub_pt": "Quando uma nave espacial reentra na atmosfera da Terra a velocidades hipersónicas, o seu escudo térmico protector enfrenta condições extremas, incluindo temperaturas superiores a.",
+    "sub_en": "When a spacecraft reenters Earth's atmosphere at hypersonic velocities, its protective heat shield faces extreme conditions, including temperatures beyond 3,000 degrees.",
+    "excerpt": "Quando uma nave espacial reentra na atmosfera da Terra a velocidades hipersónicas, o seu escudo térmico protector enfrenta condições extremas, incluindo temperaturas superiores a 3.000 graus Fahrenheit. Para sobreviver, o escudo depende de materiais.",
+    "excerpt_pt": "Quando uma nave espacial reentra na atmosfera da Terra a velocidades hipersónicas, o seu escudo térmico protector enfrenta condições extremas, incluindo temperaturas superiores a 3.000 graus Fahrenheit. Para sobreviver, o escudo depende de materiais.",
+    "excerpt_en": "When a spacecraft reenters Earth's atmosphere at hypersonic velocities, its protective heat shield faces extreme conditions, including temperatures beyond 3,000 degrees Fahrenheit. To survive, the shield relies on specialized materials.",
+    "body": "<p>Quando uma nave espacial reentra na atmosfera da Terra a velocidades hipersónicas, o seu escudo térmico protector enfrenta condições extremas, incluindo temperaturas superiores a 3.000 graus Fahrenheit. Para sobreviver, o escudo depende de materiais especializados. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Por Gianna FazioLiu, Laboratório Nacional Lawrence Berkeley Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferencial Um escudo térmico removido da espaçonave.</p><p>NASA Quando uma nave espacial reentra na atmosfera da Terra a velocidades hipersónicas, o seu escudo térmico protector enfrenta condições extremas, incluindo temperaturas. As descobertas de um estudo recente realizado em parte no ALS oferecem imagens 3D detalhadas e com lapso de tempo desse processo, melhorando a forma como os engenheiros modelam e.</p><p>Os pesquisadores estudaram dois abladores comerciais, SLA-220 e SLA-561V, que são usados ​​em diferentes partes das conchas traseiras de espaçonaves e têm composições diferentes.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-09-real-spacecraft-shields-extreme-conditions.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Quando uma nave espacial reentra na atmosfera da Terra a velocidades hipersónicas, o seu escudo térmico protector enfrenta condições extremas, incluindo temperaturas superiores a 3.000 graus Fahrenheit. Para sobreviver, o escudo depende de materiais especializados. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Por Gianna FazioLiu, Laboratório Nacional Lawrence Berkeley Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferencial Um escudo térmico removido da espaçonave.</p><p>NASA Quando uma nave espacial reentra na atmosfera da Terra a velocidades hipersónicas, o seu escudo térmico protector enfrenta condições extremas, incluindo temperaturas. As descobertas de um estudo recente realizado em parte no ALS oferecem imagens 3D detalhadas e com lapso de tempo desse processo, melhorando a forma como os engenheiros modelam e.</p><p>Os pesquisadores estudaram dois abladores comerciais, SLA-220 e SLA-561V, que são usados ​​em diferentes partes das conchas traseiras de espaçonaves e têm composições diferentes.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-09-real-spacecraft-shields-extreme-conditions.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>When a spacecraft reenters Earth&#x27;s atmosphere at hypersonic velocities, its protective heat shield faces extreme conditions, including temperatures beyond 3,000 degrees Fahrenheit. To survive, the shield relies on specialized materials. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. When a spacecraft reenters Earth&#x27;s atmosphere at hypersonic velocities, its protective heat shield faces extreme conditions, including temperatures beyond 3,000 degrees Fahrenheit. By Gianna FazioLiu, Lawrence Berkeley National Laboratory This article has been reviewed according to Science X&#x27;s editorial process and policies.</p><p>Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source A heat shield removed from NASA&#x27;s Orion spacecraft and. NASA When a spacecraft reenters Earth&#x27;s atmosphere at hypersonic velocities, its protective heat shield faces extreme conditions, including temperatures beyond 3,000 degrees.</p><p>Findings from a recent study carried out in part at the ALS offer detailed, time-lapse 3D images of this process, improving how engineers model and design thermal protection. The researchers studied two commercial ablators, SLA-220 and SLA-561V, which are used in different parts of spacecraft backshells and have different compositions.</p><p>After the first Artemis mission, where heat shields didn&#x27;t perform as NASA expected from computational methods, they used the ALS to examine materials from these shields to better. The high-intensity broad-spectrum flux from the light source allowed the team to quickly capture large-volume, lower-resolution scans at short intervals to track fast-moving.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>SLA-561V contains cork, the same natural material used in wine bottle stoppers, as a structural filler. SLA-220 contains no such organic filler.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-09-real-spacecraft-shields-extreme-conditions.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Quando uma nave espacial reentra na atmosfera da Terra a velocidades hipersónicas, o seu escudo térmico protector enfrenta condições extremas.",
+      "Dado-chave: Quando uma nave espacial reentra na atmosfera da Terra a velocidades hipersónicas, o seu escudo térmico protector enfrenta condições extremas.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Quando uma nave espacial reentra na atmosfera da Terra a velocidades hipersónicas, o seu escudo térmico protector enfrenta condições extremas.",
+      "Dado-chave: Quando uma nave espacial reentra na atmosfera da Terra a velocidades hipersónicas, o seu escudo térmico protector enfrenta condições extremas.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: When a spacecraft reenters Earth's atmosphere at hypersonic velocities, its protective heat shield faces extreme conditions, including temperatures.",
+      "Key detail: When a spacecraft reenters Earth's atmosphere at hypersonic velocities, its protective heat shield faces extreme conditions, including.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "26 set 2026",
+    "date_pt": "26 set 2026",
+    "date_en": "26 Sep 2026",
+    "time": "16h00",
+    "time_pt": "16h00",
+    "time_en": "16:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-09-26T16:00:01+00:00",
+    "lastModifiedIso": "2026-09-26T16:00:01+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Física",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Uma visão em tempo real do interior dos escudos térmicos de naves espaciais durante condições de calor extremo"
+    ],
+    "keywords_pt": [
+      "Física",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Uma visão em tempo real do interior dos escudos térmicos de naves espaciais durante condições de calor extremo"
+    ],
+    "keywords_en": [
+      "Physical",
+      "Phys.org Space",
+      "Cosmos Week",
+      "A real-time look inside spacecraft heat shields during extreme heat conditions"
+    ],
+    "srcUrl": "https://phys.org/news/2026-09-real-spacecraft-shields-extreme-conditions.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=a-real-time-look-inside-spacecraft-heat-shields-during-extreme-heat-conditions",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=a-real-time-look-inside-spacecraft-heat-shields-during-extreme-heat-conditions",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=a-real-time-look-inside-spacecraft-heat-shields-during-extreme-heat-conditions&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 74,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 82,
+      "relevance": 82,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
     "slug": "sun-news-fast-solar-wind-still-stirring-earth-s-magnetic-field",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -643,7 +776,7 @@ window.postsData = [
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -657,7 +790,7 @@ window.postsData = [
     }
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "nasa-boeing-to-provide-update-on-starliner-development",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -758,11 +891,11 @@ window.postsData = [
       "evidence": 82,
       "relevance": 88,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "nasa-welcomes-san-marino-signing-the-artemis-accords",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -866,11 +999,11 @@ window.postsData = [
       "evidence": 82,
       "relevance": 70,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -999,140 +1132,7 @@ window.postsData = [
       "evidence": 82,
       "relevance": 70,
       "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 10,
-    "slug": "an-overlooked-era-of-cosmology-is-stealing-the-show-in-the-quest-to-understand-the-cosmos",
-    "cat": "Cosmologia",
-    "catCls": "cosmologia",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-telescope-on-a-mount.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-telescope-on-a-mount.jpg",
-        "caption": "Um telescópio no topo de uma montanha colocado em uma caixa com dois discos de antena",
-        "caption_pt": "Um telescópio no topo de uma montanha colocado em uma caixa com dois discos de antena",
-        "caption_en": "A telescope on a mountaintop set in a box with two antenna disks",
-        "alt": "Um telescópio no topo de uma montanha colocado em uma caixa com dois discos de antena",
-        "alt_pt": "Um telescópio no topo de uma montanha colocado em uma caixa com dois discos de antena",
-        "alt_en": "A telescope on a mountaintop set in a box with two antenna disks"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/58445787ab38cfb6.png",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/b3013a0f7fc5c4a0.png",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Uma era esquecida da cosmologia está roubando a cena na busca pela compreensão do cosmos",
-    "title_pt": "Uma era esquecida da cosmologia está roubando a cena na busca pela compreensão do cosmos",
-    "title_en": "An overlooked era of cosmology is stealing the show in the quest to understand the cosmos",
-    "sub": "Você poderia imaginar se os pagers voltassem? Claro, seu smartphone ainda seria seu bloco de notas-lanterna-câmera-assistente pessoal-leitor de MP3-carteira-navegador de mídia.",
-    "sub_pt": "Você poderia imaginar se os pagers voltassem? Claro, seu smartphone ainda seria seu bloco de notas-lanterna-câmera-assistente pessoal-leitor de MP3-carteira-navegador de mídia.",
-    "sub_en": "Could you imagine if pagers made a comeback? Sure, your smartphone would still be your notepad-flashlight-camera-personal assistant-MP3 player-wallet-social media browser. But.",
-    "excerpt": "Você poderia imaginar se os pagers voltassem? Claro, seu smartphone ainda seria seu bloco de notas-lanterna-câmera-assistente pessoal-leitor de MP3-carteira-navegador de mídia social. Mas imagine se os pagers tornassem tão fácil fazer isso.",
-    "excerpt_pt": "Você poderia imaginar se os pagers voltassem? Claro, seu smartphone ainda seria seu bloco de notas-lanterna-câmera-assistente pessoal-leitor de MP3-carteira-navegador de mídia social. Mas imagine se os pagers tornassem tão fácil fazer isso.",
-    "excerpt_en": "Could you imagine if pagers made a comeback? Sure, your smartphone would still be your notepad-flashlight-camera-personal assistant-MP3 player-wallet-social media browser. But imagine if pagers made it so easy to do that one important.",
-    "body": "<p>Você poderia imaginar se os pagers voltassem? Claro, seu smartphone ainda seria seu bloco de notas-lanterna-câmera-assistente pessoal-leitor de MP3-carteira-navegador de mídia social. Mas imagine se os pagers tornassem tão fácil fazer isso. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Os editores destacaram os seguintes atributos, garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial NASA &quot;&gt; O Grande Telescópio Binocular foi usado para fazer. Vi em primeira mão como os resultados recentes desta antiga época cosmológica podem orientar novas pesquisas sobre o nosso universo.</p><p>Vista da Terra, cada mancha quente ou fria é pequena o suficiente para ser bloqueada pela Lua. O universo começou com um estrondo, o Big Bang, e cerca de 10 minutos depois, começou o maior jogo de cadeiras musicais da história.</p><p>Mais um próton ou nêutron finalmente formou o hélio-4, que tem um núcleo notavelmente estável com dois prótons e dois nêutrons. Os nêutrons são instáveis ​​quando não estão ligados aos núcleos, cuspindo espontaneamente partículas mais leves em cerca de 15 minutos para se tornarem o próton ligeiramente mais.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-09-overlooked-era-cosmology-quest-cosmos.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Você poderia imaginar se os pagers voltassem? Claro, seu smartphone ainda seria seu bloco de notas-lanterna-câmera-assistente pessoal-leitor de MP3-carteira-navegador de mídia social. Mas imagine se os pagers tornassem tão fácil fazer isso. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. Os editores destacaram os seguintes atributos, garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial NASA &quot;&gt; O Grande Telescópio Binocular foi usado para fazer. Vi em primeira mão como os resultados recentes desta antiga época cosmológica podem orientar novas pesquisas sobre o nosso universo.</p><p>Vista da Terra, cada mancha quente ou fria é pequena o suficiente para ser bloqueada pela Lua. O universo começou com um estrondo, o Big Bang, e cerca de 10 minutos depois, começou o maior jogo de cadeiras musicais da história.</p><p>Mais um próton ou nêutron finalmente formou o hélio-4, que tem um núcleo notavelmente estável com dois prótons e dois nêutrons. Os nêutrons são instáveis ​​quando não estão ligados aos núcleos, cuspindo espontaneamente partículas mais leves em cerca de 15 minutos para se tornarem o próton ligeiramente mais.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-09-overlooked-era-cosmology-quest-cosmos.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Could you imagine if pagers made a comeback? Sure, your smartphone would still be your notepad-flashlight-camera-personal assistant-MP3 player-wallet-social media browser. But imagine if pagers made it so easy to do that one important. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source NASA &quot;&gt; The Large Binocular Telescope was used to take the new. I have seen firsthand how recent results from this old cosmological epoch can guide new research about our universe.</p><p>Viewed from Earth, each hot or cold patch is small enough for the moon to block out. The universe started with a bang, the Big Bang, and about 10 minutes later, the largest game of musical chairs in history began.</p><p>One more proton or neutron each finally made helium-4, which has a remarkably stable nucleus with two protons and two neutrons. Neutrons are unstable when they&#x27;re not bound in nuclei, spontaneously spitting out lighter particles in about 15 minutes to become the slightly lighter proton.</p><p>Astrophysicists can actually measure the quantities of helium-4 and deuterium that formed by the time it ended, referred to as primordial abundances. But a new measurement of the primordial helium-4 abundance, published in September 2026, has reached stunning precision, providing information about the universe during BBN at a.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. Just a few seconds after the Big Bang, neutrons could absorb lighter particles and become protons, setting the stage for Big Bang nucleosynthesis in processes distinct from the.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-09-overlooked-era-cosmology-quest-cosmos.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Você poderia imaginar se os pagers voltassem? Claro, seu smartphone ainda seria seu bloco de notas-lanterna-câmera-assistente pessoal-leitor de.",
-      "Dado-chave: Os editores destacaram os seguintes atributos, garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial NASA \"> O Grande.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Você poderia imaginar se os pagers voltassem? Claro, seu smartphone ainda seria seu bloco de notas-lanterna-câmera-assistente pessoal-leitor de.",
-      "Dado-chave: Os editores destacaram os seguintes atributos, garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial NASA \"> O Grande.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Could you imagine if pagers made a comeback? Sure, your smartphone would still be your notepad-flashlight-camera-personal assistant-MP3.",
-      "Key detail: Editors have highlighted the following attributes while ensuring the content's credibility: Add as preferred source NASA \"> The Large Binocular.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "25 set 2026",
-    "date_pt": "25 set 2026",
-    "date_en": "25 Sep 2026",
-    "time": "19h20",
-    "time_pt": "19h20",
-    "time_en": "19:20 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-09-25T19:20:01+00:00",
-    "lastModifiedIso": "2026-09-25T19:20:01+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "watch",
-    "editorialBandLabel": "Leitura monitorada",
-    "editorialBandLabel_pt": "Leitura monitorada",
-    "editorialBandLabel_en": "Watchlist",
-    "keywords": [
-      "Cosmologia",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Uma era esquecida da cosmologia está roubando a cena na busca pela compreensão do cosmos"
-    ],
-    "keywords_pt": [
-      "Cosmologia",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Uma era esquecida da cosmologia está roubando a cena na busca pela compreensão do cosmos"
-    ],
-    "keywords_en": [
-      "Cosmology",
-      "Phys.org Space",
-      "Cosmos Week",
-      "A forgotten era of cosmology is stealing the spotlight in the quest to understand the cosmos"
-    ],
-    "srcUrl": "https://phys.org/news/2026-09-overlooked-era-cosmology-quest-cosmos.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=an-overlooked-era-of-cosmology-is-stealing-the-show-in-the-quest-to-understand-the-cosmos",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=an-overlooked-era-of-cosmology-is-stealing-the-show-in-the-quest-to-understand-the-cosmos",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=an-overlooked-era-of-cosmology-is-stealing-the-show-in-the-quest-to-understand-the-cosmos&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 66,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 82,
-      "relevance": 56,
-      "accessibility": 52,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
@@ -1247,11 +1247,147 @@ window.postsData = [
       "evidence": 88,
       "relevance": 88,
       "accessibility": 60,
-      "novelty": 52
+      "novelty": 49
     }
   },
   {
     "id": 12,
+    "slug": "science-release-hubble-identifies-one-of-darkest-known-galaxies",
+    "cat": "Cosmologia",
+    "catCls": "cosmologia",
+    "img": "https://cdn.esahubble.org/archives/images/screen/heic2605a.jpg",
+    "inline_images": [
+      {
+        "src": "https://cdn.esahubble.org/archives/images/newsfeature/heic2605a.jpg",
+        "caption": "Campo galáctico da galáxia de baixo brilho superficial CDG-2",
+        "caption_pt": "Campo galáctico da galáxia de baixo brilho superficial CDG-2",
+        "caption_en": "Galaxy field of low-surface-brightness galaxy CDG-2",
+        "alt": "Campo galáctico da galáxia de baixo brilho superficial CDG-2",
+        "alt_pt": "Campo galáctico da galáxia de baixo brilho superficial CDG-2",
+        "alt_en": "Galaxy field of low-surface-brightness galaxy CDG-2"
+      },
+      {
+        "src": "https://cdn.esahubble.org/archives/images/news/heic2605a.jpg",
+        "caption": "Campo galáctico da galáxia de baixo brilho superficial CDG-2",
+        "caption_pt": "Campo galáctico da galáxia de baixo brilho superficial CDG-2",
+        "caption_en": "Galaxy field of low-surface-brightness galaxy CDG-2",
+        "alt": "Campo galáctico da galáxia de baixo brilho superficial CDG-2",
+        "alt_pt": "Campo galáctico da galáxia de baixo brilho superficial CDG-2",
+        "alt_en": "Galaxy field of low-surface-brightness galaxy CDG-2"
+      },
+      {
+        "src": "https://cdn.esahubble.org/archives/images/news/heic2605b.jpg",
+        "caption": "Galáxia escura CDG-2 perto do aglomerado de Perseu (anotado)",
+        "caption_pt": "Galáxia escura CDG-2 perto do aglomerado de Perseu (anotado)",
+        "caption_en": "Dark galaxy CDG-2 near Perseus Cluster (annotated)",
+        "alt": "Galáxia escura CDG-2 perto do aglomerado de Perseu (anotado)",
+        "alt_pt": "Galáxia escura CDG-2 perto do aglomerado de Perseu (anotado)",
+        "alt_en": "Dark galaxy CDG-2 near Perseus Cluster (annotated)"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Lançamento científico: Hubble identifica uma das galáxias mais escuras conhecidas",
+    "title_pt": "Lançamento científico: Hubble identifica uma das galáxias mais escuras conhecidas",
+    "title_en": "Science Release: Hubble identifies one of darkest known galaxies",
+    "sub": "A maioria das galáxias no Universo próximo são bastante luminosas, mas algumas são tão ténues que são quase invisíveis. Os astrónomos, usando o Telescópio Espacial Hubble da.",
+    "sub_pt": "A maioria das galáxias no Universo próximo são bastante luminosas, mas algumas são tão ténues que são quase invisíveis. Os astrónomos, usando o Telescópio Espacial Hubble da.",
+    "sub_en": "Most galaxies in the nearby Universe are quite luminous, but some are so faint they’re nearly invisible. Astronomers, using the NASA/ESA Hubble Space Telescope in combination with.",
+    "excerpt": "A maioria das galáxias no Universo próximo são bastante luminosas, mas algumas são tão ténues que são quase invisíveis. Os astrónomos, usando o Telescópio Espacial Hubble da NASA/ESA em combinação com outros observatórios, identificaram uma galáxia que parece.",
+    "excerpt_pt": "A maioria das galáxias no Universo próximo são bastante luminosas, mas algumas são tão ténues que são quase invisíveis. Os astrónomos, usando o Telescópio Espacial Hubble da NASA/ESA em combinação com outros observatórios, identificaram uma galáxia que parece.",
+    "excerpt_en": "Most galaxies in the nearby Universe are quite luminous, but some are so faint they’re nearly invisible. Astronomers, using the NASA/ESA Hubble Space Telescope in combination with other observatories, identified a galaxy that appears to be.",
+    "body": "<p>A maioria das galáxias no Universo próximo são bastante luminosas, mas algumas são tão ténues que são quase invisíveis. Os astrónomos, usando o Telescópio Espacial Hubble da NASA/ESA em combinação com outros observatórios, identificaram uma galáxia que parece ser. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. A galáxia, conhecida como Candidate Dark Galaxy-2 (CDG-2), parece conter apenas quatro aglomerados de estrelas globulares (em comparação com os mais de 150 da Via Láctea). Os astrónomos, usando o Telescópio Espacial Hubble da NASA/ESA em combinação com outros observatórios, identificaram uma galáxia que parece ser quase inteiramente dominada por.</p><p>A galáxia, conhecida como Candidate Dark Galaxy-2 (CDG-2), parece conter apenas quatro aglomerados de estrelas globulares (em comparação com os mais de 150 da Via Láctea) e brilha. Um desses objetos indescritíveis, apelidado de CDG-2, pode estar entre as galáxias mais dominadas pela matéria escura já descobertas.</p><p>O artigo científico que detalha esta descoberta foi publicado no The Astrophysical Journal Letters. Utilizando técnicas estatísticas avançadas, David Li, da Universidade de Toronto, Canadá, e a sua equipa identificaram 10 galáxias previamente confirmadas com baixo brilho.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2605/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A maioria das galáxias no Universo próximo são bastante luminosas, mas algumas são tão ténues que são quase invisíveis. Os astrónomos, usando o Telescópio Espacial Hubble da NASA/ESA em combinação com outros observatórios, identificaram uma galáxia que parece ser. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. A galáxia, conhecida como Candidate Dark Galaxy-2 (CDG-2), parece conter apenas quatro aglomerados de estrelas globulares (em comparação com os mais de 150 da Via Láctea). Os astrónomos, usando o Telescópio Espacial Hubble da NASA/ESA em combinação com outros observatórios, identificaram uma galáxia que parece ser quase inteiramente dominada por.</p><p>A galáxia, conhecida como Candidate Dark Galaxy-2 (CDG-2), parece conter apenas quatro aglomerados de estrelas globulares (em comparação com os mais de 150 da Via Láctea) e brilha. Um desses objetos indescritíveis, apelidado de CDG-2, pode estar entre as galáxias mais dominadas pela matéria escura já descobertas.</p><p>O artigo científico que detalha esta descoberta foi publicado no The Astrophysical Journal Letters. Utilizando técnicas estatísticas avançadas, David Li, da Universidade de Toronto, Canadá, e a sua equipa identificaram 10 galáxias previamente confirmadas com baixo brilho.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2605/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Most galaxies in the nearby Universe are quite luminous, but some are so faint they’re nearly invisible. Astronomers, using the NASA/ESA Hubble Space Telescope in combination with other observatories, identified a galaxy that appears to be. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. The galaxy, known as Candidate Dark Galaxy-2 (CDG-2), appears to contain just four globular star clusters (compared to the Milky Way’s 150-plus). Astronomers, using the NASA/ESA Hubble Space Telescope in combination with other observatories, identified a galaxy that appears to be almost entirely dominated by dark matter.</p><p>The galaxy, known as Candidate Dark Galaxy-2 (CDG-2), appears to contain just four globular star clusters (compared to the Milky Way’s 150-plus), and dimly shines with the light. One such elusive object, dubbed CDG-2, may be among the most heavily dark matter-dominated galaxies ever discovered.</p><p>The science paper detailing this finding was published in The Astrophysical Journal Letters. Using advanced statistical techniques, David Li of the University of Toronto, Canada, and his team identified 10 previously confirmed low-surface-brightness galaxies and two.</p><p>To confirm one of the dark galaxy candidates, astronomers employed a trio of observatories: the Hubble Space Telescope, ESA’s Euclid space observatory, and the ground-based Subaru. Hubble’s high-resolution imaging revealed a close collection of four globular clusters in the Perseus galaxy cluster, 300 million light-years away.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>Follow-up studies using Hubble, Euclid, and Subaru data then revealed a faint, diffuse glow surrounding the star clusters, strong evidence of an underlying galaxy. “Under conservative assumptions, the four clusters represent the entire globular cluster population of CDG-2.” Preliminary analysis suggests CDG-2 has the luminosity of roughly 1.</p><p>Because the account originates with ESA Hubble News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2605/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: A maioria das galáxias no Universo próximo são bastante luminosas, mas algumas são tão ténues que são quase invisíveis. Os astrónomos, usando o.",
+      "Dado-chave: A galáxia, conhecida como Candidate Dark Galaxy-2 (CDG-2), parece conter apenas quatro aglomerados de estrelas globulares (em comparação com os.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: A maioria das galáxias no Universo próximo são bastante luminosas, mas algumas são tão ténues que são quase invisíveis. Os astrónomos, usando o.",
+      "Dado-chave: A galáxia, conhecida como Candidate Dark Galaxy-2 (CDG-2), parece conter apenas quatro aglomerados de estrelas globulares (em comparação com os.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Most galaxies in the nearby Universe are quite luminous, but some are so faint they’re nearly invisible. Astronomers, using the NASA/ESA Hubble Space.",
+      "Key detail: The galaxy, known as Candidate Dark Galaxy-2 (CDG-2), appears to contain just four globular star clusters (compared to the Milky Way’s 150-plus).",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "18 fev 2026",
+    "date_pt": "18 fev 2026",
+    "date_en": "18 Feb 2026",
+    "time": "15h00",
+    "time_pt": "15h00",
+    "time_en": "15:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-02-18T15:00:00+00:00",
+    "lastModifiedIso": "2026-02-18T15:00:00+00:00",
+    "source": "ESA Hubble News",
+    "sourceDomain": "esahubble.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Cosmologia",
+      "ESA Hubble News",
+      "Cosmos Week",
+      "Lançamento científico",
+      "Hubble identifica uma das galáxias mais escuras conhecidas"
+    ],
+    "keywords_pt": [
+      "Cosmologia",
+      "ESA Hubble News",
+      "Cosmos Week",
+      "Lançamento científico",
+      "Hubble identifica uma das galáxias mais escuras conhecidas"
+    ],
+    "keywords_en": [
+      "Cosmology",
+      "ESA Hubble News",
+      "Cosmos Week",
+      "Scientific launch",
+      "Hubble identifies one of the darkest known galaxies"
+    ],
+    "srcUrl": "https://esahubble.org/news/heic2605/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-identifies-one-of-darkest-known-galaxies",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-identifies-one-of-darkest-known-galaxies",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-identifies-one-of-darkest-known-galaxies&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 79,
+    "scoreBreakdown": {
+      "source": 89,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 46
+    }
+  },
+  {
+    "id": 13,
     "slug": "science-release-hubble-discovers-first-of-star-cluster-s-missing-black-holes",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1387,7 +1523,7 @@ window.postsData = [
     }
   },
   {
-    "id": 13,
+    "id": 14,
     "slug": "supernova-or-black-hole-neutrino-flavor-may-determine-the-fate-of-dying-stars",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1519,11 +1655,11 @@ window.postsData = [
       "evidence": 82,
       "relevance": 88,
       "accessibility": 60,
-      "novelty": 52
+      "novelty": 49
     }
   },
   {
-    "id": 14,
+    "id": 15,
     "slug": "nasa-s-hubble-seeks-lensed-supernova-marks-200-000-orbits",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1659,7 +1795,7 @@ window.postsData = [
     }
   },
   {
-    "id": 15,
+    "id": 16,
     "slug": "astronomers-find-a-sub-neptune-orbiting-completely-backward-around-a-red-dwarf",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -1777,17 +1913,17 @@ window.postsData = [
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 77,
+    "score": 76,
     "scoreBreakdown": {
       "source": 73,
       "evidence": 88,
       "relevance": 88,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
-    "id": 16,
+    "id": 17,
     "slug": "coolest-lava-world-yet-with-signs-of-an-atmosphere-offers-clues-to-early-earth",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -1920,7 +2056,7 @@ window.postsData = [
     }
   },
   {
-    "id": 17,
+    "id": 18,
     "slug": "ska-may-detect-magnetic-fields-on-distant-exoplanets",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2066,7 +2202,7 @@ window.postsData = [
     }
   },
   {
-    "id": 18,
+    "id": 19,
     "slug": "solar-orbiter-catches-the-sun-s-missing-high-speed-vibrations",
     "cat": "Física",
     "catCls": "fisica",
@@ -2194,7 +2330,7 @@ window.postsData = [
     }
   },
   {
-    "id": 19,
+    "id": 20,
     "slug": "the-september-october-2026-issue-of-the-cern-courier-is-out",
     "cat": "Física",
     "catCls": "fisica",
@@ -2305,114 +2441,6 @@ window.postsData = [
       "evidence": 88,
       "relevance": 68,
       "accessibility": 52,
-      "novelty": 46
-    }
-  },
-  {
-    "id": 20,
-    "slug": "computer-security-kids-at-the-keyboard",
-    "cat": "Física",
-    "catCls": "fisica",
-    "img": "https://home.cern/computer-security-kids-at-the-keyboard/context.post.image",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "Segurança Informática: Crianças no teclado",
-    "title_pt": "Segurança Informática: Crianças no teclado",
-    "title_en": "Computer Security: Kids at the keyboard",
-    "sub": "No fim de semana passado, enquanto o sol brilhava forte, a natureza florescia em todas as suas cores, sabores e aromas e centenas de pássaros cantavam as suas músicas favoritas.",
-    "sub_pt": "No fim de semana passado, enquanto o sol brilhava forte, a natureza florescia em todas as suas cores, sabores e aromas e centenas de pássaros cantavam as suas músicas favoritas.",
-    "sub_en": "Last weekend, while the sun was shining brightly, nature was flourishing in all its colours, flavours and scents and hundreds of birds were chirping their favourite tunes, I.",
-    "excerpt": "No fim de semana passado, enquanto o sol brilhava forte, a natureza florescia em todas as suas cores, sabores e aromas e centenas de pássaros cantavam as suas músicas favoritas, decidi dar um passeio com o meu cão. Uma bela caminhada de duas horas.",
-    "excerpt_pt": "No fim de semana passado, enquanto o sol brilhava forte, a natureza florescia em todas as suas cores, sabores e aromas e centenas de pássaros cantavam as suas músicas favoritas, decidi dar um passeio com o meu cão. Uma bela caminhada de duas horas.",
-    "excerpt_en": "Last weekend, while the sun was shining brightly, nature was flourishing in all its colours, flavours and scents and hundreds of birds were chirping their favourite tunes, I decided to go for a stroll with my dog. A nice two-hour walk in.",
-    "body": "<p>No fim de semana passado, enquanto o sol brilhava forte, a natureza florescia em todas as suas cores, sabores e aromas e centenas de pássaros cantavam as suas músicas favoritas, decidi dar um passeio com o meu cão. Uma bela caminhada de duas horas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Uma bela caminhada de duas horas pelas vinhas em redor do CERN, subindo o Jura, apreciando a vista e regressando. Computação Segurança Informática: Crianças no teclado Escrito por: Escritório de Segurança Informática, 17 de setembro de 2026 No fim de semana passado, enquanto o sol brilhava.</p><p>_________ Quer saber mais sobre incidentes e problemas de segurança de computadores no CERN. Comunidade CERN Segurança Informática Computação Notícias Artigos Relacionados Ver todas as notícias Nenhuma postagem foi encontrada.</p><p>Uma bela caminhada de duas horas pelos vinhedos ao redor do CERN, subindo o Jura, apreciando a vista e voltando para casa cheio de energia.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de CERN News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://home.cern/computer-security-kids-at-the-keyboard/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>No fim de semana passado, enquanto o sol brilhava forte, a natureza florescia em todas as suas cores, sabores e aromas e centenas de pássaros cantavam as suas músicas favoritas, decidi dar um passeio com o meu cão. Uma bela caminhada de duas horas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Uma bela caminhada de duas horas pelas vinhas em redor do CERN, subindo o Jura, apreciando a vista e regressando. Computação Segurança Informática: Crianças no teclado Escrito por: Escritório de Segurança Informática, 17 de setembro de 2026 No fim de semana passado, enquanto o sol brilhava.</p><p>_________ Quer saber mais sobre incidentes e problemas de segurança de computadores no CERN. Comunidade CERN Segurança Informática Computação Notícias Artigos Relacionados Ver todas as notícias Nenhuma postagem foi encontrada.</p><p>Uma bela caminhada de duas horas pelos vinhedos ao redor do CERN, subindo o Jura, apreciando a vista e voltando para casa cheio de energia.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de CERN News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://home.cern/computer-security-kids-at-the-keyboard/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Last weekend, while the sun was shining brightly, nature was flourishing in all its colours, flavours and scents and hundreds of birds were chirping their favourite tunes, I decided to go for a stroll with my dog. A nice two-hour walk in. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. A nice two-hour walk in the vineyards around CERN, hiking up the Jura, enjoying the view and returning. Kids at the keyboard Written by: Computer Security Office, 17 September, 2026 Last weekend, while the sun was shining brightly, nature was flourishing.</p><p>_________ Do you want to learn more about computer security incidents and issues at CERN. CERN community Computer Security Computing News Related Articles View all news No posts were found.</p><p>A nice two-hour walk in the vineyards around CERN, hiking up the Jura, enjoying the view and returning home full of energy. Both unlocked (as they were sitting in my office).</p><p>Fortunately, I was not connected to CERN ( eduVPN, anyone?) at that time as I usually tend to be when working on the control system of my beamline. Just imagine what some unchecked manipulations by my son could have led to, destruction.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>Check out our Bulletin article on “ Agentic loss of control ” and the pitfalls of using agentic AI tools. Smartphones and computers should ALWAYS be locked with a password or biometry if you are not sitting in front of them.</p><p>Because the account originates with CERN News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://home.cern/computer-security-kids-at-the-keyboard/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: No fim de semana passado, enquanto o sol brilhava forte, a natureza florescia em todas as suas cores, sabores e aromas e centenas de pássaros.",
-      "Dado-chave: Uma bela caminhada de duas horas pelas vinhas em redor do CERN, subindo o Jura, apreciando a vista e regressando [.]",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: No fim de semana passado, enquanto o sol brilhava forte, a natureza florescia em todas as suas cores, sabores e aromas e centenas de pássaros.",
-      "Dado-chave: Uma bela caminhada de duas horas pelas vinhas em redor do CERN, subindo o Jura, apreciando a vista e regressando [.]",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Last weekend, while the sun was shining brightly, nature was flourishing in all its colours, flavours and scents and hundreds of birds were chirping.",
-      "Key detail: A nice two-hour walk in the vineyards around CERN, hiking up the Jura, enjoying the view and returning [.]",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "17 set 2026",
-    "date_pt": "17 set 2026",
-    "date_en": "17 Sep 2026",
-    "time": "09h29",
-    "time_pt": "09h29",
-    "time_en": "09:29 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-09-17T09:29:52+00:00",
-    "lastModifiedIso": "2026-09-17T09:29:52+00:00",
-    "source": "CERN News",
-    "sourceDomain": "home.cern",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Física",
-      "CERN News",
-      "Cosmos Week",
-      "Segurança Informática",
-      "Crianças no teclado"
-    ],
-    "keywords_pt": [
-      "Física",
-      "CERN News",
-      "Cosmos Week",
-      "Segurança Informática",
-      "Crianças no teclado"
-    ],
-    "keywords_en": [
-      "Physical",
-      "CERN News",
-      "Cosmos Week",
-      "IT Security",
-      "Children at the keyboard"
-    ],
-    "srcUrl": "https://home.cern/computer-security-kids-at-the-keyboard/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=computer-security-kids-at-the-keyboard",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=computer-security-kids-at-the-keyboard",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=computer-security-kids-at-the-keyboard&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 72,
-    "scoreBreakdown": {
-      "source": 86,
-      "evidence": 88,
-      "relevance": 64,
-      "accessibility": 60,
       "novelty": 46
     }
   },
@@ -2691,35 +2719,7 @@ window.postsData = [
     "cat": "Astronomia",
     "catCls": "astronomia",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/mtm_separation_signal_confirmation/27452584-1-eng-GB/MTM_separation_signal_confirmation_card_full.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/mtm_separation_at_mission_control/27452631-1-eng-GB/MTM_separation_at_Mission_Control_article.jpg",
-        "caption": "Separação MTM no Controle da Missão",
-        "caption_pt": "Separação MTM no Controle da Missão",
-        "caption_en": "MTM separation at Mission Control",
-        "alt": "Separação MTM no Controle da Missão",
-        "alt_pt": "Separação MTM no Controle da Missão",
-        "alt_en": "MTM separation at Mission Control"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/preliminary_doppler_signal/27452678-1-eng-GB/Preliminary_Doppler_signal_article.png",
-        "caption": "Sinal Doppler preliminar",
-        "caption_pt": "Sinal Doppler preliminar",
-        "caption_en": "Preliminary Doppler signal",
-        "alt": "Sinal Doppler preliminar",
-        "alt_pt": "Sinal Doppler preliminar",
-        "alt_en": "Preliminary Doppler signal"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/a_last_selfie_from_mtm_s_monitoring_camera_1/27453590-1-eng-GB/A_last_selfie_from_MTM_s_monitoring_camera_1_article.jpg",
-        "caption": "Uma última selfie da câmera de monitoramento do MTM 1",
-        "caption_pt": "Uma última selfie da câmera de monitoramento do MTM 1",
-        "caption_en": "A last selfie from MTM's monitoring camera 1",
-        "alt": "Uma última selfie da MTM",
-        "alt_pt": "Uma última selfie da MTM",
-        "alt_en": "A last selfie from MTM"
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "BepiColombo inicia chegada de Mercúrio com sucesso de separação MTM",
@@ -2731,9 +2731,9 @@ window.postsData = [
     "excerpt": "49 CEST, a Equipe de Controle da Missão BepiColombo da Agência Espacial Europeia no Centro Europeu de Operações Espaciais recebeu o sinal que estava esperando, o Módulo de Transferência de Mercúrio da BepiColombo separou-se com sucesso da espaçonave.",
     "excerpt_pt": "49 CEST, a Equipe de Controle da Missão BepiColombo da Agência Espacial Europeia no Centro Europeu de Operações Espaciais recebeu o sinal que estava esperando, o Módulo de Transferência de Mercúrio da BepiColombo separou-se com sucesso da espaçonave.",
     "excerpt_en": "49 CEST, the European Space Agency's BepiColombo Mission Control Team at the European Space Operations Centre received the signal they had been waiting for, BepiColombo’s Mercury Transfer Module successfully separated from the spacecraft.",
-    "body": "<p>49 CEST, a Equipe de Controle da Missão BepiColombo da Agência Espacial Europeia no Centro Europeu de Operações Espaciais recebeu o sinal que estava esperando, o Módulo de Transferência de Mercúrio da BepiColombo separou-se com sucesso da espaçonave. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Em 3 de setembro de 2026, às 15h49 CEST, a Equipe de Controle da Missão BepiColombo da Agência Espacial Europeia no Centro Europeu de Operações Espaciais (ESOC) recebeu o sinal. Esta conquista histórica para a missão da ESA e da Agência de Exploração Aeroespacial do Japão (JAXA) marca o primeiro passo da tão esperada chegada da BepiColombo a Mercúrio.</p><p>Ele carregou o BepiColombo da Terra a Mercúrio, fornecendo energia e a propulsão elétrica solar (SEP) altamente avançada necessária para navegar em sua complexa jornada espacial. Esta separação é a primeira de uma sequência de manobras importantes que farão com que a BepiColombo se torne a primeira missão a colocar duas naves espaciais em órbita ao redor.</p><p>A fase de chegada a Mercúrio da missão é uma das sequências de chegada planetária mais complexas alguma vez tentadas pela ESA. Após um dia intenso de operações no centro de controlo da missão da ESA em Darmstadt, Alemanha, a ESA, os parceiros industriais e a comunidade científica da missão celebraram a.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Enabling_Support/Operations/BepiColombo_begins_Mercury_arrival_with_MTM_separation_success\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>49 CEST, a Equipe de Controle da Missão BepiColombo da Agência Espacial Europeia no Centro Europeu de Operações Espaciais recebeu o sinal que estava esperando, o Módulo de Transferência de Mercúrio da BepiColombo separou-se com sucesso da espaçonave. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Em 3 de setembro de 2026, às 15h49 CEST, a Equipe de Controle da Missão BepiColombo da Agência Espacial Europeia no Centro Europeu de Operações Espaciais (ESOC) recebeu o sinal. Esta conquista histórica para a missão da ESA e da Agência de Exploração Aeroespacial do Japão (JAXA) marca o primeiro passo da tão esperada chegada da BepiColombo a Mercúrio.</p><p>Ele carregou o BepiColombo da Terra a Mercúrio, fornecendo energia e a propulsão elétrica solar (SEP) altamente avançada necessária para navegar em sua complexa jornada espacial. Esta separação é a primeira de uma sequência de manobras importantes que farão com que a BepiColombo se torne a primeira missão a colocar duas naves espaciais em órbita ao redor.</p><p>A fase de chegada a Mercúrio da missão é uma das sequências de chegada planetária mais complexas alguma vez tentadas pela ESA. Após um dia intenso de operações no centro de controlo da missão da ESA em Darmstadt, Alemanha, a ESA, os parceiros industriais e a comunidade científica da missão celebraram a.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Enabling_Support/Operations/BepiColombo_begins_Mercury_arrival_with_MTM_separation_success\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>49 CEST, the European Space Agency&#x27;s BepiColombo Mission Control Team at the European Space Operations Centre received the signal they had been waiting for, BepiColombo’s Mercury Transfer Module successfully separated from the spacecraft. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. 49 CEST, the European Space Agency&#x27;s BepiColombo Mission Control Team at the European Space Operations Centre (ESOC) received the signal they had been waiting for, BepiColombo’s. This landmark achievement for the ESA and Japan Aerospace Exploration Agency (JAXA) mission marks the first step of BepiColombo&#x27;s long-awaited arrival at Mercury.</p><p>It carried BepiColombo from Earth to Mercury, providing power and the highly advanced solar electric propulsion ( SEP ) needed to navigate its complex space journey. This separation is the first in a sequence of key manoeuvres that will ultimately see BepiColombo become the first mission to place two spacecraft in orbit around Mercury, in.</p><p>The mission&#x27;s Mercury arrival phase is one of the most complex planetary arrival sequences ever attempted by ESA. After an intense day of operations at ESA&#x27;s mission control centre in Darmstadt, Germany, ESA, industry partners and the mission&#x27;s scientific community celebrated the acquisition.</p><p>As the expected separation time arrived at 14: 00 CEST, silence fell over mission control. The team would have to wait nearly two hours for confirmation to arrive from 200 million kilometres away.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>20 CEST, a preliminary Doppler signal provided the first indication that separation had taken place. With ESA&#x27;s Estrack Cebreros and Malargüe deep-space antennas locked on target, all eyes turned to the incoming telemetry.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Enabling_Support/Operations/BepiColombo_begins_Mercury_arrival_with_MTM_separation_success\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>49 CEST, a Equipe de Controle da Missão BepiColombo da Agência Espacial Europeia no Centro Europeu de Operações Espaciais recebeu o sinal que estava esperando, o Módulo de Transferência de Mercúrio da BepiColombo separou-se com sucesso da espaçonave. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Em 3 de setembro de 2026, às 15h49 CEST, a Equipe de Controle da Missão BepiColombo da Agência Espacial Europeia no Centro Europeu de Operações Espaciais (ESOC) recebeu o sinal. Esta conquista histórica para a missão da ESA e da Agência de Exploração Aeroespacial do Japão (JAXA) marca o primeiro passo da tão esperada chegada da BepiColombo a Mercúrio.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Enabling_Support/Operations/BepiColombo_begins_Mercury_arrival_with_MTM_separation_success\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>49 CEST, a Equipe de Controle da Missão BepiColombo da Agência Espacial Europeia no Centro Europeu de Operações Espaciais recebeu o sinal que estava esperando, o Módulo de Transferência de Mercúrio da BepiColombo separou-se com sucesso da espaçonave. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Em 3 de setembro de 2026, às 15h49 CEST, a Equipe de Controle da Missão BepiColombo da Agência Espacial Europeia no Centro Europeu de Operações Espaciais (ESOC) recebeu o sinal. Esta conquista histórica para a missão da ESA e da Agência de Exploração Aeroespacial do Japão (JAXA) marca o primeiro passo da tão esperada chegada da BepiColombo a Mercúrio.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Enabling_Support/Operations/BepiColombo_begins_Mercury_arrival_with_MTM_separation_success\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>49 CEST, the European Space Agency&#x27;s BepiColombo Mission Control Team at the European Space Operations Centre received the signal they had been waiting for, BepiColombo’s Mercury Transfer Module successfully separated from the spacecraft. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. 49 CEST, the European Space Agency&#x27;s BepiColombo Mission Control Team at the European Space Operations Centre (ESOC) received the signal they had been waiting for, BepiColombo’s. This landmark achievement for the ESA and Japan Aerospace Exploration Agency (JAXA) mission marks the first step of BepiColombo&#x27;s long-awaited arrival at Mercury.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Enabling_Support/Operations/BepiColombo_begins_Mercury_arrival_with_MTM_separation_success\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: 49 CEST, a Equipe de Controle da Missão BepiColombo da Agência Espacial Europeia no Centro Europeu de Operações Espaciais recebeu o sinal que estava.",
       "Dado-chave: Em 3 de setembro de 2026, às 15h49 CEST, a Equipe de Controle da Missão BepiColombo da Agência Espacial Europeia no Centro Europeu de Operações.",
@@ -3092,142 +3092,6 @@ window.postsData = [
   },
   {
     "id": 26,
-    "slug": "science-release-hubble-identifies-one-of-darkest-known-galaxies",
-    "cat": "Cosmologia",
-    "catCls": "cosmologia",
-    "img": "https://cdn.esahubble.org/archives/images/screen/heic2605a.jpg",
-    "inline_images": [
-      {
-        "src": "https://cdn.esahubble.org/archives/images/newsfeature/heic2605a.jpg",
-        "caption": "Campo galáctico da galáxia de baixo brilho superficial CDG-2",
-        "caption_pt": "Campo galáctico da galáxia de baixo brilho superficial CDG-2",
-        "caption_en": "Galaxy field of low-surface-brightness galaxy CDG-2",
-        "alt": "Campo galáctico da galáxia de baixo brilho superficial CDG-2",
-        "alt_pt": "Campo galáctico da galáxia de baixo brilho superficial CDG-2",
-        "alt_en": "Galaxy field of low-surface-brightness galaxy CDG-2"
-      },
-      {
-        "src": "https://cdn.esahubble.org/archives/images/news/heic2605a.jpg",
-        "caption": "Campo galáctico da galáxia de baixo brilho superficial CDG-2",
-        "caption_pt": "Campo galáctico da galáxia de baixo brilho superficial CDG-2",
-        "caption_en": "Galaxy field of low-surface-brightness galaxy CDG-2",
-        "alt": "Campo galáctico da galáxia de baixo brilho superficial CDG-2",
-        "alt_pt": "Campo galáctico da galáxia de baixo brilho superficial CDG-2",
-        "alt_en": "Galaxy field of low-surface-brightness galaxy CDG-2"
-      },
-      {
-        "src": "https://cdn.esahubble.org/archives/images/news/heic2605b.jpg",
-        "caption": "Galáxia escura CDG-2 perto do aglomerado de Perseu (anotado)",
-        "caption_pt": "Galáxia escura CDG-2 perto do aglomerado de Perseu (anotado)",
-        "caption_en": "Dark galaxy CDG-2 near Perseus Cluster (annotated)",
-        "alt": "Galáxia escura CDG-2 perto do aglomerado de Perseu (anotado)",
-        "alt_pt": "Galáxia escura CDG-2 perto do aglomerado de Perseu (anotado)",
-        "alt_en": "Dark galaxy CDG-2 near Perseus Cluster (annotated)"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Lançamento científico: Hubble identifica uma das galáxias mais escuras conhecidas",
-    "title_pt": "Lançamento científico: Hubble identifica uma das galáxias mais escuras conhecidas",
-    "title_en": "Science Release: Hubble identifies one of darkest known galaxies",
-    "sub": "A maioria das galáxias no Universo próximo são bastante luminosas, mas algumas são tão ténues que são quase invisíveis. Os astrónomos, usando o Telescópio Espacial Hubble da.",
-    "sub_pt": "A maioria das galáxias no Universo próximo são bastante luminosas, mas algumas são tão ténues que são quase invisíveis. Os astrónomos, usando o Telescópio Espacial Hubble da.",
-    "sub_en": "Most galaxies in the nearby Universe are quite luminous, but some are so faint they’re nearly invisible. Astronomers, using the NASA/ESA Hubble Space Telescope in combination with.",
-    "excerpt": "A maioria das galáxias no Universo próximo são bastante luminosas, mas algumas são tão ténues que são quase invisíveis. Os astrónomos, usando o Telescópio Espacial Hubble da NASA/ESA em combinação com outros observatórios, identificaram uma galáxia que parece.",
-    "excerpt_pt": "A maioria das galáxias no Universo próximo são bastante luminosas, mas algumas são tão ténues que são quase invisíveis. Os astrónomos, usando o Telescópio Espacial Hubble da NASA/ESA em combinação com outros observatórios, identificaram uma galáxia que parece.",
-    "excerpt_en": "Most galaxies in the nearby Universe are quite luminous, but some are so faint they’re nearly invisible. Astronomers, using the NASA/ESA Hubble Space Telescope in combination with other observatories, identified a galaxy that appears to be.",
-    "body": "<p>A maioria das galáxias no Universo próximo são bastante luminosas, mas algumas são tão ténues que são quase invisíveis. Os astrónomos, usando o Telescópio Espacial Hubble da NASA/ESA em combinação com outros observatórios, identificaram uma galáxia que parece ser. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. A galáxia, conhecida como Candidate Dark Galaxy-2 (CDG-2), parece conter apenas quatro aglomerados de estrelas globulares (em comparação com os mais de 150 da Via Láctea). Os astrónomos, usando o Telescópio Espacial Hubble da NASA/ESA em combinação com outros observatórios, identificaram uma galáxia que parece ser quase inteiramente dominada por.</p><p>A galáxia, conhecida como Candidate Dark Galaxy-2 (CDG-2), parece conter apenas quatro aglomerados de estrelas globulares (em comparação com os mais de 150 da Via Láctea) e brilha. Um desses objetos indescritíveis, apelidado de CDG-2, pode estar entre as galáxias mais dominadas pela matéria escura já descobertas.</p><p>O artigo científico que detalha esta descoberta foi publicado no The Astrophysical Journal Letters. Utilizando técnicas estatísticas avançadas, David Li, da Universidade de Toronto, Canadá, e a sua equipa identificaram 10 galáxias previamente confirmadas com baixo brilho.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2605/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A maioria das galáxias no Universo próximo são bastante luminosas, mas algumas são tão ténues que são quase invisíveis. Os astrónomos, usando o Telescópio Espacial Hubble da NASA/ESA em combinação com outros observatórios, identificaram uma galáxia que parece ser. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independentes adiciona informação real a um problema que resiste a resolução fácil há mais de uma década. A galáxia, conhecida como Candidate Dark Galaxy-2 (CDG-2), parece conter apenas quatro aglomerados de estrelas globulares (em comparação com os mais de 150 da Via Láctea). Os astrónomos, usando o Telescópio Espacial Hubble da NASA/ESA em combinação com outros observatórios, identificaram uma galáxia que parece ser quase inteiramente dominada por.</p><p>A galáxia, conhecida como Candidate Dark Galaxy-2 (CDG-2), parece conter apenas quatro aglomerados de estrelas globulares (em comparação com os mais de 150 da Via Láctea) e brilha. Um desses objetos indescritíveis, apelidado de CDG-2, pode estar entre as galáxias mais dominadas pela matéria escura já descobertas.</p><p>O artigo científico que detalha esta descoberta foi publicado no The Astrophysical Journal Letters. Utilizando técnicas estatísticas avançadas, David Li, da Universidade de Toronto, Canadá, e a sua equipa identificaram 10 galáxias previamente confirmadas com baixo brilho.</p><p>A relevância vai além de um único conjunto de dados porque até pequenas variações nos parâmetros medidos podem importar quando o campo testa os limites do modelo cosmológico padrão. O arcabouço Lambda-CDM descreve o universo observável com notável economia, mas seu sucesso repousa sobre dois componentes, matéria escura e energia escura, cuja natureza física permanece completamente desconhecida. Qualquer medição confiável que aperte ou afrouxa as restrições sobre esses componentes faz avançar todo o empreendimento teórico, independentemente de o resultado imediato parecer dramático por si só.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é saber se o efeito resiste quando levantamentos independentes, diferentes estratégias de calibração e controle mais rigoroso das incertezas sistemáticas entram em cena. Programas como Euclid, DESI e o Observatório Rubin fornecerão conjuntos de dados nos próximos anos que cobrem o mesmo espaço de parâmetros com métodos em grande parte independentes. Se o sinal atual persistir através desses testes, suas implicações teóricas se tornarão impossíveis de ignorar.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2605/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Most galaxies in the nearby Universe are quite luminous, but some are so faint they’re nearly invisible. Astronomers, using the NASA/ESA Hubble Space Telescope in combination with other observatories, identified a galaxy that appears to be. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because cosmology operates at the edge of what current instruments can measure, where systematic errors and model assumptions are never trivial. Small discrepancies between independent measurements have historically pointed toward missing physics rather than simple calibration errors, and the ongoing tension in the Hubble constant is a live example of how a persistent disagreement between methods can reshape the theoretical landscape. Each new dataset that approaches this territory with independent systematics adds real information to a problem that has resisted easy resolution for more than a decade. The galaxy, known as Candidate Dark Galaxy-2 (CDG-2), appears to contain just four globular star clusters (compared to the Milky Way’s 150-plus). Astronomers, using the NASA/ESA Hubble Space Telescope in combination with other observatories, identified a galaxy that appears to be almost entirely dominated by dark matter.</p><p>The galaxy, known as Candidate Dark Galaxy-2 (CDG-2), appears to contain just four globular star clusters (compared to the Milky Way’s 150-plus), and dimly shines with the light. One such elusive object, dubbed CDG-2, may be among the most heavily dark matter-dominated galaxies ever discovered.</p><p>The science paper detailing this finding was published in The Astrophysical Journal Letters. Using advanced statistical techniques, David Li of the University of Toronto, Canada, and his team identified 10 previously confirmed low-surface-brightness galaxies and two.</p><p>To confirm one of the dark galaxy candidates, astronomers employed a trio of observatories: the Hubble Space Telescope, ESA’s Euclid space observatory, and the ground-based Subaru. Hubble’s high-resolution imaging revealed a close collection of four globular clusters in the Perseus galaxy cluster, 300 million light-years away.</p><p>The relevance goes beyond one dataset because even small shifts in measured parameters can matter when the field is testing the limits of the standard cosmological model. The Lambda-CDM framework describes the observable universe with remarkable economy, but its success rests on two components, dark matter and dark energy, whose physical nature remains entirely unknown. Any credible measurement that tightens or loosens the constraints on those components moves the entire theoretical enterprise forward, regardless of whether the immediate result looks dramatic on its own terms.</p><p>Follow-up studies using Hubble, Euclid, and Subaru data then revealed a faint, diffuse glow surrounding the star clusters, strong evidence of an underlying galaxy. “Under conservative assumptions, the four clusters represent the entire globular cluster population of CDG-2.” Preliminary analysis suggests CDG-2 has the luminosity of roughly 1.</p><p>Because the account originates with ESA Hubble News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether the effect survives when independent surveys, different calibration strategies and tighter control of systematic uncertainties enter the picture. Programmes such as Euclid, DESI and the Rubin Observatory will deliver datasets over the next several years that cover the same parameter space with largely independent methods. If the current signal persists through those tests, its theoretical implications will become impossible to set aside.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2605/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: A maioria das galáxias no Universo próximo são bastante luminosas, mas algumas são tão ténues que são quase invisíveis. Os astrónomos, usando o.",
-      "Dado-chave: A galáxia, conhecida como Candidate Dark Galaxy-2 (CDG-2), parece conter apenas quatro aglomerados de estrelas globulares (em comparação com os.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: A maioria das galáxias no Universo próximo são bastante luminosas, mas algumas são tão ténues que são quase invisíveis. Os astrónomos, usando o.",
-      "Dado-chave: A galáxia, conhecida como Candidate Dark Galaxy-2 (CDG-2), parece conter apenas quatro aglomerados de estrelas globulares (em comparação com os.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Most galaxies in the nearby Universe are quite luminous, but some are so faint they’re nearly invisible. Astronomers, using the NASA/ESA Hubble Space.",
-      "Key detail: The galaxy, known as Candidate Dark Galaxy-2 (CDG-2), appears to contain just four globular star clusters (compared to the Milky Way’s 150-plus).",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "18 fev 2026",
-    "date_pt": "18 fev 2026",
-    "date_en": "18 Feb 2026",
-    "time": "15h00",
-    "time_pt": "15h00",
-    "time_en": "15:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-02-18T15:00:00+00:00",
-    "lastModifiedIso": "2026-02-18T15:00:00+00:00",
-    "source": "ESA Hubble News",
-    "sourceDomain": "esahubble.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Cosmologia",
-      "ESA Hubble News",
-      "Cosmos Week",
-      "Lançamento científico",
-      "Hubble identifica uma das galáxias mais escuras conhecidas"
-    ],
-    "keywords_pt": [
-      "Cosmologia",
-      "ESA Hubble News",
-      "Cosmos Week",
-      "Lançamento científico",
-      "Hubble identifica uma das galáxias mais escuras conhecidas"
-    ],
-    "keywords_en": [
-      "Cosmology",
-      "ESA Hubble News",
-      "Cosmos Week",
-      "Scientific launch",
-      "Hubble identifies one of the darkest known galaxies"
-    ],
-    "srcUrl": "https://esahubble.org/news/heic2605/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-identifies-one-of-darkest-known-galaxies",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-identifies-one-of-darkest-known-galaxies",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-identifies-one-of-darkest-known-galaxies&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 79,
-    "scoreBreakdown": {
-      "source": 89,
-      "evidence": 88,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 46
-    }
-  },
-  {
-    "id": 27,
     "slug": "esa-and-the-eu-partner-with-museo-galileo-on-new-exhibition",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3360,7 +3224,7 @@ window.postsData = [
     }
   },
   {
-    "id": 28,
+    "id": 27,
     "slug": "explosive-intensification-for-hurricane-polo",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3493,7 +3357,7 @@ window.postsData = [
     }
   },
   {
-    "id": 29,
+    "id": 28,
     "slug": "strange-galaxies-in-the-early-universe-were-shaped-by-weird-stars",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3626,135 +3490,7 @@ window.postsData = [
     }
   },
   {
-    "id": 30,
-    "slug": "3i-atlas-has-an-extreme-taste-for-heavy-water",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://www.universetoday.com/article_images/heic2509a_20260922_125609.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.universetoday.com/assets/patreon-plus-thumb.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": {
-      "kind": "embed",
-      "platform": "youtube",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/hzwkaxfenp8",
-      "fileUrl": "",
-      "poster": "",
-      "title": "",
-      "title_pt": "",
-      "title_en": "",
-      "caption": "",
-      "caption_pt": "",
-      "caption_en": "",
-      "sourcePage": "https://www.universetoday.com/articles/3iatlas-has-an-extreme-taste-for-heavy-water"
-    },
-    "audio": null,
-    "title": "3I/ATLAS tem um gosto extremo por água pesada",
-    "title_pt": "3I/ATLAS tem um gosto extremo por água pesada",
-    "title_en": "3I/ATLAS Has An Extreme Taste For Heavy Water",
-    "sub": "Mais e mais detalhes sobre o 3I/ATLAS estão sendo filtrados pelo processo científico com o passar do tempo. Nosso terceiro visitante interestelar conhecido atraiu a atenção de.",
-    "sub_pt": "Mais e mais detalhes sobre o 3I/ATLAS estão sendo filtrados pelo processo científico com o passar do tempo. Nosso terceiro visitante interestelar conhecido atraiu a atenção de.",
-    "sub_en": "More and more details about 3I/ATLAS are filtering through the scientific process as time goes on. Our third known interstellar visitor attracted the attention of some of the most.",
-    "excerpt": "Mais e mais detalhes sobre o 3I/ATLAS estão sendo filtrados pelo processo científico com o passar do tempo. Nosso terceiro visitante interestelar conhecido atraiu a atenção de alguns dos observatórios mais poderosos do mundo quando foi descoberto.",
-    "excerpt_pt": "Mais e mais detalhes sobre o 3I/ATLAS estão sendo filtrados pelo processo científico com o passar do tempo. Nosso terceiro visitante interestelar conhecido atraiu a atenção de alguns dos observatórios mais poderosos do mundo quando foi descoberto.",
-    "excerpt_en": "More and more details about 3I/ATLAS are filtering through the scientific process as time goes on. Our third known interstellar visitor attracted the attention of some of the most powerful observatories in the world when it was discovered.",
-    "body": "<p>Mais e mais detalhes sobre o 3I/ATLAS estão sendo filtrados pelo processo científico com o passar do tempo. Nosso terceiro visitante interestelar conhecido atraiu a atenção de alguns dos observatórios mais poderosos do mundo quando foi descoberto. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Um novo artigo submetido ao The Astrophysical Journal Letters (e disponível em pré-impressão no arXiv) por. Um novo artigo submetido ao The Astrophysical Journal Letters (e disponível em pré-impressão no arXiv) por Kenji Furuya do RIKEN Pioneering Research Institute no Japão e seus.</p><p>Um átomo de carbono com 12 prótons e nêutrons) e C-13 (um átomo de carbono com mais um nêutron) para objetos em nosso sistema solar gira em torno de 90. Fraser fala sobre grande parte da ciência por trás do 3I/ATLAS Outra estranha assinatura de isótopos que os cientistas encontraram no 3I/ATLAS foi a da água.</p><p>Quando os astrónomos mediram esta proporção deutério/hidrogénio na água do 3I/ATLAS, encontraram uma proporção de cerca de 1%. Compare isso com 0,015% a 0,03% para um cometa típico no sistema solar e fica claro que o nosso visitante interestelar carrega muito mais “água pesada” do que é típico em qualquer.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/3iatlas-has-an-extreme-taste-for-heavy-water\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Mais e mais detalhes sobre o 3I/ATLAS estão sendo filtrados pelo processo científico com o passar do tempo. Nosso terceiro visitante interestelar conhecido atraiu a atenção de alguns dos observatórios mais poderosos do mundo quando foi descoberto. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Um novo artigo submetido ao The Astrophysical Journal Letters (e disponível em pré-impressão no arXiv) por. Um novo artigo submetido ao The Astrophysical Journal Letters (e disponível em pré-impressão no arXiv) por Kenji Furuya do RIKEN Pioneering Research Institute no Japão e seus.</p><p>Um átomo de carbono com 12 prótons e nêutrons) e C-13 (um átomo de carbono com mais um nêutron) para objetos em nosso sistema solar gira em torno de 90. Fraser fala sobre grande parte da ciência por trás do 3I/ATLAS Outra estranha assinatura de isótopos que os cientistas encontraram no 3I/ATLAS foi a da água.</p><p>Quando os astrónomos mediram esta proporção deutério/hidrogénio na água do 3I/ATLAS, encontraram uma proporção de cerca de 1%. Compare isso com 0,015% a 0,03% para um cometa típico no sistema solar e fica claro que o nosso visitante interestelar carrega muito mais “água pesada” do que é típico em qualquer.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/3iatlas-has-an-extreme-taste-for-heavy-water\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>More and more details about 3I/ATLAS are filtering through the scientific process as time goes on. Our third known interstellar visitor attracted the attention of some of the most powerful observatories in the world when it was discovered. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. A new paper submitted to The Astrophysical Journal Letters (and available in pre-print on arXiv) by. A new paper submitted to The Astrophysical Journal Letters (and available in pre-print on arXiv) by Kenji Furuya of the RIKEN Pioneering Research Institute in Japan and his.</p><p>A carbon atom with 12 protons and neutrons) and C-13 (a carbon atom with one more neutron) for objects in our solar system hovers right around 90. Fraser talks about much of the science behind 3I/ATLAS Another strange isotope signature scientists have found in 3I/ATLAS was that of water.</p><p>When astronomers measured this deuterium/hydrogen ratio in 3I/ATLAS’s water, they found a ratio of around 1%. Compare that to 0.015% to 0.03% for a typical comet in the solar system and it becomes clear that our interstellar visitor carries a lot more “heavy water” than is typical in any.</p><p>These then occasionally collide with a deuterated hydrogen molecule (HD) to create H2D+, regular H2, and a little bit of excess energy. At such cold temperatures, this reaction, which is normally bidirectional, doesn’t have enough energy to kick the H2D+ back into the neutral, inert HD form, essentially trapping.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Eventually the H2D+ molecules get hit with an electron, breaking it apart and creating atomic deuterium. In gas clouds with lots of high energy cosmic rays, there is enough excess energy to kick the chemical process that creates the H2D+ back into the more stable form of regular HD.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/3iatlas-has-an-extreme-taste-for-heavy-water\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Mais e mais detalhes sobre o 3I/ATLAS estão sendo filtrados pelo processo científico com o passar do tempo. Nosso terceiro visitante interestelar.",
-      "Dado-chave: Um novo artigo submetido ao The Astrophysical Journal Letters (e disponível em pré-impressão no arXiv) por.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Mais e mais detalhes sobre o 3I/ATLAS estão sendo filtrados pelo processo científico com o passar do tempo. Nosso terceiro visitante interestelar.",
-      "Dado-chave: Um novo artigo submetido ao The Astrophysical Journal Letters (e disponível em pré-impressão no arXiv) por.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: More and more details about 3I/ATLAS are filtering through the scientific process as time goes on. Our third known interstellar visitor attracted the.",
-      "Key detail: A new paper submitted to The Astrophysical Journal Letters (and available in pre-print on arXiv) by.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "22 set 2026",
-    "date_pt": "22 set 2026",
-    "date_en": "22 Sep 2026",
-    "time": "12h56",
-    "time_pt": "12h56",
-    "time_en": "12:56 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-09-22T12:56:45+00:00",
-    "lastModifiedIso": "2026-09-22T12:56:45+00:00",
-    "source": "Universe Today",
-    "sourceDomain": "www.universetoday.com",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astronomia",
-      "Universe Today",
-      "Cosmos Week",
-      "3I/ATLAS tem um gosto extremo por água pesada"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "Universe Today",
-      "Cosmos Week",
-      "3I/ATLAS tem um gosto extremo por água pesada"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "Universe Today",
-      "Cosmos Week",
-      "3I/ATLAS has an extreme taste for hard water"
-    ],
-    "srcUrl": "https://www.universetoday.com/articles/3iatlas-has-an-extreme-taste-for-heavy-water",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=3i-atlas-has-an-extreme-taste-for-heavy-water",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=3i-atlas-has-an-extreme-taste-for-heavy-water",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=3i-atlas-has-an-extreme-taste-for-heavy-water&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 76,
-    "scoreBreakdown": {
-      "source": 73,
-      "evidence": 88,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 49
-    }
-  },
-  {
-    "id": 31,
+    "id": 29,
     "slug": "perseverance-reveals-how-complex-water-systems-shaped-the-jezero-crater-on-early-mars",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3887,7 +3623,135 @@ window.postsData = [
     }
   },
   {
-    "id": 32,
+    "id": 30,
+    "slug": "3i-atlas-has-an-extreme-taste-for-heavy-water",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://www.universetoday.com/article_images/heic2509a_20260922_125609.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.universetoday.com/assets/patreon-plus-thumb.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": {
+      "kind": "embed",
+      "platform": "youtube",
+      "embedUrl": "https://www.youtube-nocookie.com/embed/hzwkaxfenp8",
+      "fileUrl": "",
+      "poster": "",
+      "title": "",
+      "title_pt": "",
+      "title_en": "",
+      "caption": "",
+      "caption_pt": "",
+      "caption_en": "",
+      "sourcePage": "https://www.universetoday.com/articles/3iatlas-has-an-extreme-taste-for-heavy-water"
+    },
+    "audio": null,
+    "title": "3I/ATLAS tem um gosto extremo por água pesada",
+    "title_pt": "3I/ATLAS tem um gosto extremo por água pesada",
+    "title_en": "3I/ATLAS Has An Extreme Taste For Heavy Water",
+    "sub": "Mais e mais detalhes sobre o 3I/ATLAS estão sendo filtrados pelo processo científico com o passar do tempo. Nosso terceiro visitante interestelar conhecido atraiu a atenção de.",
+    "sub_pt": "Mais e mais detalhes sobre o 3I/ATLAS estão sendo filtrados pelo processo científico com o passar do tempo. Nosso terceiro visitante interestelar conhecido atraiu a atenção de.",
+    "sub_en": "More and more details about 3I/ATLAS are filtering through the scientific process as time goes on. Our third known interstellar visitor attracted the attention of some of the most.",
+    "excerpt": "Mais e mais detalhes sobre o 3I/ATLAS estão sendo filtrados pelo processo científico com o passar do tempo. Nosso terceiro visitante interestelar conhecido atraiu a atenção de alguns dos observatórios mais poderosos do mundo quando foi descoberto.",
+    "excerpt_pt": "Mais e mais detalhes sobre o 3I/ATLAS estão sendo filtrados pelo processo científico com o passar do tempo. Nosso terceiro visitante interestelar conhecido atraiu a atenção de alguns dos observatórios mais poderosos do mundo quando foi descoberto.",
+    "excerpt_en": "More and more details about 3I/ATLAS are filtering through the scientific process as time goes on. Our third known interstellar visitor attracted the attention of some of the most powerful observatories in the world when it was discovered.",
+    "body": "<p>Mais e mais detalhes sobre o 3I/ATLAS estão sendo filtrados pelo processo científico com o passar do tempo. Nosso terceiro visitante interestelar conhecido atraiu a atenção de alguns dos observatórios mais poderosos do mundo quando foi descoberto. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Um novo artigo submetido ao The Astrophysical Journal Letters (e disponível em pré-impressão no arXiv) por. Um novo artigo submetido ao The Astrophysical Journal Letters (e disponível em pré-impressão no arXiv) por Kenji Furuya do RIKEN Pioneering Research Institute no Japão e seus.</p><p>Um átomo de carbono com 12 prótons e nêutrons) e C-13 (um átomo de carbono com mais um nêutron) para objetos em nosso sistema solar gira em torno de 90. Fraser fala sobre grande parte da ciência por trás do 3I/ATLAS Outra estranha assinatura de isótopos que os cientistas encontraram no 3I/ATLAS foi a da água.</p><p>Quando os astrónomos mediram esta proporção deutério/hidrogénio na água do 3I/ATLAS, encontraram uma proporção de cerca de 1%. Compare isso com 0,015% a 0,03% para um cometa típico no sistema solar e fica claro que o nosso visitante interestelar carrega muito mais “água pesada” do que é típico em qualquer.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/3iatlas-has-an-extreme-taste-for-heavy-water\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Mais e mais detalhes sobre o 3I/ATLAS estão sendo filtrados pelo processo científico com o passar do tempo. Nosso terceiro visitante interestelar conhecido atraiu a atenção de alguns dos observatórios mais poderosos do mundo quando foi descoberto. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Um novo artigo submetido ao The Astrophysical Journal Letters (e disponível em pré-impressão no arXiv) por. Um novo artigo submetido ao The Astrophysical Journal Letters (e disponível em pré-impressão no arXiv) por Kenji Furuya do RIKEN Pioneering Research Institute no Japão e seus.</p><p>Um átomo de carbono com 12 prótons e nêutrons) e C-13 (um átomo de carbono com mais um nêutron) para objetos em nosso sistema solar gira em torno de 90. Fraser fala sobre grande parte da ciência por trás do 3I/ATLAS Outra estranha assinatura de isótopos que os cientistas encontraram no 3I/ATLAS foi a da água.</p><p>Quando os astrónomos mediram esta proporção deutério/hidrogénio na água do 3I/ATLAS, encontraram uma proporção de cerca de 1%. Compare isso com 0,015% a 0,03% para um cometa típico no sistema solar e fica claro que o nosso visitante interestelar carrega muito mais “água pesada” do que é típico em qualquer.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/3iatlas-has-an-extreme-taste-for-heavy-water\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>More and more details about 3I/ATLAS are filtering through the scientific process as time goes on. Our third known interstellar visitor attracted the attention of some of the most powerful observatories in the world when it was discovered. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. A new paper submitted to The Astrophysical Journal Letters (and available in pre-print on arXiv) by. A new paper submitted to The Astrophysical Journal Letters (and available in pre-print on arXiv) by Kenji Furuya of the RIKEN Pioneering Research Institute in Japan and his.</p><p>A carbon atom with 12 protons and neutrons) and C-13 (a carbon atom with one more neutron) for objects in our solar system hovers right around 90. Fraser talks about much of the science behind 3I/ATLAS Another strange isotope signature scientists have found in 3I/ATLAS was that of water.</p><p>When astronomers measured this deuterium/hydrogen ratio in 3I/ATLAS’s water, they found a ratio of around 1%. Compare that to 0.015% to 0.03% for a typical comet in the solar system and it becomes clear that our interstellar visitor carries a lot more “heavy water” than is typical in any.</p><p>These then occasionally collide with a deuterated hydrogen molecule (HD) to create H2D+, regular H2, and a little bit of excess energy. At such cold temperatures, this reaction, which is normally bidirectional, doesn’t have enough energy to kick the H2D+ back into the neutral, inert HD form, essentially trapping.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Eventually the H2D+ molecules get hit with an electron, breaking it apart and creating atomic deuterium. In gas clouds with lots of high energy cosmic rays, there is enough excess energy to kick the chemical process that creates the H2D+ back into the more stable form of regular HD.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/3iatlas-has-an-extreme-taste-for-heavy-water\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Mais e mais detalhes sobre o 3I/ATLAS estão sendo filtrados pelo processo científico com o passar do tempo. Nosso terceiro visitante interestelar.",
+      "Dado-chave: Um novo artigo submetido ao The Astrophysical Journal Letters (e disponível em pré-impressão no arXiv) por.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Mais e mais detalhes sobre o 3I/ATLAS estão sendo filtrados pelo processo científico com o passar do tempo. Nosso terceiro visitante interestelar.",
+      "Dado-chave: Um novo artigo submetido ao The Astrophysical Journal Letters (e disponível em pré-impressão no arXiv) por.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: More and more details about 3I/ATLAS are filtering through the scientific process as time goes on. Our third known interstellar visitor attracted the.",
+      "Key detail: A new paper submitted to The Astrophysical Journal Letters (and available in pre-print on arXiv) by.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "22 set 2026",
+    "date_pt": "22 set 2026",
+    "date_en": "22 Sep 2026",
+    "time": "12h56",
+    "time_pt": "12h56",
+    "time_en": "12:56 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-09-22T12:56:45+00:00",
+    "lastModifiedIso": "2026-09-22T12:56:45+00:00",
+    "source": "Universe Today",
+    "sourceDomain": "www.universetoday.com",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astronomia",
+      "Universe Today",
+      "Cosmos Week",
+      "3I/ATLAS tem um gosto extremo por água pesada"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "Universe Today",
+      "Cosmos Week",
+      "3I/ATLAS tem um gosto extremo por água pesada"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "Universe Today",
+      "Cosmos Week",
+      "3I/ATLAS has an extreme taste for hard water"
+    ],
+    "srcUrl": "https://www.universetoday.com/articles/3iatlas-has-an-extreme-taste-for-heavy-water",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=3i-atlas-has-an-extreme-taste-for-heavy-water",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=3i-atlas-has-an-extreme-taste-for-heavy-water",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=3i-atlas-has-an-extreme-taste-for-heavy-water&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 75,
+    "scoreBreakdown": {
+      "source": 73,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 46
+    }
+  },
+  {
+    "id": 31,
     "slug": "2026-2027-dwu-middle-school-design-challenge",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -4008,7 +3872,7 @@ window.postsData = [
     }
   },
   {
-    "id": 33,
+    "id": 32,
     "slug": "peatland-fires-darken-skies-in-indonesia",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4141,7 +4005,7 @@ window.postsData = [
     }
   },
   {
-    "id": 34,
+    "id": 33,
     "slug": "juice-to-fly-past-earth-for-third-gravity-assist",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4246,7 +4110,7 @@ window.postsData = [
     }
   },
   {
-    "id": 35,
+    "id": 34,
     "slug": "seeing-saturn-s-rings-top-tips-for-beginners",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4364,7 +4228,7 @@ window.postsData = [
     }
   },
   {
-    "id": 36,
+    "id": 35,
     "slug": "curiosity-rover-insights-after-5000-sols-on-mars",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4479,7 +4343,7 @@ window.postsData = [
     }
   },
   {
-    "id": 37,
+    "id": 36,
     "slug": "nsf-announces-3-additional-topics-as-part-of-the-nsf-x-labs-initiative-to-pursue-generational-br",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4606,7 +4470,7 @@ window.postsData = [
     }
   },
   {
-    "id": 38,
+    "id": 37,
     "slug": "nsf-leadership-in-a-new-golden-age-of-science",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4707,6 +4571,114 @@ window.postsData = [
       "evidence": 88,
       "relevance": 74,
       "accessibility": 52,
+      "novelty": 46
+    }
+  },
+  {
+    "id": 38,
+    "slug": "computer-security-kids-at-the-keyboard",
+    "cat": "Física",
+    "catCls": "fisica",
+    "img": "https://home.cern/computer-security-kids-at-the-keyboard/context.post.image",
+    "inline_images": [],
+    "video": null,
+    "audio": null,
+    "title": "Segurança Informática: Crianças no teclado",
+    "title_pt": "Segurança Informática: Crianças no teclado",
+    "title_en": "Computer Security: Kids at the keyboard",
+    "sub": "No fim de semana passado, enquanto o sol brilhava forte, a natureza florescia em todas as suas cores, sabores e aromas e centenas de pássaros cantavam as suas músicas favoritas.",
+    "sub_pt": "No fim de semana passado, enquanto o sol brilhava forte, a natureza florescia em todas as suas cores, sabores e aromas e centenas de pássaros cantavam as suas músicas favoritas.",
+    "sub_en": "Last weekend, while the sun was shining brightly, nature was flourishing in all its colours, flavours and scents and hundreds of birds were chirping their favourite tunes, I.",
+    "excerpt": "No fim de semana passado, enquanto o sol brilhava forte, a natureza florescia em todas as suas cores, sabores e aromas e centenas de pássaros cantavam as suas músicas favoritas, decidi dar um passeio com o meu cão. Uma bela caminhada de duas horas.",
+    "excerpt_pt": "No fim de semana passado, enquanto o sol brilhava forte, a natureza florescia em todas as suas cores, sabores e aromas e centenas de pássaros cantavam as suas músicas favoritas, decidi dar um passeio com o meu cão. Uma bela caminhada de duas horas.",
+    "excerpt_en": "Last weekend, while the sun was shining brightly, nature was flourishing in all its colours, flavours and scents and hundreds of birds were chirping their favourite tunes, I decided to go for a stroll with my dog. A nice two-hour walk in.",
+    "body": "<p>No fim de semana passado, enquanto o sol brilhava forte, a natureza florescia em todas as suas cores, sabores e aromas e centenas de pássaros cantavam as suas músicas favoritas, decidi dar um passeio com o meu cão. Uma bela caminhada de duas horas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Uma bela caminhada de duas horas pelas vinhas em redor do CERN, subindo o Jura, apreciando a vista e regressando. Computação Segurança Informática: Crianças no teclado Escrito por: Escritório de Segurança Informática, 17 de setembro de 2026 No fim de semana passado, enquanto o sol brilhava.</p><p>_________ Quer saber mais sobre incidentes e problemas de segurança de computadores no CERN. Comunidade CERN Segurança Informática Computação Notícias Artigos Relacionados Ver todas as notícias Nenhuma postagem foi encontrada.</p><p>Uma bela caminhada de duas horas pelos vinhedos ao redor do CERN, subindo o Jura, apreciando a vista e voltando para casa cheio de energia.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de CERN News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://home.cern/computer-security-kids-at-the-keyboard/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>No fim de semana passado, enquanto o sol brilhava forte, a natureza florescia em todas as suas cores, sabores e aromas e centenas de pássaros cantavam as suas músicas favoritas, decidi dar um passeio com o meu cão. Uma bela caminhada de duas horas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Uma bela caminhada de duas horas pelas vinhas em redor do CERN, subindo o Jura, apreciando a vista e regressando. Computação Segurança Informática: Crianças no teclado Escrito por: Escritório de Segurança Informática, 17 de setembro de 2026 No fim de semana passado, enquanto o sol brilhava.</p><p>_________ Quer saber mais sobre incidentes e problemas de segurança de computadores no CERN. Comunidade CERN Segurança Informática Computação Notícias Artigos Relacionados Ver todas as notícias Nenhuma postagem foi encontrada.</p><p>Uma bela caminhada de duas horas pelos vinhedos ao redor do CERN, subindo o Jura, apreciando a vista e voltando para casa cheio de energia.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de CERN News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://home.cern/computer-security-kids-at-the-keyboard/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Last weekend, while the sun was shining brightly, nature was flourishing in all its colours, flavours and scents and hundreds of birds were chirping their favourite tunes, I decided to go for a stroll with my dog. A nice two-hour walk in. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. A nice two-hour walk in the vineyards around CERN, hiking up the Jura, enjoying the view and returning. Kids at the keyboard Written by: Computer Security Office, 17 September, 2026 Last weekend, while the sun was shining brightly, nature was flourishing.</p><p>_________ Do you want to learn more about computer security incidents and issues at CERN. CERN community Computer Security Computing News Related Articles View all news No posts were found.</p><p>A nice two-hour walk in the vineyards around CERN, hiking up the Jura, enjoying the view and returning home full of energy. Both unlocked (as they were sitting in my office).</p><p>Fortunately, I was not connected to CERN ( eduVPN, anyone?) at that time as I usually tend to be when working on the control system of my beamline. Just imagine what some unchecked manipulations by my son could have led to, destruction.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>Check out our Bulletin article on “ Agentic loss of control ” and the pitfalls of using agentic AI tools. Smartphones and computers should ALWAYS be locked with a password or biometry if you are not sitting in front of them.</p><p>Because the account originates with CERN News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://home.cern/computer-security-kids-at-the-keyboard/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: No fim de semana passado, enquanto o sol brilhava forte, a natureza florescia em todas as suas cores, sabores e aromas e centenas de pássaros.",
+      "Dado-chave: Uma bela caminhada de duas horas pelas vinhas em redor do CERN, subindo o Jura, apreciando a vista e regressando [.]",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: No fim de semana passado, enquanto o sol brilhava forte, a natureza florescia em todas as suas cores, sabores e aromas e centenas de pássaros.",
+      "Dado-chave: Uma bela caminhada de duas horas pelas vinhas em redor do CERN, subindo o Jura, apreciando a vista e regressando [.]",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Last weekend, while the sun was shining brightly, nature was flourishing in all its colours, flavours and scents and hundreds of birds were chirping.",
+      "Key detail: A nice two-hour walk in the vineyards around CERN, hiking up the Jura, enjoying the view and returning [.]",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "17 set 2026",
+    "date_pt": "17 set 2026",
+    "date_en": "17 Sep 2026",
+    "time": "09h29",
+    "time_pt": "09h29",
+    "time_en": "09:29 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-09-17T09:29:52+00:00",
+    "lastModifiedIso": "2026-09-17T09:29:52+00:00",
+    "source": "CERN News",
+    "sourceDomain": "home.cern",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Física",
+      "CERN News",
+      "Cosmos Week",
+      "Segurança Informática",
+      "Crianças no teclado"
+    ],
+    "keywords_pt": [
+      "Física",
+      "CERN News",
+      "Cosmos Week",
+      "Segurança Informática",
+      "Crianças no teclado"
+    ],
+    "keywords_en": [
+      "Physical",
+      "CERN News",
+      "Cosmos Week",
+      "IT Security",
+      "Children at the keyboard"
+    ],
+    "srcUrl": "https://home.cern/computer-security-kids-at-the-keyboard/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=computer-security-kids-at-the-keyboard",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=computer-security-kids-at-the-keyboard",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=computer-security-kids-at-the-keyboard&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 72,
+    "scoreBreakdown": {
+      "source": 86,
+      "evidence": 88,
+      "relevance": 64,
+      "accessibility": 60,
       "novelty": 46
     }
   },

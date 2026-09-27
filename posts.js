@@ -40,14 +40,14 @@ window.postsData = [
     "date": "27 set 2026",
     "date_pt": "27 set 2026",
     "date_en": "27 Sep 2026",
-    "time": "12h56",
-    "time_pt": "12h56",
-    "time_en": "12:56 UTC",
+    "time": "17h41",
+    "time_pt": "17h41",
+    "time_en": "17:41 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-09-27T12:56:56.446958+00:00",
-    "lastModifiedIso": "2026-09-27T12:56:56.446958+00:00",
+    "publishedIso": "2026-09-27T17:41:08.233269+00:00",
+    "lastModifiedIso": "2026-09-27T17:41:08.233269+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -148,14 +148,14 @@ window.postsData = [
     "date": "27 set 2026",
     "date_pt": "27 set 2026",
     "date_en": "27 Sep 2026",
-    "time": "12h56",
-    "time_pt": "12h56",
-    "time_en": "12:56 UTC",
+    "time": "17h41",
+    "time_pt": "17h41",
+    "time_en": "17:41 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-09-27T12:56:56.446910+00:00",
-    "lastModifiedIso": "2026-09-27T12:56:56.446910+00:00",
+    "publishedIso": "2026-09-27T17:41:08.233241+00:00",
+    "lastModifiedIso": "2026-09-27T17:41:08.233241+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -262,14 +262,14 @@ window.postsData = [
     "date": "27 set 2026",
     "date_pt": "27 set 2026",
     "date_en": "27 Sep 2026",
-    "time": "12h56",
-    "time_pt": "12h56",
-    "time_en": "12:56 UTC",
+    "time": "17h41",
+    "time_pt": "17h41",
+    "time_en": "17:41 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-09-27T12:56:56.446872+00:00",
-    "lastModifiedIso": "2026-09-27T12:56:56.446872+00:00",
+    "publishedIso": "2026-09-27T17:41:08.233209+00:00",
+    "lastModifiedIso": "2026-09-27T17:41:08.233209+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -367,14 +367,14 @@ window.postsData = [
     "date": "27 set 2026",
     "date_pt": "27 set 2026",
     "date_en": "27 Sep 2026",
-    "time": "12h56",
-    "time_pt": "12h56",
-    "time_en": "12:56 UTC",
+    "time": "17h41",
+    "time_pt": "17h41",
+    "time_en": "17:41 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-09-27T12:56:56.446825+00:00",
-    "lastModifiedIso": "2026-09-27T12:56:56.446825+00:00",
+    "publishedIso": "2026-09-27T17:41:08.233168+00:00",
+    "lastModifiedIso": "2026-09-27T17:41:08.233168+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -472,14 +472,14 @@ window.postsData = [
     "date": "27 set 2026",
     "date_pt": "27 set 2026",
     "date_en": "27 Sep 2026",
-    "time": "12h56",
-    "time_pt": "12h56",
-    "time_en": "12:56 UTC",
+    "time": "17h41",
+    "time_pt": "17h41",
+    "time_en": "17:41 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-09-27T12:56:56.446790+00:00",
-    "lastModifiedIso": "2026-09-27T12:56:56.446790+00:00",
+    "publishedIso": "2026-09-27T17:41:08.233138+00:00",
+    "lastModifiedIso": "2026-09-27T17:41:08.233138+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -540,6 +540,139 @@ window.postsData = [
   },
   {
     "id": 6,
+    "slug": "astronomers-discover-a-radio-galaxy-with-evidence-of-four-separate-jet-outbursts",
+    "cat": "Astrofísica",
+    "catCls": "astrofisica",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/astronomers-discover-a-8.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/astronomers-discover-a-8.jpg",
+        "caption": "Imagens de rádio multifrequência de J023721.13−010528.5. Canto superior esquerdo: banda 3 uGMRT (400 MHz). Canto superior direito: banda 4 do uGMRT (700 MHz). Canto inferior esquerdo: MeerKAT (1.280 MHz). Canto inferior direito: VLASS (3 GHz), com uma inserção mostrando o núcleo e os lóbulos de rádio internos.",
+        "caption_pt": "Imagens de rádio multifrequência de J023721.13−010528.5. Canto superior esquerdo: banda 3 uGMRT (400 MHz). Canto superior direito: banda 4 do uGMRT (700 MHz). Canto inferior esquerdo: MeerKAT (1.280 MHz). Canto inferior direito: VLASS (3 GHz), com uma inserção mostrando o núcleo e os lóbulos de rádio internos.",
+        "caption_en": "Multi-frequency radio images of J023721.13−010528.5. Top left: uGMRT band-3 (400 MHz). Top right: uGMRT band-4 (700 MHz). Bottom left: MeerKAT (1,280 MHz). Bottom right: VLASS (3 GHz), with an inset showing the core and inner radio lobes.",
+        "alt": "Astrônomos descobrem uma galáxia de rádio com evidências de quatro explosões de jatos separadas",
+        "alt_pt": "Astrônomos descobrem uma galáxia de rádio com evidências de quatro explosões de jatos separadas",
+        "alt_en": "Astronomers discover a radio galaxy with evidence of four separate jet outbursts"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/6d1fa912f0a9344f.png",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/fe53210362eba160.png",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Astrônomos descobrem uma galáxia de rádio com evidências de quatro explosões de jatos separadas",
+    "title_pt": "Astrônomos descobrem uma galáxia de rádio com evidências de quatro explosões de jatos separadas",
+    "title_en": "Astronomers discover a radio galaxy with evidence of four separate jet outbursts",
+    "sub": "Os astrónomos identificaram o que pode ser o primeiro exemplo de uma nova classe de galáxias de rádio, cujo buraco negro central parece ter lançado jatos poderosos em quatro.",
+    "sub_pt": "Os astrónomos identificaram o que pode ser o primeiro exemplo de uma nova classe de galáxias de rádio, cujo buraco negro central parece ter lançado jatos poderosos em quatro.",
+    "sub_en": "Astronomers have identified what may be the first example of a new class of radio galaxy, one whose central black hole appears to have launched powerful jets on four separate.",
+    "excerpt": "Os astrónomos identificaram o que pode ser o primeiro exemplo de uma nova classe de galáxias de rádio, cujo buraco negro central parece ter lançado jatos poderosos em quatro ocasiões distintas. Observações de alta resolução com o Giant atualizado.",
+    "excerpt_pt": "Os astrónomos identificaram o que pode ser o primeiro exemplo de uma nova classe de galáxias de rádio, cujo buraco negro central parece ter lançado jatos poderosos em quatro ocasiões distintas. Observações de alta resolução com o Giant atualizado.",
+    "excerpt_en": "Astronomers have identified what may be the first example of a new class of radio galaxy, one whose central black hole appears to have launched powerful jets on four separate occasions. High-resolution observations with the upgraded Giant.",
+    "body": "<p>Os astrónomos identificaram o que pode ser o primeiro exemplo de uma nova classe de galáxias de rádio, cujo buraco negro central parece ter lançado jatos poderosos em quatro ocasiões distintas. Observações de alta resolução com o Giant atualizado. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Os editores destacaram os seguintes atributos, garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial arXiv (2026). &quot;&gt; Imagens de rádio multifrequência de J023721.13−010528.5.</p><p>VLASS (3 GHz), com uma inserção mostrando o núcleo e os lóbulos de rádio internos. Pavan Vijay Khadekar et al, arXiv (2026).</p><p>Os astrônomos identificaram o que pode ser o primeiro exemplo de uma nova classe de rádio-galáxia, cujo buraco negro central parece ter lançado jatos poderosos em quatro ocasiões. Até agora, nenhuma galáxia tinha sido encontrada com quatro episódios confirmados de atividade de jato.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-09-astronomers-radio-galaxy-evidence-jet.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Os astrónomos identificaram o que pode ser o primeiro exemplo de uma nova classe de galáxias de rádio, cujo buraco negro central parece ter lançado jatos poderosos em quatro ocasiões distintas. Observações de alta resolução com o Giant atualizado. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Os editores destacaram os seguintes atributos, garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial arXiv (2026). &quot;&gt; Imagens de rádio multifrequência de J023721.13−010528.5.</p><p>VLASS (3 GHz), com uma inserção mostrando o núcleo e os lóbulos de rádio internos. Pavan Vijay Khadekar et al, arXiv (2026).</p><p>Os astrônomos identificaram o que pode ser o primeiro exemplo de uma nova classe de rádio-galáxia, cujo buraco negro central parece ter lançado jatos poderosos em quatro ocasiões. Até agora, nenhuma galáxia tinha sido encontrada com quatro episódios confirmados de atividade de jato.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-09-astronomers-radio-galaxy-evidence-jet.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Identified what may be the first example of a new class of radio galaxy, one whose central black hole appears to have launched powerful jets on four separate occasions. High-resolution observations with the upgraded Giant. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source arXiv (2026). &quot;&gt; Multi-frequency radio images of J023721.13−010528.5.</p><p>VLASS (3 GHz), with an inset showing the core and inner radio lobes. Pavan Vijay Khadekar et al, arXiv (2026).</p><p>Until now, no galaxy had ever been found with four confirmed episodes of jet activity. In this study, the team led by Pavan Vijay Khadekar of the Indian Institute of Science Education and Research, Pune, studied a radio source known as J023721.13−010528.5, hosted by.</p><p>By combining radio observations from three powerful telescopes across multiple radio frequencies, the team identified four distinct pairs of hotspots labeled N1, N4 and S1, S4. The four hotspot pairs show spectral ages ranging from 4.5 to 20.5 million years.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. The team also found that the axes of successive hotspot pairs are rotating counterclockwise by increasing amounts, with a shift of −7° for N2-S2, −16° for N3-S3 and −24° for N4-S4.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-09-astronomers-radio-galaxy-evidence-jet.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Os astrónomos identificaram o que pode ser o primeiro exemplo de uma nova classe de galáxias de rádio, cujo buraco negro central parece ter lançado.",
+      "Dado-chave: Os editores destacaram os seguintes atributos, garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial arXiv (2026).",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Os astrónomos identificaram o que pode ser o primeiro exemplo de uma nova classe de galáxias de rádio, cujo buraco negro central parece ter lançado.",
+      "Dado-chave: Os editores destacaram os seguintes atributos, garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial arXiv (2026).",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Astronomers have identified what may be the first example of a new class of radio galaxy, one whose central black hole appears to have launched.",
+      "Key detail: Editors have highlighted the following attributes while ensuring the content's credibility: Add as preferred source arXiv (2026).",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "27 set 2026",
+    "date_pt": "27 set 2026",
+    "date_en": "27 Sep 2026",
+    "time": "14h20",
+    "time_pt": "14h20",
+    "time_en": "14:20 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-09-27T14:20:05+00:00",
+    "lastModifiedIso": "2026-09-27T14:20:05+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astrofísica",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Astrônomos descobrem uma galáxia de rádio com evidências de quatro explosões de jatos separadas"
+    ],
+    "keywords_pt": [
+      "Astrofísica",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Astrônomos descobrem uma galáxia de rádio com evidências de quatro explosões de jatos separadas"
+    ],
+    "keywords_en": [
+      "Astrophysics",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Astronomers discover a radio galaxy with evidence of four separate jet explosions"
+    ],
+    "srcUrl": "https://phys.org/news/2026-09-astronomers-radio-galaxy-evidence-jet.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=astronomers-discover-a-radio-galaxy-with-evidence-of-four-separate-jet-outbursts",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=astronomers-discover-a-radio-galaxy-with-evidence-of-four-separate-jet-outbursts",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=astronomers-discover-a-radio-galaxy-with-evidence-of-four-separate-jet-outbursts&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 77,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
     "slug": "sun-news-fast-solar-wind-might-brush-earth",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -643,7 +776,7 @@ window.postsData = [
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -657,7 +790,7 @@ window.postsData = [
     }
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "juice-mission-to-fly-by-earth-monday-details-here",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -778,7 +911,7 @@ window.postsData = [
     }
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "a-black-hole-jet-is-aimed-at-us-and-it-s-in-our-galaxy",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -893,7 +1026,7 @@ window.postsData = [
     }
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "watch-for-the-daytime-moon-after-sunrise-this-week",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1003,134 +1136,6 @@ window.postsData = [
       "source": 72,
       "evidence": 82,
       "relevance": 62,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 10,
-    "slug": "jwst-finds-dynamic-structural-evolution-in-chariklo-s-rings",
-    "cat": "Biologia",
-    "catCls": "biologia",
-    "img": "https://www.universetoday.com/article_images/chariklo_vignette2.jpg_750_20260927_050850.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.universetoday.com/assets/patreon-plus-thumb.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": {
-      "kind": "embed",
-      "platform": "youtube",
-      "embedUrl": "https://www.youtube-nocookie.com/embed/97sb4i2gymo",
-      "fileUrl": "",
-      "poster": "",
-      "title": "",
-      "title_pt": "",
-      "title_en": "",
-      "caption": "",
-      "caption_pt": "",
-      "caption_en": "",
-      "sourcePage": "https://www.universetoday.com/articles/jwst-finds-dynamic-structural-evolution-in-chariklos-rings"
-    },
-    "audio": null,
-    "title": "JWST encontra evolução estrutural dinâmica nos anéis de Chariklo",
-    "title_pt": "JWST encontra evolução estrutural dinâmica nos anéis de Chariklo",
-    "title_en": "JWST Finds Dynamic Structural Evolution in Chariklo’s Rings",
-    "sub": "Quando pensamos em asteróides, muitas vezes pensamos no principal cinturão de asteróides entre Marte e Júpiter, que contém a maioria dos asteróides conhecidos em nosso sistema.",
-    "sub_pt": "Quando pensamos em asteróides, muitas vezes pensamos no principal cinturão de asteróides entre Marte e Júpiter, que contém a maioria dos asteróides conhecidos em nosso sistema.",
-    "sub_en": "When we think of asteroids, we often think of the main asteroid belt between Mars and Jupiter that contains the majority of the known asteroids in our solar system. However, our.",
-    "excerpt": "Quando pensamos em asteróides, muitas vezes pensamos no principal cinturão de asteróides entre Marte e Júpiter, que contém a maioria dos asteróides conhecidos em nosso sistema solar. No entanto, o nosso sistema solar acolhe várias outras populações de.",
-    "excerpt_pt": "Quando pensamos em asteróides, muitas vezes pensamos no principal cinturão de asteróides entre Marte e Júpiter, que contém a maioria dos asteróides conhecidos em nosso sistema solar. No entanto, o nosso sistema solar acolhe várias outras populações de.",
-    "excerpt_en": "When we think of asteroids, we often think of the main asteroid belt between Mars and Jupiter that contains the majority of the known asteroids in our solar system. However, our solar system hosts several other populations of asteroids and.",
-    "body": "<p>Quando pensamos em asteróides, muitas vezes pensamos no principal cinturão de asteróides entre Marte e Júpiter, que contém a maioria dos asteróides conhecidos em nosso sistema solar. No entanto, o nosso sistema solar acolhe várias outras populações de asteróides e. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Mas um Centauro chamado Chariklo destaca-se não só porque é o maior Centauro conhecido com um raio de 125 quilómetros (78 milhas), mas porque é o único Centauro a ter um sistema. Tal como discutem num estudo recente publicado na Science Advances, os investigadores apresentam evidências de que os dois anéis de Chariklo podem estar a ganhar e a perder.</p><p>Para determinar isso, os pesquisadores usaram uma técnica comum chamada ocultação estelar, que tem sido usada para observações do sistema de anéis de Chariklo em 2017 e 2022. O estudo de 2017 estabeleceu uma linha de base relativamente à composição e tamanhos dos anéis, enquanto o estudo de 2022 utilizou o JWST para observar Chariklo e os seus anéis.</p><p>Enquanto Chariklo tem cerca de 125 quilómetros de raio, o anel interno (C1R) e o anel externo (C2R) orbitam a cerca de 265 quilómetros (165 milhas) e 280 quilómetros (174 milhas).</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/jwst-finds-dynamic-structural-evolution-in-chariklos-rings\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Quando pensamos em asteróides, muitas vezes pensamos no principal cinturão de asteróides entre Marte e Júpiter, que contém a maioria dos asteróides conhecidos em nosso sistema solar. No entanto, o nosso sistema solar acolhe várias outras populações de asteróides e. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Mas um Centauro chamado Chariklo destaca-se não só porque é o maior Centauro conhecido com um raio de 125 quilómetros (78 milhas), mas porque é o único Centauro a ter um sistema. Tal como discutem num estudo recente publicado na Science Advances, os investigadores apresentam evidências de que os dois anéis de Chariklo podem estar a ganhar e a perder.</p><p>Para determinar isso, os pesquisadores usaram uma técnica comum chamada ocultação estelar, que tem sido usada para observações do sistema de anéis de Chariklo em 2017 e 2022. O estudo de 2017 estabeleceu uma linha de base relativamente à composição e tamanhos dos anéis, enquanto o estudo de 2022 utilizou o JWST para observar Chariklo e os seus anéis.</p><p>Enquanto Chariklo tem cerca de 125 quilómetros de raio, o anel interno (C1R) e o anel externo (C2R) orbitam a cerca de 265 quilómetros (165 milhas) e 280 quilómetros (174 milhas).</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/jwst-finds-dynamic-structural-evolution-in-chariklos-rings\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>When we think of asteroids, we often think of the main asteroid belt between Mars and Jupiter that contains the majority of the known asteroids in our solar system. However, our solar system hosts several other populations of asteroids and. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because biology becomes more informative when an observed effect begins to look like a mechanism rather than an isolated pattern. The gap between identifying a correlation in biological data and understanding the causal chain that produces it is routinely underestimated, and the history of biomedical research is populated with associations that collapsed when the mechanism was sought and not found. A result that comes with a proposed mechanism, even a partial one, is more useful than a purely descriptive finding because it generates testable predictions that can narrow the hypothesis space. When we think of asteroids, we often think of the main asteroid belt between Mars and Jupiter that contains the majority of the known asteroids in our solar system. But one Centaur called Chariklo stands out not only because it’s the largest known Centaur with a radius of 125 kilometers (78 miles), but because it is the only Centaur to have a.</p><p>As they discuss in a recent study published in Science Advances, the researchers present evidence that Chariklo’s two rings might be gaining and losing material. To determine this, the researchers used a common technique called stellar occultation, which has been used for observations of Chariklo’s ring system in 2017 and 2022 using.</p><p>The 2017 study established a baseline regarding the rings’ composition and sizes, while the 2022 study used JWST to observe Chariklo and its rings. While Chariklo is about 125 kilometers in radius, the inner ring (C1R) and outer ring (C2R) orbit about 265 kilometers (165 miles) and 280 kilometers (174 miles) from Chariklo’s.</p><p>For this most recent study, the researchers discovered the inner ring (C1R) had its opaqueness increase by more than 50 percent and the outer ring (C2R) had its opaqueness. An object’s opaqueness is its ability for light to pass through it, with a fully transparent object being 0 percent opaque and a fully dark object being 100 percent opaque.</p><p>The broader interest lies in whether the reported effect points toward a real mechanism and not merely a reproducible but unexplained association. Biology has learned from decades of biomarker failures that correlation, even robust correlation, is not a substitute for mechanistic understanding. A pathway that can be traced from molecular interaction to cellular response to organismal phenotype provides a far stronger foundation for intervention than a statistical association discovered in a large dataset, however well the statistics are done.</p><p>The researchers note how this study demonstrates JWST’s ability to use stellar occultation for studying solar system objects. Only time will tell, and this is why we science.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to test whether the effect repeats across different methods, cell types, model organisms and experimental conditions. Reproducibility is the first test, but mechanistic dissection is the second, and a result that passes both has a substantially better chance of translating into something clinically or biotechnologically useful. The path from a laboratory finding to an applied outcome typically takes a decade or more, and most findings do not complete it; the current result sits at the beginning of that process.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/jwst-finds-dynamic-structural-evolution-in-chariklos-rings\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Quando pensamos em asteróides, muitas vezes pensamos no principal cinturão de asteróides entre Marte e Júpiter, que contém a maioria dos asteróides.",
-      "Dado-chave: Quando pensamos em asteróides, muitas vezes pensamos no principal cinturão de asteróides entre Marte e Júpiter, que contém a maioria dos.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Quando pensamos em asteróides, muitas vezes pensamos no principal cinturão de asteróides entre Marte e Júpiter, que contém a maioria dos asteróides.",
-      "Dado-chave: Quando pensamos em asteróides, muitas vezes pensamos no principal cinturão de asteróides entre Marte e Júpiter, que contém a maioria dos.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: When we think of asteroids, we often think of the main asteroid belt between Mars and Jupiter that contains the majority of the known asteroids in.",
-      "Key detail: When we think of asteroids, we often think of the main asteroid belt between Mars and Jupiter that contains the majority of the known asteroids.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "27 set 2026",
-    "date_pt": "27 set 2026",
-    "date_en": "27 Sep 2026",
-    "time": "05h12",
-    "time_pt": "05h12",
-    "time_en": "05:12 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-09-27T05:12:59+00:00",
-    "lastModifiedIso": "2026-09-27T05:12:59+00:00",
-    "source": "Universe Today",
-    "sourceDomain": "www.universetoday.com",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Biologia",
-      "Universe Today",
-      "Cosmos Week",
-      "JWST encontra evolução estrutural dinâmica nos anéis de Chariklo"
-    ],
-    "keywords_pt": [
-      "Biologia",
-      "Universe Today",
-      "Cosmos Week",
-      "JWST encontra evolução estrutural dinâmica nos anéis de Chariklo"
-    ],
-    "keywords_en": [
-      "Biology",
-      "Universe Today",
-      "Cosmos Week",
-      "JWST finds dynamic structural evolution in Chariklo rings"
-    ],
-    "srcUrl": "https://www.universetoday.com/articles/jwst-finds-dynamic-structural-evolution-in-chariklos-rings",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=jwst-finds-dynamic-structural-evolution-in-chariklo-s-rings",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=jwst-finds-dynamic-structural-evolution-in-chariklo-s-rings",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=jwst-finds-dynamic-structural-evolution-in-chariklo-s-rings&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 73,
-    "scoreBreakdown": {
-      "source": 73,
-      "evidence": 82,
-      "relevance": 80,
       "accessibility": 60,
       "novelty": 55
     }
@@ -1246,17 +1251,7 @@ window.postsData = [
     "cat": "Astronomia",
     "catCls": "astronomia",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/welcome_bepicolombo_to_mercury/27520540-1-eng-GB/Welcome_BepiColombo_to_Mercury_card_full.png",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/welcome_bepicolombo_to_mercury_full_version/27521282-1-eng-GB/Welcome_BepiColombo_to_Mercury_full_version_article.png",
-        "caption": "Bem-vindo BepiColombo a Mercúrio!",
-        "caption_pt": "Bem-vindo BepiColombo a Mercúrio!",
-        "caption_en": "Welcome BepiColombo to Mercury!",
-        "alt": "Bem-vindo BepiColombo a Mercúrio!",
-        "alt_pt": "Bem-vindo BepiColombo a Mercúrio!",
-        "alt_en": "Welcome BepiColombo to Mercury!"
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "Ganhe uma viagem à ESA para testemunhar a chegada do BepiColombo a Mercúrio",
@@ -1268,22 +1263,22 @@ window.postsData = [
     "excerpt": "Prepare-se para comemorar a chegada do BepiColombo a Mercúrio. Crie uma mensagem de boas-vindas que pode ser um desenho, uma música, um poema ou qualquer outra forma de arte e tenha a chance de ganhar uma viagem ao controle da missão! FORMULÁRIO DE INSCRIÇÃO.",
     "excerpt_pt": "Prepare-se para comemorar a chegada do BepiColombo a Mercúrio. Crie uma mensagem de boas-vindas que pode ser um desenho, uma música, um poema ou qualquer outra forma de arte e tenha a chance de ganhar uma viagem ao controle da missão! FORMULÁRIO DE INSCRIÇÃO.",
     "excerpt_en": "Get ready to celebrate BepiColombo ’s arrival at Mercury. Craft a welcoming message that could be a drawing, song, poem or any other art form and stand a chance to win a trip to mission control! ENTRY FORM Full rules and how to enter below.",
-    "body": "<p>Prepare-se para comemorar a chegada do BepiColombo a Mercúrio. Crie uma mensagem de boas-vindas que pode ser um desenho, uma música, um poema ou qualquer outra forma de arte e tenha a chance de ganhar uma viagem ao controle da missão! FORMULÁRIO DE INSCRIÇÃO Regras completas e. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A missão BepiColombo da ESA/JAXA entrou na fase de chegada a Mercúrio, depois de navegar em direção ao planeta nos últimos oito anos. Eles tiveram que navegar por uma jornada complexa, incluindo nove sobrevoos planetários, um voo pela Terra, dois por Vênus e seis pelo próprio Mercúrio.</p><p>No início deste mês, a missão começou a realizar uma série de etapas críticas que colocarão os dois orbitadores, MPO e Mio, nas suas órbitas científicas ao longo dos próximos. Você tem a chance de ganhar uma viagem para um evento que acontecerá no dia 9 de dezembro em Darmstadt, Alemanha, no Centro de Operações Espaciais da ESA.</p><p>Você terá a oportunidade de conhecer as equipes por trás do BepiColombo e vivenciar o momento tenso de receber o primeiro sinal da espaçonave após sua separação. Leia as regras do concurso abaixo e envie sua inscrição até 25 de outubro de 2026 realizando duas ações: Siga-nos no Bluesky, LinkedIn e X para se manter atualizado com os.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Win_a_trip_to_ESA_to_witness_BepiColombo_arrive_at_Mercury\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Prepare-se para comemorar a chegada do BepiColombo a Mercúrio. Crie uma mensagem de boas-vindas que pode ser um desenho, uma música, um poema ou qualquer outra forma de arte e tenha a chance de ganhar uma viagem ao controle da missão! FORMULÁRIO DE INSCRIÇÃO Regras completas e. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A missão BepiColombo da ESA/JAXA entrou na fase de chegada a Mercúrio, depois de navegar em direção ao planeta nos últimos oito anos. Eles tiveram que navegar por uma jornada complexa, incluindo nove sobrevoos planetários, um voo pela Terra, dois por Vênus e seis pelo próprio Mercúrio.</p><p>No início deste mês, a missão começou a realizar uma série de etapas críticas que colocarão os dois orbitadores, MPO e Mio, nas suas órbitas científicas ao longo dos próximos. Você tem a chance de ganhar uma viagem para um evento que acontecerá no dia 9 de dezembro em Darmstadt, Alemanha, no Centro de Operações Espaciais da ESA.</p><p>Você terá a oportunidade de conhecer as equipes por trás do BepiColombo e vivenciar o momento tenso de receber o primeiro sinal da espaçonave após sua separação. Leia as regras do concurso abaixo e envie sua inscrição até 25 de outubro de 2026 realizando duas ações: Siga-nos no Bluesky, LinkedIn e X para se manter atualizado com os.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Win_a_trip_to_ESA_to_witness_BepiColombo_arrive_at_Mercury\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Get ready to celebrate BepiColombo ’s arrival at Mercury. Craft a welcoming message that could be a drawing, song, poem or any other art form and stand a chance to win a trip to mission control! ENTRY FORM Full rules and how to enter below. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. The ESA/JAXA BepiColombo mission has entered its Mercury arrival phase, after cruising towards the planet for the past eight years. They had to navigate a complex journey, including nine planetary flybys, one flight past Earth, two past Venus and six past Mercury itself.</p><p>Earlier this month, the mission started performing a series of critical steps that will bring the two orbiters, MPO and Mio, into their science orbits over the next few months. You stand a chance to win a trip to an event happening on 9 December in Darmstadt, Germany, at ESA’s Space Operations Centre.</p><p>You will get a chance to meet the teams behind BepiColombo and experience the tense moment of receiving the first signal from the spacecraft once they have separated. Read the competition rules below and submit your entry by 25 October 2026 by taking two actions: Follow us on Bluesky, LinkedIn and X to stay up to date with the competition.</p><p>Please also check ESA’s privacy notice for social media: https: //www. esa. int/Services/ESA_Privacy_Notice_ESA_social_media If you have any questions, please ask us via Bluesky. On 3 September, MTM, which powered and steered BepiColombo for most of the journey, released the two orbiters and bade them farewell.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>On 21 November, MPO and Mio, still joined together, will be captured by Mercury’s gravity. Mio will have entered its science operation orbit at this stage.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Win_a_trip_to_ESA_to_witness_BepiColombo_arrive_at_Mercury\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>Prepare-se para comemorar a chegada do BepiColombo a Mercúrio. Crie uma mensagem de boas-vindas que pode ser um desenho, uma música, um poema ou qualquer outra forma de arte e tenha a chance de ganhar uma viagem ao controle da missão! FORMULÁRIO DE INSCRIÇÃO Regras completas e. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Prepare-se para comemorar a chegada do BepiColombo a Mercúrio. Crie uma mensagem de boas-vindas que pode ser um desenho, uma música, um poema ou qualquer outra forma de arte e tenha a chance de ganhar uma viagem ao controle da missão.</p><p>FORMULÁRIO DE INSCRIÇÃO Regras completas e como participar abaixo.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Win_a_trip_to_ESA_to_witness_BepiColombo_arrive_at_Mercury\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Prepare-se para comemorar a chegada do BepiColombo a Mercúrio. Crie uma mensagem de boas-vindas que pode ser um desenho, uma música, um poema ou qualquer outra forma de arte e tenha a chance de ganhar uma viagem ao controle da missão! FORMULÁRIO DE INSCRIÇÃO Regras completas e. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Prepare-se para comemorar a chegada do BepiColombo a Mercúrio. Crie uma mensagem de boas-vindas que pode ser um desenho, uma música, um poema ou qualquer outra forma de arte e tenha a chance de ganhar uma viagem ao controle da missão.</p><p>FORMULÁRIO DE INSCRIÇÃO Regras completas e como participar abaixo.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Win_a_trip_to_ESA_to_witness_BepiColombo_arrive_at_Mercury\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Get ready to celebrate BepiColombo ’s arrival at Mercury. Craft a welcoming message that could be a drawing, song, poem or any other art form and stand a chance to win a trip to mission control! ENTRY FORM Full rules and how to enter below. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Get ready to celebrate BepiColombo ’s arrival at Mercury. Craft a welcoming message that could be a drawing, song, poem or any other art form and stand a chance to win a trip to mission control.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Win_a_trip_to_ESA_to_witness_BepiColombo_arrive_at_Mercury\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Prepare-se para comemorar a chegada do BepiColombo a Mercúrio. Crie uma mensagem de boas-vindas que pode ser um desenho, uma música, um poema ou.",
-      "Dado-chave: A missão BepiColombo da ESA/JAXA entrou na fase de chegada a Mercúrio, depois de navegar em direção ao planeta nos últimos oito anos.",
+      "Dado-chave: Prepare-se para comemorar a chegada do BepiColombo a Mercúrio.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: Prepare-se para comemorar a chegada do BepiColombo a Mercúrio. Crie uma mensagem de boas-vindas que pode ser um desenho, uma música, um poema ou.",
-      "Dado-chave: A missão BepiColombo da ESA/JAXA entrou na fase de chegada a Mercúrio, depois de navegar em direção ao planeta nos últimos oito anos.",
+      "Dado-chave: Prepare-se para comemorar a chegada do BepiColombo a Mercúrio.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: Get ready to celebrate BepiColombo ’s arrival at Mercury. Craft a welcoming message that could be a drawing, song, poem or any other art form and.",
-      "Key detail: The ESA/JAXA BepiColombo mission has entered its Mercury arrival phase, after cruising towards the planet for the past eight years.",
+      "Key detail: Get ready to celebrate BepiColombo ’s arrival at Mercury.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "24 set 2026",
@@ -1361,35 +1356,7 @@ window.postsData = [
     "cat": "Astronomia",
     "catCls": "astronomia",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/mtm_separation_signal_confirmation/27452584-1-eng-GB/MTM_separation_signal_confirmation_card_full.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/mtm_separation_at_mission_control/27452631-1-eng-GB/MTM_separation_at_Mission_Control_article.jpg",
-        "caption": "Separação MTM no Controle da Missão",
-        "caption_pt": "Separação MTM no Controle da Missão",
-        "caption_en": "MTM separation at Mission Control",
-        "alt": "Separação MTM no Controle da Missão",
-        "alt_pt": "Separação MTM no Controle da Missão",
-        "alt_en": "MTM separation at Mission Control"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/preliminary_doppler_signal/27452678-1-eng-GB/Preliminary_Doppler_signal_article.png",
-        "caption": "Sinal Doppler preliminar",
-        "caption_pt": "Sinal Doppler preliminar",
-        "caption_en": "Preliminary Doppler signal",
-        "alt": "Sinal Doppler preliminar",
-        "alt_pt": "Sinal Doppler preliminar",
-        "alt_en": "Preliminary Doppler signal"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/a_last_selfie_from_mtm_s_monitoring_camera_1/27453590-1-eng-GB/A_last_selfie_from_MTM_s_monitoring_camera_1_article.jpg",
-        "caption": "Uma última selfie da câmera de monitoramento do MTM 1",
-        "caption_pt": "Uma última selfie da câmera de monitoramento do MTM 1",
-        "caption_en": "A last selfie from MTM's monitoring camera 1",
-        "alt": "Uma última selfie da MTM",
-        "alt_pt": "Uma última selfie da MTM",
-        "alt_en": "A last selfie from MTM"
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "BepiColombo inicia chegada de Mercúrio com sucesso de separação MTM",
@@ -1401,9 +1368,9 @@ window.postsData = [
     "excerpt": "49 CEST, a Equipe de Controle da Missão BepiColombo da Agência Espacial Europeia no Centro Europeu de Operações Espaciais recebeu o sinal que estava esperando, o Módulo de Transferência de Mercúrio da BepiColombo separou-se com sucesso da espaçonave.",
     "excerpt_pt": "49 CEST, a Equipe de Controle da Missão BepiColombo da Agência Espacial Europeia no Centro Europeu de Operações Espaciais recebeu o sinal que estava esperando, o Módulo de Transferência de Mercúrio da BepiColombo separou-se com sucesso da espaçonave.",
     "excerpt_en": "49 CEST, the European Space Agency's BepiColombo Mission Control Team at the European Space Operations Centre received the signal they had been waiting for, BepiColombo’s Mercury Transfer Module successfully separated from the spacecraft.",
-    "body": "<p>49 CEST, a Equipe de Controle da Missão BepiColombo da Agência Espacial Europeia no Centro Europeu de Operações Espaciais recebeu o sinal que estava esperando, o Módulo de Transferência de Mercúrio da BepiColombo separou-se com sucesso da espaçonave. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Em 3 de setembro de 2026 às 15h49 CEST, a Equipe de Controle da Missão BepiColombo da Agência Espacial Europeia no Centro Europeu de Operações Espaciais (ESOC) recebeu o sinal que. Esta conquista histórica para a missão da ESA e da Agência de Exploração Aeroespacial do Japão (JAXA) marca o primeiro passo da tão esperada chegada da BepiColombo a Mercúrio.</p><p>Ele carregou o BepiColombo da Terra a Mercúrio, fornecendo energia e a propulsão elétrica solar (SEP) altamente avançada necessária para navegar em sua complexa jornada espacial. Esta separação é a primeira de uma sequência de manobras importantes que farão com que a BepiColombo se torne a primeira missão a colocar duas naves espaciais em órbita ao redor.</p><p>A fase de chegada a Mercúrio da missão é uma das sequências de chegada planetária mais complexas alguma vez tentadas pela ESA. Após um dia intenso de operações no centro de controlo da missão da ESA em Darmstadt, Alemanha, a ESA, os parceiros industriais e a comunidade científica da missão celebraram a.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Enabling_Support/Operations/BepiColombo_begins_Mercury_arrival_with_MTM_separation_success\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>49 CEST, a Equipe de Controle da Missão BepiColombo da Agência Espacial Europeia no Centro Europeu de Operações Espaciais recebeu o sinal que estava esperando, o Módulo de Transferência de Mercúrio da BepiColombo separou-se com sucesso da espaçonave. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Em 3 de setembro de 2026 às 15h49 CEST, a Equipe de Controle da Missão BepiColombo da Agência Espacial Europeia no Centro Europeu de Operações Espaciais (ESOC) recebeu o sinal que. Esta conquista histórica para a missão da ESA e da Agência de Exploração Aeroespacial do Japão (JAXA) marca o primeiro passo da tão esperada chegada da BepiColombo a Mercúrio.</p><p>Ele carregou o BepiColombo da Terra a Mercúrio, fornecendo energia e a propulsão elétrica solar (SEP) altamente avançada necessária para navegar em sua complexa jornada espacial. Esta separação é a primeira de uma sequência de manobras importantes que farão com que a BepiColombo se torne a primeira missão a colocar duas naves espaciais em órbita ao redor.</p><p>A fase de chegada a Mercúrio da missão é uma das sequências de chegada planetária mais complexas alguma vez tentadas pela ESA. Após um dia intenso de operações no centro de controlo da missão da ESA em Darmstadt, Alemanha, a ESA, os parceiros industriais e a comunidade científica da missão celebraram a.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Enabling_Support/Operations/BepiColombo_begins_Mercury_arrival_with_MTM_separation_success\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>49 CEST, the European Space Agency&#x27;s BepiColombo Mission Control Team at the European Space Operations Centre received the signal they had been waiting for, BepiColombo’s Mercury Transfer Module successfully separated from the spacecraft. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. 49 CEST, the European Space Agency&#x27;s BepiColombo Mission Control Team at the European Space Operations Centre (ESOC) received the signal they had been waiting for, BepiColombo’s. This landmark achievement for the ESA and Japan Aerospace Exploration Agency (JAXA) mission marks the first step of BepiColombo&#x27;s long-awaited arrival at Mercury.</p><p>It carried BepiColombo from Earth to Mercury, providing power and the highly advanced solar electric propulsion ( SEP ) needed to navigate its complex space journey. This separation is the first in a sequence of key manoeuvres that will ultimately see BepiColombo become the first mission to place two spacecraft in orbit around Mercury, in.</p><p>The mission&#x27;s Mercury arrival phase is one of the most complex planetary arrival sequences ever attempted by ESA. After an intense day of operations at ESA&#x27;s mission control centre in Darmstadt, Germany, ESA, industry partners and the mission&#x27;s scientific community celebrated the acquisition.</p><p>As the expected separation time arrived at 14: 00 CEST, silence fell over mission control. The team would have to wait nearly two hours for confirmation to arrive from 200 million kilometres away.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>20 CEST, a preliminary Doppler signal provided the first indication that separation had taken place. With ESA&#x27;s Estrack Cebreros and Malargüe deep-space antennas locked on target, all eyes turned to the incoming telemetry.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Enabling_Support/Operations/BepiColombo_begins_Mercury_arrival_with_MTM_separation_success\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>49 CEST, a Equipe de Controle da Missão BepiColombo da Agência Espacial Europeia no Centro Europeu de Operações Espaciais recebeu o sinal que estava esperando, o Módulo de Transferência de Mercúrio da BepiColombo separou-se com sucesso da espaçonave. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Em 3 de setembro de 2026 às 15h49 CEST, a Equipe de Controle da Missão BepiColombo da Agência Espacial Europeia no Centro Europeu de Operações Espaciais (ESOC) recebeu o sinal que. Esta conquista histórica para a missão da ESA e da Agência de Exploração Aeroespacial do Japão (JAXA) marca o primeiro passo da tão esperada chegada da BepiColombo a Mercúrio.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Enabling_Support/Operations/BepiColombo_begins_Mercury_arrival_with_MTM_separation_success\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>49 CEST, a Equipe de Controle da Missão BepiColombo da Agência Espacial Europeia no Centro Europeu de Operações Espaciais recebeu o sinal que estava esperando, o Módulo de Transferência de Mercúrio da BepiColombo separou-se com sucesso da espaçonave. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Em 3 de setembro de 2026 às 15h49 CEST, a Equipe de Controle da Missão BepiColombo da Agência Espacial Europeia no Centro Europeu de Operações Espaciais (ESOC) recebeu o sinal que. Esta conquista histórica para a missão da ESA e da Agência de Exploração Aeroespacial do Japão (JAXA) marca o primeiro passo da tão esperada chegada da BepiColombo a Mercúrio.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Enabling_Support/Operations/BepiColombo_begins_Mercury_arrival_with_MTM_separation_success\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>49 CEST, the European Space Agency&#x27;s BepiColombo Mission Control Team at the European Space Operations Centre received the signal they had been waiting for, BepiColombo’s Mercury Transfer Module successfully separated from the spacecraft. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. 49 CEST, the European Space Agency&#x27;s BepiColombo Mission Control Team at the European Space Operations Centre (ESOC) received the signal they had been waiting for, BepiColombo’s. This landmark achievement for the ESA and Japan Aerospace Exploration Agency (JAXA) mission marks the first step of BepiColombo&#x27;s long-awaited arrival at Mercury.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Enabling_Support/Operations/BepiColombo_begins_Mercury_arrival_with_MTM_separation_success\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: 49 CEST, a Equipe de Controle da Missão BepiColombo da Agência Espacial Europeia no Centro Europeu de Operações Espaciais recebeu o sinal que estava.",
       "Dado-chave: Em 3 de setembro de 2026 às 15h49 CEST, a Equipe de Controle da Missão BepiColombo da Agência Espacial Europeia no Centro Europeu de Operações.",
@@ -1895,142 +1862,6 @@ window.postsData = [
   },
   {
     "id": 17,
-    "slug": "black-hole-jets-reach-far-beyond-galaxies-visible-edges-potentially-deciding-their-fate",
-    "cat": "Astrofísica",
-    "catCls": "astrofisica",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/asu-astronomers-uncove.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/asu-astronomers-uncove.jpg",
-        "caption": "Ilustração artística de um buraco negro supermassivo no centro de uma galáxia de rádio, lançando jatos poderosos (mostrados em rosa) até o CGM da galáxia. O estudo descobriu que esses jatos não iluminam igualmente o gás circundante.",
-        "caption_pt": "Ilustração artística de um buraco negro supermassivo no centro de uma galáxia de rádio, lançando jatos poderosos (mostrados em rosa) até o CGM da galáxia. O estudo descobriu que esses jatos não iluminam igualmente o gás circundante.",
-        "caption_en": "Artist's illustration of a supermassive black hole at the center of a radio galaxy launching powerful jets (shown in pink) all the way into the galaxy's CGM. The study finds that these jets do not light up the surrounding gas equally in.",
-        "alt": "Astrônomos da ASU descobrem jatos de buracos negros que vão muito além de suas galáxias e decidem seu destino",
-        "alt_pt": "Astrônomos da ASU descobrem jatos de buracos negros que vão muito além de suas galáxias e decidem seu destino",
-        "alt_en": "ASU astronomers uncover black hole jets reaching far beyond their galaxies and deciding their fate"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/a5155b7e93ee6855.png",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/b3013a0f7fc5c4a0.png",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Jatos de buracos negros vão muito além das bordas visíveis das galáxias, potencialmente decidindo seu destino",
-    "title_pt": "Jatos de buracos negros vão muito além das bordas visíveis das galáxias, potencialmente decidindo seu destino",
-    "title_en": "Black hole jets reach far beyond galaxies' visible edges, potentially deciding their fate",
-    "sub": "As galáxias são enormes e contêm centenas de bilhões de estrelas. Essas estrelas se formam a partir de gás frio e denso. Cada grande galáxia, incluindo a Via Láctea, está envolta.",
-    "sub_pt": "As galáxias são enormes e contêm centenas de bilhões de estrelas. Essas estrelas se formam a partir de gás frio e denso. Cada grande galáxia, incluindo a Via Láctea, está envolta.",
-    "sub_en": "Galaxies are enormous and hold hundreds of billions of stars. These stars form from cold, dense gas. Every large galaxy, including the Milky Way, is wrapped in a huge envelope of.",
-    "excerpt": "As galáxias são enormes e contêm centenas de bilhões de estrelas. Essas estrelas se formam a partir de gás frio e denso. Cada grande galáxia, incluindo a Via Láctea, está envolta num enorme envelope de gás chamado meio circungaláctico, ou CGM. Este.",
-    "excerpt_pt": "As galáxias são enormes e contêm centenas de bilhões de estrelas. Essas estrelas se formam a partir de gás frio e denso. Cada grande galáxia, incluindo a Via Láctea, está envolta num enorme envelope de gás chamado meio circungaláctico, ou CGM. Este.",
-    "excerpt_en": "Galaxies are enormous and hold hundreds of billions of stars. These stars form from cold, dense gas. Every large galaxy, including the Milky Way, is wrapped in a huge envelope of gas called the circumgalactic medium, or CGM. This reservoir.",
-    "body": "<p>As galáxias são enormes e contêm centenas de bilhões de estrelas. Essas estrelas se formam a partir de gás frio e denso. Cada grande galáxia, incluindo a Via Láctea, está envolta num enorme envelope de gás chamado meio circungaláctico, ou CGM. Este reservatório. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Usamos dados ópticos da pesquisa DESI e observações de rádio do LOFAR Two meter Sky Survey (LoTss).</p><p>Este reservatório de matéria-prima estende-se de 10 a 20 vezes o tamanho da porção visível da galáxia. Este é um resultado inovador que resolve o mistério de longa data de como os buracos negros influenciam as galáxias, as suas estrelas e a vida como a conhecemos!&quot; disse Borthakur.</p><p>Este trabalho abre uma nova direção para explorar mais profundamente as complexidades da ligação entre os buracos negros supermassivos, a biliões de quilómetros de onde estamos e. As suas galáxias hospedeiras, por outro lado, podem conter cerca de 100 mil milhões desses sistemas solares.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-09-black-hole-jets-galaxies-visible.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>As galáxias são enormes e contêm centenas de bilhões de estrelas. Essas estrelas se formam a partir de gás frio e denso. Cada grande galáxia, incluindo a Via Láctea, está envolta num enorme envelope de gás chamado meio circungaláctico, ou CGM. Este reservatório. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico coerente, em vez de ser apenas consistente com uma ampla família de modelos. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Usamos dados ópticos da pesquisa DESI e observações de rádio do LOFAR Two meter Sky Survey (LoTss).</p><p>Este reservatório de matéria-prima estende-se de 10 a 20 vezes o tamanho da porção visível da galáxia. Este é um resultado inovador que resolve o mistério de longa data de como os buracos negros influenciam as galáxias, as suas estrelas e a vida como a conhecemos!&quot; disse Borthakur.</p><p>Este trabalho abre uma nova direção para explorar mais profundamente as complexidades da ligação entre os buracos negros supermassivos, a biliões de quilómetros de onde estamos e. As suas galáxias hospedeiras, por outro lado, podem conter cerca de 100 mil milhões desses sistemas solares.</p><p>O interesse mais amplo está em transformar uma pista observacional em algo que possa ser comparado com modelos concorrentes da física subjacente. A astrofísica não tem o luxo de experimentos controlados; tudo é inferido a partir de radiação que percorreu distâncias cósmicas sob condições que não podem ser reproduzidas em laboratório terrestre. Isso torna a cadeia de interpretação mais longa e incerta do que na ciência de bancada, mas também significa que uma medição bem restringida de um objeto extremo carrega informação teórica que nenhum experimento terrestre pode fornecer.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se conjuntos de dados independentes e modelagem física convergem para a mesma interpretação. O acompanhamento em múltiplos comprimentos de onda, combinando dados de raios X, rádio e óptico onde possível, é tipicamente o que separa uma detecção convincente de uma caracterização física robusta. Na astrofísica de alta energia, resultados que inicialmente pareciam definitivos foram revisados quando dados de um segundo mensageiro chegaram; o resultado atual deve ser lido com essa história em mente.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-09-black-hole-jets-galaxies-visible.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Galaxies are enormous and hold hundreds of billions of stars. These stars form from cold, dense gas. Every large galaxy, including the Milky Way, is wrapped in a huge envelope of gas called the circumgalactic medium, or CGM. This reservoir. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astrophysics becomes persuasive only when an observed signal can be tied to a physically defensible explanation. Compact objects such as neutron stars and black holes are natural laboratories for extreme physics, but the distance and complexity of these systems make interpretation difficult without multi-wavelength coverage and careful modeling. A detection without a mechanism is only half a result. the other half comes from showing that the signal fits quantitatively inside a coherent physical picture rather than merely being consistent with a broad family of models. This article has been reviewed according to Science X&#x27;s editorial process and policies. We use optical data from the DESI survey and radio observations from the LOFAR Two meter Sky Survey (LoTss).</p><p>This reservoir of raw material stretches 10, 20 times the size of the visible portion of the galaxy. This is a pathbreaking result that solves the long-standing mystery of how black holes influence galaxies, their stars and life as we know it!&quot; said Borthakur, an associate.</p><p>This work opens a new direction to explore further the intricacies of the connection between the supermassive black holes trillions of miles from where we are to how we came to be. Their host galaxies, on the other hand, can hold about 100 billion such solar systems.</p><p>So the team combined observations of hundreds of galaxies with active jets, using data from the Dark Energy Spectroscopic Instrument (DESI) survey and radio jet measurements from. Roy, Borthakur and colleagues showed that when averaged over all directions around the galaxies, the signal was weak.</p><p>The broader interest lies in turning an observational clue into something that can be weighed against competing models of the underlying physics. Astrophysics does not have the luxury of controlled experiments; everything is inferred from radiation that traveled across cosmic distances under conditions that cannot be reproduced in a terrestrial laboratory. This makes the interpretation chain longer and more uncertain than in bench science, but it also means that a well-constrained measurement of an extreme object carries theoretical information that no earthbound experiment can provide.</p><p>Along the radio jets, however, the H-alpha signal became clear and strong. Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether independent datasets and physical modeling converge on the same interpretation. Multi-wavelength follow-up, combining X-ray, radio and optical data where possible, is typically what separates a compelling detection from a robust physical characterization. In high-energy astrophysics, results that initially looked definitive have been revised when data from a second messenger arrived; the current result should be read with that history in mind.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-09-black-hole-jets-galaxies-visible.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: As galáxias são enormes e contêm centenas de bilhões de estrelas. Essas estrelas se formam a partir de gás frio e denso. Cada grande galáxia.",
-      "Dado-chave: Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: As galáxias são enormes e contêm centenas de bilhões de estrelas. Essas estrelas se formam a partir de gás frio e denso. Cada grande galáxia.",
-      "Dado-chave: Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Galaxies are enormous and hold hundreds of billions of stars. These stars form from cold, dense gas. Every large galaxy, including the Milky Way, is.",
-      "Key detail: This article has been reviewed according to Science X's editorial process and policies.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "26 set 2026",
-    "date_pt": "26 set 2026",
-    "date_en": "26 Sep 2026",
-    "time": "21h00",
-    "time_pt": "21h00",
-    "time_en": "21:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-09-26T21:00:01+00:00",
-    "lastModifiedIso": "2026-09-26T21:00:01+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astrofísica",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Jatos de buracos negros vão muito além das bordas visíveis das galáxias",
-      "potencialmente decidindo seu destino"
-    ],
-    "keywords_pt": [
-      "Astrofísica",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Jatos de buracos negros vão muito além das bordas visíveis das galáxias",
-      "potencialmente decidindo seu destino"
-    ],
-    "keywords_en": [
-      "Astrophysics",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Black hole jets reach far beyond the visible edges of galaxies",
-      "potentially deciding your fate"
-    ],
-    "srcUrl": "https://phys.org/news/2026-09-black-hole-jets-galaxies-visible.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=black-hole-jets-reach-far-beyond-galaxies-visible-edges-potentially-deciding-their-fate",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=black-hole-jets-reach-far-beyond-galaxies-visible-edges-potentially-deciding-their-fate",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=black-hole-jets-reach-far-beyond-galaxies-visible-edges-potentially-deciding-their-fate&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 76,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 82,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 18,
     "slug": "astronomers-find-a-sub-neptune-orbiting-completely-backward-around-a-red-dwarf",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2158,7 +1989,7 @@ window.postsData = [
     }
   },
   {
-    "id": 19,
+    "id": 18,
     "slug": "coolest-lava-world-yet-with-signs-of-an-atmosphere-offers-clues-to-early-earth",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2291,7 +2122,7 @@ window.postsData = [
     }
   },
   {
-    "id": 20,
+    "id": 19,
     "slug": "ska-may-detect-magnetic-fields-on-distant-exoplanets",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2433,11 +2264,11 @@ window.postsData = [
       "evidence": 82,
       "relevance": 88,
       "accessibility": 60,
-      "novelty": 49
+      "novelty": 46
     }
   },
   {
-    "id": 21,
+    "id": 20,
     "slug": "faint-young-stars-reveal-spiral-galaxy-messier-74-may-be-twice-as-large-as-thought",
     "cat": "Física",
     "catCls": "fisica",
@@ -2570,7 +2401,7 @@ window.postsData = [
     }
   },
   {
-    "id": 22,
+    "id": 21,
     "slug": "the-september-october-2026-issue-of-the-cern-courier-is-out",
     "cat": "Física",
     "catCls": "fisica",
@@ -2685,7 +2516,7 @@ window.postsData = [
     }
   },
   {
-    "id": 23,
+    "id": 22,
     "slug": "computer-security-kids-at-the-keyboard",
     "cat": "Física",
     "catCls": "fisica",
@@ -2793,7 +2624,7 @@ window.postsData = [
     }
   },
   {
-    "id": 24,
+    "id": 23,
     "slug": "carbon-rocks-deep-underground-could-hold-the-evidence-of-mars-watery-past",
     "cat": "Química",
     "catCls": "quimica",
@@ -2916,17 +2747,17 @@ window.postsData = [
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 74,
+    "score": 73,
     "scoreBreakdown": {
       "source": 73,
       "evidence": 82,
       "relevance": 82,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
-    "id": 25,
+    "id": 24,
     "slug": "science-release-hubble-details-early-galaxy-transforming-neighbourhood",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3062,7 +2893,7 @@ window.postsData = [
     }
   },
   {
-    "id": 26,
+    "id": 25,
     "slug": "science-release-hubble-unexpectedly-catches-comet-breaking-up",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3198,7 +3029,7 @@ window.postsData = [
     }
   },
   {
-    "id": 27,
+    "id": 26,
     "slug": "esa-and-the-eu-partner-with-museo-galileo-on-new-exhibition",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3331,7 +3162,7 @@ window.postsData = [
     }
   },
   {
-    "id": 28,
+    "id": 27,
     "slug": "science-release-hubble-tracks-new-decagon-encircling-saturn-s-south-pole",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -3467,7 +3298,7 @@ window.postsData = [
     }
   },
   {
-    "id": 29,
+    "id": 28,
     "slug": "strange-galaxies-in-the-early-universe-were-shaped-by-weird-stars",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3600,7 +3431,7 @@ window.postsData = [
     }
   },
   {
-    "id": 30,
+    "id": 29,
     "slug": "3i-atlas-has-an-extreme-taste-for-heavy-water",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3728,7 +3559,7 @@ window.postsData = [
     }
   },
   {
-    "id": 31,
+    "id": 30,
     "slug": "nasa-welcomes-san-marino-signing-the-artemis-accords",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -3836,7 +3667,7 @@ window.postsData = [
     }
   },
   {
-    "id": 32,
+    "id": 31,
     "slug": "nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -3969,7 +3800,7 @@ window.postsData = [
     }
   },
   {
-    "id": 33,
+    "id": 32,
     "slug": "2026-2027-dwu-middle-school-design-challenge",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -4086,11 +3917,11 @@ window.postsData = [
       "evidence": 82,
       "relevance": 70,
       "accessibility": 60,
-      "novelty": 52
+      "novelty": 49
     }
   },
   {
-    "id": 34,
+    "id": 33,
     "slug": "2026-2027-dwu-high-school-engineering-challenge",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -4207,7 +4038,140 @@ window.postsData = [
       "evidence": 82,
       "relevance": 70,
       "accessibility": 60,
-      "novelty": 52
+      "novelty": 49
+    }
+  },
+  {
+    "id": 34,
+    "slug": "perseverance-reveals-how-complex-water-systems-shaped-the-jezero-crater-on-early-mars",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://www.universetoday.com/article_images/1_-_PIA26815_-_Mastcam-Z_360_Turquoise_Bay_Sols933-944_L0_natural_copy_20260924_213445.jpg",
+    "inline_images": [
+      {
+        "src": "https://www.universetoday.com/article_images/image_1_egu_rb_20260924_202359.png",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://www.universetoday.com/article_images/Jezero-Crater-1024x683.jpeg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://www.universetoday.com/assets/patreon-plus-thumb.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Perseverance revela como complexos sistemas hídricos moldaram a cratera de Jezero no início de Marte",
+    "title_pt": "Perseverance revela como complexos sistemas hídricos moldaram a cratera de Jezero no início de Marte",
+    "title_en": "Perseverance Reveals How Complex Water Systems Shaped the Jezero Crater on Early Mars",
+    "sub": "Um novo estudo revela que a enigmática “Unidade de Margem” da Cratera de Jezero foi moldada por uma sequência complexa de lagos antigos, sistemas de águas subterrâneas e fluidos.",
+    "sub_pt": "Um novo estudo revela que a enigmática “Unidade de Margem” da Cratera de Jezero foi moldada por uma sequência complexa de lagos antigos, sistemas de águas subterrâneas e fluidos.",
+    "sub_en": "A new study reveals that Jezero Crater’s enigmatic ‘Margin Unit’ was shaped by a complex sequence of ancient lakes, groundwater systems, and hydrothermal fluids.",
+    "excerpt": "Um novo estudo revela que a enigmática “Unidade de Margem” da Cratera de Jezero foi moldada por uma sequência complexa de lagos antigos, sistemas de águas subterrâneas e fluidos hidrotermais.",
+    "excerpt_pt": "Um novo estudo revela que a enigmática “Unidade de Margem” da Cratera de Jezero foi moldada por uma sequência complexa de lagos antigos, sistemas de águas subterrâneas e fluidos hidrotermais.",
+    "excerpt_en": "A new study reveals that Jezero Crater’s enigmatic ‘Margin Unit’ was shaped by a complex sequence of ancient lakes, groundwater systems, and hydrothermal fluids.",
+    "body": "<p>Um novo estudo revela que a enigmática “Unidade de Margem” da Cratera de Jezero foi moldada por uma sequência complexa de lagos antigos, sistemas de águas subterrâneas e fluidos hidrotermais. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Na cratera Jezero de Marte, uma área geológica conhecida como “Unidade de Margem” estende-se ao longo da costa de um lago que encheu a região há milhares de milhões de anos. Quando o rover Perseverance chegou lá em setembro de 2023, os cientistas da missão esperavam encontrar rochas sedimentares formadas a partir de depósitos de areia, que são boas.</p><p>Os minerais que o Perseverance detectou com sua SuperCam, que determina a mineralogia de características geológicas com base na luz refletida, preservaram um registro muito. Os resultados foram relatados na revista Communications Earth &amp; Environment.</p><p>Conforme indicado, o Perseverance analisou mais de 185 alvos rochosos em toda a Unidade de Margem usando seu instrumento SuperCam. Em altitudes elevadas de cerca de 2.350 m (~7.700 pés), a rocha tinha a textura e a química de uma rocha rica em olivina, de resfriamento lento, sem exposição significativa à água.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/perseverance-reveals-how-complex-water-systems-shaped-the-jezero-crater-on-early-mars\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Um novo estudo revela que a enigmática “Unidade de Margem” da Cratera de Jezero foi moldada por uma sequência complexa de lagos antigos, sistemas de águas subterrâneas e fluidos hidrotermais. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Na cratera Jezero de Marte, uma área geológica conhecida como “Unidade de Margem” estende-se ao longo da costa de um lago que encheu a região há milhares de milhões de anos. Quando o rover Perseverance chegou lá em setembro de 2023, os cientistas da missão esperavam encontrar rochas sedimentares formadas a partir de depósitos de areia, que são boas.</p><p>Os minerais que o Perseverance detectou com sua SuperCam, que determina a mineralogia de características geológicas com base na luz refletida, preservaram um registro muito. Os resultados foram relatados na revista Communications Earth &amp; Environment.</p><p>Conforme indicado, o Perseverance analisou mais de 185 alvos rochosos em toda a Unidade de Margem usando seu instrumento SuperCam. Em altitudes elevadas de cerca de 2.350 m (~7.700 pés), a rocha tinha a textura e a química de uma rocha rica em olivina, de resfriamento lento, sem exposição significativa à água.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/perseverance-reveals-how-complex-water-systems-shaped-the-jezero-crater-on-early-mars\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Jezero Crater’s enigmatic ‘Margin Unit’ was shaped by a complex sequence of ancient lakes, groundwater systems, and hydrothermal fluids. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. In Mars&#x27; Jezero Crater, a geologic area known as the “Margin Unit” stretches along the shoreline of a lake that filled the region billions of years ago. When the Perseverance rover reached there in September 2023, mission scientists expected to find sedimentary rocks that formed from sand deposits, which are good at preserving.</p><p>The minerals Perseverance detected with its SuperCam, which determines the mineralogy of geologic features based on reflected light, preserved a very complex record of water. The results were reported in the journal Communications Earth &amp; Environment.</p><p>As they indicated, Perseverance analyzed more than 185 bedrock targets across the Margin Unit using its SuperCam instrument. At high elevations of about 2350 m (~7700 ft), the rock had the texture and chemistry of slow-cooled, olivine-rich rock without significant water exposure.</p><p>However, about 265 m (870 ft) lower, where the hypothesized ancient lake existed, there were signs indicating a complex history of rock-water interaction. As Candice Bedford, a research scientist at Purdue University and the study’s lead author, explained in a NASA press release: Before we arrived at the Margin Unit, the main.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>The Margin Unit findings are important because Jezero Crater sits inside one of the largest exposures of carbonate on Mars, so what we learn here reaches well beyond this crater. When water interacts with olivine-rich minerals on Earth, the reaction can release hydrogen that some microbes feed on.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/perseverance-reveals-how-complex-water-systems-shaped-the-jezero-crater-on-early-mars\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Um novo estudo revela que a enigmática “Unidade de Margem” da Cratera de Jezero foi moldada por uma sequência complexa de lagos antigos, sistemas de.",
+      "Dado-chave: Na cratera Jezero de Marte, uma área geológica conhecida como “Unidade de Margem” estende-se ao longo da costa de um lago que encheu a região há.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Um novo estudo revela que a enigmática “Unidade de Margem” da Cratera de Jezero foi moldada por uma sequência complexa de lagos antigos, sistemas de.",
+      "Dado-chave: Na cratera Jezero de Marte, uma área geológica conhecida como “Unidade de Margem” estende-se ao longo da costa de um lago que encheu a região há.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: A new study reveals that Jezero Crater’s enigmatic ‘Margin Unit’ was shaped by a complex sequence of ancient lakes, groundwater systems, and.",
+      "Key detail: In Mars' Jezero Crater, a geologic area known as the “Margin Unit” stretches along the shoreline of a lake that filled the region billions of.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "24 set 2026",
+    "date_pt": "24 set 2026",
+    "date_en": "24 Sep 2026",
+    "time": "21h37",
+    "time_pt": "21h37",
+    "time_en": "21:37 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-09-24T21:37:42+00:00",
+    "lastModifiedIso": "2026-09-24T21:37:42+00:00",
+    "source": "Universe Today",
+    "sourceDomain": "www.universetoday.com",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astronomia",
+      "Universe Today",
+      "Cosmos Week",
+      "Perseverance revela como complexos sistemas hídricos moldaram a cratera de Jezero no início de Marte"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "Universe Today",
+      "Cosmos Week",
+      "Perseverance revela como complexos sistemas hídricos moldaram a cratera de Jezero no início de Marte"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "Universe Today",
+      "Cosmos Week",
+      "Perseverance reveals how complex water systems shaped Jezero Crater on early Mars"
+    ],
+    "srcUrl": "https://www.universetoday.com/articles/perseverance-reveals-how-complex-water-systems-shaped-the-jezero-crater-on-early-mars",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=perseverance-reveals-how-complex-water-systems-shaped-the-jezero-crater-on-early-mars",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=perseverance-reveals-how-complex-water-systems-shaped-the-jezero-crater-on-early-mars",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=perseverance-reveals-how-complex-water-systems-shaped-the-jezero-crater-on-early-mars&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 74,
+    "scoreBreakdown": {
+      "source": 73,
+      "evidence": 82,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 49
     }
   },
   {
@@ -4482,7 +4446,35 @@ window.postsData = [
     "cat": "Ciências da Terra",
     "catCls": "terra",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/juice_flies_past_earth/27532450-1-eng-GB/Juice_flies_past_Earth_card_full.png",
-    "inline_images": [],
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/juice_flies_by_earth_the_complete_path/27532497-1-eng-GB/Juice_flies_by_Earth_the_complete_path_article.jpg",
+        "caption": "Juice voa pela Terra – o caminho completo",
+        "caption_pt": "Juice voa pela Terra – o caminho completo",
+        "caption_en": "Juice flies by Earth – the complete path",
+        "alt": "Juice voa pela Terra – o caminho completo",
+        "alt_pt": "Juice voa pela Terra – o caminho completo",
+        "alt_en": "Juice flies by Earth – the complete path"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2022/12/juice_s_journey_to_jupiter/24641025-9-eng-GB/Juice_s_journey_to_Jupiter_article.jpg",
+        "caption": "A jornada de Juice para Júpiter",
+        "caption_pt": "A jornada de Juice para Júpiter",
+        "caption_en": "Juice’s journey to Jupiter",
+        "alt": "A jornada de Juice para Júpiter",
+        "alt_pt": "A jornada de Juice para Júpiter",
+        "alt_en": "Juice’s journey to Jupiter"
+      },
+      {
+        "src": "https://www.esa.int/extension/pillars/design/pillars/images/play-button.svg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
     "video": null,
     "audio": null,
     "title": "Juice voará além da Terra para assistência da terceira gravidade",
@@ -4494,9 +4486,9 @@ window.postsData = [
     "excerpt": "O Jupiter Icy Moons Explorer da Agência Espacial Europeia retornará à Terra em 28 de setembro, com controladores de vôo guiando a espaçonave perto de nosso planeta natal para alterar sua velocidade e direção a caminho de Júpiter.",
     "excerpt_pt": "O Jupiter Icy Moons Explorer da Agência Espacial Europeia retornará à Terra em 28 de setembro, com controladores de vôo guiando a espaçonave perto de nosso planeta natal para alterar sua velocidade e direção a caminho de Júpiter.",
     "excerpt_en": "The European Space Agency’s Jupiter Icy Moons Explorer will return to Earth on 28 September, with flight controllers guiding the spacecraft close to our home planet to alter its speed and direction en route to Jupiter.",
-    "body": "<p>O Jupiter Icy Moons Explorer da Agência Espacial Europeia retornará à Terra em 28 de setembro, com controladores de vôo guiando a espaçonave perto de nosso planeta natal para alterar sua velocidade e direção a caminho de Júpiter. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O Jupiter Icy Moons Explorer (Juice) da Agência Espacial Europeia retornará à Terra em 28 de setembro, com controladores de vôo guiando a espaçonave perto de nosso planeta natal.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_to_fly_past_Earth_for_third_gravity_assist\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>O Jupiter Icy Moons Explorer da Agência Espacial Europeia retornará à Terra em 28 de setembro, com controladores de vôo guiando a espaçonave perto de nosso planeta natal para alterar sua velocidade e direção a caminho de Júpiter. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O Jupiter Icy Moons Explorer (Juice) da Agência Espacial Europeia retornará à Terra em 28 de setembro, com controladores de vôo guiando a espaçonave perto de nosso planeta natal.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_to_fly_past_Earth_for_third_gravity_assist\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The European Space Agency’s Jupiter Icy Moons Explorer will return to Earth on 28 September, with flight controllers guiding the spacecraft close to our home planet to alter its speed and direction en route to Jupiter. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The European Space Agency’s Jupiter Icy Moons Explorer ( Juice ) will return to Earth on 28 September, with flight controllers guiding the spacecraft close to our home planet to.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_to_fly_past_Earth_for_third_gravity_assist\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>O Jupiter Icy Moons Explorer da Agência Espacial Europeia retornará à Terra em 28 de setembro, com controladores de vôo guiando a espaçonave perto de nosso planeta natal para alterar sua velocidade e direção a caminho de Júpiter. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O Jupiter Icy Moons Explorer (Juice) da Agência Espacial Europeia retornará à Terra em 28 de setembro, com controladores de vôo guiando a espaçonave perto de nosso planeta natal. A jornada da Juice começou há quase 3,5 anos, com seu lançamento em abril de 2023 no espaçoporto europeu na Guiana Francesa.</p><p>Desde então, os controladores de voo na Terra guiaram-no com sucesso através do primeiro sobrevôo Lua-Terra (uma manobra de “frenagem” para levar Juice em um atalho para Júpiter. Esta interação irá prepará-lo para um sobrevôo final pela Terra em janeiro de 2029, colocando Juice no caminho ideal para interceptar Júpiter em julho de 2031.</p><p>Entre 15 e 30 minutos antes da aproximação mais próxima, Juice passará sobre a Austrália, viajando do nordeste do país para o noroeste. Tudo isso significa que Juice terá bastante combustível em seus tanques para entrar em órbita ao redor de Júpiter em 2031, e depois na lua gigante Ganimedes em 2034.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_to_fly_past_Earth_for_third_gravity_assist\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>O Jupiter Icy Moons Explorer da Agência Espacial Europeia retornará à Terra em 28 de setembro, com controladores de vôo guiando a espaçonave perto de nosso planeta natal para alterar sua velocidade e direção a caminho de Júpiter. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O Jupiter Icy Moons Explorer (Juice) da Agência Espacial Europeia retornará à Terra em 28 de setembro, com controladores de vôo guiando a espaçonave perto de nosso planeta natal. A jornada da Juice começou há quase 3,5 anos, com seu lançamento em abril de 2023 no espaçoporto europeu na Guiana Francesa.</p><p>Desde então, os controladores de voo na Terra guiaram-no com sucesso através do primeiro sobrevôo Lua-Terra (uma manobra de “frenagem” para levar Juice em um atalho para Júpiter. Esta interação irá prepará-lo para um sobrevôo final pela Terra em janeiro de 2029, colocando Juice no caminho ideal para interceptar Júpiter em julho de 2031.</p><p>Entre 15 e 30 minutos antes da aproximação mais próxima, Juice passará sobre a Austrália, viajando do nordeste do país para o noroeste. Tudo isso significa que Juice terá bastante combustível em seus tanques para entrar em órbita ao redor de Júpiter em 2031, e depois na lua gigante Ganimedes em 2034.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_to_fly_past_Earth_for_third_gravity_assist\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The European Space Agency’s Jupiter Icy Moons Explorer will return to Earth on 28 September, with flight controllers guiding the spacecraft close to our home planet to alter its speed and direction en route to Jupiter. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The European Space Agency’s Jupiter Icy Moons Explorer ( Juice ) will return to Earth on 28 September, with flight controllers guiding the spacecraft close to our home planet to. Juice’s journey began almost 3.5 years ago, with its April 2023 launch from Europe’s Spaceport in French Guiana.</p><p>Since then, flight controllers on Earth have successfully guided it through the first ever lunar-Earth flyby (a ‘braking’ manoeuvre to take Juice on a shortcut to Jupiter via. This interaction will set it up for a final Earth flyby in January 2029, putting Juice onto the optimum path to intercept Jupiter in July 2031.</p><p>Between 15 and 30 minutes before closest approach, Juice will pass over Australia, travelling from the northeast of the country to the northwest. All this means that Juice will have plenty of fuel left in its tanks to enter orbit around Jupiter in 2031, and then giant moon Ganymede in 2034.</p><p>Our Flight Dynamics Team did an amazing job to prepare it!&quot; At 08: 00 CEST on 28 September, flight controllers will be prepared to make a final emergency manoeuvre to fix critical. Just before the closest approach, from 21: 24 CEST on 27 September to 06: 03 CEST on 28 September, Juice will be in Earth’s shadow.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>To avoid depleting its batteries completely, the team is prioritising the most important instrument observations with Juice’s science instruments during this time. Just like during the 2024 lunar-Earth flyby, Juice’s 10 science instruments will be switched on to collect data on Earth and the Moon between 23 September and 3 October.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_to_fly_past_Earth_for_third_gravity_assist\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: O Jupiter Icy Moons Explorer da Agência Espacial Europeia retornará à Terra em 28 de setembro, com controladores de vôo guiando a espaçonave perto de.",
       "Dado-chave: O Jupiter Icy Moons Explorer (Juice) da Agência Espacial Europeia retornará à Terra em 28 de setembro, com controladores de vôo guiando a.",

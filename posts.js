@@ -40,14 +40,14 @@ window.postsData = [
     "date": "04 out 2026",
     "date_pt": "04 out 2026",
     "date_en": "04 Oct 2026",
-    "time": "02h31",
-    "time_pt": "02h31",
-    "time_en": "02:31 UTC",
+    "time": "08h43",
+    "time_pt": "08h43",
+    "time_en": "08:43 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-10-04T02:31:42.747265+00:00",
-    "lastModifiedIso": "2026-10-04T02:31:42.747265+00:00",
+    "publishedIso": "2026-10-04T08:43:32.664129+00:00",
+    "lastModifiedIso": "2026-10-04T08:43:32.664129+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -148,14 +148,14 @@ window.postsData = [
     "date": "04 out 2026",
     "date_pt": "04 out 2026",
     "date_en": "04 Oct 2026",
-    "time": "02h31",
-    "time_pt": "02h31",
-    "time_en": "02:31 UTC",
+    "time": "08h43",
+    "time_pt": "08h43",
+    "time_en": "08:43 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-10-04T02:31:42.747216+00:00",
-    "lastModifiedIso": "2026-10-04T02:31:42.747216+00:00",
+    "publishedIso": "2026-10-04T08:43:32.664105+00:00",
+    "lastModifiedIso": "2026-10-04T08:43:32.664105+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -262,14 +262,14 @@ window.postsData = [
     "date": "04 out 2026",
     "date_pt": "04 out 2026",
     "date_en": "04 Oct 2026",
-    "time": "02h31",
-    "time_pt": "02h31",
-    "time_en": "02:31 UTC",
+    "time": "08h43",
+    "time_pt": "08h43",
+    "time_en": "08:43 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-10-04T02:31:42.747165+00:00",
-    "lastModifiedIso": "2026-10-04T02:31:42.747165+00:00",
+    "publishedIso": "2026-10-04T08:43:32.664078+00:00",
+    "lastModifiedIso": "2026-10-04T08:43:32.664078+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -367,14 +367,14 @@ window.postsData = [
     "date": "04 out 2026",
     "date_pt": "04 out 2026",
     "date_en": "04 Oct 2026",
-    "time": "02h31",
-    "time_pt": "02h31",
-    "time_en": "02:31 UTC",
+    "time": "08h43",
+    "time_pt": "08h43",
+    "time_en": "08:43 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-10-04T02:31:42.747103+00:00",
-    "lastModifiedIso": "2026-10-04T02:31:42.747103+00:00",
+    "publishedIso": "2026-10-04T08:43:32.664042+00:00",
+    "lastModifiedIso": "2026-10-04T08:43:32.664042+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -472,14 +472,14 @@ window.postsData = [
     "date": "04 out 2026",
     "date_pt": "04 out 2026",
     "date_en": "04 Oct 2026",
-    "time": "02h31",
-    "time_pt": "02h31",
-    "time_en": "02:31 UTC",
+    "time": "08h43",
+    "time_pt": "08h43",
+    "time_en": "08:43 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-10-04T02:31:42.747057+00:00",
-    "lastModifiedIso": "2026-10-04T02:31:42.747057+00:00",
+    "publishedIso": "2026-10-04T08:43:32.664017+00:00",
+    "lastModifiedIso": "2026-10-04T08:43:32.664017+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -540,6 +540,121 @@ window.postsData = [
   },
   {
     "id": 6,
+    "slug": "world-space-week-is-october-4-to-10-find-events-here",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://earthsky.org/upl/2026/09/World-Space-Week-2026-Poster-Final.jpg",
+    "inline_images": [
+      {
+        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "A Semana Mundial do Espaço acontece de 4 a 10 de outubro. Encontre eventos aqui",
+    "title_pt": "A Semana Mundial do Espaço acontece de 4 a 10 de outubro. Encontre eventos aqui",
+    "title_en": "World Space Week is October 4 to 10. Find events here",
+    "sub": "A Semana Espacial Mundial remonta a 1999 e acontece todos os anos, de 4 a 10 de outubro. Este ano, o tema é A Revolução dos Foguetes. Encontre eventos perto de você aqui. O post.",
+    "sub_pt": "A Semana Espacial Mundial remonta a 1999 e acontece todos os anos, de 4 a 10 de outubro. Este ano, o tema é A Revolução dos Foguetes. Encontre eventos perto de você aqui. O post.",
+    "sub_en": "World Space Week dates back to 1999 and runs every year from October 4 to 10. This year, the theme is The Rocket Revolution. Find events near you here. The post World Space Week.",
+    "excerpt": "A Semana Espacial Mundial remonta a 1999 e acontece todos os anos, de 4 a 10 de outubro. Este ano, o tema é A Revolução dos Foguetes. Encontre eventos perto de você aqui. O post Semana Mundial do Espaço é de 4 a 10 de outubro. Encontre eventos aqui apareceu.",
+    "excerpt_pt": "A Semana Espacial Mundial remonta a 1999 e acontece todos os anos, de 4 a 10 de outubro. Este ano, o tema é A Revolução dos Foguetes. Encontre eventos perto de você aqui. O post Semana Mundial do Espaço é de 4 a 10 de outubro. Encontre eventos aqui apareceu.",
+    "excerpt_en": "World Space Week dates back to 1999 and runs every year from October 4 to 10. This year, the theme is The Rocket Revolution. Find events near you here. The post World Space Week is October 4 to 10. Find events here first appeared on.",
+    "body": "<p>A Semana Espacial Mundial remonta a 1999 e acontece todos os anos, de 4 a 10 de outubro. Este ano, o tema é A Revolução dos Foguetes. Encontre eventos perto de você aqui. O post Semana Mundial do Espaço é de 4 a 10 de outubro. Encontre eventos aqui apareceu pela primeira vez em. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. A Semana Mundial do Espaço remonta a 1999 e acontece todos os anos, de 4 a 10 de outubro. O pôster oficial da World Space Week Association (WSWA) para a Semana Mundial do Espaço 2026, celebrada de 4 a 10 de outubro sob o tema A Revolução dos Foguetes.</p><p>Acontece de 4 a 10 de outubro. As datas foram escolhidas em homenagem ao lançamento do Sputnik 1, em 4 de outubro de 1957, o primeiro satélite do mundo em órbita da Terra, que despretensioso bip bip em órbita.</p><p>E a data final refere-se ao Tratado do Espaço Exterior de 10 de outubro de 1967. De acordo com a Semana Espacial Mundial: Rocket Revolution concentra-se na rápida transformação do lançamento espacial.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/world-space-week-october-4-to-10/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A Semana Espacial Mundial remonta a 1999 e acontece todos os anos, de 4 a 10 de outubro. Este ano, o tema é A Revolução dos Foguetes. Encontre eventos perto de você aqui. O post Semana Mundial do Espaço é de 4 a 10 de outubro. Encontre eventos aqui apareceu pela primeira vez em. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. A Semana Mundial do Espaço remonta a 1999 e acontece todos os anos, de 4 a 10 de outubro. O pôster oficial da World Space Week Association (WSWA) para a Semana Mundial do Espaço 2026, celebrada de 4 a 10 de outubro sob o tema A Revolução dos Foguetes.</p><p>Acontece de 4 a 10 de outubro. As datas foram escolhidas em homenagem ao lançamento do Sputnik 1, em 4 de outubro de 1957, o primeiro satélite do mundo em órbita da Terra, que despretensioso bip bip em órbita.</p><p>E a data final refere-se ao Tratado do Espaço Exterior de 10 de outubro de 1967. De acordo com a Semana Espacial Mundial: Rocket Revolution concentra-se na rápida transformação do lançamento espacial.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/world-space-week-october-4-to-10/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>World Space Week dates back to 1999 and runs every year from October 4 to 10. This year, the theme is The Rocket Revolution. Find events near you here. The post World Space Week is October 4 to 10. Find events here first appeared on. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. World Space Week dates back to 1999 and runs every year from October 4 to 10. The World Space Week Association ( WSWA ) official poster for World Space Week 2026, celebrated October 4, 10 under the theme The Rocket Revolution.</p><p>It runs October 4 through 10. The dates were chosen in honor of the October 4, 1957, launch of Sputnik 1, world’s first Earth-orbiting satellite, who unassuming beep beep in orbit sent shock waves around the.</p><p>And the ending date relates to the October 10, 1967, Outer Space Treaty. Rocket Revolution focuses on the rapid transformation of space launch.</p><p>Once limited to a small number of government programs, access to space is now expanding through commercial launch providers, reusable rockets, university teams, startups, and new. With this in mind, the Association hopes to inspire students worldwide to study science, technology, engineering, mathematics (STEM) and business.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>About World Space Week World Space Week dates back to 1999, when the U. N. General Assembly declared a week-long international celebration of science and technology every October 4 to 10.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/world-space-week-october-4-to-10/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: A Semana Espacial Mundial remonta a 1999 e acontece todos os anos, de 4 a 10 de outubro. Este ano, o tema é A Revolução dos Foguetes. Encontre.",
+      "Dado-chave: A Semana Mundial do Espaço remonta a 1999 e acontece todos os anos, de 4 a 10 de outubro.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: A Semana Espacial Mundial remonta a 1999 e acontece todos os anos, de 4 a 10 de outubro. Este ano, o tema é A Revolução dos Foguetes. Encontre.",
+      "Dado-chave: A Semana Mundial do Espaço remonta a 1999 e acontece todos os anos, de 4 a 10 de outubro.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: World Space Week dates back to 1999 and runs every year from October 4 to 10. This year, the theme is The Rocket Revolution. Find events near you.",
+      "Key detail: World Space Week dates back to 1999 and runs every year from October 4 to 10.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "04 out 2026",
+    "date_pt": "04 out 2026",
+    "date_en": "04 Oct 2026",
+    "time": "08h01",
+    "time_pt": "08h01",
+    "time_en": "08:01 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-10-04T08:01:45+00:00",
+    "lastModifiedIso": "2026-10-04T08:01:45+00:00",
+    "source": "EarthSky",
+    "sourceDomain": "earthsky.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "EarthSky",
+      "Cosmos Week",
+      "A Semana Mundial do Espaço acontece de 4 a 10 de outubro. Encontre eventos aqui"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "EarthSky",
+      "Cosmos Week",
+      "A Semana Mundial do Espaço acontece de 4 a 10 de outubro. Encontre eventos aqui"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "EarthSky",
+      "Cosmos Week",
+      "World Space Week takes place from October 4th to 10th. Find events here"
+    ],
+    "srcUrl": "https://earthsky.org/space/world-space-week-october-4-to-10/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=world-space-week-is-october-4-to-10-find-events-here",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=world-space-week-is-october-4-to-10-find-events-here",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=world-space-week-is-october-4-to-10-find-events-here&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 68,
+    "scoreBreakdown": {
+      "source": 72,
+      "evidence": 82,
+      "relevance": 62,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
     "slug": "q-a-an-earth-like-planet-with-two-suns",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -661,7 +776,7 @@ window.postsData = [
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -675,7 +790,7 @@ window.postsData = [
     }
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "milky-way-may-have-begun-as-thousands-of-galaxies-new-simulations-suggest",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -814,17 +929,17 @@ window.postsData = [
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 76,
+    "score": 75,
     "scoreBreakdown": {
       "source": 76,
       "evidence": 82,
       "relevance": 88,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "we-fly-between-the-sun-and-saturn-at-opposition-on-october-4",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -935,11 +1050,11 @@ window.postsData = [
       "evidence": 82,
       "relevance": 62,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "sun-news-sun-stuff-arrives-with-more-on-the-way",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -966,17 +1081,17 @@ window.postsData = [
     "excerpt": "A primeira CME chegou apenas com uma leve perturbação. Mas o rápido vento do buraco coronal e uma segunda CME ainda podem trazer tempestades G1! O post Notícias da Sun: Sun-stuff chega, com mais a caminho apareceu pela primeira vez no EarthSky.",
     "excerpt_pt": "A primeira CME chegou apenas com uma leve perturbação. Mas o rápido vento do buraco coronal e uma segunda CME ainda podem trazer tempestades G1! O post Notícias da Sun: Sun-stuff chega, com mais a caminho apareceu pela primeira vez no EarthSky.",
     "excerpt_en": "The first CME arrived with only a mild disturbance. But fast coronal hole wind and a second CME could still bring G1 storms! The post Sun news: Sun-stuff arrives, with more on the way first appeared on EarthSky.",
-    "body": "<p>A primeira CME chegou apenas com uma leve perturbação. Mas o rápido vento do buraco coronal e uma segunda CME ainda podem trazer tempestades G1! O post Notícias da Sun: Sun-stuff chega, com mais a caminho apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. The first CME arrived with only a mild disturbance. A matéria solar chega, com mais a caminho A principal notícia de hoje: A antecipada ejeção de massa coronal (CME), uma bolha em movimento de materiais solares e campos magnéticos.</p><p>Os meteorologistas consideram que as perturbações do G1 são possíveis hoje, à medida que uma corrente de vento solar rápido chega de um grande buraco coronal no Sol. Um deles é um recém-chegado que surgiu do nada no quadrante sudoeste e recebeu seu número neste período: AR4546.</p><p>Este é o recém-chegado ao nordeste que produziu erupções B fracas no início desta semana, agora com um número oficial. Uma enorme erupção de filamentos em 2 de outubro lançou plasma para o espaço, mas ocorreu longe da direção da Terra, de modo que o material não chegará até nós.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A primeira CME chegou apenas com uma leve perturbação. Mas o rápido vento do buraco coronal e uma segunda CME ainda podem trazer tempestades G1! O post Notícias da Sun: Sun-stuff chega, com mais a caminho apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. The first CME arrived with only a mild disturbance. A matéria solar chega, com mais a caminho A principal notícia de hoje: A antecipada ejeção de massa coronal (CME), uma bolha em movimento de materiais solares e campos magnéticos.</p><p>Os meteorologistas consideram que as perturbações do G1 são possíveis hoje, à medida que uma corrente de vento solar rápido chega de um grande buraco coronal no Sol. Um deles é um recém-chegado que surgiu do nada no quadrante sudoeste e recebeu seu número neste período: AR4546.</p><p>Este é o recém-chegado ao nordeste que produziu erupções B fracas no início desta semana, agora com um número oficial. Uma enorme erupção de filamentos em 2 de outubro lançou plasma para o espaço, mas ocorreu longe da direção da Terra, de modo que o material não chegará até nós.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body": "<p>A primeira CME chegou apenas com uma leve perturbação. Mas o rápido vento do buraco coronal e uma segunda CME ainda podem trazer tempestades G1! O post Notícias da Sun: Sun-stuff chega, com mais a caminho apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Notícias do Sun, 3 de outubro de 2026: O primeiro CME chegou com apenas uma leve perturbação. A matéria solar chega, com mais a caminho A principal notícia de hoje: A antecipada ejeção de massa coronal (CME), uma bolha em movimento de materiais solares e campos magnéticos.</p><p>Os meteorologistas consideram que as perturbações do G1 são possíveis hoje, à medida que uma corrente de vento solar rápido chega de um grande buraco coronal no Sol. Um deles é um recém-chegado que surgiu do nada no quadrante sudoeste e recebeu seu número neste período: AR4546.</p><p>Este é o recém-chegado ao nordeste que produziu erupções B fracas no início desta semana, agora com um número oficial. Uma enorme erupção de filamentos em 2 de outubro lançou plasma para o espaço, mas ocorreu longe da direção da Terra, de modo que o material não chegará até nós.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A primeira CME chegou apenas com uma leve perturbação. Mas o rápido vento do buraco coronal e uma segunda CME ainda podem trazer tempestades G1! O post Notícias da Sun: Sun-stuff chega, com mais a caminho apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Notícias do Sun, 3 de outubro de 2026: O primeiro CME chegou com apenas uma leve perturbação. A matéria solar chega, com mais a caminho A principal notícia de hoje: A antecipada ejeção de massa coronal (CME), uma bolha em movimento de materiais solares e campos magnéticos.</p><p>Os meteorologistas consideram que as perturbações do G1 são possíveis hoje, à medida que uma corrente de vento solar rápido chega de um grande buraco coronal no Sol. Um deles é um recém-chegado que surgiu do nada no quadrante sudoeste e recebeu seu número neste período: AR4546.</p><p>Este é o recém-chegado ao nordeste que produziu erupções B fracas no início desta semana, agora com um número oficial. Uma enorme erupção de filamentos em 2 de outubro lançou plasma para o espaço, mas ocorreu longe da direção da Terra, de modo que o material não chegará até nós.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
     "body_en": "<p>The first CME arrived with only a mild disturbance. But fast coronal hole wind and a second CME could still bring G1 storms! The post Sun news: Sun-stuff arrives, with more on the way first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The first CME arrived with only a mild disturbance. Sun-stuff arrives, with more on the way Today’s top story: The anticipated coronal mass ejection ( CME ), a moving blob of solar materials and magnetic fields, has arrived.</p><p>Forecasters consider G1 disturbances possible today, as a stream of fast solar wind arrives from a large coronal hole on the sun. One of them is a newcomer that emerged from nowhere in the southwest quadrant and received its number this period: AR4546.</p><p>This is the northeast newcomer that produced faint B flares earlier this week, now with an official number. A huge filament eruption on October 2 hurled plasma into space, but it occurred far from Earth’s direction, so that material won’t reach us.</p><p>Past 24 hours in space weather Solar wind: Solar wind speeds averaged low levels, with slight peaks from the arriving CME. Here’s today’s sun, with the most active regions labeled, as of 1 UTC this morning, as seen from Learmonth Solar Observatory in Australia.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Data acquired by GONG instruments operated by NISP/ NSO/ AURA/ NSF with contribution from NOAA, and labeling by EarthSky. Two bursts of sun-stuff heading to Earth Two blobs of solar stuff, or coronal mass ejections ( CMEs ), are heading our way at Earth.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: A primeira CME chegou apenas com uma leve perturbação. Mas o rápido vento do buraco coronal e uma segunda CME ainda podem trazer tempestades G1! O.",
-      "Dado-chave: The first CME arrived with only a mild disturbance.",
+      "Dado-chave: Notícias do Sun, 3 de outubro de 2026: O primeiro CME chegou com apenas uma leve perturbação.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: A primeira CME chegou apenas com uma leve perturbação. Mas o rápido vento do buraco coronal e uma segunda CME ainda podem trazer tempestades G1! O.",
-      "Dado-chave: The first CME arrived with only a mild disturbance.",
+      "Dado-chave: Notícias do Sun, 3 de outubro de 2026: O primeiro CME chegou com apenas uma leve perturbação.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
@@ -1055,130 +1170,6 @@ window.postsData = [
       "source": 72,
       "evidence": 82,
       "relevance": 62,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 10,
-    "slug": "team-selected-for-nasa-program-to-explore-potential-lunar-cave",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/psi-led-team-selected.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/psi-led-team-selected.jpg",
-        "caption": "Equipe liderada pela PSI selecionada para o programa PRISM da NASA para explorar uma potencial caverna lunar",
-        "caption_pt": "Equipe liderada pela PSI selecionada para o programa PRISM da NASA para explorar uma potencial caverna lunar",
-        "caption_en": "PSI-led team selected for NASA PRISM program to explore potential lunar cave",
-        "alt": "Equipe liderada pela PSI selecionada para o programa PRISM da NASA para explorar uma potencial caverna lunar",
-        "alt_pt": "Equipe liderada pela PSI selecionada para o programa PRISM da NASA para explorar uma potencial caverna lunar",
-        "alt_en": "PSI-led team selected for NASA PRISM program to explore potential lunar cave"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/b3013a0f7fc5c4a0.png",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Equipe selecionada para programa da NASA para explorar potencial caverna lunar",
-    "title_pt": "Equipe selecionada para programa da NASA para explorar potencial caverna lunar",
-    "title_en": "Team selected for NASA program to explore potential lunar cave",
-    "sub": "A NASA selecionou um Instituto de Ciência Planetária, liderado por uma proposta para investigar se uma caverna subterrânea potencialmente grande se estende além da abertura de um.",
-    "sub_pt": "A NASA selecionou um Instituto de Ciência Planetária, liderado por uma proposta para investigar se uma caverna subterrânea potencialmente grande se estende além da abertura de um.",
-    "sub_en": "NASA has selected a Planetary Science Institute, led proposal to investigate whether a potentially large underground cave extends beyond the opening of a lunar pit. Such a cave.",
-    "excerpt": "A NASA selecionou um Instituto de Ciência Planetária, liderado por uma proposta para investigar se uma caverna subterrânea potencialmente grande se estende além da abertura de um poço lunar. Tal caverna pode um dia fornecer um refúgio seguro para os.",
-    "excerpt_pt": "A NASA selecionou um Instituto de Ciência Planetária, liderado por uma proposta para investigar se uma caverna subterrânea potencialmente grande se estende além da abertura de um poço lunar. Tal caverna pode um dia fornecer um refúgio seguro para os.",
-    "excerpt_en": "NASA has selected a Planetary Science Institute, led proposal to investigate whether a potentially large underground cave extends beyond the opening of a lunar pit. Such a cave may one day provide a safe haven for astronauts to escape the.",
-    "body": "<p>A NASA selecionou um Instituto de Ciência Planetária, liderado por uma proposta para investigar se uma caverna subterrânea potencialmente grande se estende além da abertura de um poço lunar. Tal caverna pode um dia fornecer um refúgio seguro para os astronautas escaparem. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A NASA selecionou uma proposta liderada pelo Planetary Science Institute para investigar se uma caverna subterrânea potencialmente grande se estende além da abertura de um poço. Os editores destacaram os seguintes atributos, garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial The Marius Hills Pit (MHP) na superfície da Lua.</p><p>O MHP será estudado pelo GIMLI liderado pelo PSI, através do programa PRISM da NASA, para investigar um possível tubo de lava abaixo da superfície. NASA/GSFC/Arizona State University A NASA selecionou uma proposta liderada pelo Planetary Science Institute para investigar se uma caverna subterrânea potencialmente grande se.</p><p>GIMLI representa o tipo de ciência planetária ambiciosa que a PSI foi construída para perseguir&quot;, disse a diretora e CEO da PSI, Amanda Hendrix. Than e sua equipe estão respondendo a uma questão científica que estudamos em órbita e desenvolveram uma maneira de investigá-la diretamente na Lua.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-10-team-nasa-explore-potential-lunar.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A NASA selecionou um Instituto de Ciência Planetária, liderado por uma proposta para investigar se uma caverna subterrânea potencialmente grande se estende além da abertura de um poço lunar. Tal caverna pode um dia fornecer um refúgio seguro para os astronautas escaparem. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A NASA selecionou uma proposta liderada pelo Planetary Science Institute para investigar se uma caverna subterrânea potencialmente grande se estende além da abertura de um poço. Os editores destacaram os seguintes atributos, garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial The Marius Hills Pit (MHP) na superfície da Lua.</p><p>O MHP será estudado pelo GIMLI liderado pelo PSI, através do programa PRISM da NASA, para investigar um possível tubo de lava abaixo da superfície. NASA/GSFC/Arizona State University A NASA selecionou uma proposta liderada pelo Planetary Science Institute para investigar se uma caverna subterrânea potencialmente grande se.</p><p>GIMLI representa o tipo de ciência planetária ambiciosa que a PSI foi construída para perseguir&quot;, disse a diretora e CEO da PSI, Amanda Hendrix. Than e sua equipe estão respondendo a uma questão científica que estudamos em órbita e desenvolveram uma maneira de investigá-la diretamente na Lua.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-10-team-nasa-explore-potential-lunar.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>NASA has selected a Planetary Science Institute, led proposal to investigate whether a potentially large underground cave extends beyond the opening of a lunar pit. Such a cave may one day provide a safe haven for astronauts to escape the. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. NASA has selected a Planetary Science Institute, led proposal to investigate whether a potentially large underground cave extends beyond the opening of a lunar pit. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source The Marius Hills Pit (MHP) on the surface of the Moon.</p><p>MHP will be studied by PSI-led GIMLI, through the NASA PRISM program, to investigate a possible lava tube beneath the surface. NASA/GSFC/Arizona State University NASA has selected a Planetary Science Institute, led proposal to investigate whether a potentially large underground cave extends beyond the.</p><p>GIMLI represents the type of ambitious planetary science that PSI was built to pursue,&quot; said PSI director and CEO Amanda Hendrix. Than and his team are taking a scientific question we&#x27;ve been studying from orbit and have developed a way to investigate it directly on the moon.</p><p>We&#x27;re excited to have PSI leading this effort and to be partnering with NASA and Honeybee Robotics to learn more about the moon and its volcanic past.&quot; Observations from lunar. GIMLI&#x27;s research will focus on the Marius Hills pit (MHP), a large hole in one of the moon&#x27;s most volcanically diverse regions.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>It&#x27;s long been a desire of mine to reintroduce intentional active-source seismic methods to planetary science, as it has essentially not been done since the Apollo astronauts. Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-10-team-nasa-explore-potential-lunar.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: A NASA selecionou um Instituto de Ciência Planetária, liderado por uma proposta para investigar se uma caverna subterrânea potencialmente grande se.",
-      "Dado-chave: A NASA selecionou uma proposta liderada pelo Planetary Science Institute para investigar se uma caverna subterrânea potencialmente grande se.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: A NASA selecionou um Instituto de Ciência Planetária, liderado por uma proposta para investigar se uma caverna subterrânea potencialmente grande se.",
-      "Dado-chave: A NASA selecionou uma proposta liderada pelo Planetary Science Institute para investigar se uma caverna subterrânea potencialmente grande se.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: NASA has selected a Planetary Science Institute, led proposal to investigate whether a potentially large underground cave extends beyond the opening.",
-      "Key detail: NASA has selected a Planetary Science Institute, led proposal to investigate whether a potentially large underground cave extends beyond the.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "02 out 2026",
-    "date_pt": "02 out 2026",
-    "date_en": "02 Oct 2026",
-    "time": "23h20",
-    "time_pt": "23h20",
-    "time_en": "23:20 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-10-02T23:20:06+00:00",
-    "lastModifiedIso": "2026-10-02T23:20:06+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astronomia",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Equipe selecionada para programa da NASA para explorar potencial caverna lunar"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Equipe selecionada para programa da NASA para explorar potencial caverna lunar"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Team selected for NASA program to explore potential lunar cave"
-    ],
-    "srcUrl": "https://phys.org/news/2026-10-team-nasa-explore-potential-lunar.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=team-selected-for-nasa-program-to-explore-potential-lunar-cave",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=team-selected-for-nasa-program-to-explore-potential-lunar-cave",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=team-selected-for-nasa-program-to-explore-potential-lunar-cave&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 72,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 88,
-      "relevance": 70,
       "accessibility": 60,
       "novelty": 52
     }
@@ -1426,6 +1417,142 @@ window.postsData = [
   },
   {
     "id": 13,
+    "slug": "science-release-hubble-unexpectedly-catches-comet-breaking-up",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://cdn.esahubble.org/archives/images/screen/heic2606a.jpg",
+    "inline_images": [
+      {
+        "src": "https://cdn.esahubble.org/archives/images/newsfeature/heic2606a.jpg",
+        "caption": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
+        "caption_pt": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
+        "caption_en": "Comet C/2025 K1 (ATLAS): November 2025",
+        "alt": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
+        "alt_pt": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
+        "alt_en": "Comet C/2025 K1 (ATLAS): November 2025"
+      },
+      {
+        "src": "https://cdn.esahubble.org/archives/images/news/heic2606a.jpg",
+        "caption": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
+        "caption_pt": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
+        "caption_en": "Comet C/2025 K1 (ATLAS): November 2025",
+        "alt": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
+        "alt_pt": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
+        "alt_en": "Comet C/2025 K1 (ATLAS): November 2025"
+      },
+      {
+        "src": "https://cdn.esahubble.org/archives/images/news/heic2606b.jpg",
+        "caption": "Cometa C/2025 K1 (ATLAS): novembro de 2025 (anotado)",
+        "caption_pt": "Cometa C/2025 K1 (ATLAS): novembro de 2025 (anotado)",
+        "caption_en": "Comet C/2025 K1 (ATLAS): November 2025 (annotated)",
+        "alt": "Cometa C/2025 K1 (ATLAS): novembro de 2025 (anotado)",
+        "alt_pt": "Cometa C/2025 K1 (ATLAS): novembro de 2025 (anotado)",
+        "alt_en": "Comet C/2025 K1 (ATLAS): November 2025 (annotated)"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Divulgação Científica: Hubble inesperadamente captura cometa se rompendo",
+    "title_pt": "Divulgação Científica: Hubble inesperadamente captura cometa se rompendo",
+    "title_en": "Science Release: Hubble unexpectedly catches comet breaking up",
+    "sub": "O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias.",
+    "sub_pt": "O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias.",
+    "sub_en": "Comet K1, whose full name is Comet C/2025 K1, had just passed its closest approach to the Sun and was heading out of the Solar System. Though it had been intact just days before.",
+    "excerpt": "O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias antes, o K1 se fragmentou em pelo menos quatro pedaços enquanto a NASA/ESA.",
+    "excerpt_pt": "O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias antes, o K1 se fragmentou em pelo menos quatro pedaços enquanto a NASA/ESA.",
+    "excerpt_en": "Comet K1, whose full name is Comet C/2025 K1, had just passed its closest approach to the Sun and was heading out of the Solar System. Though it had been intact just days before, K1 fragmented into at least four pieces while the NASA/ESA.",
+    "body": "<p>O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias antes, o K1 se fragmentou em pelo menos quatro pedaços enquanto a NASA/ESA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Embora estivesse intacto poucos dias antes, o K1 fragmentou-se em pelo menos quatro pedaços enquanto o Telescópio Espacial Hubble da NASA/ESA observava. O cometa K1, cujo nome completo é Cometa C/2025 K1 (ATLAS), não deve ser confundido com o cometa interestelar 3I/ATLAS, não foi o alvo original de um estudo recente do Hubble.</p><p>Tivemos que encontrar um novo alvo, e logo quando o observamos, ele se quebrou, o que é a menor das mínimas chances.” Noonan não sabia que o K1 estava se fragmentando até ver as. “Então sabíamos que isso era algo muito, muito especial.” Este é um experimento que os pesquisadores sempre quiseram fazer com o Hubble.</p><p>As imagens do Hubble foram tiradas apenas um mês após a maior aproximação do K1 ao Sol, chamada periélio. O periélio do cometa estava dentro da órbita de Mercúrio, cerca de um terço da distância da Terra ao Sol.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2606/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias antes, o K1 se fragmentou em pelo menos quatro pedaços enquanto a NASA/ESA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Embora estivesse intacto poucos dias antes, o K1 fragmentou-se em pelo menos quatro pedaços enquanto o Telescópio Espacial Hubble da NASA/ESA observava. O cometa K1, cujo nome completo é Cometa C/2025 K1 (ATLAS), não deve ser confundido com o cometa interestelar 3I/ATLAS, não foi o alvo original de um estudo recente do Hubble.</p><p>Tivemos que encontrar um novo alvo, e logo quando o observamos, ele se quebrou, o que é a menor das mínimas chances.” Noonan não sabia que o K1 estava se fragmentando até ver as. “Então sabíamos que isso era algo muito, muito especial.” Este é um experimento que os pesquisadores sempre quiseram fazer com o Hubble.</p><p>As imagens do Hubble foram tiradas apenas um mês após a maior aproximação do K1 ao Sol, chamada periélio. O periélio do cometa estava dentro da órbita de Mercúrio, cerca de um terço da distância da Terra ao Sol.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2606/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Comet K1, whose full name is Comet C/2025 K1, had just passed its closest approach to the Sun and was heading out of the Solar System. Though it had been intact just days before, K1 fragmented into at least four pieces while the NASA/ESA. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Though it had been intact just days before, K1 fragmented into at least four pieces while the NASA/ESA Hubble Space Telescope was watching. Comet K1, whose full name is Comet C/2025 K1 (ATLAS), not to be confused with interstellar comet 3I/ATLAS, was not the original target of a recent Hubble study.</p><p>We had to find a new target, and right when we observed it, it happened to break apart, which is the slimmest of slim chances.” Noonan didn’t know K1 was fragmenting until he. “So we knew this was something really, really special.” This is an experiment the researchers always wanted to do with Hubble.</p><p>Hubble’s images were taken just a month after K1’s closest approach to the Sun, called perihelion. The comet&#x27;s perihelion was inside Mercury’s orbit, about one-third the distance of the Earth from the Sun.</p><p>Hubble took three 20-second images, one on each day from 8 November through 10 November 2025. Already, ground-based analysis shows that K1 is chemically very strange, it is significantly depleted in carbon, compared with other comets.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Spectroscopic analysis from Hubble’s STIS ( Space Telescope Imaging Spectrograph ) and COS ( Cosmic Origins Spectrograph ) instruments is likely to reveal much more about the. The comet K1 is now a collection of fragments about 400 million kilometers from Earth.</p><p>Because the account originates with ESA Hubble News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2606/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora.",
+      "Dado-chave: Embora estivesse intacto poucos dias antes, o K1 fragmentou-se em pelo menos quatro pedaços enquanto o Telescópio Espacial Hubble da NASA/ESA.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora.",
+      "Dado-chave: Embora estivesse intacto poucos dias antes, o K1 fragmentou-se em pelo menos quatro pedaços enquanto o Telescópio Espacial Hubble da NASA/ESA.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Comet K1, whose full name is Comet C/2025 K1, had just passed its closest approach to the Sun and was heading out of the Solar System. Though it had.",
+      "Key detail: Though it had been intact just days before, K1 fragmented into at least four pieces while the NASA/ESA Hubble Space Telescope was watching.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "18 mar 2026",
+    "date_pt": "18 mar 2026",
+    "date_en": "18 Mar 2026",
+    "time": "14h00",
+    "time_pt": "14h00",
+    "time_en": "14:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-03-18T14:00:00+00:00",
+    "lastModifiedIso": "2026-03-18T14:00:00+00:00",
+    "source": "ESA Hubble News",
+    "sourceDomain": "esahubble.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astronomia",
+      "ESA Hubble News",
+      "Cosmos Week",
+      "Divulgação Científica",
+      "Hubble inesperadamente captura cometa se rompendo"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "ESA Hubble News",
+      "Cosmos Week",
+      "Divulgação Científica",
+      "Hubble inesperadamente captura cometa se rompendo"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "ESA Hubble News",
+      "Cosmos Week",
+      "Scientific Dissemination",
+      "Hubble unexpectedly captures comet breaking up"
+    ],
+    "srcUrl": "https://esahubble.org/news/heic2606/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-unexpectedly-catches-comet-breaking-up",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-unexpectedly-catches-comet-breaking-up",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-unexpectedly-catches-comet-breaking-up&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 79,
+    "scoreBreakdown": {
+      "source": 89,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 46
+    }
+  },
+  {
+    "id": 14,
     "slug": "nasa-model-wing-lights-up-during-first-pressure-sensitive-paint-tests",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1530,7 +1657,7 @@ window.postsData = [
     }
   },
   {
-    "id": 14,
+    "id": 15,
     "slug": "science-release-hubble-identifies-one-of-darkest-known-galaxies",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1666,7 +1793,7 @@ window.postsData = [
     }
   },
   {
-    "id": 15,
+    "id": 16,
     "slug": "science-release-hubble-discovers-first-of-star-cluster-s-missing-black-holes",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1802,7 +1929,7 @@ window.postsData = [
     }
   },
   {
-    "id": 16,
+    "id": 17,
     "slug": "citizen-science-project-recruits-volunteers-to-search-for-undiscovered-black-holes",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1935,7 +2062,7 @@ window.postsData = [
     }
   },
   {
-    "id": 17,
+    "id": 18,
     "slug": "alien-life-why-the-possibility-of-exoplanet-lhs-1140b-emitting-helium-gas-is-so-exciting",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2068,7 +2195,140 @@ window.postsData = [
     }
   },
   {
-    "id": 18,
+    "id": 19,
+    "slug": "how-ocean-chemistry-helped-life-keep-breathing",
+    "cat": "Exoplanetas",
+    "catCls": "exoplanetas",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-ocean-chemistry-he.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-ocean-chemistry-he.jpg",
+        "caption": "Como a química dos oceanos ajudou a vida a continuar respirando",
+        "caption_pt": "Como a química dos oceanos ajudou a vida a continuar respirando",
+        "caption_en": "How ocean chemistry helped life keep breathing",
+        "alt": "Como a química dos oceanos ajudou a vida a continuar respirando",
+        "alt_pt": "Como a química dos oceanos ajudou a vida a continuar respirando",
+        "alt_en": "How ocean chemistry helped life keep breathing"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/58445787ab38cfb6.png",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/b3013a0f7fc5c4a0.png",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Como a química dos oceanos ajudou a vida a continuar respirando",
+    "title_pt": "Como a química dos oceanos ajudou a vida a continuar respirando",
+    "title_en": "How ocean chemistry helped life keep breathing",
+    "sub": "Os cientistas ajudaram a resolver um mistério de longa data sobre como a Terra permaneceu habitável depois de o oxigénio se ter acumulado pela primeira vez na sua atmosfera, há.",
+    "sub_pt": "Os cientistas ajudaram a resolver um mistério de longa data sobre como a Terra permaneceu habitável depois de o oxigénio se ter acumulado pela primeira vez na sua atmosfera, há.",
+    "sub_en": "Scientists have helped solve a longstanding mystery about how Earth remained habitable after oxygen first accumulated in its atmosphere more than 2 billion years ago, providing.",
+    "excerpt": "Os cientistas ajudaram a resolver um mistério de longa data sobre como a Terra permaneceu habitável depois de o oxigénio se ter acumulado pela primeira vez na sua atmosfera, há mais de 2 mil milhões de anos, fornecendo provas de que a antiga química dos.",
+    "excerpt_pt": "Os cientistas ajudaram a resolver um mistério de longa data sobre como a Terra permaneceu habitável depois de o oxigénio se ter acumulado pela primeira vez na sua atmosfera, há mais de 2 mil milhões de anos, fornecendo provas de que a antiga química dos.",
+    "excerpt_en": "Scientists have helped solve a longstanding mystery about how Earth remained habitable after oxygen first accumulated in its atmosphere more than 2 billion years ago, providing evidence that ancient ocean chemistry sustained life-friendly.",
+    "body": "<p>Os cientistas ajudaram a resolver um mistério de longa data sobre como a Terra permaneceu habitável depois de o oxigénio se ter acumulado pela primeira vez na sua atmosfera, há mais de 2 mil milhões de anos, fornecendo provas de que a antiga química dos oceanos sustentou a vida. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Por Jules Bernstein, Universidade da Califórnia, Riverside Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial Nature Communications (2026).</p><p>&quot;&gt; Modelo ilustrativo demonstrando os feedbacks autolimitados entre os ciclos de oxigênio, enxofre e fósforo após a glaciação. Nature Communications (2026).</p><p>Os cientistas ajudaram a resolver um mistério de longa data sobre como a Terra permaneceu habitável depois que o oxigênio se acumulou pela primeira vez em sua atmosfera, há mais.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-09-ocean-chemistry-life.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Os cientistas ajudaram a resolver um mistério de longa data sobre como a Terra permaneceu habitável depois de o oxigénio se ter acumulado pela primeira vez na sua atmosfera, há mais de 2 mil milhões de anos, fornecendo provas de que a antiga química dos oceanos sustentou a vida. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Por Jules Bernstein, Universidade da Califórnia, Riverside Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo a credibilidade do conteúdo: Adicionar como fonte preferencial Nature Communications (2026).</p><p>&quot;&gt; Modelo ilustrativo demonstrando os feedbacks autolimitados entre os ciclos de oxigênio, enxofre e fósforo após a glaciação. Nature Communications (2026).</p><p>Os cientistas ajudaram a resolver um mistério de longa data sobre como a Terra permaneceu habitável depois que o oxigênio se acumulou pela primeira vez em sua atmosfera, há mais.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-09-ocean-chemistry-life.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Helped solve a longstanding mystery about how Earth remained habitable after oxygen first accumulated in its atmosphere more than 2 billion years ago, providing evidence that ancient ocean chemistry sustained life-friendly. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. By Jules Bernstein, University of California, Riverside This article has been reviewed according to Science X&#x27;s editorial process and policies. Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source Nature Communications (2026).</p><p>&quot;&gt; Illustrative model demonstrating the self-limiting feedbacks among the oxygen, sulfur and phosphorus cycles following glaciation. Nature Communications (2026).</p><p>The study, published in Nature Communications, was led by researchers including UC Riverside geologist Andrey Bekker. Long known that oxygen became a permanent part of Earth&#x27;s atmosphere about 2.3 billion years ago during the Great Oxidation Event.</p><p>A side effect of that process is that more oxygen continued to be released into the atmosphere.&quot; The researchers found that as oxygen entered Earth&#x27;s oceans, sulfate. To test this idea, Bekker and collaborators analyzed ancient rocks from South Africa using a new technique that separates phosphorus according to the types of minerals it is.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>Earth&#x27;s history shows that oxygen, nutrients and life evolved together,&quot; Bekker said. Alcott et al, A nutrient control on oxygenation dynamics during Earth&#x27;s Great Oxidation Episode, Nature Communications (2026).</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-09-ocean-chemistry-life.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Os cientistas ajudaram a resolver um mistério de longa data sobre como a Terra permaneceu habitável depois de o oxigénio se ter acumulado pela.",
+      "Dado-chave: Os cientistas ajudaram a resolver um mistério de longa data sobre como a Terra permaneceu habitável depois de o oxigénio se ter acumulado pela.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Os cientistas ajudaram a resolver um mistério de longa data sobre como a Terra permaneceu habitável depois de o oxigénio se ter acumulado pela.",
+      "Dado-chave: Os cientistas ajudaram a resolver um mistério de longa data sobre como a Terra permaneceu habitável depois de o oxigénio se ter acumulado pela.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Scientists have helped solve a longstanding mystery about how Earth remained habitable after oxygen first accumulated in its atmosphere more than 2.",
+      "Key detail: Scientists have helped solve a longstanding mystery about how Earth remained habitable after oxygen first accumulated in its atmosphere more.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "29 set 2026",
+    "date_pt": "29 set 2026",
+    "date_en": "29 Sep 2026",
+    "time": "17h40",
+    "time_pt": "17h40",
+    "time_en": "17:40 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-09-29T17:40:11+00:00",
+    "lastModifiedIso": "2026-09-29T17:40:11+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Exoplanetas",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Como a química dos oceanos ajudou a vida a continuar respirando"
+    ],
+    "keywords_pt": [
+      "Exoplanetas",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Como a química dos oceanos ajudou a vida a continuar respirando"
+    ],
+    "keywords_en": [
+      "Exoplanets",
+      "Phys.org Space",
+      "Cosmos Week",
+      "How ocean chemistry helped life keep breathing"
+    ],
+    "srcUrl": "https://phys.org/news/2026-09-ocean-chemistry-life.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=how-ocean-chemistry-helped-life-keep-breathing",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=how-ocean-chemistry-helped-life-keep-breathing",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=how-ocean-chemistry-helped-life-keep-breathing&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 75,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 82,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 46
+    }
+  },
+  {
+    "id": 20,
     "slug": "is-this-an-alien-radio-signal-from-a-super-earth-exoplanet",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2186,122 +2446,7 @@ window.postsData = [
     }
   },
   {
-    "id": 19,
-    "slug": "could-an-earthlike-planet-with-2-stars-be-nearby",
-    "cat": "Exoplanetas",
-    "catCls": "exoplanetas",
-    "img": "https://earthsky.org/upl/2026/09/planet-with-2-suns-NASA-ESA-CSA-STScI-Robert-Hurt-Caltech-IPAC-e1790772284981.jpg",
-    "inline_images": [
-      {
-        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Poderia um planeta semelhante à Terra com 2 estrelas estar próximo?",
-    "title_pt": "Poderia um planeta semelhante à Terra com 2 estrelas estar próximo?",
-    "title_en": "Could an Earthlike planet with 2 stars be nearby?",
-    "sub": "Um novo modelo astronómico descobriu que um planeta semelhante à Terra poderia ter uma órbita estável e potencialmente habitável em torno de uma estrela num sistema próximo de 2.",
-    "sub_pt": "Um novo modelo astronómico descobriu que um planeta semelhante à Terra poderia ter uma órbita estável e potencialmente habitável em torno de uma estrela num sistema próximo de 2.",
-    "sub_en": "A new astronomical model has found that an Earthlike planet could have a stable and potentially habitable orbit around a star in a nearby 2-star system. The post Could an.",
-    "excerpt": "Um novo modelo astronómico descobriu que um planeta semelhante à Terra poderia ter uma órbita estável e potencialmente habitável em torno de uma estrela num sistema próximo de 2 estrelas. A postagem Poderia um planeta semelhante à Terra com 2 estrelas estar.",
-    "excerpt_pt": "Um novo modelo astronómico descobriu que um planeta semelhante à Terra poderia ter uma órbita estável e potencialmente habitável em torno de uma estrela num sistema próximo de 2 estrelas. A postagem Poderia um planeta semelhante à Terra com 2 estrelas estar.",
-    "excerpt_en": "A new astronomical model has found that an Earthlike planet could have a stable and potentially habitable orbit around a star in a nearby 2-star system. The post Could an Earthlike planet with 2 stars be nearby? first appeared on EarthSky.",
-    "body": "<p>Um novo modelo astronómico descobriu que um planeta semelhante à Terra poderia ter uma órbita estável e potencialmente habitável em torno de uma estrela num sistema próximo de 2 estrelas. A postagem Poderia um planeta semelhante à Terra com 2 estrelas estar próximo? apareceu. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. A postagem Poderia um planeta semelhante à Terra com 2 estrelas estar próximo. O sistema estelar binário 70 Ophiuchi fica a cerca de 16 anos-luz da Terra.</p><p>Poderia um planeta semelhante à Terra com 2 estrelas estar próximo. As pessoas ficam fascinadas pela ideia de um planeta orbitando mais de uma estrela, como Tatooine em “Guerra nas Estrelas” ou Trissolaris em “O Problema dos Três Corpos”. Em 29 de.</p><p>Os pesquisadores publicaram seu estudo revisado por pares em 29 de setembro de 2026, no The Astrophysical Journal.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/earthlike-planet-with-2-stars-70-ophiuchi/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Um novo modelo astronómico descobriu que um planeta semelhante à Terra poderia ter uma órbita estável e potencialmente habitável em torno de uma estrela num sistema próximo de 2 estrelas. A postagem Poderia um planeta semelhante à Terra com 2 estrelas estar próximo? apareceu. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. A postagem Poderia um planeta semelhante à Terra com 2 estrelas estar próximo. O sistema estelar binário 70 Ophiuchi fica a cerca de 16 anos-luz da Terra.</p><p>Poderia um planeta semelhante à Terra com 2 estrelas estar próximo. As pessoas ficam fascinadas pela ideia de um planeta orbitando mais de uma estrela, como Tatooine em “Guerra nas Estrelas” ou Trissolaris em “O Problema dos Três Corpos”. Em 29 de.</p><p>Os pesquisadores publicaram seu estudo revisado por pares em 29 de setembro de 2026, no The Astrophysical Journal.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/earthlike-planet-with-2-stars-70-ophiuchi/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>A new astronomical model has found that an Earthlike planet could have a stable and potentially habitable orbit around a star in a nearby 2-star system. The post Could an Earthlike planet with 2 stars be nearby? first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. A new astronomical model has found that an Earthlike planet could have a stable and potentially habitable orbit around a star in a nearby 2-star system. The post Could an Earthlike planet with 2 stars be nearby.</p><p>The binary star system 70 Ophiuchi is about 16 light-years from Earth. Could an Earthlike planet with 2 stars be nearby.</p><p>People are fascinated by the idea of a planet orbiting more than one star, like Tatooine in “Star Wars” or Trisolaris in “The Three-Body Problem.” On September 29, 2026. The researchers published their peer-reviewed study on September 29, 2026, in The Astrophysical Journal.</p><p>From a dark-sky site, you can see it with the unaided eye as a single dim point of light at around magnitude 4 in the constellation Ophiuchus the Serpent Bearer. Using their computer model, the researchers could then introduce an Earth-mass planet in different locations to see what happens to the system.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>Naval Observatory from 1937. Co-author Stephen Kane of UC Riverside said: Having a 2nd sun may sound exotic, but we need to consider worlds that could be habitable without necessarily looking like Earth’s.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/earthlike-planet-with-2-stars-70-ophiuchi/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Um novo modelo astronómico descobriu que um planeta semelhante à Terra poderia ter uma órbita estável e potencialmente habitável em torno de uma.",
-      "Dado-chave: Um novo modelo astronómico descobriu que um planeta semelhante à Terra poderia ter uma órbita estável e potencialmente habitável em torno de uma.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Um novo modelo astronómico descobriu que um planeta semelhante à Terra poderia ter uma órbita estável e potencialmente habitável em torno de uma.",
-      "Dado-chave: Um novo modelo astronómico descobriu que um planeta semelhante à Terra poderia ter uma órbita estável e potencialmente habitável em torno de uma.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: A new astronomical model has found that an Earthlike planet could have a stable and potentially habitable orbit around a star in a nearby 2-star.",
-      "Key detail: A new astronomical model has found that an Earthlike planet could have a stable and potentially habitable orbit around a star in a nearby 2-star.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "02 out 2026",
-    "date_pt": "02 out 2026",
-    "date_en": "02 Oct 2026",
-    "time": "11h12",
-    "time_pt": "11h12",
-    "time_en": "11:12 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-10-02T11:12:52+00:00",
-    "lastModifiedIso": "2026-10-02T11:12:52+00:00",
-    "source": "EarthSky",
-    "sourceDomain": "earthsky.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Exoplanetas",
-      "EarthSky",
-      "Cosmos Week",
-      "Poderia um planeta semelhante à Terra com 2 estrelas estar próximo?"
-    ],
-    "keywords_pt": [
-      "Exoplanetas",
-      "EarthSky",
-      "Cosmos Week",
-      "Poderia um planeta semelhante à Terra com 2 estrelas estar próximo?"
-    ],
-    "keywords_en": [
-      "Exoplanets",
-      "EarthSky",
-      "Cosmos Week",
-      "Could an Earth-like planet with 2 stars be nearby?"
-    ],
-    "srcUrl": "https://earthsky.org/space/earthlike-planet-with-2-stars-70-ophiuchi/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=could-an-earthlike-planet-with-2-stars-be-nearby",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=could-an-earthlike-planet-with-2-stars-be-nearby",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=could-an-earthlike-planet-with-2-stars-be-nearby&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 74,
-    "scoreBreakdown": {
-      "source": 72,
-      "evidence": 82,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 52
-    }
-  },
-  {
-    "id": 20,
+    "id": 21,
     "slug": "science-begins-for-smile",
     "cat": "Física",
     "catCls": "fisica",
@@ -2430,11 +2575,11 @@ window.postsData = [
       "evidence": 88,
       "relevance": 82,
       "accessibility": 60,
-      "novelty": 49
+      "novelty": 46
     }
   },
   {
-    "id": 21,
+    "id": 22,
     "slug": "exercise-keeps-astronaut-hearts-in-fighting-shape-for-the-journey-to-mars",
     "cat": "Física",
     "catCls": "fisica",
@@ -2562,7 +2707,7 @@ window.postsData = [
     }
   },
   {
-    "id": 22,
+    "id": 23,
     "slug": "nasa-s-first-selection-for-a-new-class-of-mission-the-prima-far-infrared-telescope",
     "cat": "Física",
     "catCls": "fisica",
@@ -2695,142 +2840,6 @@ window.postsData = [
       "relevance": 82,
       "accessibility": 60,
       "novelty": 49
-    }
-  },
-  {
-    "id": 23,
-    "slug": "science-release-hubble-unexpectedly-catches-comet-breaking-up",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://cdn.esahubble.org/archives/images/screen/heic2606a.jpg",
-    "inline_images": [
-      {
-        "src": "https://cdn.esahubble.org/archives/images/newsfeature/heic2606a.jpg",
-        "caption": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
-        "caption_pt": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
-        "caption_en": "Comet C/2025 K1 (ATLAS): November 2025",
-        "alt": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
-        "alt_pt": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
-        "alt_en": "Comet C/2025 K1 (ATLAS): November 2025"
-      },
-      {
-        "src": "https://cdn.esahubble.org/archives/images/news/heic2606a.jpg",
-        "caption": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
-        "caption_pt": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
-        "caption_en": "Comet C/2025 K1 (ATLAS): November 2025",
-        "alt": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
-        "alt_pt": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
-        "alt_en": "Comet C/2025 K1 (ATLAS): November 2025"
-      },
-      {
-        "src": "https://cdn.esahubble.org/archives/images/news/heic2606b.jpg",
-        "caption": "Cometa C/2025 K1 (ATLAS): novembro de 2025 (anotado)",
-        "caption_pt": "Cometa C/2025 K1 (ATLAS): novembro de 2025 (anotado)",
-        "caption_en": "Comet C/2025 K1 (ATLAS): November 2025 (annotated)",
-        "alt": "Cometa C/2025 K1 (ATLAS): novembro de 2025 (anotado)",
-        "alt_pt": "Cometa C/2025 K1 (ATLAS): novembro de 2025 (anotado)",
-        "alt_en": "Comet C/2025 K1 (ATLAS): November 2025 (annotated)"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Divulgação Científica: Hubble inesperadamente captura cometa se rompendo",
-    "title_pt": "Divulgação Científica: Hubble inesperadamente captura cometa se rompendo",
-    "title_en": "Science Release: Hubble unexpectedly catches comet breaking up",
-    "sub": "O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias.",
-    "sub_pt": "O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias.",
-    "sub_en": "Comet K1, whose full name is Comet C/2025 K1, had just passed its closest approach to the Sun and was heading out of the Solar System. Though it had been intact just days before.",
-    "excerpt": "O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias antes, o K1 se fragmentou em pelo menos quatro pedaços enquanto a NASA/ESA.",
-    "excerpt_pt": "O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias antes, o K1 se fragmentou em pelo menos quatro pedaços enquanto a NASA/ESA.",
-    "excerpt_en": "Comet K1, whose full name is Comet C/2025 K1, had just passed its closest approach to the Sun and was heading out of the Solar System. Though it had been intact just days before, K1 fragmented into at least four pieces while the NASA/ESA.",
-    "body": "<p>O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias antes, o K1 se fragmentou em pelo menos quatro pedaços enquanto a NASA/ESA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Embora estivesse intacto poucos dias antes, o K1 fragmentou-se em pelo menos quatro pedaços enquanto o Telescópio Espacial Hubble da NASA/ESA observava. O cometa K1, cujo nome completo é Cometa C/2025 K1 (ATLAS), não deve ser confundido com o cometa interestelar 3I/ATLAS, não foi o alvo original de um estudo recente do Hubble.</p><p>Tivemos que encontrar um novo alvo, e logo quando o observamos, ele se quebrou, o que é a menor das mínimas chances.” Noonan não sabia que o K1 estava se fragmentando até ver as. “Então sabíamos que isso era algo muito, muito especial.” Este é um experimento que os pesquisadores sempre quiseram fazer com o Hubble.</p><p>As imagens do Hubble foram tiradas apenas um mês após a maior aproximação do K1 ao Sol, chamada periélio. O periélio do cometa estava dentro da órbita de Mercúrio, cerca de um terço da distância da Terra ao Sol.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2606/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias antes, o K1 se fragmentou em pelo menos quatro pedaços enquanto a NASA/ESA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Embora estivesse intacto poucos dias antes, o K1 fragmentou-se em pelo menos quatro pedaços enquanto o Telescópio Espacial Hubble da NASA/ESA observava. O cometa K1, cujo nome completo é Cometa C/2025 K1 (ATLAS), não deve ser confundido com o cometa interestelar 3I/ATLAS, não foi o alvo original de um estudo recente do Hubble.</p><p>Tivemos que encontrar um novo alvo, e logo quando o observamos, ele se quebrou, o que é a menor das mínimas chances.” Noonan não sabia que o K1 estava se fragmentando até ver as. “Então sabíamos que isso era algo muito, muito especial.” Este é um experimento que os pesquisadores sempre quiseram fazer com o Hubble.</p><p>As imagens do Hubble foram tiradas apenas um mês após a maior aproximação do K1 ao Sol, chamada periélio. O periélio do cometa estava dentro da órbita de Mercúrio, cerca de um terço da distância da Terra ao Sol.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2606/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Comet K1, whose full name is Comet C/2025 K1, had just passed its closest approach to the Sun and was heading out of the Solar System. Though it had been intact just days before, K1 fragmented into at least four pieces while the NASA/ESA. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Though it had been intact just days before, K1 fragmented into at least four pieces while the NASA/ESA Hubble Space Telescope was watching. Comet K1, whose full name is Comet C/2025 K1 (ATLAS), not to be confused with interstellar comet 3I/ATLAS, was not the original target of a recent Hubble study.</p><p>We had to find a new target, and right when we observed it, it happened to break apart, which is the slimmest of slim chances.” Noonan didn’t know K1 was fragmenting until he. “So we knew this was something really, really special.” This is an experiment the researchers always wanted to do with Hubble.</p><p>Hubble’s images were taken just a month after K1’s closest approach to the Sun, called perihelion. The comet&#x27;s perihelion was inside Mercury’s orbit, about one-third the distance of the Earth from the Sun.</p><p>Hubble took three 20-second images, one on each day from 8 November through 10 November 2025. Already, ground-based analysis shows that K1 is chemically very strange, it is significantly depleted in carbon, compared with other comets.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Spectroscopic analysis from Hubble’s STIS ( Space Telescope Imaging Spectrograph ) and COS ( Cosmic Origins Spectrograph ) instruments is likely to reveal much more about the. The comet K1 is now a collection of fragments about 400 million kilometers from Earth.</p><p>Because the account originates with ESA Hubble News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2606/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora.",
-      "Dado-chave: Embora estivesse intacto poucos dias antes, o K1 fragmentou-se em pelo menos quatro pedaços enquanto o Telescópio Espacial Hubble da NASA/ESA.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora.",
-      "Dado-chave: Embora estivesse intacto poucos dias antes, o K1 fragmentou-se em pelo menos quatro pedaços enquanto o Telescópio Espacial Hubble da NASA/ESA.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Comet K1, whose full name is Comet C/2025 K1, had just passed its closest approach to the Sun and was heading out of the Solar System. Though it had.",
-      "Key detail: Though it had been intact just days before, K1 fragmented into at least four pieces while the NASA/ESA Hubble Space Telescope was watching.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "18 mar 2026",
-    "date_pt": "18 mar 2026",
-    "date_en": "18 Mar 2026",
-    "time": "14h00",
-    "time_pt": "14h00",
-    "time_en": "14:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-03-18T14:00:00+00:00",
-    "lastModifiedIso": "2026-03-18T14:00:00+00:00",
-    "source": "ESA Hubble News",
-    "sourceDomain": "esahubble.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astronomia",
-      "ESA Hubble News",
-      "Cosmos Week",
-      "Divulgação Científica",
-      "Hubble inesperadamente captura cometa se rompendo"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "ESA Hubble News",
-      "Cosmos Week",
-      "Divulgação Científica",
-      "Hubble inesperadamente captura cometa se rompendo"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "ESA Hubble News",
-      "Cosmos Week",
-      "Scientific Dissemination",
-      "Hubble unexpectedly captures comet breaking up"
-    ],
-    "srcUrl": "https://esahubble.org/news/heic2606/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-unexpectedly-catches-comet-breaking-up",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-unexpectedly-catches-comet-breaking-up",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-unexpectedly-catches-comet-breaking-up&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 79,
-    "scoreBreakdown": {
-      "source": 89,
-      "evidence": 88,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 46
     }
   },
   {
@@ -3096,35 +3105,7 @@ window.postsData = [
     "cat": "Ciências da Terra",
     "catCls": "terra",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/05/global_mars_in_colour/24894462-7-eng-GB/Global_Mars_in_colour_card_full.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2021/02/a_new_year_on_mars/23129710-8-eng-GB/A_New_Year_on_Mars_article.png",
-        "caption": "Um Ano Novo em Marte",
-        "caption_pt": "Um Ano Novo em Marte",
-        "caption_en": "A New Year on Mars",
-        "alt": "Um Ano Novo em Marte",
-        "alt_pt": "Um Ano Novo em Marte",
-        "alt_en": "A New Year on Mars"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2019/05/meet_mars/19408907-7-eng-GB/Meet_Mars_article.png",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://www.esa.int/extension/pillars/design/pillars/images/play-button.svg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "Feliz Ano Novo em Marte",
@@ -3136,9 +3117,9 @@ window.postsData = [
     "excerpt": "30 de setembro de 2026 marca o início de um novo ano em Marte. Exatamente às 10h16 CEST/08h16 UTC na Terra, o Planeta Vermelho inicia uma nova órbita ao redor do nosso Sol.",
     "excerpt_pt": "30 de setembro de 2026 marca o início de um novo ano em Marte. Exatamente às 10h16 CEST/08h16 UTC na Terra, o Planeta Vermelho inicia uma nova órbita ao redor do nosso Sol.",
     "excerpt_en": "30 September 2026 marks the start of a new year on Mars. At exactly 10: 16 CEST/08: 16 UTC on Earth, the Red Planet begins a new orbit around our Sun.",
-    "body": "<p>30 de setembro de 2026 marca o início de um novo ano em Marte. Exatamente às 10h16 CEST/08h16 UTC na Terra, o Planeta Vermelho inicia uma nova órbita ao redor do nosso Sol. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. 30 de setembro de 2026 marca o início de um novo ano em Marte. Exatamente às 10h16 CEST/08h16 UTC na Terra, o Planeta Vermelho inicia uma nova órbita ao redor do nosso Sol.</p><p>A convenção para contar anos no calendário marciano começou em 1955, com o primeiro ano coincidindo com uma grande tempestade chamada “a grande tempestade de poeira de 1956”. Se precisar de inspiração, aqui está um poema que o autor holandês Marjolijn van Heemstra dedica a Marte.</p><p>Um dia marciano é chamado de ‘sol’ e dura 24 horas e 39 minutos, um pouco mais que um dia terrestre. Um ano em Marte equivale a 687 dias terrestres, ou 668 sóis, quase o dobro da duração de um ano terrestre.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Happy_New_Year_on_Mars\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>30 de setembro de 2026 marca o início de um novo ano em Marte. Exatamente às 10h16 CEST/08h16 UTC na Terra, o Planeta Vermelho inicia uma nova órbita ao redor do nosso Sol. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. 30 de setembro de 2026 marca o início de um novo ano em Marte. Exatamente às 10h16 CEST/08h16 UTC na Terra, o Planeta Vermelho inicia uma nova órbita ao redor do nosso Sol.</p><p>A convenção para contar anos no calendário marciano começou em 1955, com o primeiro ano coincidindo com uma grande tempestade chamada “a grande tempestade de poeira de 1956”. Se precisar de inspiração, aqui está um poema que o autor holandês Marjolijn van Heemstra dedica a Marte.</p><p>Um dia marciano é chamado de ‘sol’ e dura 24 horas e 39 minutos, um pouco mais que um dia terrestre. Um ano em Marte equivale a 687 dias terrestres, ou 668 sóis, quase o dobro da duração de um ano terrestre.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Happy_New_Year_on_Mars\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>30 September 2026 marks the start of a new year on Mars. At exactly 10: 16 CEST/08: 16 UTC on Earth, the Red Planet begins a new orbit around our Sun. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. 30 September 2026 marks the start of a new year on Mars. 16 CEST/08: 16 UTC on Earth, the Red Planet begins a new orbit around our Sun.</p><p>The convention for counting years in the martian calendar started in 1955, with the first year coinciding with a major storm named ‘the great dust storm of 1956’. If you need some inspiration, here is a poem Dutch author Marjolijn van Heemstra dedicates to Mars.</p><p>A martian day is called a ‘sol’ and lasts 24 hours and 39 minutes, slightly longer than an Earth day. One year on Mars equals 687 Earth days, or 668 sols, nearly twice as long as an Earth year.</p><p>If you would like to know your martian age, divide your current age by 1.88 and tell your friends how much younger you are. on Mars, at least. The martian New Year begins on the northern equinox (northern spring, southern autumn on Mars).</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Like Earth, Mars has four seasons, winter, spring, summer and autumn. Unlike Earth’s seasons, martian seasons are not of equal lengths due to Mars’ more elliptical orbit.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Happy_New_Year_on_Mars\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>30 de setembro de 2026 marca o início de um novo ano em Marte. Exatamente às 10h16 CEST/08h16 UTC na Terra, o Planeta Vermelho inicia uma nova órbita ao redor do nosso Sol. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. 30 de setembro de 2026 marca o início de um novo ano em Marte. Exatamente às 10h16 CEST/08h16 UTC na Terra, o Planeta Vermelho inicia uma nova órbita ao redor do nosso Sol.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Happy_New_Year_on_Mars\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>30 de setembro de 2026 marca o início de um novo ano em Marte. Exatamente às 10h16 CEST/08h16 UTC na Terra, o Planeta Vermelho inicia uma nova órbita ao redor do nosso Sol. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. 30 de setembro de 2026 marca o início de um novo ano em Marte. Exatamente às 10h16 CEST/08h16 UTC na Terra, o Planeta Vermelho inicia uma nova órbita ao redor do nosso Sol.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Happy_New_Year_on_Mars\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>30 September 2026 marks the start of a new year on Mars. At exactly 10: 16 CEST/08: 16 UTC on Earth, the Red Planet begins a new orbit around our Sun. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. 30 September 2026 marks the start of a new year on Mars. 16 CEST/08: 16 UTC on Earth, the Red Planet begins a new orbit around our Sun.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Happy_New_Year_on_Mars\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: 30 de setembro de 2026 marca o início de um novo ano em Marte. Exatamente às 10h16 CEST/08h16 UTC na Terra, o Planeta Vermelho inicia uma nova órbita.",
       "Dado-chave: 30 de setembro de 2026 marca o início de um novo ano em Marte.",
@@ -3214,13 +3195,13 @@ window.postsData = [
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 78,
+    "score": 77,
     "scoreBreakdown": {
       "source": 90,
       "evidence": 88,
       "relevance": 80,
       "accessibility": 60,
-      "novelty": 49
+      "novelty": 46
     }
   },
   {
@@ -3597,7 +3578,26 @@ window.postsData = [
     "cat": "Astronomia",
     "catCls": "astronomia",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/esa_iac_2026_key_visual/27549049-1-eng-GB/ESA_IAC_2026_key_visual_card_full.jpg",
-    "inline_images": [],
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/esa_iac_2026_the_booth/27549096-1-eng-GB/ESA_IAC_2026_the_booth_article.png",
+        "caption": "ESA IAC 2026 o estande",
+        "caption_pt": "ESA IAC 2026 o estande",
+        "caption_en": "ESA IAC 2026 the booth",
+        "alt": "ESA IAC 2026 o estande",
+        "alt_pt": "ESA IAC 2026 o estande",
+        "alt_en": "ESA IAC 2026 the booth"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/esa_iac_2026_the_booth_inside_view/27549262-1-eng-GB/ESA_IAC_2026_the_booth_inside_view_article.png",
+        "caption": "ESA IAC 2026 o estande (vista interna)",
+        "caption_pt": "ESA IAC 2026 o estande (vista interna)",
+        "caption_en": "ESA IAC 2026 the booth (inside view)",
+        "alt": "ESA IAC 2026 o estande (vista interna)",
+        "alt_pt": "ESA IAC 2026 o estande (vista interna)",
+        "alt_en": "ESA IAC 2026 the booth (inside view)"
+      }
+    ],
     "video": null,
     "audio": null,
     "title": "ESA no 77º Congresso Astronáutico Internacional",
@@ -3609,9 +3609,9 @@ window.postsData = [
     "excerpt": "A Agência Espacial Europeia participará no 77º Congresso Astronáutico Internacional, que abre na segunda-feira, 5 de outubro, e decorre até sexta-feira, 9 de outubro, em Antalya, Türkiye. São esperados mais de 6 mil participantes no Ninho.",
     "excerpt_pt": "A Agência Espacial Europeia participará no 77º Congresso Astronáutico Internacional, que abre na segunda-feira, 5 de outubro, e decorre até sexta-feira, 9 de outubro, em Antalya, Türkiye. São esperados mais de 6 mil participantes no Ninho.",
     "excerpt_en": "The European Space Agency will participate in the 77th International Astronautical Congress, which opens on Monday 5 October and runs until Friday 9 October in Antalya, Türkiye. More than 6 000 participants are expected at the Nest.",
-    "body": "<p>A Agência Espacial Europeia participará no 77º Congresso Astronáutico Internacional, que abre na segunda-feira, 5 de outubro, e decorre até sexta-feira, 9 de outubro, em Antalya, Türkiye. São esperados mais de 6 mil participantes no Ninho. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A ESA estará presente durante todo o evento no Hall 1, estande 1B-02, com uma exposição apresentando os resultados das últimas missões da agência. A Agência Espacial Europeia (ESA) participará no 77º Congresso Astronáutico Internacional (IAC), que abre na segunda-feira, 5 de outubro, e decorre até sexta-feira, 9 de outubro.</p><p>São esperados mais de 6 000 participantes no Centro de Congressos e Exposições Nest, sob o tema ‘O Mundo Precisa de Mais Espaço’. A ESA estará presente durante todo o evento no Hall 1, estande 1B-02, com uma exposição apresentando os mais recentes resultados da missão, conquistas e ambições futuras da.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/About_Us/Corporate_news/ESA_at_the_77th_International_Astronautical_Congress\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A Agência Espacial Europeia participará no 77º Congresso Astronáutico Internacional, que abre na segunda-feira, 5 de outubro, e decorre até sexta-feira, 9 de outubro, em Antalya, Türkiye. São esperados mais de 6 mil participantes no Ninho. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A ESA estará presente durante todo o evento no Hall 1, estande 1B-02, com uma exposição apresentando os resultados das últimas missões da agência. A Agência Espacial Europeia (ESA) participará no 77º Congresso Astronáutico Internacional (IAC), que abre na segunda-feira, 5 de outubro, e decorre até sexta-feira, 9 de outubro.</p><p>São esperados mais de 6 000 participantes no Centro de Congressos e Exposições Nest, sob o tema ‘O Mundo Precisa de Mais Espaço’. A ESA estará presente durante todo o evento no Hall 1, estande 1B-02, com uma exposição apresentando os mais recentes resultados da missão, conquistas e ambições futuras da.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/About_Us/Corporate_news/ESA_at_the_77th_International_Astronautical_Congress\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The European Space Agency will participate in the 77th International Astronautical Congress, which opens on Monday 5 October and runs until Friday 9 October in Antalya, Türkiye. More than 6 000 participants are expected at the Nest. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. ESA will be present throughout the event in Hall 1, booth 1B-02, with an exhibition showcasing the agency’s latest mission results. The European Space Agency (ESA) will participate in the 77th International Astronautical Congress (IAC), which opens on Monday 5 October and runs until Friday 9 October in.</p><p>More than 6 000 participants are expected at the Nest Congress and Exhibition Centre, under the theme ‘ The World Needs More Space’. ESA will be present throughout the event in Hall 1, booth 1B-02, with an exhibition showcasing the agency’s latest mission results, achievements and future ambitions.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/About_Us/Corporate_news/ESA_at_the_77th_International_Astronautical_Congress\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>A Agência Espacial Europeia participará no 77º Congresso Astronáutico Internacional, que abre na segunda-feira, 5 de outubro, e decorre até sexta-feira, 9 de outubro, em Antalya, Türkiye. São esperados mais de 6 mil participantes no Ninho. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A ESA estará presente durante todo o evento no Hall 1, estande 1B-02, com uma exposição apresentando os resultados das últimas missões da agência. A Agência Espacial Europeia (ESA) participará no 77º Congresso Astronáutico Internacional (IAC), que abre na segunda-feira, 5 de outubro, e decorre até sexta-feira, 9 de outubro.</p><p>A ESA estará presente durante todo o evento no Hall 1, estande 1B-02, com uma exposição apresentando os mais recentes resultados da missão, conquistas e ambições futuras da. A IAC oferece uma plataforma única para se conectar com os principais intervenientes em todo o sector espacial, desde os Estados Membros da ESA e parceiros internacionais até à.</p><p>“A nossa presença no IAC visa reforçar o papel da ESA como líder espacial global e parceiro internacional de confiança”, afirma Anne-Sophie Bradelle, Chefe do Departamento de. A exposição, intitulada ‘Agência Espacial Europeia: Elevando o Futuro da Europa’, destaca os cinco objetivos da Estratégia ESA 2040: proteger o nosso planeta e o clima.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/About_Us/Corporate_news/ESA_at_the_77th_International_Astronautical_Congress\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A Agência Espacial Europeia participará no 77º Congresso Astronáutico Internacional, que abre na segunda-feira, 5 de outubro, e decorre até sexta-feira, 9 de outubro, em Antalya, Türkiye. São esperados mais de 6 mil participantes no Ninho. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A ESA estará presente durante todo o evento no Hall 1, estande 1B-02, com uma exposição apresentando os resultados das últimas missões da agência. A Agência Espacial Europeia (ESA) participará no 77º Congresso Astronáutico Internacional (IAC), que abre na segunda-feira, 5 de outubro, e decorre até sexta-feira, 9 de outubro.</p><p>A ESA estará presente durante todo o evento no Hall 1, estande 1B-02, com uma exposição apresentando os mais recentes resultados da missão, conquistas e ambições futuras da. A IAC oferece uma plataforma única para se conectar com os principais intervenientes em todo o sector espacial, desde os Estados Membros da ESA e parceiros internacionais até à.</p><p>“A nossa presença no IAC visa reforçar o papel da ESA como líder espacial global e parceiro internacional de confiança”, afirma Anne-Sophie Bradelle, Chefe do Departamento de. A exposição, intitulada ‘Agência Espacial Europeia: Elevando o Futuro da Europa’, destaca os cinco objetivos da Estratégia ESA 2040: proteger o nosso planeta e o clima.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/About_Us/Corporate_news/ESA_at_the_77th_International_Astronautical_Congress\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The European Space Agency will participate in the 77th International Astronautical Congress, which opens on Monday 5 October and runs until Friday 9 October in Antalya, Türkiye. More than 6 000 participants are expected at the Nest. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. ESA will be present throughout the event in Hall 1, booth 1B-02, with an exhibition showcasing the agency’s latest mission results. The European Space Agency (ESA) will participate in the 77th International Astronautical Congress (IAC), which opens on Monday 5 October and runs until Friday 9 October in.</p><p>ESA will be present throughout the event in Hall 1, booth 1B-02, with an exhibition showcasing the agency’s latest mission results, achievements and future ambitions. IAC offers a unique platform to connect with key players across the space sector, from ESA Member States and international partners to industry, and to strengthen global space.</p><p>“Our presence at IAC aims to reinforce ESA’s role as a global space leader and trusted international partner,” says Anne-Sophie Bradelle, Head of ESA Communication Department. The exhibition, titled ‘European Space Agency: Elevating the Future of Europe’, highlights the five goals of ESA Strategy 2040: protecting our planet and climate.</p><p>Building on the outcomes of ESA’s Council at Ministerial level in 2025 and the International Space Summit in Paris last September, the exhibition will highlight the fundamental. The exhibition takes visitors on a journey from Earth to the Moon and Mars, highlighting how international cooperation is helping to expand Europe’s capabilities in space.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Major achievements with international partners are showcased, including BepiColombo, the first ESA, JAXA mission to Mercury, launched in 2018 for a 8-years journey. SMILE, the joint ESA, Chinese Academy of Sciences mission studying the interaction between the solar wind and Earth.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/About_Us/Corporate_news/ESA_at_the_77th_International_Astronautical_Congress\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: A Agência Espacial Europeia participará no 77º Congresso Astronáutico Internacional, que abre na segunda-feira, 5 de outubro, e decorre até.",
       "Dado-chave: A ESA estará presente durante todo o evento no Hall 1, estande 1B-02, com uma exposição apresentando os resultados das últimas missões da.",
@@ -4160,6 +4160,121 @@ window.postsData = [
   },
   {
     "id": 35,
+    "slug": "could-an-earthlike-planet-with-2-stars-be-nearby",
+    "cat": "Exoplanetas",
+    "catCls": "exoplanetas",
+    "img": "https://earthsky.org/upl/2026/09/planet-with-2-suns-NASA-ESA-CSA-STScI-Robert-Hurt-Caltech-IPAC-e1790772284981.jpg",
+    "inline_images": [
+      {
+        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Poderia um planeta semelhante à Terra com 2 estrelas estar próximo?",
+    "title_pt": "Poderia um planeta semelhante à Terra com 2 estrelas estar próximo?",
+    "title_en": "Could an Earthlike planet with 2 stars be nearby?",
+    "sub": "Um novo modelo astronómico descobriu que um planeta semelhante à Terra poderia ter uma órbita estável e potencialmente habitável em torno de uma estrela num sistema próximo de 2.",
+    "sub_pt": "Um novo modelo astronómico descobriu que um planeta semelhante à Terra poderia ter uma órbita estável e potencialmente habitável em torno de uma estrela num sistema próximo de 2.",
+    "sub_en": "A new astronomical model has found that an Earthlike planet could have a stable and potentially habitable orbit around a star in a nearby 2-star system. The post Could an.",
+    "excerpt": "Um novo modelo astronómico descobriu que um planeta semelhante à Terra poderia ter uma órbita estável e potencialmente habitável em torno de uma estrela num sistema próximo de 2 estrelas. A postagem Poderia um planeta semelhante à Terra com 2 estrelas estar.",
+    "excerpt_pt": "Um novo modelo astronómico descobriu que um planeta semelhante à Terra poderia ter uma órbita estável e potencialmente habitável em torno de uma estrela num sistema próximo de 2 estrelas. A postagem Poderia um planeta semelhante à Terra com 2 estrelas estar.",
+    "excerpt_en": "A new astronomical model has found that an Earthlike planet could have a stable and potentially habitable orbit around a star in a nearby 2-star system. The post Could an Earthlike planet with 2 stars be nearby? first appeared on EarthSky.",
+    "body": "<p>Um novo modelo astronómico descobriu que um planeta semelhante à Terra poderia ter uma órbita estável e potencialmente habitável em torno de uma estrela num sistema próximo de 2 estrelas. A postagem Poderia um planeta semelhante à Terra com 2 estrelas estar próximo? apareceu. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. A postagem Poderia um planeta semelhante à Terra com 2 estrelas estar próximo. O sistema estelar binário 70 Ophiuchi fica a cerca de 16 anos-luz da Terra.</p><p>Poderia um planeta semelhante à Terra com 2 estrelas estar próximo. As pessoas ficam fascinadas pela ideia de um planeta orbitando mais de uma estrela, como Tatooine em “Guerra nas Estrelas” ou Trissolaris em “O Problema dos Três Corpos”. Em 29 de.</p><p>Os pesquisadores publicaram seu estudo revisado por pares em 29 de setembro de 2026, no The Astrophysical Journal.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/earthlike-planet-with-2-stars-70-ophiuchi/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Um novo modelo astronómico descobriu que um planeta semelhante à Terra poderia ter uma órbita estável e potencialmente habitável em torno de uma estrela num sistema próximo de 2 estrelas. A postagem Poderia um planeta semelhante à Terra com 2 estrelas estar próximo? apareceu. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. A postagem Poderia um planeta semelhante à Terra com 2 estrelas estar próximo. O sistema estelar binário 70 Ophiuchi fica a cerca de 16 anos-luz da Terra.</p><p>Poderia um planeta semelhante à Terra com 2 estrelas estar próximo. As pessoas ficam fascinadas pela ideia de um planeta orbitando mais de uma estrela, como Tatooine em “Guerra nas Estrelas” ou Trissolaris em “O Problema dos Três Corpos”. Em 29 de.</p><p>Os pesquisadores publicaram seu estudo revisado por pares em 29 de setembro de 2026, no The Astrophysical Journal.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/earthlike-planet-with-2-stars-70-ophiuchi/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>A new astronomical model has found that an Earthlike planet could have a stable and potentially habitable orbit around a star in a nearby 2-star system. The post Could an Earthlike planet with 2 stars be nearby? first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. A new astronomical model has found that an Earthlike planet could have a stable and potentially habitable orbit around a star in a nearby 2-star system. The post Could an Earthlike planet with 2 stars be nearby.</p><p>The binary star system 70 Ophiuchi is about 16 light-years from Earth. Could an Earthlike planet with 2 stars be nearby.</p><p>People are fascinated by the idea of a planet orbiting more than one star, like Tatooine in “Star Wars” or Trisolaris in “The Three-Body Problem.” On September 29, 2026. The researchers published their peer-reviewed study on September 29, 2026, in The Astrophysical Journal.</p><p>From a dark-sky site, you can see it with the unaided eye as a single dim point of light at around magnitude 4 in the constellation Ophiuchus the Serpent Bearer. Using their computer model, the researchers could then introduce an Earth-mass planet in different locations to see what happens to the system.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>Naval Observatory from 1937. Co-author Stephen Kane of UC Riverside said: Having a 2nd sun may sound exotic, but we need to consider worlds that could be habitable without necessarily looking like Earth’s.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/earthlike-planet-with-2-stars-70-ophiuchi/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Um novo modelo astronómico descobriu que um planeta semelhante à Terra poderia ter uma órbita estável e potencialmente habitável em torno de uma.",
+      "Dado-chave: Um novo modelo astronómico descobriu que um planeta semelhante à Terra poderia ter uma órbita estável e potencialmente habitável em torno de uma.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Um novo modelo astronómico descobriu que um planeta semelhante à Terra poderia ter uma órbita estável e potencialmente habitável em torno de uma.",
+      "Dado-chave: Um novo modelo astronómico descobriu que um planeta semelhante à Terra poderia ter uma órbita estável e potencialmente habitável em torno de uma.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: A new astronomical model has found that an Earthlike planet could have a stable and potentially habitable orbit around a star in a nearby 2-star.",
+      "Key detail: A new astronomical model has found that an Earthlike planet could have a stable and potentially habitable orbit around a star in a nearby 2-star.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "02 out 2026",
+    "date_pt": "02 out 2026",
+    "date_en": "02 Oct 2026",
+    "time": "11h12",
+    "time_pt": "11h12",
+    "time_en": "11:12 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-10-02T11:12:52+00:00",
+    "lastModifiedIso": "2026-10-02T11:12:52+00:00",
+    "source": "EarthSky",
+    "sourceDomain": "earthsky.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Exoplanetas",
+      "EarthSky",
+      "Cosmos Week",
+      "Poderia um planeta semelhante à Terra com 2 estrelas estar próximo?"
+    ],
+    "keywords_pt": [
+      "Exoplanetas",
+      "EarthSky",
+      "Cosmos Week",
+      "Poderia um planeta semelhante à Terra com 2 estrelas estar próximo?"
+    ],
+    "keywords_en": [
+      "Exoplanets",
+      "EarthSky",
+      "Cosmos Week",
+      "Could an Earth-like planet with 2 stars be nearby?"
+    ],
+    "srcUrl": "https://earthsky.org/space/earthlike-planet-with-2-stars-70-ophiuchi/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=could-an-earthlike-planet-with-2-stars-be-nearby",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=could-an-earthlike-planet-with-2-stars-be-nearby",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=could-an-earthlike-planet-with-2-stars-be-nearby&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 74,
+    "scoreBreakdown": {
+      "source": 72,
+      "evidence": 82,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 52
+    }
+  },
+  {
+    "id": 36,
     "slug": "cern-entrepreneurship-highlighted-in-global-innovation-report",
     "cat": "Física",
     "catCls": "fisica",
@@ -4274,7 +4389,7 @@ window.postsData = [
     }
   },
   {
-    "id": 36,
+    "id": 37,
     "slug": "juice-to-fly-past-earth-for-third-gravity-assist",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4376,121 +4491,6 @@ window.postsData = [
       "relevance": 62,
       "accessibility": 60,
       "novelty": 46
-    }
-  },
-  {
-    "id": 37,
-    "slug": "stargazing-tips-10-great-tips-for-beginning-astronomers",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://earthsky.org/upl/2023/08/supermoon-Stojan-Stojanovski-Bitola-Aug-30-2023-e1693488127515.jpg",
-    "inline_images": [
-      {
-        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Dicas para observar as estrelas! 10 ótimas dicas para astrônomos iniciantes",
-    "title_pt": "Dicas para observar as estrelas! 10 ótimas dicas para astrônomos iniciantes",
-    "title_en": "Stargazing tips! 10 great tips for beginning astronomers",
-    "sub": "Se você é novo na observação do céu noturno, confira nossas 10 principais dicas de observação de estrelas para iniciantes. Ajudaremos você a explorar e expandir seu amor pela.",
-    "sub_pt": "Se você é novo na observação do céu noturno, confira nossas 10 principais dicas de observação de estrelas para iniciantes. Ajudaremos você a explorar e expandir seu amor pela.",
-    "sub_en": "If you're new to observing the night sky, check out our top 10 stargazing tips for beginners. We'll help you explore and expand your love for astronomy. The post Stargazing tips!.",
-    "excerpt": "Se você é novo na observação do céu noturno, confira nossas 10 principais dicas de observação de estrelas para iniciantes. Ajudaremos você a explorar e expandir seu amor pela astronomia. O post Dicas para observar as estrelas! 10 ótimas dicas para astrônomos.",
-    "excerpt_pt": "Se você é novo na observação do céu noturno, confira nossas 10 principais dicas de observação de estrelas para iniciantes. Ajudaremos você a explorar e expandir seu amor pela astronomia. O post Dicas para observar as estrelas! 10 ótimas dicas para astrônomos.",
-    "excerpt_en": "If you're new to observing the night sky, check out our top 10 stargazing tips for beginners. We'll help you explore and expand your love for astronomy. The post Stargazing tips! 10 great tips for beginning astronomers first appeared on.",
-    "body": "<p>Se você é novo na observação do céu noturno, confira nossas 10 principais dicas de observação de estrelas para iniciantes. Ajudaremos você a explorar e expandir seu amor pela astronomia. O post Dicas para observar as estrelas! 10 ótimas dicas para astrônomos iniciantes. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Se você é novo na observação do céu noturno, confira nossas 10 principais dicas de observação de estrelas para iniciantes. 10 ótimas dicas para astrônomos iniciantes apareceram pela primeira vez no EarthSky.</p><p>“Meu amigo mostra a super Lua Azul esta noite no topo da montanha”. Obrigado, Stojan. Aqui está uma pronúncia útil para estrelas, constelações e muito mais Dica 1: observe a lua A lua companheira da Terra é visível nas ruas da cidade, nos decks suburbanos e nas.</p><p>A lua conecta você a todas as pessoas do planeta, porque, de modo geral, todos nós vemos a lua na mesma fase (embora, porque vivemos em uma Terra redonda com 24 fusos horários. Assim, a lua aumenta e diminui no nosso céu de uma forma tão satisfatoriamente regular e previsível quanto qualquer coisa na Terra pode ser.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/astronomy-essentials/top-10-stargazing-tips/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Se você é novo na observação do céu noturno, confira nossas 10 principais dicas de observação de estrelas para iniciantes. Ajudaremos você a explorar e expandir seu amor pela astronomia. O post Dicas para observar as estrelas! 10 ótimas dicas para astrônomos iniciantes. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Se você é novo na observação do céu noturno, confira nossas 10 principais dicas de observação de estrelas para iniciantes. 10 ótimas dicas para astrônomos iniciantes apareceram pela primeira vez no EarthSky.</p><p>“Meu amigo mostra a super Lua Azul esta noite no topo da montanha”. Obrigado, Stojan. Aqui está uma pronúncia útil para estrelas, constelações e muito mais Dica 1: observe a lua A lua companheira da Terra é visível nas ruas da cidade, nos decks suburbanos e nas.</p><p>A lua conecta você a todas as pessoas do planeta, porque, de modo geral, todos nós vemos a lua na mesma fase (embora, porque vivemos em uma Terra redonda com 24 fusos horários. Assim, a lua aumenta e diminui no nosso céu de uma forma tão satisfatoriamente regular e previsível quanto qualquer coisa na Terra pode ser.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/astronomy-essentials/top-10-stargazing-tips/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>If you&#x27;re new to observing the night sky, check out our top 10 stargazing tips for beginners. We&#x27;ll help you explore and expand your love for astronomy. The post Stargazing tips! 10 great tips for beginning astronomers first appeared on. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. If you&#x27;re new to observing the night sky, check out our top 10 stargazing tips for beginners. 10 great tips for beginning astronomers first appeared on EarthSky.</p><p>“My friend shows you the super Blue Moon tonight on the top of the mountain.” Thank you, Stojan. Here’s a handy pronunciation for stars, constellations and more Tip 1: Watch the moon Earth’s companion moon is visible from city streets, suburban decks and wide-open rural.</p><p>The moon connects you to everybody on the planet, because, generally speaking, we all see the moon at the same phase (although, because we live on a round Earth with 24 time. So the moon waxes and wanes in our sky in a way that’s about as satisfyingly regular and predictable as anything on Earth can be.</p><p>Start looking for a crescent moon in the sunset direction a day or two after new moon and then check it out every night at about the same time. That’s because during one complete lunar cycle, the moon spends half of its time in the night sky and half of the time in the daytime.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>4 keys to understanding moon phases. | Chuck Reinhart from Indiana, shared this photo of Mars, Venus and the crescent moon with some earthshine.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/astronomy-essentials/top-10-stargazing-tips/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Se você é novo na observação do céu noturno, confira nossas 10 principais dicas de observação de estrelas para iniciantes. Ajudaremos você a explorar.",
-      "Dado-chave: Se você é novo na observação do céu noturno, confira nossas 10 principais dicas de observação de estrelas para iniciantes.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Se você é novo na observação do céu noturno, confira nossas 10 principais dicas de observação de estrelas para iniciantes. Ajudaremos você a explorar.",
-      "Dado-chave: Se você é novo na observação do céu noturno, confira nossas 10 principais dicas de observação de estrelas para iniciantes.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: If you're new to observing the night sky, check out our top 10 stargazing tips for beginners. We'll help you explore and expand your love for.",
-      "Key detail: If you're new to observing the night sky, check out our top 10 stargazing tips for beginners.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "01 out 2026",
-    "date_pt": "01 out 2026",
-    "date_en": "01 Oct 2026",
-    "time": "07h00",
-    "time_pt": "07h00",
-    "time_en": "07:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-10-01T07:00:51+00:00",
-    "lastModifiedIso": "2026-10-01T07:00:51+00:00",
-    "source": "EarthSky",
-    "sourceDomain": "earthsky.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "EarthSky",
-      "Cosmos Week",
-      "Dicas para observar as estrelas! 10 ótimas dicas para astrônomos iniciantes"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "EarthSky",
-      "Cosmos Week",
-      "Dicas para observar as estrelas! 10 ótimas dicas para astrônomos iniciantes"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "EarthSky",
-      "Cosmos Week",
-      "Tips for observing the stars! 10 Great Tips for Beginner Astronomers"
-    ],
-    "srcUrl": "https://earthsky.org/astronomy-essentials/top-10-stargazing-tips/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=stargazing-tips-10-great-tips-for-beginning-astronomers",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=stargazing-tips-10-great-tips-for-beginning-astronomers",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=stargazing-tips-10-great-tips-for-beginning-astronomers&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 72,
-    "scoreBreakdown": {
-      "source": 72,
-      "evidence": 82,
-      "relevance": 80,
-      "accessibility": 60,
-      "novelty": 49
     }
   },
   {

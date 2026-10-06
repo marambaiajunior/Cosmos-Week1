@@ -40,14 +40,14 @@ window.postsData = [
     "date": "06 out 2026",
     "date_pt": "06 out 2026",
     "date_en": "06 Oct 2026",
-    "time": "02h28",
-    "time_pt": "02h28",
-    "time_en": "02:28 UTC",
+    "time": "09h21",
+    "time_pt": "09h21",
+    "time_en": "09:21 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-10-06T02:28:42.135454+00:00",
-    "lastModifiedIso": "2026-10-06T02:28:42.135454+00:00",
+    "publishedIso": "2026-10-06T09:21:54.037928+00:00",
+    "lastModifiedIso": "2026-10-06T09:21:54.037928+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -148,14 +148,14 @@ window.postsData = [
     "date": "06 out 2026",
     "date_pt": "06 out 2026",
     "date_en": "06 Oct 2026",
-    "time": "02h28",
-    "time_pt": "02h28",
-    "time_en": "02:28 UTC",
+    "time": "09h21",
+    "time_pt": "09h21",
+    "time_en": "09:21 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-10-06T02:28:42.135406+00:00",
-    "lastModifiedIso": "2026-10-06T02:28:42.135406+00:00",
+    "publishedIso": "2026-10-06T09:21:54.037878+00:00",
+    "lastModifiedIso": "2026-10-06T09:21:54.037878+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -262,14 +262,14 @@ window.postsData = [
     "date": "06 out 2026",
     "date_pt": "06 out 2026",
     "date_en": "06 Oct 2026",
-    "time": "02h28",
-    "time_pt": "02h28",
-    "time_en": "02:28 UTC",
+    "time": "09h21",
+    "time_pt": "09h21",
+    "time_en": "09:21 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-10-06T02:28:42.135356+00:00",
-    "lastModifiedIso": "2026-10-06T02:28:42.135356+00:00",
+    "publishedIso": "2026-10-06T09:21:54.037808+00:00",
+    "lastModifiedIso": "2026-10-06T09:21:54.037808+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -367,14 +367,14 @@ window.postsData = [
     "date": "06 out 2026",
     "date_pt": "06 out 2026",
     "date_en": "06 Oct 2026",
-    "time": "02h28",
-    "time_pt": "02h28",
-    "time_en": "02:28 UTC",
+    "time": "09h21",
+    "time_pt": "09h21",
+    "time_en": "09:21 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-10-06T02:28:42.135292+00:00",
-    "lastModifiedIso": "2026-10-06T02:28:42.135292+00:00",
+    "publishedIso": "2026-10-06T09:21:54.037686+00:00",
+    "lastModifiedIso": "2026-10-06T09:21:54.037686+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -472,14 +472,14 @@ window.postsData = [
     "date": "06 out 2026",
     "date_pt": "06 out 2026",
     "date_en": "06 Oct 2026",
-    "time": "02h28",
-    "time_pt": "02h28",
-    "time_en": "02:28 UTC",
+    "time": "09h21",
+    "time_pt": "09h21",
+    "time_en": "09:21 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-10-06T02:28:42.135246+00:00",
-    "lastModifiedIso": "2026-10-06T02:28:42.135246+00:00",
+    "publishedIso": "2026-10-06T09:21:54.037597+00:00",
+    "lastModifiedIso": "2026-10-06T09:21:54.037597+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -540,6 +540,139 @@ window.postsData = [
   },
   {
     "id": 6,
+    "slug": "the-beaver-brown-waters-of-rupert-bay",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-beaver-brown-waters-of-rupert-bay-/jamesrupertbay_oli2_20260927.jpg?w=1440&h=1400&fit=clip&crop=faces%2Cfocalpoint",
+    "inline_images": [
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/moon-like-madagascar/ISS075-E-85249_th.jpg?w=1440&h=960&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "Um afloramento rochoso redondo e branco é cercado por rochas laranja com um padrão linear norte-sul. Leitos de rios ramificados cortam as estruturas rochosas.",
+        "caption_pt": "Um afloramento rochoso redondo e branco é cercado por rochas laranja com um padrão linear norte-sul. Leitos de rios ramificados cortam as estruturas rochosas.",
+        "caption_en": "A round, white rock outcrop is surrounded by orange rocks with a north-south linear pattern. Branching riverbeds cut through the rock structures.",
+        "alt": "Um afloramento rochoso redondo e branco é cercado por rochas laranja com um padrão linear norte-sul. Leitos de rios ramificados cortam as estruturas rochosas.",
+        "alt_pt": "Um afloramento rochoso redondo e branco é cercado por rochas laranja com um padrão linear norte-sul. Leitos de rios ramificados cortam as estruturas rochosas.",
+        "alt_en": "A round, white rock outcrop is surrounded by orange rocks with a north-south linear pattern. Branching riverbeds cut through the rock structures."
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-beaver-brown-waters-of-rupert-bay-/jamesrupertbay_oli2_20260927_lrg.jpg?w=9157&h=8903&fit=clip&crop=faces%2Cfocalpoint",
+        "caption": "A água marrom escura dos rios Nottaway, Harricanaw e Moose gira em águas azul-escuras da baía e se mistura com plumas de sedimentos suspensos marrom-claros. A Ilha Charlton e o Stag Rock, muito menor, são visíveis perto da costa.",
+        "caption_pt": "A água marrom escura dos rios Nottaway, Harricanaw e Moose gira em águas azul-escuras da baía e se mistura com plumas de sedimentos suspensos marrom-claros. A Ilha Charlton e o Stag Rock, muito menor, são visíveis perto da costa.",
+        "caption_en": "Dark brown water from the Nottaway, Harricanaw, and Moose rivers swirls into dark blue bay waters and mingles with plumes of lighter brown suspended sediment. Charlton Island and the much smaller Stag Rock are visible close to the shoreline.",
+        "alt": "A água marrom escura dos rios Nottaway, Harricanaw e Moose gira em águas azul-escuras da baía e se mistura com plumas de sedimentos suspensos marrom-claros. A Ilha Charlton e o Stag Rock, muito menor, são visíveis perto da costa.",
+        "alt_pt": "A água marrom escura dos rios Nottaway, Harricanaw e Moose gira em águas azul-escuras da baía e se mistura com plumas de sedimentos suspensos marrom-claros. A Ilha Charlton e o Stag Rock, muito menor, são visíveis perto da costa.",
+        "alt_en": "Dark brown water from the Nottaway, Harricanaw, and Moose rivers swirls into dark blue bay waters and mingles with plumes of lighter brown suspended sediment. Charlton Island and the much smaller Stag Rock are visible close to the shoreline."
+      },
+      {
+        "src": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/bountiful-roebuck-bay/broomewater_oli_20260318_th.jpg?fit=clip&crop=faces%2Cfocalpoint&w=300",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "As águas castores de Rupert Bay",
+    "title_pt": "As águas castores de Rupert Bay",
+    "title_en": "The Beaver Brown Waters of Rupert Bay",
+    "sub": "Matéria orgânica dissolvida e sedimentos suspensos se misturam na extensão mais ao sul da Baía de James.",
+    "sub_pt": "Matéria orgânica dissolvida e sedimentos suspensos se misturam na extensão mais ao sul da Baía de James.",
+    "sub_en": "Dissolved organic matter and suspended sediment mingle in the southernmost extent of James Bay.",
+    "excerpt": "Matéria orgânica dissolvida e sedimentos suspensos se misturam na extensão mais ao sul da Baía de James.",
+    "excerpt_pt": "Matéria orgânica dissolvida e sedimentos suspensos se misturam na extensão mais ao sul da Baía de James.",
+    "excerpt_en": "Dissolved organic matter and suspended sediment mingle in the southernmost extent of James Bay.",
+    "body": "<p>Matéria orgânica dissolvida e sedimentos suspensos se misturam na extensão mais ao sul da Baía de James. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Num dos primeiros exemplos de uma reserva de castores gerida no Canadá, a Hudson’s Bay Company trabalhou com o povo Cree local na década de 1830 e novamente um século depois para. (2008) Mapas, cartografia e uso de mapas por nativos norte-americanos.</p><p>Observatório da Terra da NASA (2026, 26 de março) Contornos das planícies de James Bay. Observatório da Terra da NASA (2018, 20 de agosto) Filamentos e cores em Rupert Bay.</p><p>NASA Earth Observatory (2016, 1º de outubro) Um pouco de chá com seu rio. Você também pode estar interessado em: Mantenha-se atualizado com o conteúdo mais recente da NASA enquanto exploramos o universo e descobrimos mais sobre nosso planeta natal.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/the-beaver-brown-waters-of-rupert-bay/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Matéria orgânica dissolvida e sedimentos suspensos se misturam na extensão mais ao sul da Baía de James. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Num dos primeiros exemplos de uma reserva de castores gerida no Canadá, a Hudson’s Bay Company trabalhou com o povo Cree local na década de 1830 e novamente um século depois para. (2008) Mapas, cartografia e uso de mapas por nativos norte-americanos.</p><p>Observatório da Terra da NASA (2026, 26 de março) Contornos das planícies de James Bay. Observatório da Terra da NASA (2018, 20 de agosto) Filamentos e cores em Rupert Bay.</p><p>NASA Earth Observatory (2016, 1º de outubro) Um pouco de chá com seu rio. Você também pode estar interessado em: Mantenha-se atualizado com o conteúdo mais recente da NASA enquanto exploramos o universo e descobrimos mais sobre nosso planeta natal.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/the-beaver-brown-waters-of-rupert-bay/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Dissolved organic matter and suspended sediment mingle in the southernmost extent of James Bay. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. In an early example of a managed beaver preserve in Canada, the Hudson’s Bay Company worked with local Cree people in the 1830s and again a century later to set up Charlton Island. (2008) Maps, Mapmaking, and Map Use by Native North Americans.</p><p>NASA Earth Observatory (2026, March 26) Contours of the James Bay Lowlands. NASA Earth Observatory (2018, August 20) Filaments and Color in Rupert Bay.</p><p>NASA Earth Observatory (2016, October 1) Some Tea With Your River. Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.</p><p>Bountiful Roebuck Bay 4 min read Tidal and seasonal shifts leave their mark on this crescent-shaped, productive bay in Western Australia’s Kimberley region. Earth Observatory Image of the Day NASA’s Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>When the OLI (Operational Land Imager) on Landsat 9 captured this image on September 27, 2026, the Moose, Nottaway, and Harricanaw rivers were carrying tea-colored water across. In an early example of a managed beaver preserve in Canada, the Hudson&#x27;s Bay Company worked with local Cree people in the 1830s and again a century later to set up Charlton Island.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://science.nasa.gov/earth/earth-observatory/the-beaver-brown-waters-of-rupert-bay/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Matéria orgânica dissolvida e sedimentos suspensos se misturam na extensão mais ao sul da Baía de James.",
+      "Dado-chave: Num dos primeiros exemplos de uma reserva de castores gerida no Canadá, a Hudson’s Bay Company trabalhou com o povo Cree local na década de 1830.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Matéria orgânica dissolvida e sedimentos suspensos se misturam na extensão mais ao sul da Baía de James.",
+      "Dado-chave: Num dos primeiros exemplos de uma reserva de castores gerida no Canadá, a Hudson’s Bay Company trabalhou com o povo Cree local na década de 1830.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Dissolved organic matter and suspended sediment mingle in the southernmost extent of James Bay.",
+      "Key detail: In an early example of a managed beaver preserve in Canada, the Hudson’s Bay Company worked with local Cree people in the 1830s and again a.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "06 out 2026",
+    "date_pt": "06 out 2026",
+    "date_en": "06 Oct 2026",
+    "time": "04h01",
+    "time_pt": "04h01",
+    "time_en": "04:01 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-10-06T04:01:00+00:00",
+    "lastModifiedIso": "2026-10-06T04:01:00+00:00",
+    "source": "NASA News Releases",
+    "sourceDomain": "science.nasa.gov",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "As águas castores de Rupert Bay"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "NASA News Releases",
+      "Cosmos Week",
+      "As águas castores de Rupert Bay"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "NASA News Releases",
+      "Cosmos Week",
+      "The beaver waters of Rupert Bay"
+    ],
+    "srcUrl": "https://science.nasa.gov/earth/earth-observatory/the-beaver-brown-waters-of-rupert-bay/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=the-beaver-brown-waters-of-rupert-bay",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=the-beaver-brown-waters-of-rupert-bay",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=the-beaver-brown-waters-of-rupert-bay&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 77,
+    "scoreBreakdown": {
+      "source": 94,
+      "evidence": 88,
+      "relevance": 70,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
     "slug": "neutrons-rotating-black-holes-and-a-galactic-pevatron-at-the-center-of-the-milky-way",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -661,7 +794,7 @@ window.postsData = [
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -675,7 +808,7 @@ window.postsData = [
     }
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "curiosity-blog-sols-5029-5035-back-in-the-lab",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -817,7 +950,7 @@ window.postsData = [
     }
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "a-journey-to-the-depths-of-ancient-mars",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -950,7 +1083,7 @@ window.postsData = [
     }
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "new-simulations-connect-the-first-galaxies-to-the-universe-we-see-today",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -1083,248 +1216,7 @@ window.postsData = [
     }
   },
   {
-    "id": 10,
-    "slug": "quantum-interactions-may-have-locked-early-universe-s-fields-into-existing-energy-states",
-    "cat": "Física",
-    "catCls": "fisica",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/universe-1.jpg",
-    "inline_images": [
-      {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/universe-1.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/58445787ab38cfb6.png",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/b3013a0f7fc5c4a0.png",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "As interações quânticas podem ter bloqueado os campos do universo primitivo nos estados de energia existentes",
-    "title_pt": "As interações quânticas podem ter bloqueado os campos do universo primitivo nos estados de energia existentes",
-    "title_en": "Quantum interactions may have locked early universe's fields into existing energy states",
-    "sub": "O universo pode estar preso na sua própria zona de conforto, e um investigador da Faculdade de Engenharia e Ciência da Computação ajudou a explicar porque é que parece que não.",
-    "sub_pt": "O universo pode estar preso na sua própria zona de conforto, e um investigador da Faculdade de Engenharia e Ciência da Computação ajudou a explicar porque é que parece que não.",
-    "sub_en": "The universe may be trapped in its own comfort zone, and a researcher in the College of Engineering and Computer Science has helped explain why it cannot seem to leave. A new.",
-    "excerpt": "O universo pode estar preso na sua própria zona de conforto, e um investigador da Faculdade de Engenharia e Ciência da Computação ajudou a explicar porque é que parece que não consegue sair. Um novo estudo sugere que o universo pode estar preso à sua corrente.",
-    "excerpt_pt": "O universo pode estar preso na sua própria zona de conforto, e um investigador da Faculdade de Engenharia e Ciência da Computação ajudou a explicar porque é que parece que não consegue sair. Um novo estudo sugere que o universo pode estar preso à sua corrente.",
-    "excerpt_en": "The universe may be trapped in its own comfort zone, and a researcher in the College of Engineering and Computer Science has helped explain why it cannot seem to leave. A new study suggests the universe could be locked into its current.",
-    "body": "<p>O universo pode estar preso na sua própria zona de conforto, e um investigador da Faculdade de Engenharia e Ciência da Computação ajudou a explicar porque é que parece que não consegue sair. Um novo estudo sugere que o universo pode estar preso à sua corrente. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferencial Crédito: Unsplash/CC0 Domínio Público O.</p><p>Um novo estudo sugere que o universo pode estar preso ao seu estado atual pelos mesmos tipos de efeitos quânticos que os cientistas estudam quando tentam preservar informações. O artigo, intitulado “Cosmic Lockdown: When Decoherence Saves the Universe from Tunneling”, foi aceito para publicação no Journal of Cosmology and Astroparticle Physics.</p><p>Alguns cálculos indicam que o campo de Higgs, que ajuda a dar massa a partículas como os electrões, pode estar em repouso num falso vácuo, em vez de no verdadeiro estado de.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-10-quantum-interactions-early-universe-fields.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>O universo pode estar preso na sua própria zona de conforto, e um investigador da Faculdade de Engenharia e Ciência da Computação ajudou a explicar porque é que parece que não consegue sair. Um novo estudo sugere que o universo pode estar preso à sua corrente. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferencial Crédito: Unsplash/CC0 Domínio Público O.</p><p>Um novo estudo sugere que o universo pode estar preso ao seu estado atual pelos mesmos tipos de efeitos quânticos que os cientistas estudam quando tentam preservar informações. O artigo, intitulado “Cosmic Lockdown: When Decoherence Saves the Universe from Tunneling”, foi aceito para publicação no Journal of Cosmology and Astroparticle Physics.</p><p>Alguns cálculos indicam que o campo de Higgs, que ajuda a dar massa a partículas como os electrões, pode estar em repouso num falso vácuo, em vez de no verdadeiro estado de.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-10-quantum-interactions-early-universe-fields.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The universe may be trapped in its own comfort zone, and a researcher in the College of Engineering and Computer Science has helped explain why it cannot seem to leave. A new study suggests the universe could be locked into its current. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. The universe may be trapped in its own comfort zone, and a researcher in the College of Engineering and Computer Science has helped explain why it cannot seem to leave. This article has been reviewed according to Science X&#x27;s editorial process and policies.</p><p>Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source Credit: Unsplash/CC0 Public Domain The universe may be trapped. The universe could be locked into its current state by the same kinds of quantum effects that scientists study when trying to preserve fragile information.</p><p>The paper, titled &quot;Cosmic Lockdown: When Decoherence Saves the Universe from Tunneling,&quot; has been accepted for publication in the Journal of Cosmology and Astroparticle Physics. Some calculations indicate the Higgs field, which helps give particles like electrons their mass, may itself be resting in a false vacuum rather than in nature&#x27;s true.</p><p>The new study finds a mechanism that makes such a transition far less likely. The team calls this effect &quot;cosmic lockdown.&quot; The underlying physics comes from a field called open quantum systems, which studies how quantum systems change when they interact.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>Still, the team frames the work as a bridge between quantum information science and cosmology, applying tools originally developed for quantum computers to a question about the. Robson Christie et al, Cosmic lockdown: when decoherence saves the universe from tunneling, Journal of Cosmology and Astroparticle Physics (2026).</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-10-quantum-interactions-early-universe-fields.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: O universo pode estar preso na sua própria zona de conforto, e um investigador da Faculdade de Engenharia e Ciência da Computação ajudou a explicar.",
-      "Dado-chave: O universo pode estar preso na sua própria zona de conforto, e um investigador da Faculdade de Engenharia e Ciência da Computação ajudou a.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: O universo pode estar preso na sua própria zona de conforto, e um investigador da Faculdade de Engenharia e Ciência da Computação ajudou a explicar.",
-      "Dado-chave: O universo pode estar preso na sua própria zona de conforto, e um investigador da Faculdade de Engenharia e Ciência da Computação ajudou a.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: The universe may be trapped in its own comfort zone, and a researcher in the College of Engineering and Computer Science has helped explain why it.",
-      "Key detail: The universe may be trapped in its own comfort zone, and a researcher in the College of Engineering and Computer Science has helped explain why.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "05 out 2026",
-    "date_pt": "05 out 2026",
-    "date_en": "05 Oct 2026",
-    "time": "22h20",
-    "time_pt": "22h20",
-    "time_en": "22:20 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-10-05T22:20:09+00:00",
-    "lastModifiedIso": "2026-10-05T22:20:09+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Física",
-      "Phys.org Space",
-      "Cosmos Week",
-      "As interações quânticas podem ter bloqueado os campos do universo primitivo nos estados de energia existentes"
-    ],
-    "keywords_pt": [
-      "Física",
-      "Phys.org Space",
-      "Cosmos Week",
-      "As interações quânticas podem ter bloqueado os campos do universo primitivo nos estados de energia existentes"
-    ],
-    "keywords_en": [
-      "Physical",
-      "Phys.org Space",
-      "Cosmos Week",
-      "Quantum interactions may have locked the fields of the early universe into existing energy states"
-    ],
-    "srcUrl": "https://phys.org/news/2026-10-quantum-interactions-early-universe-fields.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=quantum-interactions-may-have-locked-early-universe-s-fields-into-existing-energy-states",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=quantum-interactions-may-have-locked-early-universe-s-fields-into-existing-energy-states",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=quantum-interactions-may-have-locked-early-universe-s-fields-into-existing-energy-states&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 76,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 88,
-      "relevance": 82,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
     "id": 11,
-    "slug": "mapping-the-gaps-in-nasa-s-return-to-the-moon-featuring-richard-spolzino",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://www.nasa.gov/wp-content/uploads/2025/10/spolzino-richard.jpg?w=1365",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "Mapeando as lacunas no retorno da NASA à Lua, com Richard Spolzino",
-    "title_pt": "Mapeando as lacunas no retorno da NASA à Lua, com Richard Spolzino",
-    "title_en": "Mapping the Gaps in NASA’s Return to the Moon, featuring Richard Spolzino",
-    "sub": "“Quero poder olhar para o lançamento de um foguete e dizer: ‘Toquei num pedaço disto’”. É assim que Richard Spolzino descreve o que está perseguindo. Não é um título, nem uma.",
-    "sub_pt": "“Quero poder olhar para o lançamento de um foguete e dizer: ‘Toquei num pedaço disto’”. É assim que Richard Spolzino descreve o que está perseguindo. Não é um título, nem uma.",
-    "sub_en": "“I want to be able to look at a rocket launch and say, ‘I touched a piece of this.’” That’s how Richard Spolzino describes the thing he’s chasing. Not a title, not a specific.",
-    "excerpt": "“Quero poder olhar para o lançamento de um foguete e dizer: ‘Toquei num pedaço disto’”. É assim que Richard Spolzino descreve o que está perseguindo. Não é um título, nem uma missão específica, nem mesmo a própria NASA, apenas a capacidade de apontar.",
-    "excerpt_pt": "“Quero poder olhar para o lançamento de um foguete e dizer: ‘Toquei num pedaço disto’”. É assim que Richard Spolzino descreve o que está perseguindo. Não é um título, nem uma missão específica, nem mesmo a própria NASA, apenas a capacidade de apontar.",
-    "excerpt_en": "“I want to be able to look at a rocket launch and say, ‘I touched a piece of this.’” That’s how Richard Spolzino describes the thing he’s chasing. Not a title, not a specific mission, not even NASA itself, just the ability to point at.",
-    "body": "<p>“Quero poder olhar para o lançamento de um foguete e dizer: ‘Toquei num pedaço disto’”. É assim que Richard Spolzino descreve o que está perseguindo. Não é um título, nem uma missão específica, nem mesmo a própria NASA, apenas a capacidade de apontar. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A missão faz parte da iniciativa Commercial Lunar Payload Services (CLPS) da NASA, que apoia futuras explorações lunares e demonstrações de tecnologia. “Trata-se menos de credenciais e mais de dar a si mesmo algo com que aparecer.” Na estante de ficção científica de Spolzino A trilogia Problema dos Três Corpos de Liu Cixin.</p><p>Conteúdo do artigo Da história à indústria aeroespacial Perseguindo o impacto Documentando a peça que falta Do conceito à carga Descobrir isso dá trabalho na prateleira de ficção. Nem um título, nem uma missão específica, nem mesmo a própria NASA, apenas a capacidade de apontar algo real e conhecer o seu trabalho tornou isso possível.</p><p>No Centro de Pesquisa Langley da NASA em Hampton, Virgínia, Spolzino trabalha na arquitetura de missão da Base Lunar e no esforço de interoperabilidade de sistemas, ajudando a. Onde meu trabalho pode tocar mais coisas?” Um programa da Universidade de Houston, com fortes laços com o Centro Espacial Johnson, colocou a NASA no seu radar, juntamente com.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>“Quero poder olhar para o lançamento de um foguete e dizer: ‘Toquei num pedaço disto’”. É assim que Richard Spolzino descreve o que está perseguindo. Não é um título, nem uma missão específica, nem mesmo a própria NASA, apenas a capacidade de apontar. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. A missão faz parte da iniciativa Commercial Lunar Payload Services (CLPS) da NASA, que apoia futuras explorações lunares e demonstrações de tecnologia. “Trata-se menos de credenciais e mais de dar a si mesmo algo com que aparecer.” Na estante de ficção científica de Spolzino A trilogia Problema dos Três Corpos de Liu Cixin.</p><p>Conteúdo do artigo Da história à indústria aeroespacial Perseguindo o impacto Documentando a peça que falta Do conceito à carga Descobrir isso dá trabalho na prateleira de ficção. Nem um título, nem uma missão específica, nem mesmo a própria NASA, apenas a capacidade de apontar algo real e conhecer o seu trabalho tornou isso possível.</p><p>No Centro de Pesquisa Langley da NASA em Hampton, Virgínia, Spolzino trabalha na arquitetura de missão da Base Lunar e no esforço de interoperabilidade de sistemas, ajudando a. Onde meu trabalho pode tocar mais coisas?” Um programa da Universidade de Houston, com fortes laços com o Centro Espacial Johnson, colocou a NASA no seu radar, juntamente com.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de NASA News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>“I want to be able to look at a rocket launch and say, ‘I touched a piece of this.’” That’s how Richard Spolzino describes the thing he’s chasing. Not a title, not a specific mission, not even NASA itself, just the ability to point at. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. The mission is part of NASA’s Commercial Lunar Payload Services (CLPS) initiative supporting future lunar exploration and technology demonstrations. “It’s less about credentials and more about giving yourself something to show up with.” On Spolzino’s Sci-Fi Shelf The Three-Body Problem trilogy by Liu Cixin Spolzino was already.</p><p>Article Contents From History to Aerospace Chasing Impact Documenting the Missing Piece From Concept to Cargo Figuring It Out Takes Work On Spolzino&#x27;s Sci-Fi Shelf “I want to be. Not a title, not a specific mission, not even NASA itself, just the ability to point at something real and know his work made it possible.</p><p>At NASA’s Langley Research Center in Hampton, Virginia, Spolzino works within Moon Base’s mission architecture and systems interoperability effort, helping identify what NASA. Where can my work touch the most things?” A University of Houston program with strong ties to Johnson Space Center put NASA on his radar alongside other options in industry and.</p><p>What ultimately drew him in wasn’t the agency’s name, it was the scope of the problems and the direct line he saw to senior decision-makers shaping the return to the Moon. “It’s a way of documenting the thing we don’t know.” Take the geotechnical properties of lunar regolith, moon dust, essentially, but the specifics matter enormously.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>“Once we’ve identified what’s missing,” he says, “our partners can look at that list and see exactly where their contribution would be valuable.” His team started with roughly 25. When the lunar lander company now known as Voyager (formerly Astrobotic) was preparing its upcoming Griffin-1 mission, the team didn’t help them figure out what instruments to fly.</p><p>Because the account originates with NASA News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: “Quero poder olhar para o lançamento de um foguete e dizer: ‘Toquei num pedaço disto’”. É assim que Richard Spolzino descreve o que está perseguindo.",
-      "Dado-chave: A missão faz parte da iniciativa Commercial Lunar Payload Services (CLPS) da NASA, que apoia futuras explorações lunares e demonstrações de.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: “Quero poder olhar para o lançamento de um foguete e dizer: ‘Toquei num pedaço disto’”. É assim que Richard Spolzino descreve o que está perseguindo.",
-      "Dado-chave: A missão faz parte da iniciativa Commercial Lunar Payload Services (CLPS) da NASA, que apoia futuras explorações lunares e demonstrações de.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: “I want to be able to look at a rocket launch and say, ‘I touched a piece of this.’” That’s how Richard Spolzino describes the thing he’s chasing.",
-      "Key detail: The mission is part of NASA’s Commercial Lunar Payload Services (CLPS) initiative supporting future lunar exploration and technology.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "04 out 2026",
-    "date_pt": "04 out 2026",
-    "date_en": "04 Oct 2026",
-    "time": "19h10",
-    "time_pt": "19h10",
-    "time_en": "19:10 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-10-04T19:10:59+00:00",
-    "lastModifiedIso": "2026-10-04T19:10:59+00:00",
-    "source": "NASA News Releases",
-    "sourceDomain": "www.nasa.gov",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "high",
-    "editorialBandLabel": "Alta prioridade",
-    "editorialBandLabel_pt": "Alta prioridade",
-    "editorialBandLabel_en": "High priority",
-    "keywords": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Mapeando as lacunas no retorno da NASA à Lua",
-      "com Richard Spolzino"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Mapeando as lacunas no retorno da NASA à Lua",
-      "com Richard Spolzino"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "NASA News Releases",
-      "Cosmos Week",
-      "Mapping the Gaps in NASA's Return to the Moon",
-      "with Richard Spolzino"
-    ],
-    "srcUrl": "https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=mapping-the-gaps-in-nasa-s-return-to-the-moon-featuring-richard-spolzino",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=mapping-the-gaps-in-nasa-s-return-to-the-moon-featuring-richard-spolzino",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=mapping-the-gaps-in-nasa-s-return-to-the-moon-featuring-richard-spolzino&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 81,
-    "scoreBreakdown": {
-      "source": 94,
-      "evidence": 88,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 52
-    }
-  },
-  {
-    "id": 12,
     "slug": "science-release-hubble-identifies-one-of-darkest-known-galaxies",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1460,7 +1352,7 @@ window.postsData = [
     }
   },
   {
-    "id": 13,
+    "id": 12,
     "slug": "black-holes-may-grow-quietly-alongside-galaxies-even-without-violent-mergers",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1596,7 +1488,7 @@ window.postsData = [
     }
   },
   {
-    "id": 14,
+    "id": 13,
     "slug": "science-release-hubble-discovers-first-of-star-cluster-s-missing-black-holes",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1732,7 +1624,7 @@ window.postsData = [
     }
   },
   {
-    "id": 15,
+    "id": 14,
     "slug": "citizen-science-project-recruits-volunteers-to-search-for-undiscovered-black-holes",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -1865,7 +1757,7 @@ window.postsData = [
     }
   },
   {
-    "id": 16,
+    "id": 15,
     "slug": "electrical-technique-could-help-identify-signs-of-life-in-space",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -1994,11 +1886,11 @@ window.postsData = [
       "evidence": 88,
       "relevance": 88,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
-    "id": 17,
+    "id": 16,
     "slug": "how-a-helium-leak-in-an-exoplanet-atmosphere-hints-at-life",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2113,7 +2005,7 @@ window.postsData = [
     }
   },
   {
-    "id": 18,
+    "id": 17,
     "slug": "is-this-an-alien-radio-signal-from-a-super-earth-exoplanet",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2231,7 +2123,7 @@ window.postsData = [
     }
   },
   {
-    "id": 19,
+    "id": 18,
     "slug": "science-begins-for-smile",
     "cat": "Física",
     "catCls": "fisica",
@@ -2333,6 +2225,139 @@ window.postsData = [
       "relevance": 82,
       "accessibility": 60,
       "novelty": 46
+    }
+  },
+  {
+    "id": 19,
+    "slug": "quantum-interactions-may-have-locked-early-universe-s-fields-into-existing-energy-states",
+    "cat": "Física",
+    "catCls": "fisica",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/universe-1.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/universe-1.jpg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/58445787ab38cfb6.png",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/b3013a0f7fc5c4a0.png",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "As interações quânticas podem ter bloqueado os campos do universo primitivo nos estados de energia existentes",
+    "title_pt": "As interações quânticas podem ter bloqueado os campos do universo primitivo nos estados de energia existentes",
+    "title_en": "Quantum interactions may have locked early universe's fields into existing energy states",
+    "sub": "O universo pode estar preso na sua própria zona de conforto, e um investigador da Faculdade de Engenharia e Ciência da Computação ajudou a explicar porque é que parece que não.",
+    "sub_pt": "O universo pode estar preso na sua própria zona de conforto, e um investigador da Faculdade de Engenharia e Ciência da Computação ajudou a explicar porque é que parece que não.",
+    "sub_en": "The universe may be trapped in its own comfort zone, and a researcher in the College of Engineering and Computer Science has helped explain why it cannot seem to leave. A new.",
+    "excerpt": "O universo pode estar preso na sua própria zona de conforto, e um investigador da Faculdade de Engenharia e Ciência da Computação ajudou a explicar porque é que parece que não consegue sair. Um novo estudo sugere que o universo pode estar preso à sua corrente.",
+    "excerpt_pt": "O universo pode estar preso na sua própria zona de conforto, e um investigador da Faculdade de Engenharia e Ciência da Computação ajudou a explicar porque é que parece que não consegue sair. Um novo estudo sugere que o universo pode estar preso à sua corrente.",
+    "excerpt_en": "The universe may be trapped in its own comfort zone, and a researcher in the College of Engineering and Computer Science has helped explain why it cannot seem to leave. A new study suggests the universe could be locked into its current.",
+    "body": "<p>O universo pode estar preso na sua própria zona de conforto, e um investigador da Faculdade de Engenharia e Ciência da Computação ajudou a explicar porque é que parece que não consegue sair. Um novo estudo sugere que o universo pode estar preso à sua corrente. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferencial Crédito: Unsplash/CC0 Domínio Público O.</p><p>Um novo estudo sugere que o universo pode estar preso ao seu estado atual pelos mesmos tipos de efeitos quânticos que os cientistas estudam quando tentam preservar informações. O artigo, intitulado “Cosmic Lockdown: When Decoherence Saves the Universe from Tunneling”, foi aceito para publicação no Journal of Cosmology and Astroparticle Physics.</p><p>Alguns cálculos indicam que o campo de Higgs, que ajuda a dar massa a partículas como os electrões, pode estar em repouso num falso vácuo, em vez de no verdadeiro estado de.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-10-quantum-interactions-early-universe-fields.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>O universo pode estar preso na sua própria zona de conforto, e um investigador da Faculdade de Engenharia e Ciência da Computação ajudou a explicar porque é que parece que não consegue sair. Um novo estudo sugere que o universo pode estar preso à sua corrente. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar como fonte preferencial Crédito: Unsplash/CC0 Domínio Público O.</p><p>Um novo estudo sugere que o universo pode estar preso ao seu estado atual pelos mesmos tipos de efeitos quânticos que os cientistas estudam quando tentam preservar informações. O artigo, intitulado “Cosmic Lockdown: When Decoherence Saves the Universe from Tunneling”, foi aceito para publicação no Journal of Cosmology and Astroparticle Physics.</p><p>Alguns cálculos indicam que o campo de Higgs, que ajuda a dar massa a partículas como os electrões, pode estar em repouso num falso vácuo, em vez de no verdadeiro estado de.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-10-quantum-interactions-early-universe-fields.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The universe may be trapped in its own comfort zone, and a researcher in the College of Engineering and Computer Science has helped explain why it cannot seem to leave. A new study suggests the universe could be locked into its current. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. The universe may be trapped in its own comfort zone, and a researcher in the College of Engineering and Computer Science has helped explain why it cannot seem to leave. This article has been reviewed according to Science X&#x27;s editorial process and policies.</p><p>Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add as preferred source Credit: Unsplash/CC0 Public Domain The universe may be trapped. The universe could be locked into its current state by the same kinds of quantum effects that scientists study when trying to preserve fragile information.</p><p>The paper, titled &quot;Cosmic Lockdown: When Decoherence Saves the Universe from Tunneling,&quot; has been accepted for publication in the Journal of Cosmology and Astroparticle Physics. Some calculations indicate the Higgs field, which helps give particles like electrons their mass, may itself be resting in a false vacuum rather than in nature&#x27;s true.</p><p>The new study finds a mechanism that makes such a transition far less likely. The team calls this effect &quot;cosmic lockdown.&quot; The underlying physics comes from a field called open quantum systems, which studies how quantum systems change when they interact.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>Still, the team frames the work as a bridge between quantum information science and cosmology, applying tools originally developed for quantum computers to a question about the. Robson Christie et al, Cosmic lockdown: when decoherence saves the universe from tunneling, Journal of Cosmology and Astroparticle Physics (2026).</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-10-quantum-interactions-early-universe-fields.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: O universo pode estar preso na sua própria zona de conforto, e um investigador da Faculdade de Engenharia e Ciência da Computação ajudou a explicar.",
+      "Dado-chave: O universo pode estar preso na sua própria zona de conforto, e um investigador da Faculdade de Engenharia e Ciência da Computação ajudou a.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: O universo pode estar preso na sua própria zona de conforto, e um investigador da Faculdade de Engenharia e Ciência da Computação ajudou a explicar.",
+      "Dado-chave: O universo pode estar preso na sua própria zona de conforto, e um investigador da Faculdade de Engenharia e Ciência da Computação ajudou a.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: The universe may be trapped in its own comfort zone, and a researcher in the College of Engineering and Computer Science has helped explain why it.",
+      "Key detail: The universe may be trapped in its own comfort zone, and a researcher in the College of Engineering and Computer Science has helped explain why.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "05 out 2026",
+    "date_pt": "05 out 2026",
+    "date_en": "05 Oct 2026",
+    "time": "22h20",
+    "time_pt": "22h20",
+    "time_en": "22:20 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-10-05T22:20:09+00:00",
+    "lastModifiedIso": "2026-10-05T22:20:09+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Física",
+      "Phys.org Space",
+      "Cosmos Week",
+      "As interações quânticas podem ter bloqueado os campos do universo primitivo nos estados de energia existentes"
+    ],
+    "keywords_pt": [
+      "Física",
+      "Phys.org Space",
+      "Cosmos Week",
+      "As interações quânticas podem ter bloqueado os campos do universo primitivo nos estados de energia existentes"
+    ],
+    "keywords_en": [
+      "Physical",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Quantum interactions may have locked the fields of the early universe into existing energy states"
+    ],
+    "srcUrl": "https://phys.org/news/2026-10-quantum-interactions-early-universe-fields.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=quantum-interactions-may-have-locked-early-universe-s-fields-into-existing-energy-states",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=quantum-interactions-may-have-locked-early-universe-s-fields-into-existing-energy-states",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=quantum-interactions-may-have-locked-early-universe-s-fields-into-existing-energy-states&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 76,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 88,
+      "relevance": 82,
+      "accessibility": 60,
+      "novelty": 55
     }
   },
   {
@@ -2577,35 +2602,7 @@ window.postsData = [
     "cat": "Ciências da Terra",
     "catCls": "terra",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/05/global_mars_in_colour/24894462-7-eng-GB/Global_Mars_in_colour_card_full.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2021/02/a_new_year_on_mars/23129710-8-eng-GB/A_New_Year_on_Mars_article.png",
-        "caption": "Um Ano Novo em Marte",
-        "caption_pt": "Um Ano Novo em Marte",
-        "caption_en": "A New Year on Mars",
-        "alt": "Um Ano Novo em Marte",
-        "alt_pt": "Um Ano Novo em Marte",
-        "alt_en": "A New Year on Mars"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2019/05/meet_mars/19408907-8-eng-GB/Meet_Mars_article.png",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://www.esa.int/extension/pillars/design/pillars/images/play-button.svg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "Feliz Ano Novo em Marte",
@@ -2617,9 +2614,9 @@ window.postsData = [
     "excerpt": "30 de setembro de 2026 marca o início de um novo ano em Marte. Exatamente às 10h16 CEST/08h16 UTC na Terra, o Planeta Vermelho inicia uma nova órbita ao redor do nosso Sol.",
     "excerpt_pt": "30 de setembro de 2026 marca o início de um novo ano em Marte. Exatamente às 10h16 CEST/08h16 UTC na Terra, o Planeta Vermelho inicia uma nova órbita ao redor do nosso Sol.",
     "excerpt_en": "30 September 2026 marks the start of a new year on Mars. At exactly 10: 16 CEST/08: 16 UTC on Earth, the Red Planet begins a new orbit around our Sun.",
-    "body": "<p>30 de setembro de 2026 marca o início de um novo ano em Marte. Exatamente às 10h16 CEST/08h16 UTC na Terra, o Planeta Vermelho inicia uma nova órbita ao redor do nosso Sol. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. 30 de setembro de 2026 marca o início de um novo ano em Marte. Exatamente às 10h16 CEST/08h16 UTC na Terra, o Planeta Vermelho inicia uma nova órbita ao redor do nosso Sol.</p><p>A convenção para contar anos no calendário marciano começou em 1955, com o primeiro ano coincidindo com uma grande tempestade chamada “a grande tempestade de poeira de 1956”. Se precisar de inspiração, aqui está um poema que o autor holandês Marjolijn van Heemstra dedica a Marte.</p><p>Um dia marciano é chamado de ‘sol’ e dura 24 horas e 39 minutos, um pouco mais que um dia terrestre. Um ano em Marte equivale a 687 dias terrestres, ou 668 sóis, quase o dobro da duração de um ano terrestre.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Happy_New_Year_on_Mars\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>30 de setembro de 2026 marca o início de um novo ano em Marte. Exatamente às 10h16 CEST/08h16 UTC na Terra, o Planeta Vermelho inicia uma nova órbita ao redor do nosso Sol. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. 30 de setembro de 2026 marca o início de um novo ano em Marte. Exatamente às 10h16 CEST/08h16 UTC na Terra, o Planeta Vermelho inicia uma nova órbita ao redor do nosso Sol.</p><p>A convenção para contar anos no calendário marciano começou em 1955, com o primeiro ano coincidindo com uma grande tempestade chamada “a grande tempestade de poeira de 1956”. Se precisar de inspiração, aqui está um poema que o autor holandês Marjolijn van Heemstra dedica a Marte.</p><p>Um dia marciano é chamado de ‘sol’ e dura 24 horas e 39 minutos, um pouco mais que um dia terrestre. Um ano em Marte equivale a 687 dias terrestres, ou 668 sóis, quase o dobro da duração de um ano terrestre.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Happy_New_Year_on_Mars\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>30 September 2026 marks the start of a new year on Mars. At exactly 10: 16 CEST/08: 16 UTC on Earth, the Red Planet begins a new orbit around our Sun. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. 30 September 2026 marks the start of a new year on Mars. 16 CEST/08: 16 UTC on Earth, the Red Planet begins a new orbit around our Sun.</p><p>The convention for counting years in the martian calendar started in 1955, with the first year coinciding with a major storm named ‘the great dust storm of 1956’. If you need some inspiration, here is a poem Dutch author Marjolijn van Heemstra dedicates to Mars.</p><p>A martian day is called a ‘sol’ and lasts 24 hours and 39 minutes, slightly longer than an Earth day. One year on Mars equals 687 Earth days, or 668 sols, nearly twice as long as an Earth year.</p><p>If you would like to know your martian age, divide your current age by 1.88 and tell your friends how much younger you are. on Mars, at least. The martian New Year begins on the northern equinox (northern spring, southern autumn on Mars).</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Like Earth, Mars has four seasons, winter, spring, summer and autumn. Unlike Earth’s seasons, martian seasons are not of equal lengths due to Mars’ more elliptical orbit.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Happy_New_Year_on_Mars\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>30 de setembro de 2026 marca o início de um novo ano em Marte. Exatamente às 10h16 CEST/08h16 UTC na Terra, o Planeta Vermelho inicia uma nova órbita ao redor do nosso Sol. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. 30 de setembro de 2026 marca o início de um novo ano em Marte. Exatamente às 10h16 CEST/08h16 UTC na Terra, o Planeta Vermelho inicia uma nova órbita ao redor do nosso Sol.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Happy_New_Year_on_Mars\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>30 de setembro de 2026 marca o início de um novo ano em Marte. Exatamente às 10h16 CEST/08h16 UTC na Terra, o Planeta Vermelho inicia uma nova órbita ao redor do nosso Sol. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. 30 de setembro de 2026 marca o início de um novo ano em Marte. Exatamente às 10h16 CEST/08h16 UTC na Terra, o Planeta Vermelho inicia uma nova órbita ao redor do nosso Sol.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Happy_New_Year_on_Mars\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>30 September 2026 marks the start of a new year on Mars. At exactly 10: 16 CEST/08: 16 UTC on Earth, the Red Planet begins a new orbit around our Sun. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. 30 September 2026 marks the start of a new year on Mars. 16 CEST/08: 16 UTC on Earth, the Red Planet begins a new orbit around our Sun.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Happy_New_Year_on_Mars\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: 30 de setembro de 2026 marca o início de um novo ano em Marte. Exatamente às 10h16 CEST/08h16 UTC na Terra, o Planeta Vermelho inicia uma nova órbita.",
       "Dado-chave: 30 de setembro de 2026 marca o início de um novo ano em Marte.",
@@ -3224,7 +3221,7 @@ window.postsData = [
       "evidence": 88,
       "relevance": 80,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
@@ -3360,7 +3357,7 @@ window.postsData = [
       "evidence": 88,
       "relevance": 80,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {
@@ -3369,35 +3366,7 @@ window.postsData = [
     "cat": "Ciências da Terra",
     "catCls": "terra",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/juice_images_earth_during_earth_flyby/27543775-1-eng-GB/Juice_images_Earth_during_Earth_flyby_card_full.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/juice_navcam_image_of_madagascar_during_earth_flyby/27543920-1-eng-GB/Juice_NavCam_image_of_Madagascar_during_Earth_flyby_pillars.png",
-        "caption": "Imagem Juice NavCam de Madagascar durante sobrevoo pela Terra",
-        "caption_pt": "Imagem Juice NavCam de Madagascar durante sobrevoo pela Terra",
-        "caption_en": "Juice NavCam image of Madagascar during Earth flyby",
-        "alt": "Imagem Juice NavCam de Madagascar durante sobrevoo pela Terra",
-        "alt_pt": "Imagem Juice NavCam de Madagascar durante sobrevoo pela Terra",
-        "alt_en": "Juice NavCam image of Madagascar during Earth flyby"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/juice_images_earth_during_earth_flyby/27543775-1-eng-GB/Juice_images_Earth_during_Earth_flyby_pillars.jpg",
-        "caption": "Imagens de suco da Terra durante o sobrevoo da Terra",
-        "caption_pt": "Imagens de suco da Terra durante o sobrevoo da Terra",
-        "caption_en": "Juice images Earth during Earth flyby",
-        "alt": "Imagens de suco da Terra durante o sobrevoo da Terra",
-        "alt_pt": "Imagens de suco da Terra durante o sobrevoo da Terra",
-        "alt_en": "Juice images Earth during Earth flyby"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/juice_navcam_image_of_the_moon_during_earth_flyby/27543967-1-eng-GB/Juice_NavCam_image_of_the_Moon_during_Earth_flyby_pillars.png",
-        "caption": "Imagem Juice NavCam da Lua durante sobrevoo pela Terra",
-        "caption_pt": "Imagem Juice NavCam da Lua durante sobrevoo pela Terra",
-        "caption_en": "Juice NavCam image of the Moon during Earth flyby",
-        "alt": "Imagem Juice NavCam da Lua durante sobrevoo pela Terra",
-        "alt_pt": "Imagem Juice NavCam da Lua durante sobrevoo pela Terra",
-        "alt_en": "Juice NavCam image of the Moon during Earth flyby"
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "Sobrevôo bem-sucedido da Terra melhora o curso de Juice para Júpiter",
@@ -3409,9 +3378,9 @@ window.postsData = [
     "excerpt": "O Júpiter Icy Moons Explorer da Agência Espacial Europeia percorreu a borda exterior da atmosfera da Terra no dia 28 de Setembro, usando a gravidade do nosso planeta natal para alterar a sua rota até Júpiter usando muito pouco combustível.",
     "excerpt_pt": "O Júpiter Icy Moons Explorer da Agência Espacial Europeia percorreu a borda exterior da atmosfera da Terra no dia 28 de Setembro, usando a gravidade do nosso planeta natal para alterar a sua rota até Júpiter usando muito pouco combustível.",
     "excerpt_en": "The European Space Agency’s Jupiter Icy Moons Explorer skimmed the very outer edge of Earth’s atmosphere on 28 September, using the gravity of our home planet to alter its route to Jupiter using very little fuel.",
-    "body": "<p>O Júpiter Icy Moons Explorer da Agência Espacial Europeia percorreu a borda exterior da atmosfera da Terra no dia 28 de Setembro, usando a gravidade do nosso planeta natal para alterar a sua rota até Júpiter usando muito pouco combustível. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O Júpiter Icy Moons Explorer (Juice) da Agência Espacial Europeia percorreu a borda externa da atmosfera da Terra em 28 de setembro, usando a gravidade do nosso planeta natal para. Enquanto o Juice voava apenas 8.640 km acima do Oceano Índico, ele capturou uma série de imagens com suas câmeras de monitoramento a bordo.</p><p>Colegas das operações de naves espaciais, operações científicas e centros técnicos da ESA passaram meses a trabalhar arduamente com as equipas externas que trabalham nos 10. “Dado o tempo limitado disponível e as restrições operacionais, as atividades dos instrumentos às vezes precisam ser priorizadas, por exemplo, quando Juice estava na sombra da.</p><p>O sobrevoo pela Terra é uma grande oportunidade para calibrar instrumentos, descobrir a melhor forma de trabalhar com eles no espaço (onde funcionam sempre de forma um pouco. Durante o sobrevoo pela Terra, Juice passou vários dias voando através da cauda magnética, a parte do campo magnético da Terra que se estende para longe do Sol.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Juice/Successful_Earth_flyby_improves_Juice_s_course_to_Jupiter\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>O Júpiter Icy Moons Explorer da Agência Espacial Europeia percorreu a borda exterior da atmosfera da Terra no dia 28 de Setembro, usando a gravidade do nosso planeta natal para alterar a sua rota até Júpiter usando muito pouco combustível. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O Júpiter Icy Moons Explorer (Juice) da Agência Espacial Europeia percorreu a borda externa da atmosfera da Terra em 28 de setembro, usando a gravidade do nosso planeta natal para. Enquanto o Juice voava apenas 8.640 km acima do Oceano Índico, ele capturou uma série de imagens com suas câmeras de monitoramento a bordo.</p><p>Colegas das operações de naves espaciais, operações científicas e centros técnicos da ESA passaram meses a trabalhar arduamente com as equipas externas que trabalham nos 10. “Dado o tempo limitado disponível e as restrições operacionais, as atividades dos instrumentos às vezes precisam ser priorizadas, por exemplo, quando Juice estava na sombra da.</p><p>O sobrevoo pela Terra é uma grande oportunidade para calibrar instrumentos, descobrir a melhor forma de trabalhar com eles no espaço (onde funcionam sempre de forma um pouco. Durante o sobrevoo pela Terra, Juice passou vários dias voando através da cauda magnética, a parte do campo magnético da Terra que se estende para longe do Sol.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Juice/Successful_Earth_flyby_improves_Juice_s_course_to_Jupiter\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The European Space Agency’s Jupiter Icy Moons Explorer skimmed the very outer edge of Earth’s atmosphere on 28 September, using the gravity of our home planet to alter its route to Jupiter using very little fuel. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The European Space Agency’s Jupiter Icy Moons Explorer ( Juice ) skimmed the very outer edge of Earth’s atmosphere on 28 September, using the gravity of our home planet to alter. As Juice flew just 8640 km above the Indian Ocean, it snapped a series of images with its onboard monitoring cameras.</p><p>Colleagues from ESA&#x27;s spacecraft operations, science operations and technical centres spent months working hard with the external teams working on Juice&#x27;s 10 science instruments. “Given the limited time available and operational constraints, instrument activities sometimes have to be prioritised, for example when Juice was in Earth&#x27;s shadow this morning.</p><p>The Earth flyby is a great opportunity to calibrate instruments, figure out how best to work with them in space (where they always work a little differently to on Earth!), and. During the Earth flyby, Juice spent several days flying through the magnetotail, the part of Earth’s magnetic field that stretches out away from the Sun.</p><p>Meanwhile, the European-Chinese Smile mission has been watching the northern lights and measuring magnetic fields and particles close to Earth. Together, Juice and Smile&#x27;s observations provide a unique opportunity to connect activity in the distant magnetotail with what is happening at Earth&#x27;s poles.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>We expect to publish images and spectra collected by some of Juice’s instruments in the coming weeks, after they have arrived on Earth and been evaluated by the teams of. This includes high-resolution images of the Moon and Earth from Juice’s scientific camera, JANUS.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Juice/Successful_Earth_flyby_improves_Juice_s_course_to_Jupiter\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>O Júpiter Icy Moons Explorer da Agência Espacial Europeia percorreu a borda exterior da atmosfera da Terra no dia 28 de Setembro, usando a gravidade do nosso planeta natal para alterar a sua rota até Júpiter usando muito pouco combustível. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O Júpiter Icy Moons Explorer (Juice) da Agência Espacial Europeia percorreu a borda externa da atmosfera da Terra em 28 de setembro, usando a gravidade do nosso planeta natal para.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Juice/Successful_Earth_flyby_improves_Juice_s_course_to_Jupiter\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>O Júpiter Icy Moons Explorer da Agência Espacial Europeia percorreu a borda exterior da atmosfera da Terra no dia 28 de Setembro, usando a gravidade do nosso planeta natal para alterar a sua rota até Júpiter usando muito pouco combustível. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. O Júpiter Icy Moons Explorer (Juice) da Agência Espacial Europeia percorreu a borda externa da atmosfera da Terra em 28 de setembro, usando a gravidade do nosso planeta natal para.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Juice/Successful_Earth_flyby_improves_Juice_s_course_to_Jupiter\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The European Space Agency’s Jupiter Icy Moons Explorer skimmed the very outer edge of Earth’s atmosphere on 28 September, using the gravity of our home planet to alter its route to Jupiter using very little fuel. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The European Space Agency’s Jupiter Icy Moons Explorer ( Juice ) skimmed the very outer edge of Earth’s atmosphere on 28 September, using the gravity of our home planet to alter.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Juice/Successful_Earth_flyby_improves_Juice_s_course_to_Jupiter\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: O Júpiter Icy Moons Explorer da Agência Espacial Europeia percorreu a borda exterior da atmosfera da Terra no dia 28 de Setembro, usando a gravidade.",
       "Dado-chave: O Júpiter Icy Moons Explorer (Juice) da Agência Espacial Europeia percorreu a borda externa da atmosfera da Terra em 28 de setembro, usando a.",
@@ -3748,7 +3717,7 @@ window.postsData = [
       "evidence": 82,
       "relevance": 88,
       "accessibility": 60,
-      "novelty": 55
+      "novelty": 52
     }
   },
   {

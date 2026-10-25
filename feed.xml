@@ -5,13 +5,13 @@
     <link>https://marambaiajunior.github.io/cosmos-week1/</link>
     <description>Portal de jornalismo científico com foco em astronomia, astrofísica, cosmologia e ciência de fronteira.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 25 Oct 2026 17:40:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 19:57:42 +0000</lastBuildDate>
     <generator>CosmosWeekBot 5.0</generator>
     <item>
               <title>Medicamento modificado para HIV reverte perda de visão e paralisia em modelo de esclerose múltipla</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=modified-hiv-drug-reverses-vision-loss-and-paralysis-in-multiple-sclerosis-model</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=modified-hiv-drug-reverses-vision-loss-and-paralysis-in-multiple-sclerosis-model</guid>
-              <pubDate>Sun, 25 Oct 2026 17:36:32 +0000</pubDate>
+              <pubDate>Sun, 25 Oct 2026 19:56:07 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Um novo estudo financiado pelos Institutos Nacionais de Saúde indica que o medicamento experimental kamuvudina-9 facilita a recuperação da perda de visão e paralisia pré-existentes em modelos animais de esclerose múltipla.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Medicamento modificado para HIV reverte perda de visão e paralisia em modelo de esclerose múltipla</category>
@@ -21,7 +21,7 @@
               <title>NIH lança nova ferramenta PubMed para fortalecer a replicação e reprodutibilidade da pesquisa</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nih-launches-new-pubmed-tool-to-strengthen-research-replication-and-reproducibility</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nih-launches-new-pubmed-tool-to-strengthen-research-replication-and-reproducibility</guid>
-              <pubDate>Sun, 25 Oct 2026 17:36:32 +0000</pubDate>
+              <pubDate>Sun, 25 Oct 2026 19:56:07 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Linked Discoveries é uma ferramenta experimental para ajudar os cientistas a ver como os resultados de pesquisas individuais se relacionam com o corpo mais amplo de evidências biomédicas.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>NIH lança nova ferramenta PubMed para fortalecer a replicação e reprodutibilidade da pesquisa</category>
@@ -31,7 +31,7 @@
               <title>NIH une esforços para construir dados prontos para SI para modelos preditivos de biologia humana</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nih-joins-effort-to-build-si-ready-data-for-predictive-models-of-human-biology</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nih-joins-effort-to-build-si-ready-data-for-predictive-models-of-human-biology</guid>
-              <pubDate>Sun, 25 Oct 2026 17:36:32 +0000</pubDate>
+              <pubDate>Sun, 25 Oct 2026 19:56:07 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>A Missão Bio Genesis liderada pelo NIH aproveitará os recursos de dados biomédicos existentes para acelerar a descoberta habilitada para SI e melhorar a saúde humana.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>NIH une esforços para construir dados prontos para SI para modelos preditivos de biologia humana</category>
@@ -41,7 +41,7 @@
               <title>Organoides pulmonares humanos com sistema imunológico integrado podem transformar a pesquisa de doenças respiratórias</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=human-lung-organoids-with-a-built-in-immune-system-could-transform-respiratory-disease-research</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=human-lung-organoids-with-a-built-in-immune-system-could-transform-respiratory-disease-research</guid>
-              <pubDate>Sun, 25 Oct 2026 17:36:32 +0000</pubDate>
+              <pubDate>Sun, 25 Oct 2026 19:56:07 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>No estudo financiado pelo NIH, os modelos orquestraram respostas imunes adaptativas à infecção viral.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Organoides pulmonares humanos com sistema imunológico integrado podem transformar a pesquisa de doenças respiratórias</category>
@@ -51,12 +51,22 @@
               <title>Modelo de aprendizagem profunda usando ECGs durante estudos do sono pode prever resultados cardiovasculares</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=deep-learning-model-using-ecgs-during-sleep-studies-can-predict-cardiovascular-outcomes</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=deep-learning-model-using-ecgs-during-sleep-studies-can-predict-cardiovascular-outcomes</guid>
-              <pubDate>Sun, 25 Oct 2026 17:36:32 +0000</pubDate>
+              <pubDate>Sun, 25 Oct 2026 19:56:07 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>A integração de ECGs na triagem de distúrbios do sono poderia melhorar a detecção e orientar a tomada de decisões clínicas.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Modelo de aprendizagem profunda usando ECGs durante estudos do sono pode prever resultados cardiovasculares</category>
               <source url="https://www.nih.gov/news-events/news-releases/deep-learning-model-using-ecgs-during-sleep-studies-can-predict-cardiovascular-outcomes">NIH News Releases</source>
               <content:encoded>A integração de ECGs na triagem de distúrbios do sono poderia melhorar a detecção e orientar a tomada de decisões clínicas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Uma equipe de pesquisa apoiada pelos Instituto</content:encoded>
+            </item><item>
+              <title>O disco da Via Láctea cresceu “de cabeça para baixo”, com estrelas mais jovens se formando em camadas cada vez mais finas</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=milky-way-s-disk-grew-upside-down-with-younger-stars-forming-in-ever-thinner-layers</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=milky-way-s-disk-grew-upside-down-with-younger-stars-forming-in-ever-thinner-layers</guid>
+              <pubDate>Sun, 25 Oct 2026 18:30:02 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>A Via Láctea abriga centenas de bilhões de estrelas dispostas em um glorioso padrão espiral. Mas, além da espiral óbvia, a nossa galáxia tem outras características físicas. Está dividido em bojo galáctico, disco galáctico e disco galáctico.</description>
+              <category>Astronomia</category><category>Phys.org Space</category><category>Cosmos Week</category><category>O disco da Via Láctea cresceu “de cabeça para baixo”</category>
+              <source url="https://phys.org/news/2026-10-milky-disk-grew-upside-younger.html">Phys.org Space</source>
+              <content:encoded>A Via Láctea abriga centenas de bilhões de estrelas dispostas em um glorioso padrão espiral. Mas, além da espiral óbvia, a nossa galáxia tem outras características físicas. Está dividido em bojo galáctico, disco galáctico e disco galáctico. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa</content:encoded>
             </item><item>
               <title>A Lua de Hunter cai de 25 a 26 de outubro, com Saturno próximo</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=hunter-s-moon-falls-on-october-25-26-with-saturn-nearby</link>
@@ -98,16 +108,6 @@
               <source url="https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/">EarthSky</source>
               <content:encoded>Feliz dia 20, ESTÉREO! As sondas gêmeas mostraram pela primeira vez CMEs em 3D. Hoje, uma CME superficial pode trazer uma tempestade G1 e auroras. O post Notícias da Sun: Feliz aniversário de 20 anos, ESTÉREO! apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permi</content:encoded>
             </item><item>
-              <title>O Grand Canyon de Marte ainda está tectonicamente ativo?</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=is-the-mars-grand-canyon-still-tectonically-active</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=is-the-mars-grand-canyon-still-tectonically-active</guid>
-              <pubDate>Sun, 25 Oct 2026 11:11:00 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Os pesquisadores disseram que o planeta vermelho ainda está tectonicamente ativo hoje. Uma equipe encontrou o epicentro de um terremoto no Grand Canyon de Marte. O post O Grand Canyon de Marte ainda está tectonicamente ativo? apareceu pela primeira vez no.</description>
-              <category>Ciências da Terra</category><category>EarthSky</category><category>Cosmos Week</category><category>O Grand Canyon de Marte ainda está tectonicamente ativo?</category>
-              <source url="https://earthsky.org/space/grand-canyon-of-mars-valles-marineris-tectonically-active/">EarthSky</source>
-              <content:encoded>Os pesquisadores disseram que o planeta vermelho ainda está tectonicamente ativo hoje. Uma equipe encontrou o epicentro de um terremoto no Grand Canyon de Marte. O post O Grand Canyon de Marte ainda está tectonicamente ativo? apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais</content:encoded>
-            </item><item>
               <title>Euclides descobre novo cometa</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=euclid-discovers-new-comet</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=euclid-discovers-new-comet</guid>
@@ -127,16 +127,6 @@
               <category>Astronomia</category><category>ESA Hubble News</category><category>Cosmos Week</category><category>Lançamento científico</category>
               <source url="https://esahubble.org/news/heic2609/">ESA Hubble News</source>
               <content:encoded>Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que existiu apenas 1,4 mil milhões de anos após o Big Bang. Essa galáxia contém estrelas jovens fortemente agrupadas que. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resul</content:encoded>
-            </item><item>
-              <title>Divulgação Científica: Hubble inesperadamente captura cometa se rompendo</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-unexpectedly-catches-comet-breaking-up</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-unexpectedly-catches-comet-breaking-up</guid>
-              <pubDate>Wed, 18 Mar 2026 14:00:00 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias antes, o K1 se fragmentou em pelo menos quatro pedaços enquanto a NASA/ESA.</description>
-              <category>Astronomia</category><category>ESA Hubble News</category><category>Cosmos Week</category><category>Divulgação Científica</category>
-              <source url="https://esahubble.org/news/heic2606/">ESA Hubble News</source>
-              <content:encoded>O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias antes, o K1 se fragmentou em pelo menos quatro pedaços enquanto a NASA/ESA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sob</content:encoded>
             </item><item>
               <title>NASA e parceiros aceleram o desenvolvimento do módulo de pouso para missões lunares de 2028</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-partners-accelerate-lander-development-for-2028-moon-missions</link>
@@ -207,6 +197,16 @@
               <category>Exoplanetas</category><category>Universe Today</category><category>Cosmos Week</category><category>27 alvos de exoplanetas para o primeiro telescópio espacial privado do mundo</category>
               <source url="https://www.universetoday.com/articles/27-exoplanet-targets-for-the-worlds-first-private-space-telescope">Universe Today</source>
               <content:encoded>Prepare-se para a era dos telescópios espaciais privados. O Telescópio Espacial Lazuli será lançado dentro de alguns anos e parte de sua missão é observar exoplanetas. Uma nova pesquisa apresenta uma lista de 27 alvos de exoplanetas, alguns dos quais são muito. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses qu</content:encoded>
+            </item><item>
+              <title>JWST revela um mundo alienígena desequilibrado com ventos noturnos escaldantes</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=jwst-reveals-a-lopsided-alien-world-with-blistering-evening-winds</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=jwst-reveals-a-lopsided-alien-world-with-blistering-evening-winds</guid>
+              <pubDate>Fri, 23 Oct 2026 10:54:33 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Normalmente, quando pensamos em exoplanetas, pensamos em esferas organizadas flutuando diretamente na frente de sua estrela, que atua como um holofote gigante. Do nosso ponto de vista, eles se pareceriam mais com dois círculos bidimensionais perfeitos do que.</description>
+              <category>Exoplanetas</category><category>Universe Today</category><category>Cosmos Week</category><category>JWST revela um mundo alienígena desequilibrado com ventos noturnos escaldantes</category>
+              <source url="https://www.universetoday.com/articles/jwst-reveals-a-lopsided-alien-world-with-blistering-evening-winds">Universe Today</source>
+              <content:encoded>Normalmente, quando pensamos em exoplanetas, pensamos em esferas organizadas flutuando diretamente na frente de sua estrela, que atua como um holofote gigante. Do nosso ponto de vista, eles se pareceriam mais com dois círculos bidimensionais perfeitos do que com esferas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido </content:encoded>
             </item>
   </channel>
 </rss>

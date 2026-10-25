@@ -19,8 +19,8 @@ window.postsData = [
     "excerpt": "Um novo estudo financiado pelos Institutos Nacionais de Saúde indica que o medicamento experimental kamuvudina-9 facilita a recuperação da perda de visão e paralisia pré-existentes em modelos animais de esclerose múltipla.",
     "excerpt_pt": "Um novo estudo financiado pelos Institutos Nacionais de Saúde indica que o medicamento experimental kamuvudina-9 facilita a recuperação da perda de visão e paralisia pré-existentes em modelos animais de esclerose múltipla.",
     "excerpt_en": "A new National Institutes of Health-funded study indicates that the experimental drug kamuvudine-9 facilitates recovery from pre-existing vision loss and paralysis in animal models of multiple sclerosis.",
-    "body": "<p>Um novo estudo financiado pelos Institutos Nacionais de Saúde indica que o medicamento experimental kamuvudina-9 facilita a recuperação da perda de visão e paralisia pré-existentes em modelos animais de esclerose múltipla. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Um novo estudo financiado pelos Institutos Nacionais de Saúde (NIH) indica que o medicamento experimental kamuvudina-9 (K-9) facilita a recuperação da perda de visão e paralisia. Pesquisadores da Universidade da Virgínia descobriram que esses benefícios eram provavelmente o resultado do K-9 impedir a ativação do inflamassoma, um sistema de alarme que mata.</p><p>Uma análise nacional de mais de 3 milhões de pacientes mostrou taxas reduzidas de esclerose múltipla e recaídas de esclerose múltipla entre aqueles que receberam medicamentos. No novo estudo, Ambati e os seus coautores exploraram se o K-9 teria um efeito semelhante na esclerose múltipla, onde a perda de visão é um sintoma típico.</p><p>Os investigadores descobriram que os animais que receberam K-9 ficaram completamente protegidos de défices neurológicos e, para sua surpresa, também recuperaram da deficiência. Exames mais aprofundados sugeriram que o K-9 protegia os axônios e suas bainhas isolantes de mielina, que são o principal canal de sinais no sistema nervoso central, contra a.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de NIH News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.nih.gov/news-events/news-releases/modified-hiv-drug-reverses-vision-loss-paralysis-multiple-sclerosis-model\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Um novo estudo financiado pelos Institutos Nacionais de Saúde indica que o medicamento experimental kamuvudina-9 facilita a recuperação da perda de visão e paralisia pré-existentes em modelos animais de esclerose múltipla. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Um novo estudo financiado pelos Institutos Nacionais de Saúde (NIH) indica que o medicamento experimental kamuvudina-9 (K-9) facilita a recuperação da perda de visão e paralisia. Pesquisadores da Universidade da Virgínia descobriram que esses benefícios eram provavelmente o resultado do K-9 impedir a ativação do inflamassoma, um sistema de alarme que mata.</p><p>Uma análise nacional de mais de 3 milhões de pacientes mostrou taxas reduzidas de esclerose múltipla e recaídas de esclerose múltipla entre aqueles que receberam medicamentos. No novo estudo, Ambati e os seus coautores exploraram se o K-9 teria um efeito semelhante na esclerose múltipla, onde a perda de visão é um sintoma típico.</p><p>Os investigadores descobriram que os animais que receberam K-9 ficaram completamente protegidos de défices neurológicos e, para sua surpresa, também recuperaram da deficiência. Exames mais aprofundados sugeriram que o K-9 protegia os axônios e suas bainhas isolantes de mielina, que são o principal canal de sinais no sistema nervoso central, contra a.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de NIH News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.nih.gov/news-events/news-releases/modified-hiv-drug-reverses-vision-loss-paralysis-multiple-sclerosis-model\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body": "<p>Um novo estudo financiado pelos Institutos Nacionais de Saúde indica que o medicamento experimental kamuvudina-9 facilita a recuperação da perda de visão e paralisia pré-existentes em modelos animais de esclerose múltipla. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Um novo estudo financiado pelos Institutos Nacionais de Saúde (NIH) indica que o medicamento experimental kamuvudina-9 (K-9) facilita a recuperação da perda de visão e paralisia. Pesquisadores da Universidade da Virgínia descobriram que esses benefícios eram provavelmente o resultado de o K-9 impedir a ativação do inflamassoma, um sistema de alarme que.</p><p>Uma análise nacional de mais de 3 milhões de pacientes mostrou taxas reduzidas de esclerose múltipla e recaídas de esclerose múltipla entre aqueles que receberam medicamentos. No novo estudo, Ambati e os seus coautores exploraram se o K-9 teria um efeito semelhante na esclerose múltipla, onde a perda de visão é um sintoma típico.</p><p>Os investigadores descobriram que os animais que receberam K-9 ficaram completamente protegidos de défices neurológicos e, para sua surpresa, também recuperaram da deficiência. Exames mais aprofundados sugeriram que o K-9 protegia os axônios e suas bainhas isolantes de mielina, que são o principal canal de sinais no sistema nervoso central, contra a.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de NIH News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.nih.gov/news-events/news-releases/modified-hiv-drug-reverses-vision-loss-paralysis-multiple-sclerosis-model\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Um novo estudo financiado pelos Institutos Nacionais de Saúde indica que o medicamento experimental kamuvudina-9 facilita a recuperação da perda de visão e paralisia pré-existentes em modelos animais de esclerose múltipla. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Um novo estudo financiado pelos Institutos Nacionais de Saúde (NIH) indica que o medicamento experimental kamuvudina-9 (K-9) facilita a recuperação da perda de visão e paralisia. Pesquisadores da Universidade da Virgínia descobriram que esses benefícios eram provavelmente o resultado de o K-9 impedir a ativação do inflamassoma, um sistema de alarme que.</p><p>Uma análise nacional de mais de 3 milhões de pacientes mostrou taxas reduzidas de esclerose múltipla e recaídas de esclerose múltipla entre aqueles que receberam medicamentos. No novo estudo, Ambati e os seus coautores exploraram se o K-9 teria um efeito semelhante na esclerose múltipla, onde a perda de visão é um sintoma típico.</p><p>Os investigadores descobriram que os animais que receberam K-9 ficaram completamente protegidos de défices neurológicos e, para sua surpresa, também recuperaram da deficiência. Exames mais aprofundados sugeriram que o K-9 protegia os axônios e suas bainhas isolantes de mielina, que são o principal canal de sinais no sistema nervoso central, contra a.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de NIH News Releases, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.nih.gov/news-events/news-releases/modified-hiv-drug-reverses-vision-loss-paralysis-multiple-sclerosis-model\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
     "body_en": "<p>A new National Institutes of Health-funded study indicates that the experimental drug kamuvudine-9 facilitates recovery from pre-existing vision loss and paralysis in animal models of multiple sclerosis. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because biology becomes more informative when an observed effect begins to look like a mechanism rather than an isolated pattern. The gap between identifying a correlation in biological data and understanding the causal chain that produces it is routinely underestimated, and the history of biomedical research is populated with associations that collapsed when the mechanism was sought and not found. A result that comes with a proposed mechanism, even a partial one, is more useful than a purely descriptive finding because it generates testable predictions that can narrow the hypothesis space. A new National Institutes of Health (NIH)-funded study indicates that the experimental drug kamuvudine-9 (K-9) facilitates recovery from pre-existing vision loss and paralysis in. Researchers at the University of Virginia found that these benefits were likely the result of K-9 preventing the inflammasome, a cell-killing alarm system native to the brain and.</p><p>A nationwide analysis of more than 3 million patients showed reduced rates of MS and MS relapses among those receiving common antiviral medications called NRTIs, of which K-9 is a. In the new study, Ambati and his co-authors explored whether K-9 would have a similar effect in MS, where vision loss is a typical symptom.</p><p>The researchers found that animals who received K-9 were completely protected from neurologic deficits and, to their surprise, also bounced back from their previous motor. Further examination suggested that K-9 shielded axons and their insulating myelin sheaths, which are the primary conduit for signals in the central nervous system, from.</p><p>K-9’s striking effects coincided with two separate channels of inflammasome activation being shut down. “Though NRTIs are different molecules, they too block inflammasome activation and the signal we detected here is exactly what we would expect to see if K-9 does one day prove.</p><p>The broader interest lies in whether the reported effect points toward a real mechanism and not merely a reproducible but unexplained association. Biology has learned from decades of biomarker failures that correlation, even robust correlation, is not a substitute for mechanistic understanding. A pathway that can be traced from molecular interaction to cellular response to organismal phenotype provides a far stronger foundation for intervention than a statistical association discovered in a large dataset, however well the statistics are done.</p><p>K-9 has already been tested in clinical trials for eye diseases such as diabetic macular edema and thyroid eye disease and a similar drug, K-8, has shown promise in treating. The authors hope to soon move forward with K-9 in clinical studies for MS and other neurodegenerative diseases such as ALS.</p><p>Because the account originates with NIH News Releases, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to test whether the effect repeats across different methods, cell types, model organisms and experimental conditions. Reproducibility is the first test, but mechanistic dissection is the second, and a result that passes both has a substantially better chance of translating into something clinically or biotechnologically useful. The path from a laboratory finding to an applied outcome typically takes a decade or more, and most findings do not complete it; the current result sits at the beginning of that process.</p><p class=\"art-source\"><a href=\"https://www.nih.gov/news-events/news-releases/modified-hiv-drug-reverses-vision-loss-paralysis-multiple-sclerosis-model\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Um novo estudo financiado pelos Institutos Nacionais de Saúde indica que o medicamento experimental kamuvudina-9 facilita a recuperação da perda de.",
@@ -40,14 +40,14 @@ window.postsData = [
     "date": "25 out 2026",
     "date_pt": "25 out 2026",
     "date_en": "25 Oct 2026",
-    "time": "17h36",
-    "time_pt": "17h36",
-    "time_en": "17:36 UTC",
+    "time": "19h56",
+    "time_pt": "19h56",
+    "time_en": "19:56 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-10-25T17:36:32.894393+00:00",
-    "lastModifiedIso": "2026-10-25T17:36:32.894393+00:00",
+    "publishedIso": "2026-10-25T19:56:07.567620+00:00",
+    "lastModifiedIso": "2026-10-25T19:56:07.567620+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -145,14 +145,14 @@ window.postsData = [
     "date": "25 out 2026",
     "date_pt": "25 out 2026",
     "date_en": "25 Oct 2026",
-    "time": "17h36",
-    "time_pt": "17h36",
-    "time_en": "17:36 UTC",
+    "time": "19h56",
+    "time_pt": "19h56",
+    "time_en": "19:56 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-10-25T17:36:32.894352+00:00",
-    "lastModifiedIso": "2026-10-25T17:36:32.894352+00:00",
+    "publishedIso": "2026-10-25T19:56:07.567590+00:00",
+    "lastModifiedIso": "2026-10-25T19:56:07.567590+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -250,14 +250,14 @@ window.postsData = [
     "date": "25 out 2026",
     "date_pt": "25 out 2026",
     "date_en": "25 Oct 2026",
-    "time": "17h36",
-    "time_pt": "17h36",
-    "time_en": "17:36 UTC",
+    "time": "19h56",
+    "time_pt": "19h56",
+    "time_en": "19:56 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-10-25T17:36:32.894300+00:00",
-    "lastModifiedIso": "2026-10-25T17:36:32.894300+00:00",
+    "publishedIso": "2026-10-25T19:56:07.567555+00:00",
+    "lastModifiedIso": "2026-10-25T19:56:07.567555+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -355,14 +355,14 @@ window.postsData = [
     "date": "25 out 2026",
     "date_pt": "25 out 2026",
     "date_en": "25 Oct 2026",
-    "time": "17h36",
-    "time_pt": "17h36",
-    "time_en": "17:36 UTC",
+    "time": "19h56",
+    "time_pt": "19h56",
+    "time_en": "19:56 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-10-25T17:36:32.894222+00:00",
-    "lastModifiedIso": "2026-10-25T17:36:32.894222+00:00",
+    "publishedIso": "2026-10-25T19:56:07.567520+00:00",
+    "lastModifiedIso": "2026-10-25T19:56:07.567520+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -460,14 +460,14 @@ window.postsData = [
     "date": "25 out 2026",
     "date_pt": "25 out 2026",
     "date_en": "25 Oct 2026",
-    "time": "17h36",
-    "time_pt": "17h36",
-    "time_en": "17:36 UTC",
+    "time": "19h56",
+    "time_pt": "19h56",
+    "time_en": "19:56 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-10-25T17:36:32.894128+00:00",
-    "lastModifiedIso": "2026-10-25T17:36:32.894128+00:00",
+    "publishedIso": "2026-10-25T19:56:07.567453+00:00",
+    "lastModifiedIso": "2026-10-25T19:56:07.567453+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -528,6 +528,142 @@ window.postsData = [
   },
   {
     "id": 6,
+    "slug": "milky-way-s-disk-grew-upside-down-with-younger-stars-forming-in-ever-thinner-layers",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-stubborn-question-an.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-stubborn-question-an.jpg",
+        "caption": "A Via Láctea é uma galáxia espiral e seus braços espirais são suas características definidoras. Mas a nossa galáxia tem um disco, e ele é dividido em duas partes: um disco fino onde se formam estrelas jovens e um disco grosso, que é mais difuso e abriga estrelas antigas.",
+        "caption_pt": "A Via Láctea é uma galáxia espiral e seus braços espirais são suas características definidoras. Mas a nossa galáxia tem um disco, e ele é dividido em duas partes: um disco fino onde se formam estrelas jovens e um disco grosso, que é mais difuso e abriga estrelas antigas.",
+        "caption_en": "The Milky Way is a spiral galaxy, and its spiral arms are its defining features. But our galaxy has a disk, and it is divided into two parts: a thin disk where young stars form and a thick disk, which is more diffuse and is home to ancient.",
+        "alt": "Uma pergunta teimosa respondida: nova pesquisa revela como o disco da Via Láctea se formou",
+        "alt_pt": "Uma pergunta teimosa respondida: nova pesquisa revela como o disco da Via Láctea se formou",
+        "alt_en": "A Stubborn Question Answered: New Research Reveals How the Milky Way's Disk Formed"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-stubborn-question-an-1.jpg",
+        "caption": "Este número da pesquisa está repleto de informações que os cérebros enrugados dos astrofísicos podem decifrar. Para o resto de nós, a parte importante é a queda acentuada em Hz, ou altura da escala vertical, há cerca de 10,8 mil milhões de anos. Isto é quando.",
+        "caption_pt": "Este número da pesquisa está repleto de informações que os cérebros enrugados dos astrofísicos podem decifrar. Para o resto de nós, a parte importante é a queda acentuada em Hz, ou altura da escala vertical, há cerca de 10,8 mil milhões de anos. Isto é quando.",
+        "caption_en": "This figure from the research is packed with information that wrinkly astrophysicist brains can decipher. For the rest of us, the important part is the sharp drop in hZ, or vertical scale height, about 10.8 billion years ago. This is when.",
+        "alt": "Uma pergunta teimosa respondida: nova pesquisa revela como o disco da Via Láctea se formou",
+        "alt_pt": "Uma pergunta teimosa respondida: nova pesquisa revela como o disco da Via Láctea se formou",
+        "alt_en": "A Stubborn Question Answered: New Research Reveals How the Milky Way's Disk Formed"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/a5155b7e93ee6855.png",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "O disco da Via Láctea cresceu “de cabeça para baixo”, com estrelas mais jovens se formando em camadas cada vez mais finas",
+    "title_pt": "O disco da Via Láctea cresceu “de cabeça para baixo”, com estrelas mais jovens se formando em camadas cada vez mais finas",
+    "title_en": "Milky Way's disk grew 'upside down,' with younger stars forming in ever-thinner layers",
+    "sub": "A Via Láctea abriga centenas de bilhões de estrelas dispostas em um glorioso padrão espiral. Mas, além da espiral óbvia, a nossa galáxia tem outras características físicas. Está.",
+    "sub_pt": "A Via Láctea abriga centenas de bilhões de estrelas dispostas em um glorioso padrão espiral. Mas, além da espiral óbvia, a nossa galáxia tem outras características físicas. Está.",
+    "sub_en": "The Milky Way is home to hundreds of billions of stars arranged in a glorious spiral pattern. But beyond the obvious spiral, our galaxy has other physical characteristics. It's.",
+    "excerpt": "A Via Láctea abriga centenas de bilhões de estrelas dispostas em um glorioso padrão espiral. Mas, além da espiral óbvia, a nossa galáxia tem outras características físicas. Está dividido em bojo galáctico, disco galáctico e disco galáctico.",
+    "excerpt_pt": "A Via Láctea abriga centenas de bilhões de estrelas dispostas em um glorioso padrão espiral. Mas, além da espiral óbvia, a nossa galáxia tem outras características físicas. Está dividido em bojo galáctico, disco galáctico e disco galáctico.",
+    "excerpt_en": "The Milky Way is home to hundreds of billions of stars arranged in a glorious spiral pattern. But beyond the obvious spiral, our galaxy has other physical characteristics. It's divided into a galactic bulge, a galactic disk and a galactic.",
+    "body": "<p>A Via Láctea abriga centenas de bilhões de estrelas dispostas em um glorioso padrão espiral. Mas, além da espiral óbvia, a nossa galáxia tem outras características físicas. Está dividido em bojo galáctico, disco galáctico e disco galáctico. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. NASA/JPL-Caltech.</p><p>Medialab ESA/ATG A Via Láctea é o lar de centenas de bilhões de estrelas dispostas em um glorioso padrão espiral. A falta de idades precisas para amostras grandes e representativas de estrelas tem sido tradicionalmente uma desvantagem para a diferenciação segura entre os cenários de formação.</p><p>Descubra o que há de mais recente em ciência, tecnologia e espaço com mais de 100.000 assinantes que confiam no Phys. org para obter insights diários. Houve uma mudança significativa há cerca de 10,8 mil milhões de anos, alguns mil milhões de anos após o Big Bang, à medida que o disco fino se formava, com as estrelas mais velhas.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-10-milky-disk-grew-upside-younger.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A Via Láctea abriga centenas de bilhões de estrelas dispostas em um glorioso padrão espiral. Mas, além da espiral óbvia, a nossa galáxia tem outras características físicas. Está dividido em bojo galáctico, disco galáctico e disco galáctico. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. NASA/JPL-Caltech.</p><p>Medialab ESA/ATG A Via Láctea é o lar de centenas de bilhões de estrelas dispostas em um glorioso padrão espiral. A falta de idades precisas para amostras grandes e representativas de estrelas tem sido tradicionalmente uma desvantagem para a diferenciação segura entre os cenários de formação.</p><p>Descubra o que há de mais recente em ciência, tecnologia e espaço com mais de 100.000 assinantes que confiam no Phys. org para obter insights diários. Houve uma mudança significativa há cerca de 10,8 mil milhões de anos, alguns mil milhões de anos após o Big Bang, à medida que o disco fino se formava, com as estrelas mais velhas.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-10-milky-disk-grew-upside-younger.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The Milky Way is home to hundreds of billions of stars arranged in a glorious spiral pattern. But beyond the obvious spiral, our galaxy has other physical characteristics. It&#x27;s divided into a galactic bulge, a galactic disk and a galactic. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. This article has been reviewed according to Science X&#x27;s editorial process and policies. NASA/JPL-Caltech.</p><p>ESA/ATG medialab The Milky Way is home to hundreds of billions of stars arranged in a glorious spiral pattern. The lack of precise ages for large, representative samples of stars has traditionally been a drawback for securely differentiating among formation scenarios proposed to explain.</p><p>Discover the latest in science, tech, and space with over 100,000 subscribers who rely on Phys. org for daily insights. There was a significant change about 10.8 billion years ago, a couple of billion years after the Big Bang, as the thin disk formed, with the older stars maintaining their orbits.</p><p>The existence of a clear break in the process about 10.8 billion years ago is the main argument in this research. We find evidence that the scale height decrease rate changed drastically (~10.85) Gyr ago: at older ages, the evolution is very steep, with hZ (vertical scale height) dropping.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Subsequently, the thinning is very gradual, with hZ ∼ 0.1 kpc for the youngest populations,&quot; the authors write. So before about 10.85 Gyr ago, the disk flattened rapidly.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-10-milky-disk-grew-upside-younger.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: A Via Láctea abriga centenas de bilhões de estrelas dispostas em um glorioso padrão espiral. Mas, além da espiral óbvia, a nossa galáxia tem outras.",
+      "Dado-chave: Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: A Via Láctea abriga centenas de bilhões de estrelas dispostas em um glorioso padrão espiral. Mas, além da espiral óbvia, a nossa galáxia tem outras.",
+      "Dado-chave: Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: The Milky Way is home to hundreds of billions of stars arranged in a glorious spiral pattern. But beyond the obvious spiral, our galaxy has other.",
+      "Key detail: This article has been reviewed according to Science X's editorial process and policies.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "25 out 2026",
+    "date_pt": "25 out 2026",
+    "date_en": "25 Oct 2026",
+    "time": "18h30",
+    "time_pt": "18h30",
+    "time_en": "18:30 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-10-25T18:30:02+00:00",
+    "lastModifiedIso": "2026-10-25T18:30:02+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astronomia",
+      "Phys.org Space",
+      "Cosmos Week",
+      "O disco da Via Láctea cresceu “de cabeça para baixo”",
+      "com estrelas mais jovens se formando em camadas cada vez mais finas"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "Phys.org Space",
+      "Cosmos Week",
+      "O disco da Via Láctea cresceu “de cabeça para baixo”",
+      "com estrelas mais jovens se formando em camadas cada vez mais finas"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "Phys.org Space",
+      "Cosmos Week",
+      "The Milky Way's disk grew “upside down”",
+      "with younger stars forming in increasingly thinner layers"
+    ],
+    "srcUrl": "https://phys.org/news/2026-10-milky-disk-grew-upside-younger.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=milky-way-s-disk-grew-upside-down-with-younger-stars-forming-in-ever-thinner-layers",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=milky-way-s-disk-grew-upside-down-with-younger-stars-forming-in-ever-thinner-layers",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=milky-way-s-disk-grew-upside-down-with-younger-stars-forming-in-ever-thinner-layers&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 76,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 82,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
     "slug": "hunter-s-moon-falls-on-october-25-26-with-saturn-nearby",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -631,7 +767,7 @@ window.postsData = [
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -645,7 +781,7 @@ window.postsData = [
     }
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "how-to-understand-moon-phases-4-tips",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -763,7 +899,7 @@ window.postsData = [
     }
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "pentagon-uap-files-part-7-silent-black-triangles",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -884,7 +1020,7 @@ window.postsData = [
     }
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "sun-news-happy-20th-birthday-stereo",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -985,121 +1121,6 @@ window.postsData = [
     "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=sun-news-happy-20th-birthday-stereo",
     "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=sun-news-happy-20th-birthday-stereo",
     "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=sun-news-happy-20th-birthday-stereo&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 68,
-    "scoreBreakdown": {
-      "source": 72,
-      "evidence": 82,
-      "relevance": 62,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 10,
-    "slug": "is-the-mars-grand-canyon-still-tectonically-active",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://earthsky.org/upl/2026/01/mars-canyon-Kevin-Gill-800x800.jpeg",
-    "inline_images": [
-      {
-        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "O Grand Canyon de Marte ainda está tectonicamente ativo?",
-    "title_pt": "O Grand Canyon de Marte ainda está tectonicamente ativo?",
-    "title_en": "Is the Mars Grand Canyon still tectonically active?",
-    "sub": "Os pesquisadores disseram que o planeta vermelho ainda está tectonicamente ativo hoje. Uma equipe encontrou o epicentro de um terremoto no Grand Canyon de Marte. O post O Grand.",
-    "sub_pt": "Os pesquisadores disseram que o planeta vermelho ainda está tectonicamente ativo hoje. Uma equipe encontrou o epicentro de um terremoto no Grand Canyon de Marte. O post O Grand.",
-    "sub_en": "Researchers said the red planet is still tectonically active today. A team found the epicenter of a marsquake at the Grand Canyon of Mars. The post Is the Mars Grand Canyon still.",
-    "excerpt": "Os pesquisadores disseram que o planeta vermelho ainda está tectonicamente ativo hoje. Uma equipe encontrou o epicentro de um terremoto no Grand Canyon de Marte. O post O Grand Canyon de Marte ainda está tectonicamente ativo? apareceu pela primeira vez no.",
-    "excerpt_pt": "Os pesquisadores disseram que o planeta vermelho ainda está tectonicamente ativo hoje. Uma equipe encontrou o epicentro de um terremoto no Grand Canyon de Marte. O post O Grand Canyon de Marte ainda está tectonicamente ativo? apareceu pela primeira vez no.",
-    "excerpt_en": "Researchers said the red planet is still tectonically active today. A team found the epicenter of a marsquake at the Grand Canyon of Mars. The post Is the Mars Grand Canyon still tectonically active? first appeared on EarthSky.",
-    "body": "<p>Os pesquisadores disseram que o planeta vermelho ainda está tectonicamente ativo hoje. Uma equipe encontrou o epicentro de um terremoto no Grand Canyon de Marte. O post O Grand Canyon de Marte ainda está tectonicamente ativo? apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Pesquisadores disseram recentemente que o Grand Canyon de Marte ainda está tectonicamente ativo, embora a tectônica em Marte seja diferente da da Terra. Ele se estende por mais de 4.000 quilômetros de comprimento, nove vezes mais que o Grand Canyon na Terra.</p><p>É também cerca de 20 vezes mais largo e cinco vezes mais profundo que o Grand Canyon da Terra. Em 19 de outubro de 2026, cientistas da Universidade de Columbia e do Imperial College London disseram que Valles Marineris ainda está tectonicamente ativo, bilhões de anos depois.</p><p>A nova pesquisa descobriu que o terremoto ocorreu de 20 a 40 km abaixo de Valles Marineris. Os pesquisadores publicaram suas descobertas revisadas por pares na revista Nature Communications em 15 de outubro de 2026.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/grand-canyon-of-mars-valles-marineris-tectonically-active/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Os pesquisadores disseram que o planeta vermelho ainda está tectonicamente ativo hoje. Uma equipe encontrou o epicentro de um terremoto no Grand Canyon de Marte. O post O Grand Canyon de Marte ainda está tectonicamente ativo? apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Pesquisadores disseram recentemente que o Grand Canyon de Marte ainda está tectonicamente ativo, embora a tectônica em Marte seja diferente da da Terra. Ele se estende por mais de 4.000 quilômetros de comprimento, nove vezes mais que o Grand Canyon na Terra.</p><p>É também cerca de 20 vezes mais largo e cinco vezes mais profundo que o Grand Canyon da Terra. Em 19 de outubro de 2026, cientistas da Universidade de Columbia e do Imperial College London disseram que Valles Marineris ainda está tectonicamente ativo, bilhões de anos depois.</p><p>A nova pesquisa descobriu que o terremoto ocorreu de 20 a 40 km abaixo de Valles Marineris. Os pesquisadores publicaram suas descobertas revisadas por pares na revista Nature Communications em 15 de outubro de 2026.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/grand-canyon-of-mars-valles-marineris-tectonically-active/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Researchers said the red planet is still tectonically active today. A team found the epicenter of a marsquake at the Grand Canyon of Mars. The post Is the Mars Grand Canyon still tectonically active? first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Researchers recently said that Mars’ Grand Canyon is still tectonically active, though tectonics on Mars are different from those on Earth. It stretches more than 2,500 miles (4,000 km) long, nine times longer than the Grand Canyon on Earth.</p><p>It’s also about 20 times wider and five times deeper than Earth’s Grand Canyon. On October 19, 2026, scientists with Columbia University and Imperial College London said Valles Marineris is still tectonically active, billions of years after it formed.</p><p>The new research found the quake occurred 12 to 25 miles (20 to 40 km) beneath Valles Marineris. The researchers published their peer-reviewed findings in the journal Nature Communications on October 15, 2026.</p><p>Finding a recent marsquake On August 25, 2021, the InSight lander detected a quake from its location in Elysium Planitia, on the opposite side of Mars from Valles Marineris. That’s because tremors on Mars can also be from landslides or meteorite impacts.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>But then researchers found the quake, named S0976a, had traveled through Mars’ core. The new research pinpoints the epicenter at 12 to 25 miles (20 to 40 km) beneath Valles Marineris.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/space/grand-canyon-of-mars-valles-marineris-tectonically-active/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Os pesquisadores disseram que o planeta vermelho ainda está tectonicamente ativo hoje. Uma equipe encontrou o epicentro de um terremoto no Grand.",
-      "Dado-chave: Pesquisadores disseram recentemente que o Grand Canyon de Marte ainda está tectonicamente ativo, embora a tectônica em Marte seja diferente da.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Os pesquisadores disseram que o planeta vermelho ainda está tectonicamente ativo hoje. Uma equipe encontrou o epicentro de um terremoto no Grand.",
-      "Dado-chave: Pesquisadores disseram recentemente que o Grand Canyon de Marte ainda está tectonicamente ativo, embora a tectônica em Marte seja diferente da.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Researchers said the red planet is still tectonically active today. A team found the epicenter of a marsquake at the Grand Canyon of Mars. The post.",
-      "Key detail: Researchers recently said that Mars’ Grand Canyon is still tectonically active, though tectonics on Mars are different from those on Earth.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "25 out 2026",
-    "date_pt": "25 out 2026",
-    "date_en": "25 Oct 2026",
-    "time": "11h11",
-    "time_pt": "11h11",
-    "time_en": "11:11 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-10-25T11:11:00+00:00",
-    "lastModifiedIso": "2026-10-25T11:11:00+00:00",
-    "source": "EarthSky",
-    "sourceDomain": "earthsky.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "EarthSky",
-      "Cosmos Week",
-      "O Grand Canyon de Marte ainda está tectonicamente ativo?"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "EarthSky",
-      "Cosmos Week",
-      "O Grand Canyon de Marte ainda está tectonicamente ativo?"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "EarthSky",
-      "Cosmos Week",
-      "Is the Grand Canyon of Mars still tectonically active?"
-    ],
-    "srcUrl": "https://earthsky.org/space/grand-canyon-of-mars-valles-marineris-tectonically-active/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=is-the-mars-grand-canyon-still-tectonically-active",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=is-the-mars-grand-canyon-still-tectonically-active",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=is-the-mars-grand-canyon-still-tectonically-active&lang=en",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",
@@ -1390,142 +1411,6 @@ window.postsData = [
   },
   {
     "id": 13,
-    "slug": "science-release-hubble-unexpectedly-catches-comet-breaking-up",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://cdn.esahubble.org/archives/images/screen/heic2606a.jpg",
-    "inline_images": [
-      {
-        "src": "https://cdn.esahubble.org/archives/images/newsfeature/heic2606a.jpg",
-        "caption": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
-        "caption_pt": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
-        "caption_en": "Comet C/2025 K1 (ATLAS): November 2025",
-        "alt": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
-        "alt_pt": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
-        "alt_en": "Comet C/2025 K1 (ATLAS): November 2025"
-      },
-      {
-        "src": "https://cdn.esahubble.org/archives/images/news/heic2606a.jpg",
-        "caption": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
-        "caption_pt": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
-        "caption_en": "Comet C/2025 K1 (ATLAS): November 2025",
-        "alt": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
-        "alt_pt": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
-        "alt_en": "Comet C/2025 K1 (ATLAS): November 2025"
-      },
-      {
-        "src": "https://cdn.esahubble.org/archives/images/news/heic2606b.jpg",
-        "caption": "Cometa C/2025 K1 (ATLAS): novembro de 2025 (anotado)",
-        "caption_pt": "Cometa C/2025 K1 (ATLAS): novembro de 2025 (anotado)",
-        "caption_en": "Comet C/2025 K1 (ATLAS): November 2025 (annotated)",
-        "alt": "Cometa C/2025 K1 (ATLAS): novembro de 2025 (anotado)",
-        "alt_pt": "Cometa C/2025 K1 (ATLAS): novembro de 2025 (anotado)",
-        "alt_en": "Comet C/2025 K1 (ATLAS): November 2025 (annotated)"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Divulgação Científica: Hubble inesperadamente captura cometa se rompendo",
-    "title_pt": "Divulgação Científica: Hubble inesperadamente captura cometa se rompendo",
-    "title_en": "Science Release: Hubble unexpectedly catches comet breaking up",
-    "sub": "O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias.",
-    "sub_pt": "O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias.",
-    "sub_en": "Comet K1, whose full name is Comet C/2025 K1, had just passed its closest approach to the Sun and was heading out of the Solar System. Though it had been intact just days before.",
-    "excerpt": "O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias antes, o K1 se fragmentou em pelo menos quatro pedaços enquanto a NASA/ESA.",
-    "excerpt_pt": "O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias antes, o K1 se fragmentou em pelo menos quatro pedaços enquanto a NASA/ESA.",
-    "excerpt_en": "Comet K1, whose full name is Comet C/2025 K1, had just passed its closest approach to the Sun and was heading out of the Solar System. Though it had been intact just days before, K1 fragmented into at least four pieces while the NASA/ESA.",
-    "body": "<p>O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias antes, o K1 se fragmentou em pelo menos quatro pedaços enquanto a NASA/ESA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Embora estivesse intacto poucos dias antes, o K1 fragmentou-se em pelo menos quatro pedaços enquanto o Telescópio Espacial Hubble da NASA/ESA observava. O cometa K1, cujo nome completo é Cometa C/2025 K1 (ATLAS), não deve ser confundido com o cometa interestelar 3I/ATLAS, não foi o alvo original de um estudo recente do Hubble.</p><p>Tivemos que encontrar um novo alvo, e logo quando o observamos, ele se quebrou, o que é a menor das mínimas chances.” Noonan não sabia que o K1 estava se fragmentando até ver as. “Então sabíamos que isso era algo muito, muito especial.” Este é um experimento que os pesquisadores sempre quiseram fazer com o Hubble.</p><p>As imagens do Hubble foram tiradas apenas um mês após a maior aproximação do K1 ao Sol, chamada periélio. O periélio do cometa estava dentro da órbita de Mercúrio, cerca de um terço da distância da Terra ao Sol.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2606/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias antes, o K1 se fragmentou em pelo menos quatro pedaços enquanto a NASA/ESA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Embora estivesse intacto poucos dias antes, o K1 fragmentou-se em pelo menos quatro pedaços enquanto o Telescópio Espacial Hubble da NASA/ESA observava. O cometa K1, cujo nome completo é Cometa C/2025 K1 (ATLAS), não deve ser confundido com o cometa interestelar 3I/ATLAS, não foi o alvo original de um estudo recente do Hubble.</p><p>Tivemos que encontrar um novo alvo, e logo quando o observamos, ele se quebrou, o que é a menor das mínimas chances.” Noonan não sabia que o K1 estava se fragmentando até ver as. “Então sabíamos que isso era algo muito, muito especial.” Este é um experimento que os pesquisadores sempre quiseram fazer com o Hubble.</p><p>As imagens do Hubble foram tiradas apenas um mês após a maior aproximação do K1 ao Sol, chamada periélio. O periélio do cometa estava dentro da órbita de Mercúrio, cerca de um terço da distância da Terra ao Sol.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2606/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Comet K1, whose full name is Comet C/2025 K1, had just passed its closest approach to the Sun and was heading out of the Solar System. Though it had been intact just days before, K1 fragmented into at least four pieces while the NASA/ESA. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Though it had been intact just days before, K1 fragmented into at least four pieces while the NASA/ESA Hubble Space Telescope was watching. Comet K1, whose full name is Comet C/2025 K1 (ATLAS), not to be confused with interstellar comet 3I/ATLAS, was not the original target of a recent Hubble study.</p><p>We had to find a new target, and right when we observed it, it happened to break apart, which is the slimmest of slim chances.” Noonan didn’t know K1 was fragmenting until he. “So we knew this was something really, really special.” This is an experiment the researchers always wanted to do with Hubble.</p><p>Hubble’s images were taken just a month after K1’s closest approach to the Sun, called perihelion. The comet&#x27;s perihelion was inside Mercury’s orbit, about one-third the distance of the Earth from the Sun.</p><p>Hubble took three 20-second images, one on each day from 8 November through 10 November 2025. Already, ground-based analysis shows that K1 is chemically very strange, it is significantly depleted in carbon, compared with other comets.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Spectroscopic analysis from Hubble’s STIS ( Space Telescope Imaging Spectrograph ) and COS ( Cosmic Origins Spectrograph ) instruments is likely to reveal much more about the. The comet K1 is now a collection of fragments about 400 million kilometers from Earth.</p><p>Because the account originates with ESA Hubble News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2606/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora.",
-      "Dado-chave: Embora estivesse intacto poucos dias antes, o K1 fragmentou-se em pelo menos quatro pedaços enquanto o Telescópio Espacial Hubble da NASA/ESA.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora.",
-      "Dado-chave: Embora estivesse intacto poucos dias antes, o K1 fragmentou-se em pelo menos quatro pedaços enquanto o Telescópio Espacial Hubble da NASA/ESA.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Comet K1, whose full name is Comet C/2025 K1, had just passed its closest approach to the Sun and was heading out of the Solar System. Though it had.",
-      "Key detail: Though it had been intact just days before, K1 fragmented into at least four pieces while the NASA/ESA Hubble Space Telescope was watching.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "18 mar 2026",
-    "date_pt": "18 mar 2026",
-    "date_en": "18 Mar 2026",
-    "time": "14h00",
-    "time_pt": "14h00",
-    "time_en": "14:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-03-18T14:00:00+00:00",
-    "lastModifiedIso": "2026-03-18T14:00:00+00:00",
-    "source": "ESA Hubble News",
-    "sourceDomain": "esahubble.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astronomia",
-      "ESA Hubble News",
-      "Cosmos Week",
-      "Divulgação Científica",
-      "Hubble inesperadamente captura cometa se rompendo"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "ESA Hubble News",
-      "Cosmos Week",
-      "Divulgação Científica",
-      "Hubble inesperadamente captura cometa se rompendo"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "ESA Hubble News",
-      "Cosmos Week",
-      "Scientific Dissemination",
-      "Hubble unexpectedly captures comet breaking up"
-    ],
-    "srcUrl": "https://esahubble.org/news/heic2606/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-unexpectedly-catches-comet-breaking-up",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-unexpectedly-catches-comet-breaking-up",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-unexpectedly-catches-comet-breaking-up&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 79,
-    "scoreBreakdown": {
-      "source": 89,
-      "evidence": 88,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 46
-    }
-  },
-  {
-    "id": 14,
     "slug": "nasa-partners-accelerate-lander-development-for-2028-moon-missions",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1640,7 +1525,7 @@ window.postsData = [
     }
   },
   {
-    "id": 15,
+    "id": 14,
     "slug": "science-release-hubble-identifies-one-of-darkest-known-galaxies",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1776,7 +1661,7 @@ window.postsData = [
     }
   },
   {
-    "id": 16,
+    "id": 15,
     "slug": "nasa-s-casals-instrument-bridges-gaps-in-3d-maps-of-earth-s-surface",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1912,17 +1797,17 @@ window.postsData = [
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 77,
+    "score": 76,
     "scoreBreakdown": {
       "source": 76,
       "evidence": 88,
       "relevance": 88,
       "accessibility": 60,
-      "novelty": 49
+      "novelty": 46
     }
   },
   {
-    "id": 17,
+    "id": 16,
     "slug": "science-release-hubble-discovers-first-of-star-cluster-s-missing-black-holes",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2058,7 +1943,7 @@ window.postsData = [
     }
   },
   {
-    "id": 18,
+    "id": 17,
     "slug": "black-holes-spinning-near-maximum-rate-could-split-in-two-calculations-suggest",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2190,11 +2075,11 @@ window.postsData = [
       "evidence": 88,
       "relevance": 88,
       "accessibility": 60,
-      "novelty": 52
+      "novelty": 49
     }
   },
   {
-    "id": 19,
+    "id": 18,
     "slug": "supermassive-black-holes-ejected-from-galactic-centers-quasar-survey-supports-decade-old-predict",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2327,7 +2212,7 @@ window.postsData = [
     }
   },
   {
-    "id": 20,
+    "id": 19,
     "slug": "27-exoplanet-targets-for-the-world-s-first-private-space-telescope",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2460,7 +2345,7 @@ window.postsData = [
     }
   },
   {
-    "id": 21,
+    "id": 20,
     "slug": "jwst-reveals-a-lopsided-alien-world-with-blistering-evening-winds",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2588,7 +2473,7 @@ window.postsData = [
     }
   },
   {
-    "id": 22,
+    "id": 21,
     "slug": "a-mineral-from-the-inside-of-planets-reveals-a-surprising-lesson-how-you-push-matters",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2724,7 +2609,7 @@ window.postsData = [
     }
   },
   {
-    "id": 23,
+    "id": 22,
     "slug": "science-begins-for-smile",
     "cat": "Física",
     "catCls": "fisica",
@@ -2857,7 +2742,7 @@ window.postsData = [
     }
   },
   {
-    "id": 24,
+    "id": 23,
     "slug": "advancing-astronomy-at-mit-with-x-ray-reverberation-mapping",
     "cat": "Física",
     "catCls": "fisica",
@@ -2990,95 +2875,82 @@ window.postsData = [
     }
   },
   {
-    "id": 25,
-    "slug": "curtain-like-plasma-structures-explain-solar-jets-apparent-spinning-in-simulations",
+    "id": 24,
+    "slug": "solar-orbiter-tracks-origin-of-mysterious-magnetic-switchbacks",
     "cat": "Física",
     "catCls": "fisica",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/solar-plasma.jpg",
+    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2022/05/solar_orbiter_at_perihelion_27_march_2022/24071526-1-eng-GB/Solar_Orbiter_at_perihelion_27_March_2022_card_full.png",
     "inline_images": [
       {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/solar-plasma.jpg",
-        "caption": "plasma solar",
-        "caption_pt": "plasma solar",
-        "caption_en": "solar plasma",
-        "alt": "plasma solar",
-        "alt_pt": "plasma solar",
-        "alt_en": "solar plasma"
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2022/08/zooming_in_on_a_solar_switchback/24426550-1-eng-GB/Zooming_in_on_a_solar_switchback_article.png",
+        "caption": "O ziguezague detectado pela Solar Orbiter em 2022 (recurso branco-azulado brilhante estendendo-se para a esquerda). A observação confirmou que eles tinham a forma de um S.",
+        "caption_pt": "O ziguezague detectado pela Solar Orbiter em 2022 (recurso branco-azulado brilhante estendendo-se para a esquerda). A observação confirmou que eles tinham a forma de um S.",
+        "caption_en": "The switchback spotted by Solar Orbiter in 2022 (bright blue-white feature extending to the left). The observation confirmed them to be S-shaped.",
+        "alt": "O ziguezague detectado pela Solar Orbiter em 2022 (recurso branco-azulado brilhante estendendo-se para a esquerda). A observação confirmou que eles tinham a forma de um S.",
+        "alt_pt": "O ziguezague detectado pela Solar Orbiter em 2022 (recurso branco-azulado brilhante estendendo-se para a esquerda). A observação confirmou que eles tinham a forma de um S.",
+        "alt_en": "The switchback spotted by Solar Orbiter in 2022 (bright blue-white feature extending to the left). The observation confirmed them to be S-shaped."
       },
       {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/a5155b7e93ee6855.png",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2022/05/solar_orbiter_at_perihelion_27_march_2022/24071526-1-eng-GB/Solar_Orbiter_at_perihelion_27_March_2022_article.png",
+        "caption": "O Sol, fotografado pela Solar Orbiter em 27 de março de 2022. Loops de campo magnético visíveis aproximadamente nas posições 2 horas, 4 horas, 8 horas e 10 horas",
+        "caption_pt": "O Sol, fotografado pela Solar Orbiter em 27 de março de 2022. Loops de campo magnético visíveis aproximadamente nas posições 2 horas, 4 horas, 8 horas e 10 horas",
+        "caption_en": "The Sun, imaged by Solar Orbiter on 27 March 2022. Magnetic field loops visible at roughly the 2 o’clock, 4 o’clock, 8 o’clock and 10 o’clock positions",
+        "alt": "O Sol, fotografado pela Solar Orbiter em 27 de março de 2022. Loops de campo magnético visíveis aproximadamente nas posições 2 horas, 4 horas, 8 horas e 10 horas",
+        "alt_pt": "O Sol, fotografado pela Solar Orbiter em 27 de março de 2022. Loops de campo magnético visíveis aproximadamente nas posições 2 horas, 4 horas, 8 horas e 10 horas",
+        "alt_en": "The Sun, imaged by Solar Orbiter on 27 March 2022. Magnetic field loops visible at roughly the 2 o’clock, 4 o’clock, 8 o’clock and 10 o’clock positions"
       },
       {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/b3013a0f7fc5c4a0.png",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2022/08/how_a_solar_switchback_is_formed/24426640-1-eng-GB/How_a_solar_switchback_is_formed_article.png",
+        "caption": "Infográfico criado depois que a Solar Orbiter confirmou em 2022 que os ziguezagues têm formato de S",
+        "caption_pt": "Infográfico criado depois que a Solar Orbiter confirmou em 2022 que os ziguezagues têm formato de S",
+        "caption_en": "Infographic created after Solar Orbiter confirmed in 2022 that switchbacks are S-shaped",
+        "alt": "Infográfico criado depois que a Solar Orbiter confirmou em 2022 que os ziguezagues têm formato de S",
+        "alt_pt": "Infográfico criado depois que a Solar Orbiter confirmou em 2022 que os ziguezagues têm formato de S",
+        "alt_en": "Infographic created after Solar Orbiter confirmed in 2022 that switchbacks are S-shaped"
       }
     ],
-    "video": {
-      "kind": "file",
-      "platform": "html5",
-      "embedUrl": "",
-      "fileUrl": "https://scx2.b-cdn.net/gfx/video/2026/curtain-like-plasma-st.mp4",
-      "poster": "https://scx1.b-cdn.net/gfx/video_tmb/2026/curtain-like-plasma-st.mp4.jpg",
-      "title": "",
-      "title_pt": "",
-      "title_en": "",
-      "caption": "",
-      "caption_pt": "",
-      "caption_en": "",
-      "sourcePage": "https://phys.org/news/2026-10-curtain-plasma-solar-jets-apparent.html"
-    },
+    "video": null,
     "audio": null,
-    "title": "Estruturas de plasma semelhantes a cortinas explicam a aparente rotação dos jatos solares em simulações",
-    "title_pt": "Estruturas de plasma semelhantes a cortinas explicam a aparente rotação dos jatos solares em simulações",
-    "title_en": "Curtain-like plasma structures explain solar jets' apparent spinning in simulations",
-    "sub": "Uma equipe internacional de cientistas da Universidade de Sheffield e do Instituto Indiano de Astrofísica, liderada por um pesquisador de pós-doutorado da Universidade de.",
-    "sub_pt": "Uma equipe internacional de cientistas da Universidade de Sheffield e do Instituto Indiano de Astrofísica, liderada por um pesquisador de pós-doutorado da Universidade de.",
-    "sub_en": "An international team of scientists from the University of Sheffield and the Indian Institute of Astrophysics, led by a postdoctoral research fellow from the University of.",
-    "excerpt": "Uma equipe internacional de cientistas da Universidade de Sheffield e do Instituto Indiano de Astrofísica, liderada por um pesquisador de pós-doutorado da Universidade de Newcastle, na Austrália, descobriu que os jatos solares chamavam.",
-    "excerpt_pt": "Uma equipe internacional de cientistas da Universidade de Sheffield e do Instituto Indiano de Astrofísica, liderada por um pesquisador de pós-doutorado da Universidade de Newcastle, na Austrália, descobriu que os jatos solares chamavam.",
-    "excerpt_en": "An international team of scientists from the University of Sheffield and the Indian Institute of Astrophysics, led by a postdoctoral research fellow from the University of Newcastle, Australia, has discovered that solar jets called.",
-    "body": "<p>Uma equipe internacional de cientistas da Universidade de Sheffield e do Instituto Indiano de Astrofísica, liderada por um pesquisador de pós-doutorado da Universidade de Newcastle, na Austrália, descobriu que os jatos solares chamavam. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. A Austrália descobriu que os jatos solares chamados espículas, que têm de 6 a 8 mm de comprimento, assumem a forma de folhas de plasma mais densas e deformadas, como cortinas.</p><p>A principal descoberta é que centenas de colunas de plasma em espiral, com diâmetros que chegam a centenas de km, formam-se juntamente com as espículas na atmosfera solar. Os autores cunharam o termo conduítes de turbilhão coronal (CoSCos) para essas estruturas rotativas, que muitas vezes se estendem até a coroa solar e conectam múltiplas regiões da.</p><p>Acredita-se que os redemoinhos cheguem a milhares ou mesmo milhões na atmosfera solar a qualquer momento.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-10-curtain-plasma-solar-jets-apparent.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Uma equipe internacional de cientistas da Universidade de Sheffield e do Instituto Indiano de Astrofísica, liderada por um pesquisador de pós-doutorado da Universidade de Newcastle, na Austrália, descobriu que os jatos solares chamavam. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Este artigo foi revisado de acordo com o processo editorial e as políticas da Science X. A Austrália descobriu que os jatos solares chamados espículas, que têm de 6 a 8 mm de comprimento, assumem a forma de folhas de plasma mais densas e deformadas, como cortinas.</p><p>A principal descoberta é que centenas de colunas de plasma em espiral, com diâmetros que chegam a centenas de km, formam-se juntamente com as espículas na atmosfera solar. Os autores cunharam o termo conduítes de turbilhão coronal (CoSCos) para essas estruturas rotativas, que muitas vezes se estendem até a coroa solar e conectam múltiplas regiões da.</p><p>Acredita-se que os redemoinhos cheguem a milhares ou mesmo milhões na atmosfera solar a qualquer momento.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-10-curtain-plasma-solar-jets-apparent.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>An international team of scientists from the University of Sheffield and the Indian Institute of Astrophysics, led by a postdoctoral research fellow from the University of Newcastle, Australia, has discovered that solar jets called. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. This article has been reviewed according to Science X&#x27;s editorial process and policies. Australia, has discovered that solar jets called spicules, which are 6, 8 Mm long, take the form of warped, denser plasma sheets like pleated drapery.</p><p>The major finding is that hundreds of spiraling plasma columns, with diameters reaching hundreds of km, form along with the spicules in the solar atmosphere, exhibiting dynamics. The authors coined the term coronal swirling conduits (CoSCos) for these rotating structures, which often extend into the solar corona and connect multiple regions of the solar.</p><p>The swirls are thought to number many thousands or even millions in the solar atmosphere at any moment. High-performance computing facility Dial/CSD3, to explain the spinning clusters of spicules, providing new insights into their structure and dynamics.</p><p>Solar Physics and Space Plasma Research Centre (SP2RC), School of Mathematical and Physical Sciences (MPS), The University of Sheffield) said, &quot;These rotating motions are. Our work has shown, for the first time, theoretical evidence of how these ubiquitous swirls in the solar atmosphere could generate a bunch of magnetic plasma waves that drive.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>We believe these Britain-sized coronal swirling magnetic plasma conduits are also very promising candidates not just for energy but also for mass transportation between the lower. Our future research with my colleagues at SP2RC will now focus on this new puzzle.&quot; Sahel Dey et al, Solar Spicule Rotation Driven by Plasma Curtain, Vortex Interactions, The.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-10-curtain-plasma-solar-jets-apparent.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "title": "Solar Orbiter rastreia origem de misteriosos ziguezagues magnéticos",
+    "title_pt": "Solar Orbiter rastreia origem de misteriosos ziguezagues magnéticos",
+    "title_en": "Solar Orbiter tracks origin of mysterious magnetic switchbacks",
+    "sub": "A sonda Solar Orbiter, liderada pela Agência Espacial Europeia, voou através de uma torção em forma de S conhecida como “retrocesso” no campo magnético do vento solar. Ao capturar.",
+    "sub_pt": "A sonda Solar Orbiter, liderada pela Agência Espacial Europeia, voou através de uma torção em forma de S conhecida como “retrocesso” no campo magnético do vento solar. Ao capturar.",
+    "sub_en": "The European Space Agency-led Solar Orbiter spacecraft has flown through an S-shaped kink known as a ‘switchback’ in the solar wind’s magnetic field. By fingerprinting the elusive.",
+    "excerpt": "A sonda Solar Orbiter, liderada pela Agência Espacial Europeia, voou através de uma torção em forma de S conhecida como “retrocesso” no campo magnético do vento solar. Ao capturar as impressões digitais das partículas indescritíveis dentro do ziguezague, o.",
+    "excerpt_pt": "A sonda Solar Orbiter, liderada pela Agência Espacial Europeia, voou através de uma torção em forma de S conhecida como “retrocesso” no campo magnético do vento solar. Ao capturar as impressões digitais das partículas indescritíveis dentro do ziguezague, o.",
+    "excerpt_en": "The European Space Agency-led Solar Orbiter spacecraft has flown through an S-shaped kink known as a ‘switchback’ in the solar wind’s magnetic field. By fingerprinting the elusive particles within the switchback, Solar Orbiter has traced.",
+    "body": "<p>A sonda Solar Orbiter, liderada pela Agência Espacial Europeia, voou através de uma torção em forma de S conhecida como “retrocesso” no campo magnético do vento solar. Ao capturar as impressões digitais das partículas indescritíveis dentro do ziguezague, o Solar Orbiter rastreou. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Em 2022, a ESA informou que a Solar Orbiter detectou uma torção no campo magnético do vento solar conhecida como ‘switchback’. “A Solar Orbiter voou através de um grande ziguezague”, diz Jesse Coburn do CNRS/LPP, França, autor principal do novo artigo.</p><p>Na época, o Solar Orbiter estava aproximadamente a meio caminho entre a Terra e o Sol. “A mistura específica de partículas detectada pela Solar Orbiter é a arma fumegante para um processo de formação conhecido como ‘reconexão de intercâmbio’.” Este tipo de reconexão.</p><p>Na atmosfera do Sol, as regiões abertas têm linhas de campo que se estendem como autoestradas, permitindo que o material se mova ao longo delas para o espaço. Eles criaram um novo modelo para identificar de onde veio o plasma.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A sonda Solar Orbiter, liderada pela Agência Espacial Europeia, voou através de uma torção em forma de S conhecida como “retrocesso” no campo magnético do vento solar. Ao capturar as impressões digitais das partículas indescritíveis dentro do ziguezague, o Solar Orbiter rastreou. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Em 2022, a ESA informou que a Solar Orbiter detectou uma torção no campo magnético do vento solar conhecida como ‘switchback’. “A Solar Orbiter voou através de um grande ziguezague”, diz Jesse Coburn do CNRS/LPP, França, autor principal do novo artigo.</p><p>Na época, o Solar Orbiter estava aproximadamente a meio caminho entre a Terra e o Sol. “A mistura específica de partículas detectada pela Solar Orbiter é a arma fumegante para um processo de formação conhecido como ‘reconexão de intercâmbio’.” Este tipo de reconexão.</p><p>Na atmosfera do Sol, as regiões abertas têm linhas de campo que se estendem como autoestradas, permitindo que o material se mova ao longo delas para o espaço. Eles criaram um novo modelo para identificar de onde veio o plasma.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The European Space Agency-led Solar Orbiter spacecraft has flown through an S-shaped kink known as a ‘switchback’ in the solar wind’s magnetic field. By fingerprinting the elusive particles within the switchback, Solar Orbiter has traced. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. Back in 2022, ESA reported that Solar Orbiter had spotted a kink in the solar wind’s magnetic field known as a ‘switchback’. “Solar Orbiter flew through a very large switchback,” says Jesse Coburn of CNRS/LPP, France, lead author of the new paper.</p><p>At the time, Solar Orbiter was roughly halfway between Earth and the Sun. “The specific mix of particles detected by Solar Orbiter is the smoking gun for a formation process known as &#x27;interchange reconnection’.” This kind of reconnection takes place.</p><p>In the Sun’s atmosphere, open regions have field lines that stretch away like highways, allowing material to zoom along them into space. They created a new model to identify where the plasma came from.</p><p>This model connected the measurements from Solar Orbiter to data from NASA’s Solar Dynamics Observatory to reveal the switchback’s solar source in unprecedented detail. Looking beyond switchbacks, the finding reveals how the Sun heats its atmosphere and accelerates solar wind particles into space.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>Furthermore, it shows that the Sun’s atmosphere imprints its signature onto the particles making up this wind, giving us a possible way to read the history of solar plasma even. “As humans on Earth, and in space, our lives are entangled with what’s happening on our star.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Ponto central: Uma equipe internacional de cientistas da Universidade de Sheffield e do Instituto Indiano de Astrofísica, liderada por um pesquisador de.",
-      "Dado-chave: Uma equipe internacional de cientistas da Universidade de Sheffield e do Instituto Indiano de Astrofísica, liderada por um pesquisador de.",
+      "Ponto central: A sonda Solar Orbiter, liderada pela Agência Espacial Europeia, voou através de uma torção em forma de S conhecida como “retrocesso” no campo.",
+      "Dado-chave: Em 2022, a ESA informou que a Solar Orbiter detectou uma torção no campo magnético do vento solar conhecida como ‘switchback’.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Ponto central: Uma equipe internacional de cientistas da Universidade de Sheffield e do Instituto Indiano de Astrofísica, liderada por um pesquisador de.",
-      "Dado-chave: Uma equipe internacional de cientistas da Universidade de Sheffield e do Instituto Indiano de Astrofísica, liderada por um pesquisador de.",
+      "Ponto central: A sonda Solar Orbiter, liderada pela Agência Espacial Europeia, voou através de uma torção em forma de S conhecida como “retrocesso” no campo.",
+      "Dado-chave: Em 2022, a ESA informou que a Solar Orbiter detectou uma torção no campo magnético do vento solar conhecida como ‘switchback’.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Core point: An international team of scientists from the University of Sheffield and the Indian Institute of Astrophysics, led by a postdoctoral research fellow.",
-      "Key detail: An international team of scientists from the University of Sheffield and the Indian Institute of Astrophysics, led by a postdoctoral research.",
+      "Core point: The European Space Agency-led Solar Orbiter spacecraft has flown through an S-shaped kink known as a ‘switchback’ in the solar wind’s magnetic field.",
+      "Key detail: Back in 2022, ESA reported that Solar Orbiter had spotted a kink in the solar wind’s magnetic field known as a ‘switchback’.",
       "Institutional origin: separate announcement from evidence."
     ],
-    "date": "22 out 2026",
-    "date_pt": "22 out 2026",
-    "date_en": "22 Oct 2026",
-    "time": "14h20",
-    "time_pt": "14h20",
-    "time_en": "14:20 UTC",
+    "date": "08 out 2026",
+    "date_pt": "08 out 2026",
+    "date_en": "08 Oct 2026",
+    "time": "09h00",
+    "time_pt": "09h00",
+    "time_en": "09:00 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-10-22T14:20:06+00:00",
-    "lastModifiedIso": "2026-10-22T14:20:06+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
+    "publishedIso": "2026-10-08T09:00:00+00:00",
+    "lastModifiedIso": "2026-10-08T09:00:00+00:00",
+    "source": "ESA Space Science",
+    "sourceDomain": "www.esa.int",
     "sourceType": "agency",
     "sourceTypeLabel": "Fonte institucional",
     "sourceTypeLabel_pt": "Fonte institucional",
@@ -3096,26 +2968,26 @@ window.postsData = [
     "editorialBandLabel_en": "Editorial priority",
     "keywords": [
       "Física",
-      "Phys.org Space",
+      "ESA Space Science",
       "Cosmos Week",
-      "Estruturas de plasma semelhantes a cortinas explicam a aparente rotação dos jatos solares em simulações"
+      "Solar Orbiter rastreia origem de misteriosos ziguezagues magnéticos"
     ],
     "keywords_pt": [
       "Física",
-      "Phys.org Space",
+      "ESA Space Science",
       "Cosmos Week",
-      "Estruturas de plasma semelhantes a cortinas explicam a aparente rotação dos jatos solares em simulações"
+      "Solar Orbiter rastreia origem de misteriosos ziguezagues magnéticos"
     ],
     "keywords_en": [
       "Physical",
-      "Phys.org Space",
+      "ESA Space Science",
       "Cosmos Week",
-      "Curtain-like plasma structures explain apparent rotation of solar jets in simulations"
+      "Solar Orbiter tracks origin of mysterious magnetic zigzags"
     ],
-    "srcUrl": "https://phys.org/news/2026-10-curtain-plasma-solar-jets-apparent.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=curtain-like-plasma-structures-explain-solar-jets-apparent-spinning-in-simulations",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=curtain-like-plasma-structures-explain-solar-jets-apparent-spinning-in-simulations",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=curtain-like-plasma-structures-explain-solar-jets-apparent-spinning-in-simulations&lang=en",
+    "srcUrl": "https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=solar-orbiter-tracks-origin-of-mysterious-magnetic-switchbacks",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=solar-orbiter-tracks-origin-of-mysterious-magnetic-switchbacks",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=solar-orbiter-tracks-origin-of-mysterious-magnetic-switchbacks&lang=en",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",
@@ -3126,13 +2998,149 @@ window.postsData = [
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 74,
+    "score": 73,
     "scoreBreakdown": {
-      "source": 76,
-      "evidence": 82,
-      "relevance": 82,
+      "source": 90,
+      "evidence": 88,
+      "relevance": 64,
       "accessibility": 60,
-      "novelty": 49
+      "novelty": 46
+    }
+  },
+  {
+    "id": 25,
+    "slug": "science-release-hubble-unexpectedly-catches-comet-breaking-up",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://cdn.esahubble.org/archives/images/screen/heic2606a.jpg",
+    "inline_images": [
+      {
+        "src": "https://cdn.esahubble.org/archives/images/newsfeature/heic2606a.jpg",
+        "caption": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
+        "caption_pt": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
+        "caption_en": "Comet C/2025 K1 (ATLAS): November 2025",
+        "alt": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
+        "alt_pt": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
+        "alt_en": "Comet C/2025 K1 (ATLAS): November 2025"
+      },
+      {
+        "src": "https://cdn.esahubble.org/archives/images/news/heic2606a.jpg",
+        "caption": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
+        "caption_pt": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
+        "caption_en": "Comet C/2025 K1 (ATLAS): November 2025",
+        "alt": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
+        "alt_pt": "Cometa C/2025 K1 (ATLAS): novembro de 2025",
+        "alt_en": "Comet C/2025 K1 (ATLAS): November 2025"
+      },
+      {
+        "src": "https://cdn.esahubble.org/archives/images/news/heic2606b.jpg",
+        "caption": "Cometa C/2025 K1 (ATLAS): novembro de 2025 (anotado)",
+        "caption_pt": "Cometa C/2025 K1 (ATLAS): novembro de 2025 (anotado)",
+        "caption_en": "Comet C/2025 K1 (ATLAS): November 2025 (annotated)",
+        "alt": "Cometa C/2025 K1 (ATLAS): novembro de 2025 (anotado)",
+        "alt_pt": "Cometa C/2025 K1 (ATLAS): novembro de 2025 (anotado)",
+        "alt_en": "Comet C/2025 K1 (ATLAS): November 2025 (annotated)"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Divulgação Científica: Hubble inesperadamente captura cometa se rompendo",
+    "title_pt": "Divulgação Científica: Hubble inesperadamente captura cometa se rompendo",
+    "title_en": "Science Release: Hubble unexpectedly catches comet breaking up",
+    "sub": "O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias.",
+    "sub_pt": "O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias.",
+    "sub_en": "Comet K1, whose full name is Comet C/2025 K1, had just passed its closest approach to the Sun and was heading out of the Solar System. Though it had been intact just days before.",
+    "excerpt": "O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias antes, o K1 se fragmentou em pelo menos quatro pedaços enquanto a NASA/ESA.",
+    "excerpt_pt": "O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias antes, o K1 se fragmentou em pelo menos quatro pedaços enquanto a NASA/ESA.",
+    "excerpt_en": "Comet K1, whose full name is Comet C/2025 K1, had just passed its closest approach to the Sun and was heading out of the Solar System. Though it had been intact just days before, K1 fragmented into at least four pieces while the NASA/ESA.",
+    "body": "<p>O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias antes, o K1 se fragmentou em pelo menos quatro pedaços enquanto a NASA/ESA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Embora estivesse intacto poucos dias antes, o K1 fragmentou-se em pelo menos quatro pedaços enquanto o Telescópio Espacial Hubble da NASA/ESA observava. O cometa K1, cujo nome completo é Cometa C/2025 K1 (ATLAS), não deve ser confundido com o cometa interestelar 3I/ATLAS, não foi o alvo original de um estudo recente do Hubble.</p><p>Tivemos que encontrar um novo alvo, e logo quando o observamos, ele se quebrou, o que é a menor das mínimas chances.” Noonan não sabia que o K1 estava se fragmentando até ver as. “Então sabíamos que isso era algo muito, muito especial.” Este é um experimento que os pesquisadores sempre quiseram fazer com o Hubble.</p><p>As imagens do Hubble foram tiradas apenas um mês após a maior aproximação do K1 ao Sol, chamada periélio. O periélio do cometa estava dentro da órbita de Mercúrio, cerca de um terço da distância da Terra ao Sol.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2606/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias antes, o K1 se fragmentou em pelo menos quatro pedaços enquanto a NASA/ESA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Embora estivesse intacto poucos dias antes, o K1 fragmentou-se em pelo menos quatro pedaços enquanto o Telescópio Espacial Hubble da NASA/ESA observava. O cometa K1, cujo nome completo é Cometa C/2025 K1 (ATLAS), não deve ser confundido com o cometa interestelar 3I/ATLAS, não foi o alvo original de um estudo recente do Hubble.</p><p>Tivemos que encontrar um novo alvo, e logo quando o observamos, ele se quebrou, o que é a menor das mínimas chances.” Noonan não sabia que o K1 estava se fragmentando até ver as. “Então sabíamos que isso era algo muito, muito especial.” Este é um experimento que os pesquisadores sempre quiseram fazer com o Hubble.</p><p>As imagens do Hubble foram tiradas apenas um mês após a maior aproximação do K1 ao Sol, chamada periélio. O periélio do cometa estava dentro da órbita de Mercúrio, cerca de um terço da distância da Terra ao Sol.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2606/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Comet K1, whose full name is Comet C/2025 K1, had just passed its closest approach to the Sun and was heading out of the Solar System. Though it had been intact just days before, K1 fragmented into at least four pieces while the NASA/ESA. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Though it had been intact just days before, K1 fragmented into at least four pieces while the NASA/ESA Hubble Space Telescope was watching. Comet K1, whose full name is Comet C/2025 K1 (ATLAS), not to be confused with interstellar comet 3I/ATLAS, was not the original target of a recent Hubble study.</p><p>We had to find a new target, and right when we observed it, it happened to break apart, which is the slimmest of slim chances.” Noonan didn’t know K1 was fragmenting until he. “So we knew this was something really, really special.” This is an experiment the researchers always wanted to do with Hubble.</p><p>Hubble’s images were taken just a month after K1’s closest approach to the Sun, called perihelion. The comet&#x27;s perihelion was inside Mercury’s orbit, about one-third the distance of the Earth from the Sun.</p><p>Hubble took three 20-second images, one on each day from 8 November through 10 November 2025. Already, ground-based analysis shows that K1 is chemically very strange, it is significantly depleted in carbon, compared with other comets.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Spectroscopic analysis from Hubble’s STIS ( Space Telescope Imaging Spectrograph ) and COS ( Cosmic Origins Spectrograph ) instruments is likely to reveal much more about the. The comet K1 is now a collection of fragments about 400 million kilometers from Earth.</p><p>Because the account originates with ESA Hubble News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2606/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora.",
+      "Dado-chave: Embora estivesse intacto poucos dias antes, o K1 fragmentou-se em pelo menos quatro pedaços enquanto o Telescópio Espacial Hubble da NASA/ESA.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora.",
+      "Dado-chave: Embora estivesse intacto poucos dias antes, o K1 fragmentou-se em pelo menos quatro pedaços enquanto o Telescópio Espacial Hubble da NASA/ESA.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Comet K1, whose full name is Comet C/2025 K1, had just passed its closest approach to the Sun and was heading out of the Solar System. Though it had.",
+      "Key detail: Though it had been intact just days before, K1 fragmented into at least four pieces while the NASA/ESA Hubble Space Telescope was watching.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "18 mar 2026",
+    "date_pt": "18 mar 2026",
+    "date_en": "18 Mar 2026",
+    "time": "14h00",
+    "time_pt": "14h00",
+    "time_en": "14:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-03-18T14:00:00+00:00",
+    "lastModifiedIso": "2026-03-18T14:00:00+00:00",
+    "source": "ESA Hubble News",
+    "sourceDomain": "esahubble.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astronomia",
+      "ESA Hubble News",
+      "Cosmos Week",
+      "Divulgação Científica",
+      "Hubble inesperadamente captura cometa se rompendo"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "ESA Hubble News",
+      "Cosmos Week",
+      "Divulgação Científica",
+      "Hubble inesperadamente captura cometa se rompendo"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "ESA Hubble News",
+      "Cosmos Week",
+      "Scientific Dissemination",
+      "Hubble unexpectedly captures comet breaking up"
+    ],
+    "srcUrl": "https://esahubble.org/news/heic2606/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-unexpectedly-catches-comet-breaking-up",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-unexpectedly-catches-comet-breaking-up",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-unexpectedly-catches-comet-breaking-up&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 79,
+    "scoreBreakdown": {
+      "source": 89,
+      "evidence": 88,
+      "relevance": 88,
+      "accessibility": 60,
+      "novelty": 46
     }
   },
   {
@@ -3383,7 +3391,7 @@ window.postsData = [
       "evidence": 88,
       "relevance": 80,
       "accessibility": 60,
-      "novelty": 52
+      "novelty": 49
     }
   },
   {
@@ -4160,139 +4168,6 @@ window.postsData = [
   },
   {
     "id": 34,
-    "slug": "solar-orbiter-tracks-origin-of-mysterious-magnetic-switchbacks",
-    "cat": "Física",
-    "catCls": "fisica",
-    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2022/05/solar_orbiter_at_perihelion_27_march_2022/24071526-1-eng-GB/Solar_Orbiter_at_perihelion_27_March_2022_card_full.png",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2022/08/zooming_in_on_a_solar_switchback/24426550-1-eng-GB/Zooming_in_on_a_solar_switchback_article.png",
-        "caption": "O ziguezague detectado pela Solar Orbiter em 2022 (recurso branco-azulado brilhante estendendo-se para a esquerda). A observação confirmou que eles tinham a forma de um S.",
-        "caption_pt": "O ziguezague detectado pela Solar Orbiter em 2022 (recurso branco-azulado brilhante estendendo-se para a esquerda). A observação confirmou que eles tinham a forma de um S.",
-        "caption_en": "The switchback spotted by Solar Orbiter in 2022 (bright blue-white feature extending to the left). The observation confirmed them to be S-shaped.",
-        "alt": "O ziguezague detectado pela Solar Orbiter em 2022 (recurso branco-azulado brilhante estendendo-se para a esquerda). A observação confirmou que eles tinham a forma de um S.",
-        "alt_pt": "O ziguezague detectado pela Solar Orbiter em 2022 (recurso branco-azulado brilhante estendendo-se para a esquerda). A observação confirmou que eles tinham a forma de um S.",
-        "alt_en": "The switchback spotted by Solar Orbiter in 2022 (bright blue-white feature extending to the left). The observation confirmed them to be S-shaped."
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2022/05/solar_orbiter_at_perihelion_27_march_2022/24071526-1-eng-GB/Solar_Orbiter_at_perihelion_27_March_2022_article.png",
-        "caption": "O Sol, fotografado pela Solar Orbiter em 27 de março de 2022. Loops de campo magnético visíveis aproximadamente nas posições 2 horas, 4 horas, 8 horas e 10 horas",
-        "caption_pt": "O Sol, fotografado pela Solar Orbiter em 27 de março de 2022. Loops de campo magnético visíveis aproximadamente nas posições 2 horas, 4 horas, 8 horas e 10 horas",
-        "caption_en": "The Sun, imaged by Solar Orbiter on 27 March 2022. Magnetic field loops visible at roughly the 2 o’clock, 4 o’clock, 8 o’clock and 10 o’clock positions",
-        "alt": "O Sol, fotografado pela Solar Orbiter em 27 de março de 2022. Loops de campo magnético visíveis aproximadamente nas posições 2 horas, 4 horas, 8 horas e 10 horas",
-        "alt_pt": "O Sol, fotografado pela Solar Orbiter em 27 de março de 2022. Loops de campo magnético visíveis aproximadamente nas posições 2 horas, 4 horas, 8 horas e 10 horas",
-        "alt_en": "The Sun, imaged by Solar Orbiter on 27 March 2022. Magnetic field loops visible at roughly the 2 o’clock, 4 o’clock, 8 o’clock and 10 o’clock positions"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2022/08/how_a_solar_switchback_is_formed/24426640-1-eng-GB/How_a_solar_switchback_is_formed_article.png",
-        "caption": "Infográfico criado depois que a Solar Orbiter confirmou em 2022 que os ziguezagues têm formato de S",
-        "caption_pt": "Infográfico criado depois que a Solar Orbiter confirmou em 2022 que os ziguezagues têm formato de S",
-        "caption_en": "Infographic created after Solar Orbiter confirmed in 2022 that switchbacks are S-shaped",
-        "alt": "Infográfico criado depois que a Solar Orbiter confirmou em 2022 que os ziguezagues têm formato de S",
-        "alt_pt": "Infográfico criado depois que a Solar Orbiter confirmou em 2022 que os ziguezagues têm formato de S",
-        "alt_en": "Infographic created after Solar Orbiter confirmed in 2022 that switchbacks are S-shaped"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Solar Orbiter rastreia origem de misteriosos ziguezagues magnéticos",
-    "title_pt": "Solar Orbiter rastreia origem de misteriosos ziguezagues magnéticos",
-    "title_en": "Solar Orbiter tracks origin of mysterious magnetic switchbacks",
-    "sub": "A sonda Solar Orbiter, liderada pela Agência Espacial Europeia, voou através de uma torção em forma de S conhecida como “retrocesso” no campo magnético do vento solar. Ao capturar.",
-    "sub_pt": "A sonda Solar Orbiter, liderada pela Agência Espacial Europeia, voou através de uma torção em forma de S conhecida como “retrocesso” no campo magnético do vento solar. Ao capturar.",
-    "sub_en": "The European Space Agency-led Solar Orbiter spacecraft has flown through an S-shaped kink known as a ‘switchback’ in the solar wind’s magnetic field. By fingerprinting the elusive.",
-    "excerpt": "A sonda Solar Orbiter, liderada pela Agência Espacial Europeia, voou através de uma torção em forma de S conhecida como “retrocesso” no campo magnético do vento solar. Ao capturar as impressões digitais das partículas indescritíveis dentro do ziguezague, o.",
-    "excerpt_pt": "A sonda Solar Orbiter, liderada pela Agência Espacial Europeia, voou através de uma torção em forma de S conhecida como “retrocesso” no campo magnético do vento solar. Ao capturar as impressões digitais das partículas indescritíveis dentro do ziguezague, o.",
-    "excerpt_en": "The European Space Agency-led Solar Orbiter spacecraft has flown through an S-shaped kink known as a ‘switchback’ in the solar wind’s magnetic field. By fingerprinting the elusive particles within the switchback, Solar Orbiter has traced.",
-    "body": "<p>A sonda Solar Orbiter, liderada pela Agência Espacial Europeia, voou através de uma torção em forma de S conhecida como “retrocesso” no campo magnético do vento solar. Ao capturar as impressões digitais das partículas indescritíveis dentro do ziguezague, o Solar Orbiter rastreou. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Em 2022, a ESA informou que a Solar Orbiter detectou uma torção no campo magnético do vento solar conhecida como ‘switchback’. “A Solar Orbiter voou através de um grande ziguezague”, diz Jesse Coburn do CNRS/LPP, França, autor principal do novo artigo.</p><p>Na época, o Solar Orbiter estava aproximadamente a meio caminho entre a Terra e o Sol. “A mistura específica de partículas detectada pela Solar Orbiter é a arma fumegante para um processo de formação conhecido como ‘reconexão de intercâmbio’.” Este tipo de reconexão.</p><p>Na atmosfera do Sol, as regiões abertas têm linhas de campo que se estendem como autoestradas, permitindo que o material se mova ao longo delas para o espaço. Eles criaram um novo modelo para identificar de onde veio o plasma.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A sonda Solar Orbiter, liderada pela Agência Espacial Europeia, voou através de uma torção em forma de S conhecida como “retrocesso” no campo magnético do vento solar. Ao capturar as impressões digitais das partículas indescritíveis dentro do ziguezague, o Solar Orbiter rastreou. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Em 2022, a ESA informou que a Solar Orbiter detectou uma torção no campo magnético do vento solar conhecida como ‘switchback’. “A Solar Orbiter voou através de um grande ziguezague”, diz Jesse Coburn do CNRS/LPP, França, autor principal do novo artigo.</p><p>Na época, o Solar Orbiter estava aproximadamente a meio caminho entre a Terra e o Sol. “A mistura específica de partículas detectada pela Solar Orbiter é a arma fumegante para um processo de formação conhecido como ‘reconexão de intercâmbio’.” Este tipo de reconexão.</p><p>Na atmosfera do Sol, as regiões abertas têm linhas de campo que se estendem como autoestradas, permitindo que o material se mova ao longo delas para o espaço. Eles criaram um novo modelo para identificar de onde veio o plasma.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The European Space Agency-led Solar Orbiter spacecraft has flown through an S-shaped kink known as a ‘switchback’ in the solar wind’s magnetic field. By fingerprinting the elusive particles within the switchback, Solar Orbiter has traced. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. Back in 2022, ESA reported that Solar Orbiter had spotted a kink in the solar wind’s magnetic field known as a ‘switchback’. “Solar Orbiter flew through a very large switchback,” says Jesse Coburn of CNRS/LPP, France, lead author of the new paper.</p><p>At the time, Solar Orbiter was roughly halfway between Earth and the Sun. “The specific mix of particles detected by Solar Orbiter is the smoking gun for a formation process known as &#x27;interchange reconnection’.” This kind of reconnection takes place.</p><p>In the Sun’s atmosphere, open regions have field lines that stretch away like highways, allowing material to zoom along them into space. They created a new model to identify where the plasma came from.</p><p>This model connected the measurements from Solar Orbiter to data from NASA’s Solar Dynamics Observatory to reveal the switchback’s solar source in unprecedented detail. Looking beyond switchbacks, the finding reveals how the Sun heats its atmosphere and accelerates solar wind particles into space.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>Furthermore, it shows that the Sun’s atmosphere imprints its signature onto the particles making up this wind, giving us a possible way to read the history of solar plasma even. “As humans on Earth, and in space, our lives are entangled with what’s happening on our star.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: A sonda Solar Orbiter, liderada pela Agência Espacial Europeia, voou através de uma torção em forma de S conhecida como “retrocesso” no campo.",
-      "Dado-chave: Em 2022, a ESA informou que a Solar Orbiter detectou uma torção no campo magnético do vento solar conhecida como ‘switchback’.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: A sonda Solar Orbiter, liderada pela Agência Espacial Europeia, voou através de uma torção em forma de S conhecida como “retrocesso” no campo.",
-      "Dado-chave: Em 2022, a ESA informou que a Solar Orbiter detectou uma torção no campo magnético do vento solar conhecida como ‘switchback’.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: The European Space Agency-led Solar Orbiter spacecraft has flown through an S-shaped kink known as a ‘switchback’ in the solar wind’s magnetic field.",
-      "Key detail: Back in 2022, ESA reported that Solar Orbiter had spotted a kink in the solar wind’s magnetic field known as a ‘switchback’.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "08 out 2026",
-    "date_pt": "08 out 2026",
-    "date_en": "08 Oct 2026",
-    "time": "09h00",
-    "time_pt": "09h00",
-    "time_en": "09:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-10-08T09:00:00+00:00",
-    "lastModifiedIso": "2026-10-08T09:00:00+00:00",
-    "source": "ESA Space Science",
-    "sourceDomain": "www.esa.int",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Física",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Solar Orbiter rastreia origem de misteriosos ziguezagues magnéticos"
-    ],
-    "keywords_pt": [
-      "Física",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Solar Orbiter rastreia origem de misteriosos ziguezagues magnéticos"
-    ],
-    "keywords_en": [
-      "Physical",
-      "ESA Space Science",
-      "Cosmos Week",
-      "Solar Orbiter tracks origin of mysterious magnetic zigzags"
-    ],
-    "srcUrl": "https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=solar-orbiter-tracks-origin-of-mysterious-magnetic-switchbacks",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=solar-orbiter-tracks-origin-of-mysterious-magnetic-switchbacks",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=solar-orbiter-tracks-origin-of-mysterious-magnetic-switchbacks&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 73,
-    "scoreBreakdown": {
-      "source": 90,
-      "evidence": 88,
-      "relevance": 64,
-      "accessibility": 60,
-      "novelty": 46
-    }
-  },
-  {
-    "id": 35,
     "slug": "mars-s-oddest-cloud-may-be-even-odder-than-we-thought",
     "cat": "Física",
     "catCls": "fisica",
@@ -4422,6 +4297,121 @@ window.postsData = [
       "relevance": 64,
       "accessibility": 60,
       "novelty": 46
+    }
+  },
+  {
+    "id": 35,
+    "slug": "olbers-paradox-asks-why-is-the-night-sky-dark",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/x.svg",
+    "inline_images": [
+      {
+        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "O paradoxo de Olbers pergunta ‘Por que o céu noturno está escuro?’",
+    "title_pt": "O paradoxo de Olbers pergunta ‘Por que o céu noturno está escuro?’",
+    "title_en": "Olbers’ paradox asks ‘Why is the night sky dark?’",
+    "sub": "O paradoxo de Olbers pergunta por que o espaço é escuro se o universo está cheio de estrelas. A resposta tem a ver com viagens leves e cores que mudam para o vermelho. O paradoxo.",
+    "sub_pt": "O paradoxo de Olbers pergunta por que o espaço é escuro se o universo está cheio de estrelas. A resposta tem a ver com viagens leves e cores que mudam para o vermelho. O paradoxo.",
+    "sub_en": "Olbers' paradox asks why is space dark if the universe is filled with stars. The answer has to do with traveling light and red-shifting colors. The post Olbers’ paradox asks ‘Why.",
+    "excerpt": "O paradoxo de Olbers pergunta por que o espaço é escuro se o universo está cheio de estrelas. A resposta tem a ver com viagens leves e cores que mudam para o vermelho. O paradoxo pós-Olbers pergunta ‘Por que o céu noturno está escuro?’ apareceu pela primeira.",
+    "excerpt_pt": "O paradoxo de Olbers pergunta por que o espaço é escuro se o universo está cheio de estrelas. A resposta tem a ver com viagens leves e cores que mudam para o vermelho. O paradoxo pós-Olbers pergunta ‘Por que o céu noturno está escuro?’ apareceu pela primeira.",
+    "excerpt_en": "Olbers' paradox asks why is space dark if the universe is filled with stars. The answer has to do with traveling light and red-shifting colors. The post Olbers’ paradox asks ‘Why is the night sky dark?’ first appeared on EarthSky.",
+    "body": "<p>O paradoxo de Olbers pergunta por que o espaço é escuro se o universo está cheio de estrelas. A resposta tem a ver com viagens leves e cores que mudam para o vermelho. O paradoxo pós-Olbers pergunta ‘Por que o céu noturno está escuro?’ apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Brian Jackson, notícias científicas da Boise State University, eventos noturnos e belas fotos, tudo em um só lugar. Os astrônomos estimam que existam cerca de 200 bilhões de trilhões de estrelas no universo observável.</p><p>Você pode imaginar que é porque muitas estrelas do universo estão muito longe da Terra. Uma estrela 10 vezes mais distante parece 100 vezes mais fraca.</p><p>Imagine uma bolha. Imagine, por um momento, que o universo é tão antigo que a luz, mesmo das estrelas mais distantes, teve tempo de chegar à Terra. Imagine uma grande bolha com a Terra no centro.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/astronomy-essentials/olbers-paradox-asks-why-is-the-night-sky-dark/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>O paradoxo de Olbers pergunta por que o espaço é escuro se o universo está cheio de estrelas. A resposta tem a ver com viagens leves e cores que mudam para o vermelho. O paradoxo pós-Olbers pergunta ‘Por que o céu noturno está escuro?’ apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Brian Jackson, notícias científicas da Boise State University, eventos noturnos e belas fotos, tudo em um só lugar. Os astrônomos estimam que existam cerca de 200 bilhões de trilhões de estrelas no universo observável.</p><p>Você pode imaginar que é porque muitas estrelas do universo estão muito longe da Terra. Uma estrela 10 vezes mais distante parece 100 vezes mais fraca.</p><p>Imagine uma bolha. Imagine, por um momento, que o universo é tão antigo que a luz, mesmo das estrelas mais distantes, teve tempo de chegar à Terra. Imagine uma grande bolha com a Terra no centro.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/astronomy-essentials/olbers-paradox-asks-why-is-the-night-sky-dark/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Olbers&#x27; paradox asks why is space dark if the universe is filled with stars. The answer has to do with traveling light and red-shifting colors. The post Olbers’ paradox asks ‘Why is the night sky dark?’ first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Brian Jackson, Boise State University Science news, night sky events and beautiful photos, all in one place. Astronomers estimate that there are about 200 billion trillion stars in the observable universe.</p><p>You might guess it’s because a lot of the stars in the universe are very far away from Earth. A star 10 times farther away looks 100 times dimmer.</p><p>Imagine a bubble Pretend, for a moment, that the universe is so old that the light from even the farthest stars has had time to reach Earth. Picture a large bubble with Earth at the center.</p><p>If the bubble were about 10 light-years across, it would contain about a dozen stars. Of course, at several light-years away, many of those stars would look pretty dim from Earth.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>If you keep enlarging the bubble to 1,000 light-years across, then to one million light-years, and then one billion light-years, the farthest stars in the bubble will look even. But the universe is “only” about 13 billion years old.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/astronomy-essentials/olbers-paradox-asks-why-is-the-night-sky-dark/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: O paradoxo de Olbers pergunta por que o espaço é escuro se o universo está cheio de estrelas. A resposta tem a ver com viagens leves e cores que.",
+      "Dado-chave: Brian Jackson, notícias científicas da Boise State University, eventos noturnos e belas fotos, tudo em um só lugar.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: O paradoxo de Olbers pergunta por que o espaço é escuro se o universo está cheio de estrelas. A resposta tem a ver com viagens leves e cores que.",
+      "Dado-chave: Brian Jackson, notícias científicas da Boise State University, eventos noturnos e belas fotos, tudo em um só lugar.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Olbers' paradox asks why is space dark if the universe is filled with stars. The answer has to do with traveling light and red-shifting colors. The.",
+      "Key detail: Brian Jackson, Boise State University Science news, night sky events and beautiful photos, all in one place.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "23 out 2026",
+    "date_pt": "23 out 2026",
+    "date_en": "23 Oct 2026",
+    "time": "10h10",
+    "time_pt": "10h10",
+    "time_en": "10:10 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-10-23T10:10:00+00:00",
+    "lastModifiedIso": "2026-10-23T10:10:00+00:00",
+    "source": "EarthSky",
+    "sourceDomain": "earthsky.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "EarthSky",
+      "Cosmos Week",
+      "O paradoxo de Olbers pergunta ‘Por que o céu noturno está escuro?’"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "EarthSky",
+      "Cosmos Week",
+      "O paradoxo de Olbers pergunta ‘Por que o céu noturno está escuro?’"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "EarthSky",
+      "Cosmos Week",
+      "Olbers' paradox asks 'Why is the night sky dark?'"
+    ],
+    "srcUrl": "https://earthsky.org/astronomy-essentials/olbers-paradox-asks-why-is-the-night-sky-dark/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=olbers-paradox-asks-why-is-the-night-sky-dark",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=olbers-paradox-asks-why-is-the-night-sky-dark",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=olbers-paradox-asks-why-is-the-night-sky-dark&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 72,
+    "scoreBreakdown": {
+      "source": 72,
+      "evidence": 82,
+      "relevance": 80,
+      "accessibility": 60,
+      "novelty": 49
     }
   },
   {
@@ -4919,26 +4909,7 @@ window.postsData = [
     "cat": "Astronomia",
     "catCls": "astronomia",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2016/11/europe_seen_by_ers_satellite/16486928-1-eng-GB/Europe_seen_by_ERS_satellite_card_full.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/andrzej_banasiak/27587428-2-eng-GB/Andrzej_Banasiak_article.jpg",
-        "caption": "Andrzej Banasiak",
-        "caption_pt": "Andrzej Banasiak",
-        "caption_en": "Andrzej Banasiak",
-        "alt": "Andrzej Banasiak",
-        "alt_pt": "Andrzej Banasiak",
-        "alt_en": "Andrzej Banasiak"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/nicolaus_hanowski/27587475-2-eng-GB/Nicolaus_Hanowski_article.jpg",
-        "caption": "Nicolau Hanowski",
-        "caption_pt": "Nicolau Hanowski",
-        "caption_en": "Nicolaus Hanowski",
-        "alt": "Nicolau Hanowski",
-        "alt_pt": "Nicolau Hanowski",
-        "alt_en": "Nicolaus Hanowski"
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "Conselho da ESA aprova nomeação de dois novos diretores",
@@ -4950,9 +4921,9 @@ window.postsData = [
     "excerpt": "O Conselho da Agência Espacial Europeia aprovou a nomeação de dois novos diretores: Andrzej Banasiak como Diretor de Comercialização e Parceria Industrial, e Nicolaus Hanowski como Diretor de Operações Espaciais.",
     "excerpt_pt": "O Conselho da Agência Espacial Europeia aprovou a nomeação de dois novos diretores: Andrzej Banasiak como Diretor de Comercialização e Parceria Industrial, e Nicolaus Hanowski como Diretor de Operações Espaciais.",
     "excerpt_en": "The European Space Agency Council has approved the appointment of two new directors: Andrzej Banasiak as Director of Commercialisation and Industry Partnership, and Nicolaus Hanowski as Director of Space Operations.",
-    "body": "<p>O Conselho da Agência Espacial Europeia aprovou a nomeação de dois novos diretores: Andrzej Banasiak como Diretor de Comercialização e Parceria Industrial, e Nicolaus Hanowski como Diretor de Operações Espaciais. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Os Estados Membros da ESA aprovaram as propostas do Diretor Geral no 350º Conselho da ESA a nível de delegados, que teve lugar de 21 a 22 de outubro de 2026 na Sede da ESA em. Andrzej Banasiak assumirá o cargo de Diretor de Comercialização e Parceria Industrial em 1º de janeiro de 2027.</p><p>Ele ficará baseado no Centro Europeu de Aplicações Espaciais e Telecomunicações (ECSAT) da ESA em Harwell, Reino Unido. De nacionalidade polaca, Andrzej tem mais de 25 anos de experiência em liderança internacional nos setores espacial, de defesa, aeroespacial e de alta tecnologia.</p><p>Anteriormente, ocupou cargos seniores na Rheinmetall Electronics Hungria, Thales Alenia Space Polska, General Electric, Boeing e Schlumberger.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/About_Us/Corporate_news/ESA_Council_approves_appointment_of_two_new_directors\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>O Conselho da Agência Espacial Europeia aprovou a nomeação de dois novos diretores: Andrzej Banasiak como Diretor de Comercialização e Parceria Industrial, e Nicolaus Hanowski como Diretor de Operações Espaciais. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Os Estados Membros da ESA aprovaram as propostas do Diretor Geral no 350º Conselho da ESA a nível de delegados, que teve lugar de 21 a 22 de outubro de 2026 na Sede da ESA em. Andrzej Banasiak assumirá o cargo de Diretor de Comercialização e Parceria Industrial em 1º de janeiro de 2027.</p><p>Ele ficará baseado no Centro Europeu de Aplicações Espaciais e Telecomunicações (ECSAT) da ESA em Harwell, Reino Unido. De nacionalidade polaca, Andrzej tem mais de 25 anos de experiência em liderança internacional nos setores espacial, de defesa, aeroespacial e de alta tecnologia.</p><p>Anteriormente, ocupou cargos seniores na Rheinmetall Electronics Hungria, Thales Alenia Space Polska, General Electric, Boeing e Schlumberger.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/About_Us/Corporate_news/ESA_Council_approves_appointment_of_two_new_directors\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The European Space Agency Council has approved the appointment of two new directors: Andrzej Banasiak as Director of Commercialisation and Industry Partnership, and Nicolaus Hanowski as Director of Space Operations. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. ESA Member States approved the Director General’s proposals at the 350th ESA Council at delegate level taking place on 21, 22 October 2026 at ESA Headquarters in Paris, France. Andrzej Banasiak will take up duty as Director of Commercialisation and Industry Partnership on 1 January 2027.</p><p>He will be based at ESA’s European Centre for Space Applications and Telecommunications (ECSAT) in Harwell, United Kingdom. A Polish national, Andrzej has more than 25 years of international leadership experience in the space, defence, aerospace and high-technology sectors.</p><p>He has previously held senior positions at Rheinmetall Electronics Hungary, Thales Alenia Space Polska, General Electric, Boeing and Schlumberger. His experience spans the development and transformation of technology businesses, space industry development, commercialisation, international partnerships and industrial growth.</p><p>I am honoured to join ESA and look forward to working with its teams, Member States and industry to turn technological excellence into commercial success, stronger industrial. Nicolaus Hanowski will take up duty as Director of Space Operations on 1 January 2027.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>He will be based at ESA’s European Space Operations Centre (ESOC) in Darmstadt, Germany. A German national, Nicolaus has more than 25 years of experience in the space sector and has headed ESA’s Earth Observation Mission Management and Ground Segment Department since.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/About_Us/Corporate_news/ESA_Council_approves_appointment_of_two_new_directors\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>O Conselho da Agência Espacial Europeia aprovou a nomeação de dois novos diretores: Andrzej Banasiak como Diretor de Comercialização e Parceria Industrial, e Nicolaus Hanowski como Diretor de Operações Espaciais. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/About_Us/Corporate_news/ESA_Council_approves_appointment_of_two_new_directors\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>O Conselho da Agência Espacial Europeia aprovou a nomeação de dois novos diretores: Andrzej Banasiak como Diretor de Comercialização e Parceria Industrial, e Nicolaus Hanowski como Diretor de Operações Espaciais. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://www.esa.int/About_Us/Corporate_news/ESA_Council_approves_appointment_of_two_new_directors\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The European Space Agency Council has approved the appointment of two new directors: Andrzej Banasiak as Director of Commercialisation and Industry Partnership, and Nicolaus Hanowski as Director of Space Operations. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://www.esa.int/About_Us/Corporate_news/ESA_Council_approves_appointment_of_two_new_directors\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: O Conselho da Agência Espacial Europeia aprovou a nomeação de dois novos diretores: Andrzej Banasiak como Diretor de Comercialização e Parceria.",
       "Dado-chave: O Conselho da Agência Espacial Europeia aprovou a nomeação de dois novos diretores: Andrzej Banasiak como Diretor de Comercialização e Parceria.",

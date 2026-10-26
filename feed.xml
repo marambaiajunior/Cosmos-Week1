@@ -5,13 +5,13 @@
     <link>https://marambaiajunior.github.io/cosmos-week1/</link>
     <description>Portal de jornalismo científico com foco em astronomia, astrofísica, cosmologia e ciência de fronteira.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 26 Oct 2026 19:18:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 23:19:45 +0000</lastBuildDate>
     <generator>CosmosWeekBot 5.0</generator>
     <item>
               <title>Medicamento modificado para HIV reverte perda de visão e paralisia em modelo de esclerose múltipla</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=modified-hiv-drug-reverses-vision-loss-and-paralysis-in-multiple-sclerosis-model</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=modified-hiv-drug-reverses-vision-loss-and-paralysis-in-multiple-sclerosis-model</guid>
-              <pubDate>Mon, 26 Oct 2026 19:11:31 +0000</pubDate>
+              <pubDate>Mon, 26 Oct 2026 23:17:49 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Um novo estudo financiado pelos Institutos Nacionais de Saúde indica que o medicamento experimental kamuvudina-9 facilita a recuperação da perda de visão e paralisia pré-existentes em modelos animais de esclerose múltipla.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Medicamento modificado para HIV reverte perda de visão e paralisia em modelo de esclerose múltipla</category>
@@ -21,7 +21,7 @@
               <title>NIH lança nova ferramenta PubMed para fortalecer a replicação e reprodutibilidade da pesquisa</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nih-launches-new-pubmed-tool-to-strengthen-research-replication-and-reproducibility</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nih-launches-new-pubmed-tool-to-strengthen-research-replication-and-reproducibility</guid>
-              <pubDate>Mon, 26 Oct 2026 19:11:31 +0000</pubDate>
+              <pubDate>Mon, 26 Oct 2026 23:17:49 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Linked Discoveries é uma ferramenta experimental para ajudar os cientistas a ver como os resultados de pesquisas individuais se relacionam com o corpo mais amplo de evidências biomédicas.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>NIH lança nova ferramenta PubMed para fortalecer a replicação e reprodutibilidade da pesquisa</category>
@@ -31,7 +31,7 @@
               <title>NIH une esforços para construir dados prontos para SI para modelos preditivos de biologia humana</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nih-joins-effort-to-build-si-ready-data-for-predictive-models-of-human-biology</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nih-joins-effort-to-build-si-ready-data-for-predictive-models-of-human-biology</guid>
-              <pubDate>Mon, 26 Oct 2026 19:11:31 +0000</pubDate>
+              <pubDate>Mon, 26 Oct 2026 23:17:49 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>A Missão Bio Genesis liderada pelo NIH aproveitará os recursos de dados biomédicos existentes para acelerar a descoberta habilitada para SI e melhorar a saúde humana.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>NIH une esforços para construir dados prontos para SI para modelos preditivos de biologia humana</category>
@@ -41,7 +41,7 @@
               <title>Organoides pulmonares humanos com sistema imunológico integrado podem transformar a pesquisa de doenças respiratórias</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=human-lung-organoids-with-a-built-in-immune-system-could-transform-respiratory-disease-research</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=human-lung-organoids-with-a-built-in-immune-system-could-transform-respiratory-disease-research</guid>
-              <pubDate>Mon, 26 Oct 2026 19:11:31 +0000</pubDate>
+              <pubDate>Mon, 26 Oct 2026 23:17:49 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>No estudo financiado pelo NIH, os modelos orquestraram respostas imunes adaptativas à infecção viral.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Organoides pulmonares humanos com sistema imunológico integrado podem transformar a pesquisa de doenças respiratórias</category>
@@ -51,12 +51,42 @@
               <title>Modelo de aprendizagem profunda usando ECGs durante estudos do sono pode prever resultados cardiovasculares</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=deep-learning-model-using-ecgs-during-sleep-studies-can-predict-cardiovascular-outcomes</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=deep-learning-model-using-ecgs-during-sleep-studies-can-predict-cardiovascular-outcomes</guid>
-              <pubDate>Mon, 26 Oct 2026 19:11:31 +0000</pubDate>
+              <pubDate>Mon, 26 Oct 2026 23:17:49 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>A integração de ECGs na triagem de distúrbios do sono poderia melhorar a detecção e orientar a tomada de decisões clínicas.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Modelo de aprendizagem profunda usando ECGs durante estudos do sono pode prever resultados cardiovasculares</category>
               <source url="https://www.nih.gov/news-events/news-releases/deep-learning-model-using-ecgs-during-sleep-studies-can-predict-cardiovascular-outcomes">NIH News Releases</source>
               <content:encoded>A integração de ECGs na triagem de distúrbios do sono poderia melhorar a detecção e orientar a tomada de decisões clínicas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Uma equipe de pesquisa apoiada pelos Instituto</content:encoded>
+            </item><item>
+              <title>Uma breve história do METI. Parte I: Idéias e Experimentos Iniciais</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=a-brief-ish-history-of-meti-part-i-early-ideas-and-experiments</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=a-brief-ish-history-of-meti-part-i-early-ideas-and-experiments</guid>
+              <pubDate>Mon, 26 Oct 2026 22:02:54 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Desde que os cientistas conduziram experiências SETI, esforços paralelos em Mensagens de Inteligência Extraterrestre também foram montados. Nesta série, daremos uma olhada nos principais marcos neste campo de estudo.</description>
+              <category>Astronomia</category><category>Universe Today</category><category>Cosmos Week</category><category>Uma breve história do METI. Parte I</category>
+              <source url="https://www.universetoday.com/articles/a-brief-ish-history-of-meti-part-i-early-ideas-and-experiments">Universe Today</source>
+              <content:encoded>Desde que os cientistas conduziram experiências SETI, esforços paralelos em Mensagens de Inteligência Extraterrestre também foram montados. Nesta série, daremos uma olhada nos principais marcos neste campo de estudo. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a</content:encoded>
+            </item><item>
+              <title>O Perseverance da NASA oferece pistas para proteger as tripulações da poeira de Marte</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-perseverance-offers-clues-to-protect-crews-from-mars-dust</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-perseverance-offers-clues-to-protect-crews-from-mars-dust</guid>
+              <pubDate>Mon, 26 Oct 2026 21:07:28 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Ao longo de 1.645 dias marcianos, o rover Perseverance Mars da NASA mediu as partículas finas e ultrafinas de poeira marciana encontradas agarradas a amostras de materiais de trajes espaciais que são transportados a bordo do rover, incluindo alguns que são.</description>
+              <category>Física</category><category>NASA News Releases</category><category>Cosmos Week</category><category>O Perseverance da NASA oferece pistas para proteger as tripulações da poeira de Marte</category>
+              <source url="https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/">NASA News Releases</source>
+              <content:encoded>Ao longo de 1.645 dias marcianos, o rover Perseverance Mars da NASA mediu as partículas finas e ultrafinas de poeira marciana encontradas agarradas a amostras de materiais de trajes espaciais que são transportados a bordo do rover, incluindo alguns que são pequenos o suficiente. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém </content:encoded>
+            </item><item>
+              <title>NASA vê estagiários enfrentando desafios do mundo real na exploração lunar</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-sees-interns-tackle-real-world-challenges-in-lunar-exploration</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-sees-interns-tackle-real-world-challenges-in-lunar-exploration</guid>
+              <pubDate>Mon, 26 Oct 2026 19:28:08 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>O Programa de Estágio de Aprimoramento em Ciências da Terra da NASA STEM no Centro de Pesquisa Espacial da Universidade do Texas coloca alunos do ensino médio em pequenas equipes de pesquisa focadas em missões, orientadas por especialistas da NASA, acadêmicos.</description>
+              <category>Ciências da Terra</category><category>NASA News Releases</category><category>Cosmos Week</category><category>NASA vê estagiários enfrentando desafios do mundo real na exploração lunar</category>
+              <source url="https://science.nasa.gov/learning-resources/science-activation/nasa-sees-interns-tackle-real-world-challenges-in-lunar-exploration/">NASA News Releases</source>
+              <content:encoded>O Programa de Estágio de Aprimoramento em Ciências da Terra da NASA STEM no Centro de Pesquisa Espacial da Universidade do Texas coloca alunos do ensino médio em pequenas equipes de pesquisa focadas em missões, orientadas por especialistas da NASA, acadêmicos e da indústria. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura esp</content:encoded>
             </item><item>
               <title>Uma nova simulação enorme e poderosa ajuda a explicar a reionização do Universo</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=a-huge-and-powerful-new-simulation-helps-explain-the-universe-s-reionization</link>
@@ -78,36 +108,6 @@
               <source url="https://www.universetoday.com/articles/scientists-can-now-spot-hidden-sunspots-on-the-solar-far-side">Universe Today</source>
               <content:encoded>Ao contrário da Lua, o Sol está em constante rotação a partir da nossa perspectiva, mas ainda assim vemos apenas metade dele num determinado momento. Como leva 27 dias para completar uma rotação completa, isso deixa bastante tempo para que mudanças aconteçam no nosso lado. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espac</content:encoded>
             </item><item>
-              <title>Nuvens em um planeta de lava desafiam o que os astrônomos esperavam</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=clouds-on-a-lava-planet-challenge-what-astronomers-expected</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=clouds-on-a-lava-planet-challenge-what-astronomers-expected</guid>
-              <pubDate>Mon, 26 Oct 2026 17:20:01 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Um planeta rochoso de lava que já foi considerado extremo demais para ter uma atmosfera parece estar envolto em uma camada reflexiva de nuvens minerais de silicato vaporizadas, a mesma família de compostos que compõem o quartzo e a areia.</description>
-              <category>Ciências da Terra</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Nuvens em um planeta de lava desafiam o que os astrônomos esperavam</category>
-              <source url="https://phys.org/news/2026-10-clouds-lava-planet-astronomers.html">Phys.org Space</source>
-              <content:encoded>Um planeta rochoso de lava que já foi considerado extremo demais para ter uma atmosfera parece estar envolto em uma camada reflexiva de nuvens minerais de silicato vaporizadas, a mesma família de compostos que compõem o quartzo e a areia. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar</content:encoded>
-            </item><item>
-              <title>NASA convida mídia para experiência de simulação de pouso na Lua na Califórnia</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-invites-media-to-moon-landing-simulation-experience-in-california</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-invites-media-to-moon-landing-simulation-experience-in-california</guid>
-              <pubDate>Mon, 26 Oct 2026 17:13:44 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Membros da mídia estão convidados a visitar um novo simulador de pouso lunar no Ames Research Center da NASA, no Vale do Silício, na Califórnia, na quinta-feira, 29 de outubro, e na sexta-feira, 30 de outubro.</description>
-              <category>Astronomia</category><category>NASA News Releases</category><category>Cosmos Week</category><category>NASA convida mídia para experiência de simulação de pouso na Lua na Califórnia</category>
-              <source url="https://www.nasa.gov/news-release/nasa-invites-media-to-moon-landing-simulation-experience-in-california/">NASA News Releases</source>
-              <content:encoded>Membros da mídia estão convidados a visitar um novo simulador de pouso lunar no Ames Research Center da NASA, no Vale do Silício, na Califórnia, na quinta-feira, 29 de outubro, e na sexta-feira, 30 de outubro. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comuni</content:encoded>
-            </item><item>
-              <title>Plasma jateado a laser mostra como as instabilidades podem aquecer a coroa solar</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=laser-blasted-plasma-shows-how-instabilities-could-heat-the-sun-s-corona</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=laser-blasted-plasma-shows-how-instabilities-could-heat-the-sun-s-corona</guid>
-              <pubDate>Mon, 26 Oct 2026 17:00:10 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Da sua superfície visível, o Sol irradia calor a uma temperatura relativamente fria de 5.800 Kelvin. No entanto, dentro da fina camada externa da atmosfera solar conhecida como coroa, os elétrons podem atingir temperaturas de milhões de graus, por exemplo.</description>
-              <category>Física</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Plasma jateado a laser mostra como as instabilidades podem aquecer a coroa solar</category>
-              <source url="https://phys.org/news/2026-10-laser-blasted-plasma-instabilities-sun.html">Phys.org Space</source>
-              <content:encoded>Da sua superfície visível, o Sol irradia calor a uma temperatura relativamente fria de 5.800 Kelvin. No entanto, dentro da fina camada externa da atmosfera solar conhecida como coroa, os elétrons podem atingir temperaturas de milhões de graus, por exemplo. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas in</content:encoded>
-            </item><item>
               <title>Euclides descobre novo cometa</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=euclid-discovers-new-comet</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=euclid-discovers-new-comet</guid>
@@ -116,17 +116,7 @@
               <description>O telescópio espacial Euclides da Agência Espacial Europeia descobriu o seu primeiro cometa até então desconhecido, em imagens tiradas entre 16 e 24 de setembro de 2026.</description>
               <category>Astronomia</category><category>ESA Space Science</category><category>Cosmos Week</category><category>Euclides descobre novo cometa</category>
               <source url="https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_new_comet">ESA Space Science</source>
-              <content:encoded>O telescópio espacial Euclides da Agência Espacial Europeia descobriu o seu primeiro cometa até então desconhecido, em imagens tiradas entre 16 e 24 de setembro de 2026. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restr</content:encoded>
-            </item><item>
-              <title>NASA e parceiros aceleram o desenvolvimento do módulo de pouso para missões lunares de 2028</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-partners-accelerate-lander-development-for-2028-moon-missions</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-partners-accelerate-lander-development-for-2028-moon-missions</guid>
-              <pubDate>Fri, 23 Oct 2026 22:39:39 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>À medida que a NASA devolve os humanos à superfície lunar e estabelece uma presença de longo prazo em nosso vizinho celestial mais próximo, a agência e os fornecedores comerciais de sistemas de pouso humano Blue Origin e SpaceX simplificaram os projetos e.</description>
-              <category>Cosmologia</category><category>NASA News Releases</category><category>Cosmos Week</category><category>NASA e parceiros aceleram o desenvolvimento do módulo de pouso para missões lunares de 2028</category>
-              <source url="https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/">NASA News Releases</source>
-              <content:encoded>À medida que a NASA devolve os humanos à superfície lunar e estabelece uma presença de longo prazo em nosso vizinho celestial mais próximo, a agência e os fornecedores comerciais de sistemas de pouso humano Blue Origin e SpaceX simplificaram os projetos e mudaram. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território co</content:encoded>
+              <content:encoded>O telescópio espacial Euclides da Agência Espacial Europeia descobriu o seu primeiro cometa até então desconhecido, em imagens tiradas entre 16 e 24 de setembro de 2026. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Além di</content:encoded>
             </item><item>
               <title>Lançamento científico: Hubble identifica uma das galáxias mais escuras conhecidas</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-identifies-one-of-darkest-known-galaxies</link>
@@ -147,6 +137,16 @@
               <category>Cosmologia</category><category>Phys.org Space</category><category>Cosmos Week</category><category>O instrumento CASALS da NASA preenche lacunas em mapas 3D da superfície da Terra</category>
               <source url="https://phys.org/news/2026-10-nasa-casals-instrument-bridges-gaps.html">Phys.org Space</source>
               <content:encoded>Uma equipe de pesquisadores do Goddard Space Flight Center da NASA desenvolveu um novo instrumento projetado para eliminar pontos cegos entre linhas de dados lidar na superfície da Terra. Construído com o apoio do Earth Science Technology Office da NASA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemát</content:encoded>
+            </item><item>
+              <title>Arábia Saudita se junta à busca por civilizações alienígenas</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=saudi-arabia-joins-the-search-for-alien-civilizations</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=saudi-arabia-joins-the-search-for-alien-civilizations</guid>
+              <pubDate>Fri, 23 Oct 2026 18:17:49 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>A Arábia Saudita está a juntar-se à busca por sinais alienígenas vindos do cosmos. Eles estão colaborando com o SETI nessa empreitada. SETI anunciou que dois instrumentos LaserSETI serão posicionados na Arábia Saudita, somando-se a um crescimento.</description>
+              <category>Cosmologia</category><category>Universe Today</category><category>Cosmos Week</category><category>Arábia Saudita se junta à busca por civilizações alienígenas</category>
+              <source url="https://www.universetoday.com/articles/saudi-arabia-joins-the-search-for-alien-civilizations">Universe Today</source>
+              <content:encoded>A Arábia Saudita está a juntar-se à busca por sinais alienígenas vindos do cosmos. Eles estão colaborando com o SETI nessa empreitada. SETI anunciou que dois instrumentos LaserSETI serão posicionados na Arábia Saudita, somando-se a um crescimento. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos in</content:encoded>
             </item><item>
               <title>Lançamento científico: Hubble descobre o primeiro buraco negro desaparecido do aglomerado de estrelas</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-discovers-first-of-star-cluster-s-missing-black-holes</link>
@@ -188,16 +188,6 @@
               <source url="https://www.universetoday.com/articles/27-exoplanet-targets-for-the-worlds-first-private-space-telescope">Universe Today</source>
               <content:encoded>Prepare-se para a era dos telescópios espaciais privados. O Telescópio Espacial Lazuli será lançado dentro de alguns anos e parte de sua missão é observar exoplanetas. Uma nova pesquisa apresenta uma lista de 27 alvos de exoplanetas, alguns dos quais são muito. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses qu</content:encoded>
             </item><item>
-              <title>JWST revela um mundo alienígena desequilibrado com ventos noturnos escaldantes</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=jwst-reveals-a-lopsided-alien-world-with-blistering-evening-winds</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=jwst-reveals-a-lopsided-alien-world-with-blistering-evening-winds</guid>
-              <pubDate>Fri, 23 Oct 2026 10:54:33 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Normalmente, quando pensamos em exoplanetas, pensamos em esferas organizadas flutuando diretamente na frente de sua estrela, que atua como um holofote gigante. Do nosso ponto de vista, eles se pareceriam mais com dois círculos bidimensionais perfeitos do que.</description>
-              <category>Exoplanetas</category><category>Universe Today</category><category>Cosmos Week</category><category>JWST revela um mundo alienígena desequilibrado com ventos noturnos escaldantes</category>
-              <source url="https://www.universetoday.com/articles/jwst-reveals-a-lopsided-alien-world-with-blistering-evening-winds">Universe Today</source>
-              <content:encoded>Normalmente, quando pensamos em exoplanetas, pensamos em esferas organizadas flutuando diretamente na frente de sua estrela, que atua como um holofote gigante. Do nosso ponto de vista, eles se pareceriam mais com dois círculos bidimensionais perfeitos do que com esferas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido </content:encoded>
-            </item><item>
               <title>Mundos habitáveis: melhores que a Terra? Os cientistas se perguntam</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=habitable-worlds-better-than-earth-scientists-wonder</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=habitable-worlds-better-than-earth-scientists-wonder</guid>
@@ -207,6 +197,16 @@
               <category>Exoplanetas</category><category>EarthSky</category><category>Cosmos Week</category><category>Mundos habitáveis</category>
               <source url="https://earthsky.org/space/habitable-worlds-more-than-earth-super-earths-exoplanets/">EarthSky</source>
               <content:encoded>Alguns cientistas pensam que existem mais mundos habitáveis ​​do que a Terra. Como eles são? E como podemos encontrá-los? O post Mundos habitáveis: melhores que a Terra? A maravilha dos cientistas apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não q</content:encoded>
+            </item><item>
+              <title>Um mineral do interior dos planetas revela uma lição surpreendente: como você impulsiona as coisas</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=a-mineral-from-the-inside-of-planets-reveals-a-surprising-lesson-how-you-push-matters</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=a-mineral-from-the-inside-of-planets-reveals-a-surprising-lesson-how-you-push-matters</guid>
+              <pubDate>Fri, 23 Oct 2026 07:42:44 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Na região mais profunda do manto terrestre, logo acima do núcleo, grande parte do material consiste em cristais de óxido de magnésio. Em exoplanetas rochosos maiores, chamados super-Terras, as pressões mais elevadas no manto inferior podem conduzir ao.</description>
+              <category>Exoplanetas</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Um mineral do interior dos planetas revela uma lição surpreendente</category>
+              <source url="https://phys.org/news/2026-10-mineral-planets-reveals-lesson.html">Phys.org Space</source>
+              <content:encoded>Na região mais profunda do manto terrestre, logo acima do núcleo, grande parte do material consiste em cristais de óxido de magnésio. Em exoplanetas rochosos maiores, chamados super-Terras, as pressões mais elevadas no manto inferior podem conduzir ao magnésio. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses qu</content:encoded>
             </item>
   </channel>
 </rss>

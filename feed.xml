@@ -5,13 +5,13 @@
     <link>https://marambaiajunior.github.io/cosmos-week1/</link>
     <description>Portal de jornalismo científico com foco em astronomia, astrofísica, cosmologia e ciência de fronteira.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 28 Oct 2026 11:36:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 17:23:07 +0000</lastBuildDate>
     <generator>CosmosWeekBot 5.0</generator>
     <item>
               <title>Medicamento modificado para HIV reverte perda de visão e paralisia em modelo de esclerose múltipla</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=modified-hiv-drug-reverses-vision-loss-and-paralysis-in-multiple-sclerosis-model</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=modified-hiv-drug-reverses-vision-loss-and-paralysis-in-multiple-sclerosis-model</guid>
-              <pubDate>Wed, 28 Oct 2026 11:34:26 +0000</pubDate>
+              <pubDate>Wed, 28 Oct 2026 17:20:28 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Um novo estudo financiado pelos Institutos Nacionais de Saúde indica que o medicamento experimental kamuvudina-9 facilita a recuperação da perda de visão e paralisia pré-existentes em modelos animais de esclerose múltipla.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Medicamento modificado para HIV reverte perda de visão e paralisia em modelo de esclerose múltipla</category>
@@ -21,7 +21,7 @@
               <title>NIH lança nova ferramenta PubMed para fortalecer a replicação e reprodutibilidade da pesquisa</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nih-launches-new-pubmed-tool-to-strengthen-research-replication-and-reproducibility</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nih-launches-new-pubmed-tool-to-strengthen-research-replication-and-reproducibility</guid>
-              <pubDate>Wed, 28 Oct 2026 11:34:26 +0000</pubDate>
+              <pubDate>Wed, 28 Oct 2026 17:20:28 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Linked Discoveries é uma ferramenta experimental para ajudar os cientistas a ver como os resultados de pesquisas individuais se relacionam com o corpo mais amplo de evidências biomédicas.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>NIH lança nova ferramenta PubMed para fortalecer a replicação e reprodutibilidade da pesquisa</category>
@@ -31,7 +31,7 @@
               <title>NIH une esforços para construir dados prontos para SI para modelos preditivos de biologia humana</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nih-joins-effort-to-build-si-ready-data-for-predictive-models-of-human-biology</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nih-joins-effort-to-build-si-ready-data-for-predictive-models-of-human-biology</guid>
-              <pubDate>Wed, 28 Oct 2026 11:34:26 +0000</pubDate>
+              <pubDate>Wed, 28 Oct 2026 17:20:28 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>A Missão Bio Genesis liderada pelo NIH aproveitará os recursos de dados biomédicos existentes para acelerar a descoberta habilitada para SI e melhorar a saúde humana.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>NIH une esforços para construir dados prontos para SI para modelos preditivos de biologia humana</category>
@@ -41,7 +41,7 @@
               <title>Organoides pulmonares humanos com sistema imunológico integrado podem transformar a pesquisa de doenças respiratórias</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=human-lung-organoids-with-a-built-in-immune-system-could-transform-respiratory-disease-research</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=human-lung-organoids-with-a-built-in-immune-system-could-transform-respiratory-disease-research</guid>
-              <pubDate>Wed, 28 Oct 2026 11:34:26 +0000</pubDate>
+              <pubDate>Wed, 28 Oct 2026 17:20:28 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>No estudo financiado pelo NIH, os modelos orquestraram respostas imunes adaptativas à infecção viral.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Organoides pulmonares humanos com sistema imunológico integrado podem transformar a pesquisa de doenças respiratórias</category>
@@ -51,92 +51,62 @@
               <title>Modelo de aprendizagem profunda usando ECGs durante estudos do sono pode prever resultados cardiovasculares</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=deep-learning-model-using-ecgs-during-sleep-studies-can-predict-cardiovascular-outcomes</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=deep-learning-model-using-ecgs-during-sleep-studies-can-predict-cardiovascular-outcomes</guid>
-              <pubDate>Wed, 28 Oct 2026 11:34:26 +0000</pubDate>
+              <pubDate>Wed, 28 Oct 2026 17:20:28 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>A integração de ECGs na triagem de distúrbios do sono poderia melhorar a detecção e orientar a tomada de decisões clínicas.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Modelo de aprendizagem profunda usando ECGs durante estudos do sono pode prever resultados cardiovasculares</category>
               <source url="https://www.nih.gov/news-events/news-releases/deep-learning-model-using-ecgs-during-sleep-studies-can-predict-cardiovascular-outcomes">NIH News Releases</source>
               <content:encoded>A integração de ECGs na triagem de distúrbios do sono poderia melhorar a detecção e orientar a tomada de decisões clínicas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Uma equipe de pesquisa apoiada pelos Instituto</content:encoded>
             </item><item>
-              <title>O enorme peixe-remo inspira uma nova forma de explorar o oceano</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=the-enormous-oarfish-inspires-a-new-way-to-explore-the-ocean</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=the-enormous-oarfish-inspires-a-new-way-to-explore-the-ocean</guid>
-              <pubDate>Wed, 28 Oct 2026 11:01:50 +0000</pubDate>
+              <title>NASA seleciona 19 novas propostas de ciência cidadã em 2026</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-selects-19-new-citizen-science-proposals-in-2026</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-selects-19-new-citizen-science-proposals-in-2026</guid>
+              <pubDate>Wed, 28 Oct 2026 16:25:29 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>O peixe-remo gigante tem uma barbatana notável que poderia inspirar robôs subaquáticos mais silenciosos e abrir novas possibilidades para a exploração e conservação dos oceanos. O post O enorme peixe-remo inspira uma nova forma de explorar o oceano apareceu.</description>
-              <category>Ciências da Terra</category><category>EarthSky</category><category>Cosmos Week</category><category>O enorme peixe</category>
-              <source url="https://earthsky.org/earth/the-enormous-oarfish-inspires-a-new-way-to-explore-the-ocean/">EarthSky</source>
-              <content:encoded>O peixe-remo gigante tem uma barbatana notável que poderia inspirar robôs subaquáticos mais silenciosos e abrir novas possibilidades para a exploração e conservação dos oceanos. O post O enorme peixe-remo inspira uma nova forma de explorar o oceano apareceu pela primeira vez. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura es</content:encoded>
+              <description>Até agora, 2026 assistiu a uma enxurrada de sucessos para os voluntários que fazem ciência na NASA, exemplificando o compromisso da NASA com a ciência de padrão ouro, transparente, reprodutível e intrinsecamente colaborativa. O projeto Backyard Worlds: Planet.</description>
+              <category>Astronomia</category><category>NASA News Releases</category><category>Cosmos Week</category><category>NASA seleciona 19 novas propostas de ciência cidadã em 2026</category>
+              <source url="https://science.nasa.gov/get-involved/citizen-science/nasa-selects-19-new-citizen-science-proposals-in-2026/">NASA News Releases</source>
+              <content:encoded>Até agora, 2026 assistiu a uma enxurrada de sucessos para os voluntários que fazem ciência na NASA, exemplificando o compromisso da NASA com a ciência de padrão ouro, transparente, reprodutível e intrinsecamente colaborativa. O projeto Backyard Worlds: Planet 9. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resu</content:encoded>
             </item><item>
-              <title>Tubarões duendes, caranguejos fantasmas e morcegos vampiros, meu Deus!</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=goblin-sharks-ghost-crabs-and-vampire-bats-oh-my</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=goblin-sharks-ghost-crabs-and-vampire-bats-oh-my</guid>
-              <pubDate>Wed, 28 Oct 2026 10:44:00 +0000</pubDate>
+              <title>Equipe de engenharia de sistemas da NASA detalha a arquitetura da missão do Observatório de Mundos Habitáveis</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-systems-engineering-team-details-habitable-worlds-observatory-mission-architecture</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-systems-engineering-team-details-habitable-worlds-observatory-mission-architecture</guid>
+              <pubDate>Wed, 28 Oct 2026 15:40:11 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Tubarões duendes, caranguejos fantasmas e morcegos vampiros: como esses animais de som assustador receberam seus nomes? Aprenda sobre eles aqui. O post Tubarões duendes, caranguejos fantasmas e morcegos vampiros, meu Deus! apareceu pela primeira vez no.</description>
-              <category>Ciências da Terra</category><category>EarthSky</category><category>Cosmos Week</category><category>Tubarões duendes</category>
-              <source url="https://earthsky.org/earth/goblin-sharks-ghost-crabs-and-vampire-bats-oh-my/">EarthSky</source>
-              <content:encoded>Tubarões duendes, caranguejos fantasmas e morcegos vampiros: como esses animais de som assustador receberam seus nomes? Aprenda sobre eles aqui. O post Tubarões duendes, caranguejos fantasmas e morcegos vampiros, meu Deus! apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais am</content:encoded>
+              <description>Encontrar um mundo semelhante à Terra além do sistema solar é o Santo Graal da pesquisa de exoplanetas, e o campo tem visto avanços tecnológicos notáveis ​​na detecção e estudo de exoplanetas desde o primeiro exoplaneta confirmado em torno de a.</description>
+              <category>Exoplanetas</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Equipe de engenharia de sistemas da NASA detalha a arquitetura da missão do Observatório de Mundos Habitáveis</category>
+              <source url="https://phys.org/news/2026-10-nasa-team-habitable-worlds-observatory.html">Phys.org Space</source>
+              <content:encoded>Encontrar um mundo semelhante à Terra além do sistema solar é o Santo Graal da pesquisa de exoplanetas, e o campo tem visto avanços tecnológicos notáveis ​​na detecção e estudo de exoplanetas desde o primeiro exoplaneta confirmado em torno de a. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativ</content:encoded>
             </item><item>
-              <title>Afinal, os cometas provavelmente não semearam a vida na Terra, sugere um novo estudo</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=comets-probably-didn-t-seed-life-on-earth-after-all-new-study-suggests</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=comets-probably-didn-t-seed-life-on-earth-after-all-new-study-suggests</guid>
-              <pubDate>Wed, 28 Oct 2026 10:00:10 +0000</pubDate>
+              <title>A tempestade solar de 2024 desencadeou elétrons ultrarelativísticos dentro da ‘barreira impenetrável’ da Terra</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=2024-solar-storm-triggered-ultrarelativistic-electrons-inside-earth-s-impenetrable-barrier</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=2024-solar-storm-triggered-ultrarelativistic-electrons-inside-earth-s-impenetrable-barrier</guid>
+              <pubDate>Wed, 28 Oct 2026 15:40:07 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>A teoria de que os cometas forneceram os blocos de construção moleculares para a vida na Terra é antiga, uma vez que se sabe que os cometas transportam muitas destas moléculas. No entanto, um novo estudo desafia essa ideia.</description>
-              <category>Ciências da Terra</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Afinal</category>
-              <source url="https://phys.org/news/2026-10-comets-didnt-seed-life-earth.html">Phys.org Space</source>
-              <content:encoded>A teoria de que os cometas forneceram os blocos de construção moleculares para a vida na Terra é antiga, uma vez que se sabe que os cometas transportam muitas destas moléculas. No entanto, um novo estudo desafia essa ideia. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade </content:encoded>
+              <description>A Terra está rodeada por uma barreira invisível que se pensava impedir que electrões altamente energéticos se aproximassem do nosso planeta. Mas em 2024, a sonda espacial Arase do Japão detectou estes electrões bem dentro da barreira. Agora.</description>
+              <category>Ciências da Terra</category><category>Phys.org Space</category><category>Cosmos Week</category><category>A tempestade solar de 2024 desencadeou elétrons ultrarelativísticos dentro da ‘barreira impenetrável’ da Terra</category>
+              <source url="https://phys.org/news/2026-10-solar-storm-triggered-ultrarelativistic-electrons.html">Phys.org Space</source>
+              <content:encoded>A Terra está rodeada por uma barreira invisível que se pensava impedir que electrões altamente energéticos se aproximassem do nosso planeta. Mas em 2024, a sonda espacial Arase do Japão detectou estes electrões bem dentro da barreira. Agora. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem sepa</content:encoded>
             </item><item>
-              <title>Notícias da Sun: Neste dia de 2003, uma das maiores explosões já registradas</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=sun-news-on-this-day-in-2003-one-of-the-biggest-flares-on-record</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=sun-news-on-this-day-in-2003-one-of-the-biggest-flares-on-record</guid>
-              <pubDate>Wed, 28 Oct 2026 10:00:00 +0000</pubDate>
+              <title>O Observatório Rubin encontra seu primeiro candidato a planeta anão</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=the-rubin-observatory-finds-its-first-dwarf-planet-candidate</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=the-rubin-observatory-finds-its-first-dwarf-planet-candidate</guid>
+              <pubDate>Wed, 28 Oct 2026 15:34:33 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Há 30 anos, em 28 de outubro de 2003, o sol explodiu um monstro X17.2 da região ativa AR10486. As notícias pós-Sol: Neste dia de 2003, uma das maiores explosões já registradas apareceu pela primeira vez no EarthSky.</description>
-              <category>Ciências da Terra</category><category>EarthSky</category><category>Cosmos Week</category><category>Notícias da Sun</category>
-              <source url="https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/">EarthSky</source>
-              <content:encoded>Há 30 anos, em 28 de outubro de 2003, o sol explodiu um monstro X17.2 da região ativa AR10486. As notícias pós-Sol: Neste dia de 2003, uma das maiores explosões já registradas apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural </content:encoded>
+              <description>O Observatório Vera Rubin encontrou um objeto distante do Sistema Solar antes mesmo de começar o seu Levantamento Legado do Espaço e do Tempo, que durou uma década. O objeto é um candidato a planeta anão chamado 2026 ED138 e, se confirmado, será um dos.</description>
+              <category>Astronomia</category><category>Universe Today</category><category>Cosmos Week</category><category>O Observatório Rubin encontra seu primeiro candidato a planeta anão</category>
+              <source url="https://www.universetoday.com/articles/the-rubin-observatory-finds-its-first-dwarf-planet-candidate">Universe Today</source>
+              <content:encoded>O Observatório Vera Rubin encontrou um objeto distante do Sistema Solar antes mesmo de começar o seu Levantamento Legado do Espaço e do Tempo, que durou uma década. O objeto é um candidato a planeta anão chamado 2026 ED138 e, se confirmado, será um dos. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sob</content:encoded>
             </item><item>
-              <title>Curiosity Blog, Sols 5043-5049: Preparando-se para perfurar em ‘Nazca’</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca</guid>
-              <pubDate>Wed, 28 Oct 2026 05:39:46 +0000</pubDate>
+              <title>O segundo salto é história. Viva a 'hora bissexta'</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=the-leap-second-is-history-long-live-the-leap-hour</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=the-leap-second-is-history-long-live-the-leap-hour</guid>
+              <pubDate>Wed, 28 Oct 2026 14:02:00 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Escrito por Lucy Lim, cientista planetária do Goddard Space Flight Center da NASA Data de planejamento da Terra: sexta-feira, 16 de outubro de 2026 Após a campanha de perfuração dos Lagos Bascos, o Curiosity retornou a um local a poucos metros de distância do.</description>
-              <category>Ciências da Terra</category><category>NASA News Releases</category><category>Cosmos Week</category><category>Curiosity Blog</category>
-              <source url="https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/">NASA News Releases</source>
-              <content:encoded>Escrito por Lucy Lim, cientista planetária do Goddard Space Flight Center da NASA Data de planejamento da Terra: sexta-feira, 16 de outubro de 2026 Após a campanha de perfuração dos Lagos Bascos, o Curiosity retornou a um local a poucos metros de distância do “Chiu. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mai</content:encoded>
-            </item><item>
-              <title>NASA convida a mídia para a conclusão da simulação de Marte com duração de um ano</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation</guid>
-              <pubDate>Tue, 27 Oct 2026 19:27:22 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Os quatro voluntários que viveram e trabalharam em uma missão simulada da NASA a Marte por mais de um ano deixarão seu habitat no sábado, 31 de outubro, após 378 dias de isolamento em uma instalação do Centro Espacial Johnson da agência em Houston. Saúde.</description>
-              <category>Astronomia</category><category>NASA News Releases</category><category>Cosmos Week</category><category>NASA convida a mídia para a conclusão da simulação de Marte com duração de um ano</category>
-              <source url="https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/">NASA News Releases</source>
-              <content:encoded>Os quatro voluntários que viveram e trabalharam em uma missão simulada da NASA a Marte por mais de um ano deixarão seu habitat no sábado, 31 de outubro, após 378 dias de isolamento em uma instalação do Centro Espacial Johnson da agência em Houston. Saúde. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado s</content:encoded>
-            </item><item>
-              <title>Euclides descobre novo cometa</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=euclid-discovers-new-comet</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=euclid-discovers-new-comet</guid>
-              <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>O telescópio espacial Euclides da Agência Espacial Europeia descobriu o seu primeiro cometa até então desconhecido, em imagens tiradas entre 16 e 24 de setembro de 2026.</description>
-              <category>Astronomia</category><category>ESA Space Science</category><category>Cosmos Week</category><category>Euclides descobre novo cometa</category>
-              <source url="https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_new_comet">ESA Space Science</source>
-              <content:encoded>O telescópio espacial Euclides da Agência Espacial Europeia descobriu o seu primeiro cometa até então desconhecido, em imagens tiradas entre 16 e 24 de setembro de 2026. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Além di</content:encoded>
-            </item><item>
-              <title>Lançamento científico: Hubble detalha a vizinhança em transformação da galáxia inicial</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-details-early-galaxy-transforming-neighbourhood</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-details-early-galaxy-transforming-neighbourhood</guid>
-              <pubDate>Tue, 23 Jun 2026 14:00:00 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que existiu apenas 1,4 mil milhões de anos após o Big Bang. Essa galáxia contém estrelas jovens fortemente agrupadas.</description>
-              <category>Astronomia</category><category>ESA Hubble News</category><category>Cosmos Week</category><category>Lançamento científico</category>
-              <source url="https://esahubble.org/news/heic2609/">ESA Hubble News</source>
-              <content:encoded>Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que existiu apenas 1,4 mil milhões de anos após o Big Bang. Essa galáxia contém estrelas jovens fortemente agrupadas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado</content:encoded>
+              <description>O tempo e a cronometragem são um tema quente mais uma vez, já que muitos de nós ‘voltaremos’ ao horário padrão no próximo fim de semana. Outro dilema relacionado ao tempo também foi abordado este mês, quando uma conferência importante acabou com o segundo.</description>
+              <category>Astronomia</category><category>Universe Today</category><category>Cosmos Week</category><category>O segundo salto é história. Viva a 'hora bissexta'</category>
+              <source url="https://www.universetoday.com/articles/the-leap-second-is-history-long-live-the-leap-hour">Universe Today</source>
+              <content:encoded>O tempo e a cronometragem são um tema quente mais uma vez, já que muitos de nós ‘voltaremos’ ao horário padrão no próximo fim de semana. Outro dilema relacionado ao tempo também foi abordado este mês, quando uma conferência importante acabou com o segundo bissexto e o. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que </content:encoded>
             </item><item>
               <title>Lançamento científico: Hubble identifica uma das galáxias mais escuras conhecidas</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-identifies-one-of-darkest-known-galaxies</link>
@@ -207,6 +177,36 @@
               <category>Exoplanetas</category><category>Universe Today</category><category>Cosmos Week</category><category>Equipe de engenharia de sistemas da NASA detalha a arquitetura da missão HWO</category>
               <source url="https://www.universetoday.com/articles/nasa-systems-engineering-team-details-hwo-mission-architecture">Universe Today</source>
               <content:encoded>Encontrar um mundo semelhante à Terra além do sistema solar é o Santo Graal da pesquisa de exoplanetas, e o campo tem experimentado avanços tecnológicos incríveis na busca e identificação de exoplanetas desde a existência do primeiro exoplaneta. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativ</content:encoded>
+            </item><item>
+              <title>27 alvos de exoplanetas para o primeiro telescópio espacial privado do mundo</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=27-exoplanet-targets-for-the-world-s-first-private-space-telescope</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=27-exoplanet-targets-for-the-world-s-first-private-space-telescope</guid>
+              <pubDate>Tue, 27 Oct 2026 00:00:06 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>O Telescópio Espacial Lazuli será o primeiro telescópio espacial privado. É ideia de Eric Schmidt, ex-CEO do Google. Terá um espelho de 3 metros, maior que o espelho de 2,4 metros do Hubble, e será lançado em 2029.</description>
+              <category>Exoplanetas</category><category>Phys.org Space</category><category>Cosmos Week</category><category>27 alvos de exoplanetas para o primeiro telescópio espacial privado do mundo</category>
+              <source url="https://phys.org/news/2026-10-exoplanet-world-private-space-telescope.html">Phys.org Space</source>
+              <content:encoded>O Telescópio Espacial Lazuli será o primeiro telescópio espacial privado. É ideia de Eric Schmidt, ex-CEO do Google. Terá um espelho de 3 metros, maior que o espelho de 2,4 metros do Hubble, e será lançado em 2029. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada c</content:encoded>
+            </item><item>
+              <title>A ciência começa para o Smile</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=science-begins-for-smile</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=science-begins-for-smile</guid>
+              <pubDate>Wed, 30 Sep 2026 07:05:00 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>No dia 23 de setembro, a missão Smile Europeu-Chinesa foi declarada pronta para começar a revelar como a Terra responde ao vento das partículas carregadas do Sol. Isto segue-se a um período movimentado de comissionamento no espaço desde o lançamento da.</description>
+              <category>Física</category><category>ESA Space Science</category><category>Cosmos Week</category><category>A ciência começa para o Smile</category>
+              <source url="https://www.esa.int/Science_Exploration/Space_Science/Smile/Science_begins_for_Smile">ESA Space Science</source>
+              <content:encoded>No dia 23 de setembro, a missão Smile Europeu-Chinesa foi declarada pronta para começar a revelar como a Terra responde ao vento das partículas carregadas do Sol. Isto segue-se a um período movimentado de comissionamento no espaço desde o lançamento da espaçonave. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas gen</content:encoded>
+            </item><item>
+              <title>Solar Orbiter rastreia origem de misteriosos ziguezagues magnéticos</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=solar-orbiter-tracks-origin-of-mysterious-magnetic-switchbacks</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=solar-orbiter-tracks-origin-of-mysterious-magnetic-switchbacks</guid>
+              <pubDate>Thu, 08 Oct 2026 09:00:00 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>A sonda Solar Orbiter, liderada pela Agência Espacial Europeia, voou através de uma torção em forma de S conhecida como “retrocesso” no campo magnético do vento solar. Ao capturar as impressões digitais das partículas indescritíveis dentro do ziguezague, o.</description>
+              <category>Física</category><category>ESA Space Science</category><category>Cosmos Week</category><category>Solar Orbiter rastreia origem de misteriosos ziguezagues magnéticos</category>
+              <source url="https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks">ESA Space Science</source>
+              <content:encoded>A sonda Solar Orbiter, liderada pela Agência Espacial Europeia, voou através de uma torção em forma de S conhecida como “retrocesso” no campo magnético do vento solar. Ao capturar as impressões digitais das partículas indescritíveis dentro do ziguezague, o Solar Orbiter rastreou. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém</content:encoded>
             </item>
   </channel>
 </rss>

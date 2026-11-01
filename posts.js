@@ -40,14 +40,14 @@ window.postsData = [
     "date": "01 nov 2026",
     "date_pt": "01 nov 2026",
     "date_en": "01 Nov 2026",
-    "time": "16h17",
-    "time_pt": "16h17",
-    "time_en": "16:17 UTC",
+    "time": "20h47",
+    "time_pt": "20h47",
+    "time_en": "20:47 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-11-01T16:17:21.299541+00:00",
-    "lastModifiedIso": "2026-11-01T16:17:21.299541+00:00",
+    "publishedIso": "2026-11-01T20:47:27.656717+00:00",
+    "lastModifiedIso": "2026-11-01T20:47:27.656717+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -145,14 +145,14 @@ window.postsData = [
     "date": "01 nov 2026",
     "date_pt": "01 nov 2026",
     "date_en": "01 Nov 2026",
-    "time": "16h17",
-    "time_pt": "16h17",
-    "time_en": "16:17 UTC",
+    "time": "20h47",
+    "time_pt": "20h47",
+    "time_en": "20:47 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-11-01T16:17:21.299507+00:00",
-    "lastModifiedIso": "2026-11-01T16:17:21.299507+00:00",
+    "publishedIso": "2026-11-01T20:47:27.656692+00:00",
+    "lastModifiedIso": "2026-11-01T20:47:27.656692+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -250,14 +250,14 @@ window.postsData = [
     "date": "01 nov 2026",
     "date_pt": "01 nov 2026",
     "date_en": "01 Nov 2026",
-    "time": "16h17",
-    "time_pt": "16h17",
-    "time_en": "16:17 UTC",
+    "time": "20h47",
+    "time_pt": "20h47",
+    "time_en": "20:47 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-11-01T16:17:21.299461+00:00",
-    "lastModifiedIso": "2026-11-01T16:17:21.299461+00:00",
+    "publishedIso": "2026-11-01T20:47:27.656660+00:00",
+    "lastModifiedIso": "2026-11-01T20:47:27.656660+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -355,14 +355,14 @@ window.postsData = [
     "date": "01 nov 2026",
     "date_pt": "01 nov 2026",
     "date_en": "01 Nov 2026",
-    "time": "16h17",
-    "time_pt": "16h17",
-    "time_en": "16:17 UTC",
+    "time": "20h47",
+    "time_pt": "20h47",
+    "time_en": "20:47 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-11-01T16:17:21.299421+00:00",
-    "lastModifiedIso": "2026-11-01T16:17:21.299421+00:00",
+    "publishedIso": "2026-11-01T20:47:27.656632+00:00",
+    "lastModifiedIso": "2026-11-01T20:47:27.656632+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -460,14 +460,14 @@ window.postsData = [
     "date": "01 nov 2026",
     "date_pt": "01 nov 2026",
     "date_en": "01 Nov 2026",
-    "time": "16h17",
-    "time_pt": "16h17",
-    "time_en": "16:17 UTC",
+    "time": "20h47",
+    "time_pt": "20h47",
+    "time_en": "20:47 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-11-01T16:17:21.299341+00:00",
-    "lastModifiedIso": "2026-11-01T16:17:21.299341+00:00",
+    "publishedIso": "2026-11-01T20:47:27.656576+00:00",
+    "lastModifiedIso": "2026-11-01T20:47:27.656576+00:00",
     "source": "NIH News Releases",
     "sourceDomain": "www.nih.gov",
     "sourceType": "agency",
@@ -528,6 +528,133 @@ window.postsData = [
   },
   {
     "id": 6,
+    "slug": "mars-dust-may-be-less-abrasive-than-lunar-dust-spacesuit-samples-suggest",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/mars-dust-may-be-less.jpg",
+    "inline_images": [
+      {
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/mars-dust-may-be-less.jpg",
+        "caption": "A poeira de Marte pode ser menos abrasiva que a poeira lunar, sugerem testes de trajes espaciais",
+        "caption_pt": "A poeira de Marte pode ser menos abrasiva que a poeira lunar, sugerem testes de trajes espaciais",
+        "caption_en": "Mars dust may be less abrasive than lunar dust, spacesuit tests suggest",
+        "alt": "A poeira de Marte pode ser menos abrasiva que a poeira lunar, sugerem testes de trajes espaciais",
+        "alt_pt": "A poeira de Marte pode ser menos abrasiva que a poeira lunar, sugerem testes de trajes espaciais",
+        "alt_en": "Mars dust may be less abrasive than lunar dust, spacesuit tests suggest"
+      },
+      {
+        "src": "https://scx1.b-cdn.net/gfx/profiles/b3013a0f7fc5c4a0.png",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "A poeira de Marte pode ser menos abrasiva que a poeira lunar, sugerem amostras de trajes espaciais",
+    "title_pt": "A poeira de Marte pode ser menos abrasiva que a poeira lunar, sugerem amostras de trajes espaciais",
+    "title_en": "Mars dust may be less abrasive than lunar dust, spacesuit samples suggest",
+    "sub": "Escondido entre seus sensores, câmeras e ferramentas de navegação, o rover Perseverance da NASA usa pequenas amostras de material de traje espacial. Um rover não precisa de um.",
+    "sub_pt": "Escondido entre seus sensores, câmeras e ferramentas de navegação, o rover Perseverance da NASA usa pequenas amostras de material de traje espacial. Um rover não precisa de um.",
+    "sub_en": "Tucked away among its sensors, cameras and navigation tools, NASA's Mars rover Perseverance is wearing small swatches of spacesuit material. A rover doesn't need a spacesuit, but.",
+    "excerpt": "Escondido entre seus sensores, câmeras e ferramentas de navegação, o rover Perseverance da NASA usa pequenas amostras de material de traje espacial. Um rover não precisa de um traje espacial, mas as amostras, cada uma com menos de 2,5 centímetros quadrados de.",
+    "excerpt_pt": "Escondido entre seus sensores, câmeras e ferramentas de navegação, o rover Perseverance da NASA usa pequenas amostras de material de traje espacial. Um rover não precisa de um traje espacial, mas as amostras, cada uma com menos de 2,5 centímetros quadrados de.",
+    "excerpt_en": "Tucked away among its sensors, cameras and navigation tools, NASA's Mars rover Perseverance is wearing small swatches of spacesuit material. A rover doesn't need a spacesuit, but the swatches, each less than a square inch in size, serve an.",
+    "body": "<p>Escondido entre seus sensores, câmeras e ferramentas de navegação, o rover Perseverance da NASA usa pequenas amostras de material de traje espacial. Um rover não precisa de um traje espacial, mas as amostras, cada uma com menos de 2,5 centímetros quadrados de tamanho, servem. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Escondido entre seus sensores, câmeras e ferramentas de navegação, o rover Perseverance da NASA usa pequenas amostras de material de traje espacial. NASA/JPL-Caltech Escondido entre seus sensores, câmeras e ferramentas de navegação, o rover Perseverance da NASA usa pequenas amostras de material de traje espacial.</p><p>Um rover não precisa de um traje espacial, mas as amostras, cada uma com menos de 6,5 centímetros quadrados de tamanho, servem a um propósito importante: ajudam os cientistas a. Marte é um lugar muito empoeirado&quot;, disse Scott VanBommel, professor assistente de pesquisa em ciências terrestres, ambientais e planetárias na WashU Arts &amp; Sciences.</p><p>Os astronautas que vão a Marte terão de estar preparados.&quot; VanBommel é o autor principal de um novo artigo publicado na Proceedings of the National Academy of Sciences que examina. Nas missões Apollo, que foram muito mais curtas do que qualquer visita potencial a Marte, a poeira lunar arranhou as viseiras e degradou os trajes espaciais.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-10-mars-abrasive-lunar-spacesuit-samples.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Escondido entre seus sensores, câmeras e ferramentas de navegação, o rover Perseverance da NASA usa pequenas amostras de material de traje espacial. Um rover não precisa de um traje espacial, mas as amostras, cada uma com menos de 2,5 centímetros quadrados de tamanho, servem. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Escondido entre seus sensores, câmeras e ferramentas de navegação, o rover Perseverance da NASA usa pequenas amostras de material de traje espacial. NASA/JPL-Caltech Escondido entre seus sensores, câmeras e ferramentas de navegação, o rover Perseverance da NASA usa pequenas amostras de material de traje espacial.</p><p>Um rover não precisa de um traje espacial, mas as amostras, cada uma com menos de 6,5 centímetros quadrados de tamanho, servem a um propósito importante: ajudam os cientistas a. Marte é um lugar muito empoeirado&quot;, disse Scott VanBommel, professor assistente de pesquisa em ciências terrestres, ambientais e planetárias na WashU Arts &amp; Sciences.</p><p>Os astronautas que vão a Marte terão de estar preparados.&quot; VanBommel é o autor principal de um novo artigo publicado na Proceedings of the National Academy of Sciences que examina. Nas missões Apollo, que foram muito mais curtas do que qualquer visita potencial a Marte, a poeira lunar arranhou as viseiras e degradou os trajes espaciais.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-10-mars-abrasive-lunar-spacesuit-samples.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Tucked away among its sensors, cameras and navigation tools, NASA&#x27;s Mars rover Perseverance is wearing small swatches of spacesuit material. A rover doesn&#x27;t need a spacesuit, but the swatches, each less than a square inch in size, serve an. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. Tucked away among its sensors, cameras and navigation tools, NASA&#x27;s Mars rover Perseverance is wearing small swatches of spacesuit material. NASA/JPL-Caltech Tucked away among its sensors, cameras and navigation tools, NASA&#x27;s Mars rover Perseverance is wearing small swatches of spacesuit material.</p><p>A rover doesn&#x27;t need a spacesuit, but the swatches, each less than a square inch (6.5 square centimeters) in size, serve an important purpose: They&#x27;re helping scientists assess. Mars is a very dusty place,&quot; said Scott VanBommel, a research assistant professor of earth, environmental and planetary sciences in WashU Arts &amp; Sciences.</p><p>Astronauts to Mars will have to be prepared.&quot; VanBommel is the lead author of a new paper in the Proceedings of the National Academy of Sciences that examines how dust interacts. On the Apollo missions, which were far shorter than any potential visit to Mars, lunar dust scratched visors and degraded spacesuits.</p><p>Closer inspection revealed that particles on Mars were much smoother than the jagged grains found on the moon, suggesting they may be less likely to scratch equipment or irritate. VanBommel developed a method to estimate the size of each particle, some of which were ultrafine specks measuring as small as 100 nanometers (one ten-thousandth of a millimeter).</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>On Earth, ultrafine particles from smoke and other forms of air pollution pose a significant health threat because they can penetrate deep into the lungs and enter the bloodstream. Perseverance and previous rovers have given researchers remarkable insights into the history and current conditions on Mars.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-10-mars-abrasive-lunar-spacesuit-samples.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Escondido entre seus sensores, câmeras e ferramentas de navegação, o rover Perseverance da NASA usa pequenas amostras de material de traje espacial.",
+      "Dado-chave: Escondido entre seus sensores, câmeras e ferramentas de navegação, o rover Perseverance da NASA usa pequenas amostras de material de traje.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Escondido entre seus sensores, câmeras e ferramentas de navegação, o rover Perseverance da NASA usa pequenas amostras de material de traje espacial.",
+      "Dado-chave: Escondido entre seus sensores, câmeras e ferramentas de navegação, o rover Perseverance da NASA usa pequenas amostras de material de traje.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Tucked away among its sensors, cameras and navigation tools, NASA's Mars rover Perseverance is wearing small swatches of spacesuit material. A rover.",
+      "Key detail: Tucked away among its sensors, cameras and navigation tools, NASA's Mars rover Perseverance is wearing small swatches of spacesuit material.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "01 nov 2026",
+    "date_pt": "01 nov 2026",
+    "date_en": "01 Nov 2026",
+    "time": "20h00",
+    "time_pt": "20h00",
+    "time_en": "20:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-11-01T20:00:01+00:00",
+    "lastModifiedIso": "2026-11-01T20:00:01+00:00",
+    "source": "Phys.org Space",
+    "sourceDomain": "phys.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astronomia",
+      "Phys.org Space",
+      "Cosmos Week",
+      "A poeira de Marte pode ser menos abrasiva que a poeira lunar",
+      "sugerem amostras de trajes espaciais"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "Phys.org Space",
+      "Cosmos Week",
+      "A poeira de Marte pode ser menos abrasiva que a poeira lunar",
+      "sugerem amostras de trajes espaciais"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "Phys.org Space",
+      "Cosmos Week",
+      "Mars dust may be less abrasive than lunar dust",
+      "suggest spacesuit samples"
+    ],
+    "srcUrl": "https://phys.org/news/2026-10-mars-abrasive-lunar-spacesuit-samples.html",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=mars-dust-may-be-less-abrasive-than-lunar-dust-spacesuit-samples-suggest",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=mars-dust-may-be-less-abrasive-than-lunar-dust-spacesuit-samples-suggest",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=mars-dust-may-be-less-abrasive-than-lunar-dust-spacesuit-samples-suggest&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": true,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 71,
+    "scoreBreakdown": {
+      "source": 76,
+      "evidence": 82,
+      "relevance": 70,
+      "accessibility": 60,
+      "novelty": 55
+    }
+  },
+  {
+    "id": 7,
     "slug": "heavy-hydrogen-in-3i-atlas-s-methane-points-to-a-frigid-birthplace",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -646,7 +773,7 @@ window.postsData = [
       "en-US"
     ],
     "featured": false,
-    "trending": true,
+    "trending": false,
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
@@ -660,7 +787,7 @@ window.postsData = [
     }
   },
   {
-    "id": 7,
+    "id": 8,
     "slug": "did-comets-seed-life-on-earth-a-new-study-says-probably-not",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -775,7 +902,7 @@ window.postsData = [
     }
   },
   {
-    "id": 8,
+    "id": 9,
     "slug": "do-black-holes-split-into-smaller-black-holes",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -890,7 +1017,7 @@ window.postsData = [
     }
   },
   {
-    "id": 9,
+    "id": 10,
     "slug": "did-the-viking-2-lander-detect-marsquakes-in-1976",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -1000,127 +1127,6 @@ window.postsData = [
       "source": 72,
       "evidence": 88,
       "relevance": 80,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 10,
-    "slug": "sun-news-november-1-the-day-the-sun-wasn-t-done-yet",
-    "cat": "Ciências da Terra",
-    "catCls": "terra",
-    "img": "https://earthsky.org/upl/2026/11/X28-coronal-mass-ejection-nov4-2003-SDO-800x802.png",
-    "inline_images": [
-      {
-        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Notícias do sol, 1º de novembro: o dia em que o sol ainda não havia nascido",
-    "title_pt": "Notícias do sol, 1º de novembro: o dia em que o sol ainda não havia nascido",
-    "title_en": "Sun news November 1: The day the sun wasn’t done yet",
-    "sub": "Há 23 anos, a Terra recuperou o fôlego entre as tempestades de Halloween. Mas o sol tinha rajadas maiores reservadas. Fique atento! A postagem Notícias do Sol, 1º de novembro: O.",
-    "sub_pt": "Há 23 anos, a Terra recuperou o fôlego entre as tempestades de Halloween. Mas o sol tinha rajadas maiores reservadas. Fique atento! A postagem Notícias do Sol, 1º de novembro: O.",
-    "sub_en": "23 years ago today, Earth caught its breath between Halloween storms. But the sun had bigger blasts in store. Stay tuned! The post Sun news November 1: The day the sun wasn’t done.",
-    "excerpt": "Há 23 anos, a Terra recuperou o fôlego entre as tempestades de Halloween. Mas o sol tinha rajadas maiores reservadas. Fique atento! A postagem Notícias do Sol, 1º de novembro: O dia em que o sol ainda não nasceu apareceu pela primeira vez no EarthSky.",
-    "excerpt_pt": "Há 23 anos, a Terra recuperou o fôlego entre as tempestades de Halloween. Mas o sol tinha rajadas maiores reservadas. Fique atento! A postagem Notícias do Sol, 1º de novembro: O dia em que o sol ainda não nasceu apareceu pela primeira vez no EarthSky.",
-    "excerpt_en": "23 years ago today, Earth caught its breath between Halloween storms. But the sun had bigger blasts in store. Stay tuned! The post Sun news November 1: The day the sun wasn’t done yet first appeared on EarthSky.",
-    "body": "<p>Há 23 anos, a Terra recuperou o fôlego entre as tempestades de Halloween. Mas o sol tinha rajadas maiores reservadas. Fique atento! A postagem Notícias do Sol, 1º de novembro: O dia em que o sol ainda não nasceu apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. A postagem Notícias do Sol de 1º de novembro: O dia em que o sol ainda não apareceu apareceu pela primeira vez no EarthSky. Os meteorologistas rastrearam 2 regiões numeradas de manchas solares no disco voltado para a Terra.</p><p>Últimas 24 horas em clima espacial Vento solar: A velocidade do vento solar aumentou acentuadamente como um buraco coronal de alta velocidade conectado à Terra. A atividade geomagnética escalou para níveis de tempestade G2 (moderada) devido ao início de um fluxo de alta velocidade de um buraco coronal.</p><p>Previsão Sol-Terra Previsão de atividade de flares: Os meteorologistas esperam atividade solar muito baixa a baixa até 3 de novembro, com possibilidade de erupções isoladas de. O primeiro ocorreu após um surto de X17 em 28 de outubro de 2003.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Há 23 anos, a Terra recuperou o fôlego entre as tempestades de Halloween. Mas o sol tinha rajadas maiores reservadas. Fique atento! A postagem Notícias do Sol, 1º de novembro: O dia em que o sol ainda não nasceu apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. A postagem Notícias do Sol de 1º de novembro: O dia em que o sol ainda não apareceu apareceu pela primeira vez no EarthSky. Os meteorologistas rastrearam 2 regiões numeradas de manchas solares no disco voltado para a Terra.</p><p>Últimas 24 horas em clima espacial Vento solar: A velocidade do vento solar aumentou acentuadamente como um buraco coronal de alta velocidade conectado à Terra. A atividade geomagnética escalou para níveis de tempestade G2 (moderada) devido ao início de um fluxo de alta velocidade de um buraco coronal.</p><p>Previsão Sol-Terra Previsão de atividade de flares: Os meteorologistas esperam atividade solar muito baixa a baixa até 3 de novembro, com possibilidade de erupções isoladas de. O primeiro ocorreu após um surto de X17 em 28 de outubro de 2003.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>23 years ago today, Earth caught its breath between Halloween storms. But the sun had bigger blasts in store. Stay tuned! The post Sun news November 1: The day the sun wasn’t done yet first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The day the sun wasn’t done yet first appeared on EarthSky. Forecasters tracked 2 numbered sunspot regions on the Earth-facing disc.</p><p>Past 24 hours in space weather Solar wind: Solar wind speeds climbed sharply as a coronal hole high-speed stream connected with Earth. Geomagnetic activity escalated to G2 (Moderate) storm levels due to the onset of a coronal hole high-speed stream.</p><p>Sun-Earth forecast Flare activity forecast: Forecasters expect very low to low solar activity through November 3, with a chance of isolated C-class flares. The first followed an X17 flare on October 28, 2003.</p><p>Each one sparked a G5 (extreme) geomagnetic storm at Earth. In fact, NASA Goddard’s mission operations team later estimated that 59% of NASA’s Earth and space science missions felt the 2003 storms on the sun in some way.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Japan’s ADEOS-II (Midori-2) Earth-observing satellite failed on October 25, during an earlier storm, and never recovered. NASA switched off or safed Aqua, Terra, Landsat, TOMS and TRMM on October 29 to protect them.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Há 23 anos, a Terra recuperou o fôlego entre as tempestades de Halloween. Mas o sol tinha rajadas maiores reservadas. Fique atento! A postagem.",
-      "Dado-chave: A postagem Notícias do Sol de 1º de novembro: O dia em que o sol ainda não apareceu apareceu pela primeira vez no EarthSky.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Há 23 anos, a Terra recuperou o fôlego entre as tempestades de Halloween. Mas o sol tinha rajadas maiores reservadas. Fique atento! A postagem.",
-      "Dado-chave: A postagem Notícias do Sol de 1º de novembro: O dia em que o sol ainda não apareceu apareceu pela primeira vez no EarthSky.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: 23 years ago today, Earth caught its breath between Halloween storms. But the sun had bigger blasts in store. Stay tuned! The post Sun news November.",
-      "Key detail: The day the sun wasn’t done yet first appeared on EarthSky.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "01 nov 2026",
-    "date_pt": "01 nov 2026",
-    "date_en": "01 Nov 2026",
-    "time": "11h43",
-    "time_pt": "11h43",
-    "time_en": "11:43 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-11-01T11:43:45+00:00",
-    "lastModifiedIso": "2026-11-01T11:43:45+00:00",
-    "source": "EarthSky",
-    "sourceDomain": "earthsky.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Ciências da Terra",
-      "EarthSky",
-      "Cosmos Week",
-      "Notícias do sol",
-      "1º de novembro",
-      "o dia em que o sol ainda não havia nascido"
-    ],
-    "keywords_pt": [
-      "Ciências da Terra",
-      "EarthSky",
-      "Cosmos Week",
-      "Notícias do sol",
-      "1º de novembro",
-      "o dia em que o sol ainda não havia nascido"
-    ],
-    "keywords_en": [
-      "Earth Sciences",
-      "EarthSky",
-      "Cosmos Week",
-      "Sun News",
-      "November 1st",
-      "the day the sun hadn't yet risen"
-    ],
-    "srcUrl": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=sun-news-november-1-the-day-the-sun-wasn-t-done-yet",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=sun-news-november-1-the-day-the-sun-wasn-t-done-yet",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=sun-news-november-1-the-day-the-sun-wasn-t-done-yet&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 68,
-    "scoreBreakdown": {
-      "source": 72,
-      "evidence": 82,
-      "relevance": 62,
       "accessibility": 60,
       "novelty": 55
     }
@@ -1375,142 +1381,6 @@ window.postsData = [
   },
   {
     "id": 13,
-    "slug": "science-release-hubble-details-early-galaxy-transforming-neighbourhood",
-    "cat": "Astronomia",
-    "catCls": "astronomia",
-    "img": "https://cdn.esahubble.org/archives/images/screen/heic2609a.jpg",
-    "inline_images": [
-      {
-        "src": "https://cdn.esahubble.org/archives/images/newsfeature/heic2609a.jpg",
-        "caption": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
-        "caption_pt": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
-        "caption_en": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)",
-        "alt": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
-        "alt_pt": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
-        "alt_en": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)"
-      },
-      {
-        "src": "https://cdn.esahubble.org/archives/images/news/heic2609a.jpg",
-        "caption": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
-        "caption_pt": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
-        "caption_en": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)",
-        "alt": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
-        "alt_pt": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
-        "alt_en": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)"
-      },
-      {
-        "src": "https://cdn.esahubble.org/archives/images/news/heic2609b.jpg",
-        "caption": "Campo Galaxy de MXDFz4.4 (imagem limpa do Hubble e Webb)",
-        "caption_pt": "Campo Galaxy de MXDFz4.4 (imagem limpa do Hubble e Webb)",
-        "caption_en": "Galaxy field of MXDFz4.4 (Hubble and Webb clean image)",
-        "alt": "Campo Galaxy de MXDFz4.4 (imagem limpa do Hubble e Webb)",
-        "alt_pt": "Campo Galaxy de MXDFz4.4 (imagem limpa do Hubble e Webb)",
-        "alt_en": "Galaxy field of MXDFz4.4 (Hubble and Webb clean image)"
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Lançamento científico: Hubble detalha a vizinhança em transformação da galáxia inicial",
-    "title_pt": "Lançamento científico: Hubble detalha a vizinhança em transformação da galáxia inicial",
-    "title_en": "Science Release: Hubble details early galaxy transforming neighbourhood",
-    "sub": "Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que existiu apenas 1,4 mil milhões de.",
-    "sub_pt": "Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que existiu apenas 1,4 mil milhões de.",
-    "sub_en": "Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4 billion years after the Big.",
-    "excerpt": "Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que existiu apenas 1,4 mil milhões de anos após o Big Bang. Essa galáxia contém estrelas jovens fortemente agrupadas.",
-    "excerpt_pt": "Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que existiu apenas 1,4 mil milhões de anos após o Big Bang. Essa galáxia contém estrelas jovens fortemente agrupadas.",
-    "excerpt_en": "Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4 billion years after the Big Bang. That galaxy contains tightly clustered young stars that.",
-    "body": "<p>Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que existiu apenas 1,4 mil milhões de anos após o Big Bang. Essa galáxia contém estrelas jovens fortemente agrupadas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Um artigo que descreve esta descoberta foi publicado em 23 de junho de 2026 no Astrophysical Journal. À medida que esta luz viajou durante mais de 12 mil milhões de anos para chegar ao Hubble, o espaço expandiu-se e a luz esticou-se ou desviou-se para o vermelho em luz visível.</p><p>A cobertura do comprimento de onda do Hubble, combinada com a sensibilidade e resolução do seu ponto de vista baseado no espaço, torna-o no único telescópio capaz de capturar esta. “Os astrónomos encontraram muitas galáxias que existiam neste ponto da história do Universo, mas não detetámos fotões ionizantes de nenhuma delas, tornando o MXDFz4.4 único”.</p><p>As longas exposições do Hubble, extraídas de várias pesquisas existentes, revelaram que as estrelas jovens e massivas da galáxia são a fonte da luz ultravioleta, que clareou o.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2609/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que existiu apenas 1,4 mil milhões de anos após o Big Bang. Essa galáxia contém estrelas jovens fortemente agrupadas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Um artigo que descreve esta descoberta foi publicado em 23 de junho de 2026 no Astrophysical Journal. À medida que esta luz viajou durante mais de 12 mil milhões de anos para chegar ao Hubble, o espaço expandiu-se e a luz esticou-se ou desviou-se para o vermelho em luz visível.</p><p>A cobertura do comprimento de onda do Hubble, combinada com a sensibilidade e resolução do seu ponto de vista baseado no espaço, torna-o no único telescópio capaz de capturar esta. “Os astrónomos encontraram muitas galáxias que existiam neste ponto da história do Universo, mas não detetámos fotões ionizantes de nenhuma delas, tornando o MXDFz4.4 único”.</p><p>As longas exposições do Hubble, extraídas de várias pesquisas existentes, revelaram que as estrelas jovens e massivas da galáxia são a fonte da luz ultravioleta, que clareou o.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2609/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4 billion years after the Big Bang. That galaxy contains tightly clustered young stars that. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. A paper describing this discovery was published 23 June 2026 in the Astrophysical Journal. As this light traveled for over 12 billion years to reach Hubble, space expanded, and the light stretched or redshifted into visible light.</p><p>Hubble’s wavelength coverage, combined with the sensitivity and resolution of its space-based vantage point, makes it the only telescope capable of capturing this ultraviolet. “Astronomers have found many galaxies that existed at this point in the history of the Universe, but we haven’t detected ionising photons from any of them, making MXDFz4.4 one of.</p><p>Hubble’s long exposures, pulled from several existing surveys, revealed that the galaxy’s young, massive stars are the source of the ultraviolet light, which cleared the. These conclusions are supported by survey data taken by the NASA/ESA/CSA James Webb Space Telescope in near-infrared light and the MUSE eXtremely Deep Field or MXDF, the galaxy’s.</p><p>Before this discovery, researchers had only identified a galaxy emitting ionised light from a time when the Universe was 1.6 billion years old. These insights into MXDFz4.4 were possible thanks to the powerful combination of Hubble, Webb and the VLT,&quot; said co-author Alexander Beckett, a postdoctoral fellow at the.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>In 2023, researchers using Webb showed that galaxies’ stars emitted enough light to heat and ionise the gas around them 900 million years after the Big Bang. This was a breakthrough, but astronomers need galaxies like MXDFz4.4 to fully explain how the process happened, since it shows how the high-energy light from young stars managed.</p><p>Because the account originates with ESA Hubble News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2609/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que.",
-      "Dado-chave: Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que.",
-      "Dado-chave: Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4.",
-      "Key detail: Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "23 jun 2026",
-    "date_pt": "23 jun 2026",
-    "date_en": "23 Jun 2026",
-    "time": "14h00",
-    "time_pt": "14h00",
-    "time_en": "14:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-06-23T14:00:00+00:00",
-    "lastModifiedIso": "2026-06-23T14:00:00+00:00",
-    "source": "ESA Hubble News",
-    "sourceDomain": "esahubble.org",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Astronomia",
-      "ESA Hubble News",
-      "Cosmos Week",
-      "Lançamento científico",
-      "Hubble detalha a vizinhança em transformação da galáxia inicial"
-    ],
-    "keywords_pt": [
-      "Astronomia",
-      "ESA Hubble News",
-      "Cosmos Week",
-      "Lançamento científico",
-      "Hubble detalha a vizinhança em transformação da galáxia inicial"
-    ],
-    "keywords_en": [
-      "Astronomy",
-      "ESA Hubble News",
-      "Cosmos Week",
-      "Scientific launch",
-      "Hubble Details Early Galaxy's Changing Neighborhood"
-    ],
-    "srcUrl": "https://esahubble.org/news/heic2609/",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-details-early-galaxy-transforming-neighbourhood",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-details-early-galaxy-transforming-neighbourhood",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-details-early-galaxy-transforming-neighbourhood&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 79,
-    "scoreBreakdown": {
-      "source": 89,
-      "evidence": 88,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 46
-    }
-  },
-  {
-    "id": 14,
     "slug": "science-release-hubble-identifies-one-of-darkest-known-galaxies",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1646,7 +1516,7 @@ window.postsData = [
     }
   },
   {
-    "id": 15,
+    "id": 14,
     "slug": "cosmic-microwave-background-offers-evidence-of-gas-flowing-in-galaxy-clusters",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1782,7 +1652,7 @@ window.postsData = [
     }
   },
   {
-    "id": 16,
+    "id": 15,
     "slug": "hera-probe-sees-asteroid-pair-separately-for-first-time",
     "cat": "Cosmologia",
     "catCls": "cosmologia",
@@ -1910,7 +1780,7 @@ window.postsData = [
     }
   },
   {
-    "id": 17,
+    "id": 16,
     "slug": "science-release-hubble-discovers-first-of-star-cluster-s-missing-black-holes",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2046,7 +1916,7 @@ window.postsData = [
     }
   },
   {
-    "id": 18,
+    "id": 17,
     "slug": "this-gamma-ray-burst-wasn-t-dim-it-was-just-misunderstood",
     "cat": "Astrofísica",
     "catCls": "astrofisica",
@@ -2178,11 +2048,11 @@ window.postsData = [
       "evidence": 88,
       "relevance": 88,
       "accessibility": 60,
-      "novelty": 52
+      "novelty": 49
     }
   },
   {
-    "id": 19,
+    "id": 18,
     "slug": "this-oddball-reflective-lava-world-is-challenging-to-understand",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2305,142 +2175,9 @@ window.postsData = [
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 76,
-    "scoreBreakdown": {
-      "source": 76,
-      "evidence": 82,
-      "relevance": 88,
-      "accessibility": 60,
-      "novelty": 55
-    }
-  },
-  {
-    "id": 20,
-    "slug": "this-ancient-meteorite-hints-at-mars-warm-wet-past",
-    "cat": "Exoplanetas",
-    "catCls": "exoplanetas",
-    "img": "https://www.universetoday.com/article_images/Desert_sun_hero_20261030_165351.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.universetoday.com/article_images/Teg_001_1_20261030_183838.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://www.universetoday.com/article_images/Teghaza_all_20261030_175715.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      },
-      {
-        "src": "https://www.universetoday.com/article_images/Teg_001_interior_20261030_184846.jpg",
-        "caption": "Esta imagem mostra uma seção cortada do Teg001, com alguns de seus recursos e conteúdos rotulados. A pombonite (PgT) é particularmente relevante porque contém magnésio alterado por fluido. \"Os interiores ricos em Mg da pombonite foram fortemente alterados.",
-        "caption_pt": "Esta imagem mostra uma seção cortada do Teg001, com alguns de seus recursos e conteúdos rotulados. A pombonite (PgT) é particularmente relevante porque contém magnésio alterado por fluido. \"Os interiores ricos em Mg da pombonite foram fortemente alterados.",
-        "caption_en": "This image shows a cut section of Teg001, with some of its features and contents labelled. Pigeonite (PgT) is particularly relevant, because it hosts fluid-altered Magnesium. \"The Mg-rich interiors of pigeonite have been heavily altered by.",
-        "alt": "Esta imagem mostra uma seção cortada do Teg001, com alguns de seus recursos e conteúdos rotulados. A pombonite (PgT) é particularmente relevante porque contém magnésio alterado por fluido. \"Os interiores ricos em Mg da pombonite foram fortemente alterados.",
-        "alt_pt": "Esta imagem mostra uma seção cortada do Teg001, com alguns de seus recursos e conteúdos rotulados. A pombonite (PgT) é particularmente relevante porque contém magnésio alterado por fluido. \"Os interiores ricos em Mg da pombonite foram fortemente alterados.",
-        "alt_en": "This image shows a cut section of Teg001, with some of its features and contents labelled. Pigeonite (PgT) is particularly relevant, because it hosts fluid-altered Magnesium. \"The Mg-rich interiors of pigeonite have been heavily altered by."
-      }
-    ],
-    "video": null,
-    "audio": null,
-    "title": "Este antigo meteorito sugere o passado quente e úmido de Marte",
-    "title_pt": "Este antigo meteorito sugere o passado quente e úmido de Marte",
-    "title_en": "This Ancient Meteorite Hints at Mars' Warm, Wet Past",
-    "sub": "Os antigos meteoritos marcianos são como cápsulas do tempo do passado do planeta. Eles são entregues a nós por impactos que os lançam no espaço, onde alguns deles chegam à Terra.",
-    "sub_pt": "Os antigos meteoritos marcianos são como cápsulas do tempo do passado do planeta. Eles são entregues a nós por impactos que os lançam no espaço, onde alguns deles chegam à Terra.",
-    "sub_en": "Ancient Martian meteorites are like time-capsules from the planet's past. They're delivered to us by impacts that launch them into space, where some of them find their way to.",
-    "excerpt": "Os antigos meteoritos marcianos são como cápsulas do tempo do passado do planeta. Eles são entregues a nós por impactos que os lançam no espaço, onde alguns deles chegam à Terra. Um meteorito recentemente descoberto encontrado no Saara.",
-    "excerpt_pt": "Os antigos meteoritos marcianos são como cápsulas do tempo do passado do planeta. Eles são entregues a nós por impactos que os lançam no espaço, onde alguns deles chegam à Terra. Um meteorito recentemente descoberto encontrado no Saara.",
-    "excerpt_en": "Ancient Martian meteorites are like time-capsules from the planet's past. They're delivered to us by impacts that launch them into space, where some of them find their way to Earth. One recently discovered meteorite found in the Sahara.",
-    "body": "<p>Os antigos meteoritos marcianos são como cápsulas do tempo do passado do planeta. Eles são entregues a nós por impactos que os lançam no espaço, onde alguns deles chegam à Terra. Um meteorito recentemente descoberto encontrado no Saara. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Eles são entregues a nós por impactos que os lançam no espaço, onde alguns deles chegam à Terra. Um meteorito marciano chamado Black Beauty estabeleceu o padrão para meteoritos antigos de Marte quando foi encontrado em 2011.</p><p>Partes dela têm cerca de 4,43 mil milhões de anos, e Marte tem cerca de 4,5, talvez 4,6 mil milhões de anos. Uma nova pesquisa descobriu algumas propriedades incomuns no Teg 001, e elas são apresentadas em uma nova pesquisa.</p><p>A pesquisa é intitulada “Um meteorito marciano que se formou há ≳4,1 bilhões de anos, amostra a crosta e o manto primitivos de Marte”, e foi publicada na revista Science. O autor principal é Yang Liu, do Laboratório de Propulsão a Jato da NASA no Instituto de Tecnologia da Califórnia.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/this-ancient-meteorite-hints-at-mars-warm-wet-past\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Os antigos meteoritos marcianos são como cápsulas do tempo do passado do planeta. Eles são entregues a nós por impactos que os lançam no espaço, onde alguns deles chegam à Terra. Um meteorito recentemente descoberto encontrado no Saara. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Eles são entregues a nós por impactos que os lançam no espaço, onde alguns deles chegam à Terra. Um meteorito marciano chamado Black Beauty estabeleceu o padrão para meteoritos antigos de Marte quando foi encontrado em 2011.</p><p>Partes dela têm cerca de 4,43 mil milhões de anos, e Marte tem cerca de 4,5, talvez 4,6 mil milhões de anos. Uma nova pesquisa descobriu algumas propriedades incomuns no Teg 001, e elas são apresentadas em uma nova pesquisa.</p><p>A pesquisa é intitulada “Um meteorito marciano que se formou há ≳4,1 bilhões de anos, amostra a crosta e o manto primitivos de Marte”, e foi publicada na revista Science. O autor principal é Yang Liu, do Laboratório de Propulsão a Jato da NASA no Instituto de Tecnologia da Califórnia.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/this-ancient-meteorite-hints-at-mars-warm-wet-past\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Ancient Martian meteorites are like time-capsules from the planet&#x27;s past. They&#x27;re delivered to us by impacts that launch them into space, where some of them find their way to Earth. One recently discovered meteorite found in the Sahara. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. They&#x27;re delivered to us by impacts that launch them into space, where some of them find their way to Earth. A Martian meteorite named Black Beauty set the standard for ancient meteorites from Mars when it was found in 2011.</p><p>Portions of it are about 4.43 billion years old, and Mars is about 4.5, maybe 4.6 billion years old. New research uncovered some unusual properties in Teg 001, and they&#x27;re presented in new research.</p><p>The research is titled &quot; A Martian meteorite that formed ≳4.1 billion years ago samples Mars’ early crust and mantle,&quot; and it&#x27;s published in the journal Science. The lead author is Yang Liu from NASA&#x27;s Jet Propulsion Laboratory at the California Institute of Technology.</p><p>This sample probably came from an environment on Mars that was more Earth-like.&quot;, Carl Agee, University of New Mexico. The high δ 18O value of Teg 001 probably reflects assimilation of δ18O-rich crustal material that had interacted with surficial fluids, or direct reaction of the magma with.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>All of that was consistent with it being from a time on Mars, from the very, very beginning when the Martian environment was different from the time in which most of the Martian. This sample probably came from an environment on Mars that was more Earth-like.” Mars&#x27; early, potentially more Earth-like time period is called the Pre-Noachian period.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/this-ancient-meteorite-hints-at-mars-warm-wet-past\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Os antigos meteoritos marcianos são como cápsulas do tempo do passado do planeta. Eles são entregues a nós por impactos que os lançam no espaço, onde.",
-      "Dado-chave: Eles são entregues a nós por impactos que os lançam no espaço, onde alguns deles chegam à Terra.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Os antigos meteoritos marcianos são como cápsulas do tempo do passado do planeta. Eles são entregues a nós por impactos que os lançam no espaço, onde.",
-      "Dado-chave: Eles são entregues a nós por impactos que os lançam no espaço, onde alguns deles chegam à Terra.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Ancient Martian meteorites are like time-capsules from the planet's past. They're delivered to us by impacts that launch them into space, where some.",
-      "Key detail: They're delivered to us by impacts that launch them into space, where some of them find their way to Earth.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "30 out 2026",
-    "date_pt": "30 out 2026",
-    "date_en": "30 Oct 2026",
-    "time": "19h14",
-    "time_pt": "19h14",
-    "time_en": "19:14 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-10-30T19:14:01+00:00",
-    "lastModifiedIso": "2026-10-30T19:14:01+00:00",
-    "source": "Universe Today",
-    "sourceDomain": "www.universetoday.com",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Exoplanetas",
-      "Universe Today",
-      "Cosmos Week",
-      "Este antigo meteorito sugere o passado quente e úmido de Marte"
-    ],
-    "keywords_pt": [
-      "Exoplanetas",
-      "Universe Today",
-      "Cosmos Week",
-      "Este antigo meteorito sugere o passado quente e úmido de Marte"
-    ],
-    "keywords_en": [
-      "Exoplanets",
-      "Universe Today",
-      "Cosmos Week",
-      "This ancient meteorite hints at Mars' hot, wet past"
-    ],
-    "srcUrl": "https://www.universetoday.com/articles/this-ancient-meteorite-hints-at-mars-warm-wet-past",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=this-ancient-meteorite-hints-at-mars-warm-wet-past",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=this-ancient-meteorite-hints-at-mars-warm-wet-past",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=this-ancient-meteorite-hints-at-mars-warm-wet-past&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
     "score": 75,
     "scoreBreakdown": {
-      "source": 73,
+      "source": 76,
       "evidence": 82,
       "relevance": 88,
       "accessibility": 60,
@@ -2448,7 +2185,7 @@ window.postsData = [
     }
   },
   {
-    "id": 21,
+    "id": 19,
     "slug": "supersonic-waves-could-explain-the-strange-orbits-of-hot-jupiters-and-neptunes",
     "cat": "Exoplanetas",
     "catCls": "exoplanetas",
@@ -2577,27 +2314,18 @@ window.postsData = [
       "evidence": 82,
       "relevance": 88,
       "accessibility": 60,
-      "novelty": 49
+      "novelty": 46
     }
   },
   {
-    "id": 22,
-    "slug": "nasa-s-tracers-first-results-offer-peek-into-violent-magnetic-process",
-    "cat": "Física",
-    "catCls": "fisica",
-    "img": "https://scx1.b-cdn.net/csz/news/tmb/2026/nasas-tracers-first-re.jpg",
+    "id": 20,
+    "slug": "this-ancient-meteorite-hints-at-mars-warm-wet-past",
+    "cat": "Exoplanetas",
+    "catCls": "exoplanetas",
+    "img": "https://www.universetoday.com/article_images/Desert_sun_hero_20261030_165351.jpg",
     "inline_images": [
       {
-        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/nasas-tracers-first-re.jpg",
-        "caption": "Os primeiros resultados do TRACERS da NASA oferecem uma visão do processo magnético violento",
-        "caption_pt": "Os primeiros resultados do TRACERS da NASA oferecem uma visão do processo magnético violento",
-        "caption_en": "NASA's TRACERS First Results Offers Peek into Violent Magnetic Process",
-        "alt": "Os primeiros resultados do TRACERS da NASA oferecem uma visão do processo magnético violento",
-        "alt_pt": "Os primeiros resultados do TRACERS da NASA oferecem uma visão do processo magnético violento",
-        "alt_en": "NASA's TRACERS First Results Offers Peek into Violent Magnetic Process"
-      },
-      {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/8ce6367c74b3ddb6.png",
+        "src": "https://www.universetoday.com/article_images/Teg_001_1_20261030_183838.jpg",
         "caption": "",
         "caption_pt": "",
         "caption_en": "",
@@ -2606,70 +2334,66 @@ window.postsData = [
         "alt_en": ""
       },
       {
-        "src": "https://scx1.b-cdn.net/gfx/profiles/2fa26e993b2d1988.png",
+        "src": "https://www.universetoday.com/article_images/Teghaza_all_20261030_175715.jpg",
         "caption": "",
         "caption_pt": "",
         "caption_en": "",
         "alt": "",
         "alt_pt": "",
         "alt_en": ""
+      },
+      {
+        "src": "https://www.universetoday.com/article_images/Teg_001_interior_20261030_184846.jpg",
+        "caption": "Esta imagem mostra uma seção cortada do Teg001, com alguns de seus recursos e conteúdos rotulados. A pombonite (PgT) é particularmente relevante porque contém magnésio alterado por fluido. \"Os interiores ricos em Mg da pombonite foram fortemente alterados.",
+        "caption_pt": "Esta imagem mostra uma seção cortada do Teg001, com alguns de seus recursos e conteúdos rotulados. A pombonite (PgT) é particularmente relevante porque contém magnésio alterado por fluido. \"Os interiores ricos em Mg da pombonite foram fortemente alterados.",
+        "caption_en": "This image shows a cut section of Teg001, with some of its features and contents labelled. Pigeonite (PgT) is particularly relevant, because it hosts fluid-altered Magnesium. \"The Mg-rich interiors of pigeonite have been heavily altered by.",
+        "alt": "Esta imagem mostra uma seção cortada do Teg001, com alguns de seus recursos e conteúdos rotulados. A pombonite (PgT) é particularmente relevante porque contém magnésio alterado por fluido. \"Os interiores ricos em Mg da pombonite foram fortemente alterados.",
+        "alt_pt": "Esta imagem mostra uma seção cortada do Teg001, com alguns de seus recursos e conteúdos rotulados. A pombonite (PgT) é particularmente relevante porque contém magnésio alterado por fluido. \"Os interiores ricos em Mg da pombonite foram fortemente alterados.",
+        "alt_en": "This image shows a cut section of Teg001, with some of its features and contents labelled. Pigeonite (PgT) is particularly relevant, because it hosts fluid-altered Magnesium. \"The Mg-rich interiors of pigeonite have been heavily altered by."
       }
     ],
-    "video": {
-      "kind": "file",
-      "platform": "html5",
-      "embedUrl": "",
-      "fileUrl": "https://scx2.b-cdn.net/gfx/video/2026/nasas-tracers-first-re.mp4",
-      "poster": "https://scx1.b-cdn.net/gfx/video_tmb/2026/nasas-tracers-first-re.mp4.jpg",
-      "title": "",
-      "title_pt": "",
-      "title_en": "",
-      "caption": "",
-      "caption_pt": "",
-      "caption_en": "",
-      "sourcePage": "https://phys.org/news/2026-10-nasa-tracers-results-peek-violent.html"
-    },
+    "video": null,
     "audio": null,
-    "title": "Os primeiros resultados do TRACERS da NASA oferecem uma visão do violento processo magnético",
-    "title_pt": "Os primeiros resultados do TRACERS da NASA oferecem uma visão do violento processo magnético",
-    "title_en": "NASA's TRACERS first results offer peek into violent magnetic process",
-    "sub": "A missão TRACERS da NASA reuniu as primeiras pistas sobre como o clima espacial afeta o campo magnético da Terra. Num novo artigo publicado no Journal of Geophysical Research.",
-    "sub_pt": "A missão TRACERS da NASA reuniu as primeiras pistas sobre como o clima espacial afeta o campo magnético da Terra. Num novo artigo publicado no Journal of Geophysical Research.",
-    "sub_en": "NASA's TRACERS mission has gathered its first clues to how space weather affects Earth's magnetic field. In a new paper published in the Journal of Geophysical Research: Space.",
-    "excerpt": "A missão TRACERS da NASA reuniu as primeiras pistas sobre como o clima espacial afeta o campo magnético da Terra. Num novo artigo publicado no Journal of Geophysical Research: Space Physics, os investigadores explicam como funcionam estas interações.",
-    "excerpt_pt": "A missão TRACERS da NASA reuniu as primeiras pistas sobre como o clima espacial afeta o campo magnético da Terra. Num novo artigo publicado no Journal of Geophysical Research: Space Physics, os investigadores explicam como funcionam estas interações.",
-    "excerpt_en": "NASA's TRACERS mission has gathered its first clues to how space weather affects Earth's magnetic field. In a new paper published in the Journal of Geophysical Research: Space Physics, researchers break down how these interactions work.",
-    "body": "<p>A missão TRACERS da NASA reuniu as primeiras pistas sobre como o clima espacial afeta o campo magnético da Terra. Num novo artigo publicado no Journal of Geophysical Research: Space Physics, os investigadores explicam como funcionam estas interações. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. A missão TRACERS (Tandem Reconnection and Cusp Electrodynamics Reconnaissance Satellites) da NASA reuniu suas primeiras pistas sobre como o clima espacial afeta o campo magnético. Num novo artigo publicado no Journal of Geophysical Research: Space Physics, os investigadores detalham como funcionam estas interações após analisarem as observações iniciais do.</p><p>Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar às fontes preferenciais Esta imagem mostra uma das espaçonaves. Vantor A missão TRACERS (Tandem Reconnection and Cusp Electrodynamics Reconnaissance Satellites) da NASA reuniu suas primeiras pistas sobre como o clima espacial afeta o campo.</p><p>As duas sondas TRACERS foram lançadas no ano passado para explorar como o vento solar do Sol interage com o escudo magnético da Terra num processo explosivo conhecido como.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-10-nasa-tracers-results-peek-violent.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A missão TRACERS da NASA reuniu as primeiras pistas sobre como o clima espacial afeta o campo magnético da Terra. Num novo artigo publicado no Journal of Geophysical Research: Space Physics, os investigadores explicam como funcionam estas interações. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. A missão TRACERS (Tandem Reconnection and Cusp Electrodynamics Reconnaissance Satellites) da NASA reuniu suas primeiras pistas sobre como o clima espacial afeta o campo magnético. Num novo artigo publicado no Journal of Geophysical Research: Space Physics, os investigadores detalham como funcionam estas interações após analisarem as observações iniciais do.</p><p>Os editores destacaram os seguintes atributos, garantindo ao mesmo tempo a credibilidade do conteúdo: Adicionar às fontes preferenciais Esta imagem mostra uma das espaçonaves. Vantor A missão TRACERS (Tandem Reconnection and Cusp Electrodynamics Reconnaissance Satellites) da NASA reuniu suas primeiras pistas sobre como o clima espacial afeta o campo.</p><p>As duas sondas TRACERS foram lançadas no ano passado para explorar como o vento solar do Sol interage com o escudo magnético da Terra num processo explosivo conhecido como.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Phys.org Space, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-10-nasa-tracers-results-peek-violent.html\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>NASA&#x27;s TRACERS mission has gathered its first clues to how space weather affects Earth&#x27;s magnetic field. In a new paper published in the Journal of Geophysical Research: Space Physics, researchers break down how these interactions work. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. NASA&#x27;s TRACERS (Tandem Reconnection and Cusp Electrodynamics Reconnaissance Satellites) mission has gathered its first clues to how space weather affects Earth&#x27;s magnetic field. In a new paper published in the Journal of Geophysical Research: Space Physics, researchers break down how these interactions work after analyzing initial observations from the.</p><p>Editors have highlighted the following attributes while ensuring the content&#x27;s credibility: Add to Preferred Sources This image shows one of NASA&#x27;s twin TRACERS spacecraft in low. Vantor NASA&#x27;s TRACERS (Tandem Reconnection and Cusp Electrodynamics Reconnaissance Satellites) mission has gathered its first clues to how space weather affects Earth&#x27;s magnetic.</p><p>The two TRACERS spacecraft launched last year to explore how the sun&#x27;s solar wind interacts with Earth&#x27;s magnetic shield in an explosive process known as magnetic reconnection. While scientists are familiar with the process of magnetic reconnection, questions remain on how energy is transferred during the process and how the edge of Earth&#x27;s magnetic.</p><p>This is an important first step in understanding how magnetic reconnection works and how these processes can affect Earth.&quot; Magnetic reconnection occurs when the sun&#x27;s magnetic. At the magnetosphere&#x27;s boundary with space, called the magnetopause, these collisions cause energy to build up and can cause the magnetic field lines to snap and explosively fling.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>The TRACERS mission was designed to explore these dynamics by having twin satellites fly one behind the other, locked in a sun-synchronous orbit, passing through areas where. I am excited to see what is revealed by future measurements.&quot; After a setback with one of the satellites after launch, the TRACERS team worked determinedly to reestablish contact.</p><p>Because the account originates with Phys.org Space, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://phys.org/news/2026-10-nasa-tracers-results-peek-violent.html\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "title": "Este antigo meteorito sugere o passado quente e úmido de Marte",
+    "title_pt": "Este antigo meteorito sugere o passado quente e úmido de Marte",
+    "title_en": "This Ancient Meteorite Hints at Mars' Warm, Wet Past",
+    "sub": "Os antigos meteoritos marcianos são como cápsulas do tempo do passado do planeta. Eles são entregues a nós por impactos que os lançam no espaço, onde alguns deles chegam à Terra.",
+    "sub_pt": "Os antigos meteoritos marcianos são como cápsulas do tempo do passado do planeta. Eles são entregues a nós por impactos que os lançam no espaço, onde alguns deles chegam à Terra.",
+    "sub_en": "Ancient Martian meteorites are like time-capsules from the planet's past. They're delivered to us by impacts that launch them into space, where some of them find their way to.",
+    "excerpt": "Os antigos meteoritos marcianos são como cápsulas do tempo do passado do planeta. Eles são entregues a nós por impactos que os lançam no espaço, onde alguns deles chegam à Terra. Um meteorito recentemente descoberto encontrado no Saara.",
+    "excerpt_pt": "Os antigos meteoritos marcianos são como cápsulas do tempo do passado do planeta. Eles são entregues a nós por impactos que os lançam no espaço, onde alguns deles chegam à Terra. Um meteorito recentemente descoberto encontrado no Saara.",
+    "excerpt_en": "Ancient Martian meteorites are like time-capsules from the planet's past. They're delivered to us by impacts that launch them into space, where some of them find their way to Earth. One recently discovered meteorite found in the Sahara.",
+    "body": "<p>Os antigos meteoritos marcianos são como cápsulas do tempo do passado do planeta. Eles são entregues a nós por impactos que os lançam no espaço, onde alguns deles chegam à Terra. Um meteorito recentemente descoberto encontrado no Saara. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Eles são entregues a nós por impactos que os lançam no espaço, onde alguns deles chegam à Terra. Um meteorito marciano chamado Black Beauty estabeleceu o padrão para meteoritos antigos de Marte quando foi encontrado em 2011.</p><p>Partes dela têm cerca de 4,43 mil milhões de anos, e Marte tem cerca de 4,5, talvez 4,6 mil milhões de anos. Uma nova pesquisa descobriu algumas propriedades incomuns no Teg 001, e elas são apresentadas em uma nova pesquisa.</p><p>A pesquisa é intitulada “Um meteorito marciano que se formou há ≳4,1 bilhões de anos, amostra a crosta e o manto primitivos de Marte”, e foi publicada na revista Science. O autor principal é Yang Liu, do Laboratório de Propulsão a Jato da NASA no Instituto de Tecnologia da Califórnia.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/this-ancient-meteorite-hints-at-mars-warm-wet-past\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Os antigos meteoritos marcianos são como cápsulas do tempo do passado do planeta. Eles são entregues a nós por impactos que os lançam no espaço, onde alguns deles chegam à Terra. Um meteorito recentemente descoberto encontrado no Saara. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando existe isolada como anedota. Eles são entregues a nós por impactos que os lançam no espaço, onde alguns deles chegam à Terra. Um meteorito marciano chamado Black Beauty estabeleceu o padrão para meteoritos antigos de Marte quando foi encontrado em 2011.</p><p>Partes dela têm cerca de 4,43 mil milhões de anos, e Marte tem cerca de 4,5, talvez 4,6 mil milhões de anos. Uma nova pesquisa descobriu algumas propriedades incomuns no Teg 001, e elas são apresentadas em uma nova pesquisa.</p><p>A pesquisa é intitulada “Um meteorito marciano que se formou há ≳4,1 bilhões de anos, amostra a crosta e o manto primitivos de Marte”, e foi publicada na revista Science. O autor principal é Yang Liu, do Laboratório de Propulsão a Jato da NASA no Instituto de Tecnologia da Califórnia.</p><p>O interesse mais amplo está em tornar o alvo menos anedótico e mais comparável com o restante da população planetária conhecida. Questões em nível de população, como a frequência de atmosferas em torno de planetas rochosos pequenos ou a prevalência de mundos ricos em água na zona habitável, exigem pontos de dados individuais bem caracterizados antes que padrões estatísticos se tornem significativos. Cada novo planeta com raio, massa e, idealmente, restrição atmosférica medidos é um tijolo nessa estrutura maior, e o acúmulo de tijolos eventualmente permite que teóricos testem modelos de formação contra distribuições reais.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é melhorar as restrições independentes sobre massa, raio, composição atmosférica e dinâmica orbital do alvo. Espectroscopia de transmissão com o JWST, campanhas de velocidade radial com espectrógrafos de alta resolução em solo e medições de curva de fase da fotometria espacial representam o conjunto de ferramentas observacionais que pode mover a caracterização de plausível para robusta. Essa convergência de técnicas é o padrão que a comunidade agora espera antes de um resultado de atmosfera planetária ser tratado como confirmado.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/this-ancient-meteorite-hints-at-mars-warm-wet-past\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Ancient Martian meteorites are like time-capsules from the planet&#x27;s past. They&#x27;re delivered to us by impacts that launch them into space, where some of them find their way to Earth. One recently discovered meteorite found in the Sahara. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because exoplanet science has moved beyond the era of simple discovery into a period of comparative characterization. With more than five thousand confirmed planets known, the scientifically productive questions now concern atmospheric composition, internal structure, orbital history and the statistical properties of populations rather than the existence of individual worlds. A new detection or spectral measurement is most valuable when it adds a well-constrained data point to those comparative frameworks, not when it stands alone as an anecdote. They&#x27;re delivered to us by impacts that launch them into space, where some of them find their way to Earth. A Martian meteorite named Black Beauty set the standard for ancient meteorites from Mars when it was found in 2011.</p><p>Portions of it are about 4.43 billion years old, and Mars is about 4.5, maybe 4.6 billion years old. New research uncovered some unusual properties in Teg 001, and they&#x27;re presented in new research.</p><p>The research is titled &quot; A Martian meteorite that formed ≳4.1 billion years ago samples Mars’ early crust and mantle,&quot; and it&#x27;s published in the journal Science. The lead author is Yang Liu from NASA&#x27;s Jet Propulsion Laboratory at the California Institute of Technology.</p><p>This sample probably came from an environment on Mars that was more Earth-like.&quot;, Carl Agee, University of New Mexico. The high δ 18O value of Teg 001 probably reflects assimilation of δ18O-rich crustal material that had interacted with surficial fluids, or direct reaction of the magma with.</p><p>The broader interest lies in making the target less anecdotal and more comparable with the rest of the known planetary population. Population-level questions, such as the frequency of atmospheres around small rocky planets or the prevalence of water-rich worlds in the habitable zone, require well-characterized individual data points before statistical patterns become meaningful. Each new planet with a measured radius, mass and, ideally, atmospheric constraint is a brick in that larger structure, and the accumulation of bricks eventually allows theorists to test formation models against real distributions rather than projections.</p><p>All of that was consistent with it being from a time on Mars, from the very, very beginning when the Martian environment was different from the time in which most of the Martian. This sample probably came from an environment on Mars that was more Earth-like.” Mars&#x27; early, potentially more Earth-like time period is called the Pre-Noachian period.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to improve independent constraints on the mass, radius, atmospheric composition and orbital dynamics of the target. Transmission spectroscopy with JWST, radial velocity campaigns with high-resolution ground-based spectrographs and phase-curve measurements from space photometry represent the observational toolkit that can move characterization from plausible to robust. That convergence of techniques is the standard the community now expects before a planetary atmosphere result is treated as confirmed.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/this-ancient-meteorite-hints-at-mars-warm-wet-past\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
-      "Ponto central: A missão TRACERS da NASA reuniu as primeiras pistas sobre como o clima espacial afeta o campo magnético da Terra. Num novo artigo publicado no.",
-      "Dado-chave: A missão TRACERS (Tandem Reconnection and Cusp Electrodynamics Reconnaissance Satellites) da NASA reuniu suas primeiras pistas sobre como o.",
+      "Ponto central: Os antigos meteoritos marcianos são como cápsulas do tempo do passado do planeta. Eles são entregues a nós por impactos que os lançam no espaço, onde.",
+      "Dado-chave: Eles são entregues a nós por impactos que os lançam no espaço, onde alguns deles chegam à Terra.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
-      "Ponto central: A missão TRACERS da NASA reuniu as primeiras pistas sobre como o clima espacial afeta o campo magnético da Terra. Num novo artigo publicado no.",
-      "Dado-chave: A missão TRACERS (Tandem Reconnection and Cusp Electrodynamics Reconnaissance Satellites) da NASA reuniu suas primeiras pistas sobre como o.",
+      "Ponto central: Os antigos meteoritos marcianos são como cápsulas do tempo do passado do planeta. Eles são entregues a nós por impactos que os lançam no espaço, onde.",
+      "Dado-chave: Eles são entregues a nós por impactos que os lançam no espaço, onde alguns deles chegam à Terra.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
-      "Core point: NASA's TRACERS mission has gathered its first clues to how space weather affects Earth's magnetic field. In a new paper published in the Journal of.",
-      "Key detail: NASA's TRACERS (Tandem Reconnection and Cusp Electrodynamics Reconnaissance Satellites) mission has gathered its first clues to how space.",
+      "Core point: Ancient Martian meteorites are like time-capsules from the planet's past. They're delivered to us by impacts that launch them into space, where some.",
+      "Key detail: They're delivered to us by impacts that launch them into space, where some of them find their way to Earth.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "30 out 2026",
     "date_pt": "30 out 2026",
     "date_en": "30 Oct 2026",
-    "time": "13h40",
-    "time_pt": "13h40",
-    "time_en": "13:40 UTC",
+    "time": "19h14",
+    "time_pt": "19h14",
+    "time_en": "19:14 UTC",
     "read": "4 min de leitura",
     "read_pt": "4 min de leitura",
     "read_en": "4 min read",
-    "publishedIso": "2026-10-30T13:40:05+00:00",
-    "lastModifiedIso": "2026-10-30T13:40:05+00:00",
-    "source": "Phys.org Space",
-    "sourceDomain": "phys.org",
+    "publishedIso": "2026-10-30T19:14:01+00:00",
+    "lastModifiedIso": "2026-10-30T19:14:01+00:00",
+    "source": "Universe Today",
+    "sourceDomain": "www.universetoday.com",
     "sourceType": "agency",
     "sourceTypeLabel": "Fonte institucional",
     "sourceTypeLabel_pt": "Fonte institucional",
@@ -2686,27 +2410,27 @@ window.postsData = [
     "editorialBandLabel_pt": "Prioridade editorial",
     "editorialBandLabel_en": "Editorial priority",
     "keywords": [
-      "Física",
-      "Phys.org Space",
+      "Exoplanetas",
+      "Universe Today",
       "Cosmos Week",
-      "Os primeiros resultados do TRACERS da NASA oferecem uma visão do violento processo magnético"
+      "Este antigo meteorito sugere o passado quente e úmido de Marte"
     ],
     "keywords_pt": [
-      "Física",
-      "Phys.org Space",
+      "Exoplanetas",
+      "Universe Today",
       "Cosmos Week",
-      "Os primeiros resultados do TRACERS da NASA oferecem uma visão do violento processo magnético"
+      "Este antigo meteorito sugere o passado quente e úmido de Marte"
     ],
     "keywords_en": [
-      "Physical",
-      "Phys.org Space",
+      "Exoplanets",
+      "Universe Today",
       "Cosmos Week",
-      "NASA's first TRACERS results offer insight into violent magnetic process"
+      "This ancient meteorite hints at Mars' hot, wet past"
     ],
-    "srcUrl": "https://phys.org/news/2026-10-nasa-tracers-results-peek-violent.html",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-tracers-first-results-offer-peek-into-violent-magnetic-process",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-tracers-first-results-offer-peek-into-violent-magnetic-process",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-tracers-first-results-offer-peek-into-violent-magnetic-process&lang=en",
+    "srcUrl": "https://www.universetoday.com/articles/this-ancient-meteorite-hints-at-mars-warm-wet-past",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=this-ancient-meteorite-hints-at-mars-warm-wet-past",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=this-ancient-meteorite-hints-at-mars-warm-wet-past",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=this-ancient-meteorite-hints-at-mars-warm-wet-past&lang=en",
     "defaultLanguage": "pt-BR",
     "availableLanguages": [
       "pt-BR",
@@ -2717,17 +2441,17 @@ window.postsData = [
     "isPreprint": false,
     "geminiReviewed": true,
     "geminiModel": "gemini-2.0-flash",
-    "score": 75,
+    "score": 74,
     "scoreBreakdown": {
-      "source": 76,
-      "evidence": 88,
-      "relevance": 82,
+      "source": 73,
+      "evidence": 82,
+      "relevance": 88,
       "accessibility": 60,
       "novelty": 49
     }
   },
   {
-    "id": 23,
+    "id": 21,
     "slug": "astronomers-solve-the-mystery-of-the-sun-s-spinning-plasma-jets",
     "cat": "Física",
     "catCls": "fisica",
@@ -2757,8 +2481,8 @@ window.postsData = [
     "excerpt": "A torrente de descobertas relacionadas ao corona continua chegando. Ultimamente, cobrimos uma variedade de soluções potenciais para o “problema do aquecimento coronal”, porque a coroa do Sol é muito mais quente do que a sua superfície. Agora, um artigo.",
     "excerpt_pt": "A torrente de descobertas relacionadas ao corona continua chegando. Ultimamente, cobrimos uma variedade de soluções potenciais para o “problema do aquecimento coronal”, porque a coroa do Sol é muito mais quente do que a sua superfície. Agora, um artigo.",
     "excerpt_en": "The torrent of corona related discoveries keeps coming. Lately we’ve covered a variety of potential solutions to the “coronal heating problem”, why the Sun’s corona is so much hotter than its surface. Now, a paper led by a team of.",
-    "body": "<p>A torrente de descobertas relacionadas ao corona continua chegando. Ultimamente, cobrimos uma variedade de soluções potenciais para o “problema do aquecimento coronal”, porque a coroa do Sol é muito mais quente do que a sua superfície. Agora, um artigo liderado por uma equipe de. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Agora, um artigo liderado por uma equipe de pesquisadores da Universidade de Newcastle, do Instituto Indiano de Astrofísica e da Universidade de Sheffield oferece outra resposta. Espículas são gêiseres de plasma em forma de espinhos que disparam para a atmosfera solar a dezenas de quilômetros por segundo, eventualmente desabando de volta em direção à.</p><p>Ao contrário de muitas outras descobertas relacionadas com espículas que reportámos recentemente, esta não veio de novos dados de uma nova nave espacial, como a Solar Orbiter ou a. Uma das características mais notáveis ​​desse ambiente foi o impacto acústico, quase como um tambor, que os grânulos agitados de plasma abaixo da superfície do Sol emitem para a.</p><p>Essa batida lança o equivalente a ondas sonoras na própria atmosfera, embora, neste caso, sejam ondas magnetohidrodinâmicas que seguem diretamente as linhas do campo magnético. Quando finalmente se rompem, essas ondas de choque explodem parte da atmosfera para cima, criando “cortinas” gigantes de plasma a milhares de quilómetros de profundidade na.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/astronomers-solve-the-mystery-of-the-suns-spinning-plasma-jets\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A torrente de descobertas relacionadas ao corona continua chegando. Ultimamente, cobrimos uma variedade de soluções potenciais para o “problema do aquecimento coronal”, porque a coroa do Sol é muito mais quente do que a sua superfície. Agora, um artigo liderado por uma equipe de. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Agora, um artigo liderado por uma equipe de pesquisadores da Universidade de Newcastle, do Instituto Indiano de Astrofísica e da Universidade de Sheffield oferece outra resposta. Espículas são gêiseres de plasma em forma de espinhos que disparam para a atmosfera solar a dezenas de quilômetros por segundo, eventualmente desabando de volta em direção à.</p><p>Ao contrário de muitas outras descobertas relacionadas com espículas que reportámos recentemente, esta não veio de novos dados de uma nova nave espacial, como a Solar Orbiter ou a. Uma das características mais notáveis ​​desse ambiente foi o impacto acústico, quase como um tambor, que os grânulos agitados de plasma abaixo da superfície do Sol emitem para a.</p><p>Essa batida lança o equivalente a ondas sonoras na própria atmosfera, embora, neste caso, sejam ondas magnetohidrodinâmicas que seguem diretamente as linhas do campo magnético. Quando finalmente se rompem, essas ondas de choque explodem parte da atmosfera para cima, criando “cortinas” gigantes de plasma a milhares de quilómetros de profundidade na.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/astronomers-solve-the-mystery-of-the-suns-spinning-plasma-jets\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body": "<p>A torrente de descobertas relacionadas ao corona continua chegando. Ultimamente, cobrimos uma variedade de soluções potenciais para o “problema do aquecimento coronal”, porque a coroa do Sol é muito mais quente do que a sua superfície. Agora, um artigo liderado por uma equipe de. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Agora, um artigo liderado por uma equipe de pesquisadores da Universidade de Newcastle, do Instituto Indiano de Astrofísica e da Universidade de Sheffield oferece outra resposta. Espículas são gêiseres de plasma em forma de espinhos que disparam para a atmosfera solar a dezenas de quilômetros por segundo, eventualmente desabando de volta em direção à.</p><p>Ao contrário de muitas outras descobertas relacionadas com espículas que reportámos recentemente, esta não veio de novos dados de uma nova nave espacial, como a Solar Orbiter ou a. Uma das características mais notáveis ​​desse ambiente foi o impacto acústico, quase como um tambor, que os grânulos agitados de plasma abaixo da superfície do Sol emitem para a.</p><p>Essa batida lança o equivalente a ondas sonoras na própria atmosfera, embora, neste caso, sejam ondas magnetohidrodinâmicas que seguem diretamente as linhas do campo magnético. Quando eventualmente se rompem, essas ondas de choque explodem parte da atmosfera para cima, criando “cortinas” gigantes de plasma a milhares de quilómetros de profundidade na.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/astronomers-solve-the-mystery-of-the-suns-spinning-plasma-jets\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A torrente de descobertas relacionadas ao corona continua chegando. Ultimamente, cobrimos uma variedade de soluções potenciais para o “problema do aquecimento coronal”, porque a coroa do Sol é muito mais quente do que a sua superfície. Agora, um artigo liderado por uma equipe de. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Agora, um artigo liderado por uma equipe de pesquisadores da Universidade de Newcastle, do Instituto Indiano de Astrofísica e da Universidade de Sheffield oferece outra resposta. Espículas são gêiseres de plasma em forma de espinhos que disparam para a atmosfera solar a dezenas de quilômetros por segundo, eventualmente desabando de volta em direção à.</p><p>Ao contrário de muitas outras descobertas relacionadas com espículas que reportámos recentemente, esta não veio de novos dados de uma nova nave espacial, como a Solar Orbiter ou a. Uma das características mais notáveis ​​desse ambiente foi o impacto acústico, quase como um tambor, que os grânulos agitados de plasma abaixo da superfície do Sol emitem para a.</p><p>Essa batida lança o equivalente a ondas sonoras na própria atmosfera, embora, neste caso, sejam ondas magnetohidrodinâmicas que seguem diretamente as linhas do campo magnético. Quando eventualmente se rompem, essas ondas de choque explodem parte da atmosfera para cima, criando “cortinas” gigantes de plasma a milhares de quilómetros de profundidade na.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de Universe Today, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/astronomers-solve-the-mystery-of-the-suns-spinning-plasma-jets\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
     "body_en": "<p>The torrent of corona related discoveries keeps coming. Lately we’ve covered a variety of potential solutions to the “coronal heating problem”, why the Sun’s corona is so much hotter than its surface. Now, a paper led by a team of. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. Now, a paper led by a team of researchers from the University of Newcastle, Indian Institute for Astrophysics, and University of Sheffield, offers another answer, that we’ve been. Spicules are spike-like geysers of plasma that shoot up into the solar atmosphere at tens of kilometers per second, eventually collapsing back down towards the surface after a few.</p><p>Unlike many of the other spicule-related discoveries we’ve reported on recently, this one didn’t come from new data from a new spacecraft, like Solar Orbiter or the Parker Solar. One of the most notable features of that environment was the acoustic pounding, almost like a drum, that the churning granules of plasma beneath the Sun’s surface delivers to its.</p><p>That pounding launches the equivalent of sound waves up into the atmosphere itself, though in this case, they are magnetohydrodynamic waves that directly follow magnetic field. When they eventually break, those shock waves blast part of the atmosphere upward, creating giant “curtains” of plasma thousands of kilometers into the Sun’s atmosphere.</p><p>Video showing solar spicules, as seen by Hinode in 2007. Instead of one of the newer spacecraft, the researchers turned to the Interface Region Imaging Spectrograph (IRIS) and the Hinode satellite, originally launched in 2013 and 2006.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>That mismatch generates something called baroclinic vorticity, on Earth it’s equivalent to how ocean breezes colliding with warm air from farther inland can stir up coastal. Observations of rotating bunches of spicules from instruments like Hinode and IRIS affirm where CoSCos exist, showing that rotating spicules mark regions where these theoretical.</p><p>Because the account originates with Universe Today, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://www.universetoday.com/articles/astronomers-solve-the-mystery-of-the-suns-spinning-plasma-jets\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: A torrente de descobertas relacionadas ao corona continua chegando. Ultimamente, cobrimos uma variedade de soluções potenciais para o “problema do.",
@@ -2845,7 +2569,7 @@ window.postsData = [
     }
   },
   {
-    "id": 24,
+    "id": 22,
     "slug": "solar-orbiter-tracks-origin-of-mysterious-magnetic-switchbacks",
     "cat": "Física",
     "catCls": "fisica",
@@ -2973,6 +2697,275 @@ window.postsData = [
       "source": 90,
       "evidence": 88,
       "relevance": 64,
+      "accessibility": 60,
+      "novelty": 46
+    }
+  },
+  {
+    "id": 23,
+    "slug": "mars-s-oddest-cloud-may-be-even-odder-than-we-thought",
+    "cat": "Física",
+    "catCls": "fisica",
+    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/the_arsia_mons_elongated_cloud_as_seen_by_mars_express/27546706-1-eng-GB/The_Arsia_Mons_Elongated_Cloud_as_seen_by_Mars_Express_card_full.png",
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2018/10/elongated_cloud_on_mars_annotated/17836422-1-eng-GB/Elongated_cloud_on_Mars_annotated_article.jpg",
+        "caption": "Nuvem alongada em Marte – anotada",
+        "caption_pt": "Nuvem alongada em Marte – anotada",
+        "caption_en": "Elongated cloud on Mars – annotated",
+        "alt": "Nuvem alongada em Marte – anotada",
+        "alt_pt": "Nuvem alongada em Marte – anotada",
+        "alt_en": "Elongated cloud on Mars – annotated"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/new_modelling_of_mars_s_most_striking_cloud/27546612-2-eng-GB/New_modelling_of_Mars_s_most_striking_cloud_article.gif",
+        "caption": "Nova modelagem da nuvem mais impressionante de Marte",
+        "caption_pt": "Nova modelagem da nuvem mais impressionante de Marte",
+        "caption_en": "New modelling of Mars’s most striking cloud",
+        "alt": "Nova modelagem da nuvem mais impressionante de Marte",
+        "alt_pt": "Nova modelagem da nuvem mais impressionante de Marte",
+        "alt_en": "New modelling of Mars’s most striking cloud"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/mars_express_views_the_most_striking_cloud_on_mars/27546659-1-eng-GB/Mars_Express_views_the_most_striking_cloud_on_Mars_article.jpg",
+        "caption": "Mars Express vê a nuvem mais impressionante de Marte",
+        "caption_pt": "Mars Express vê a nuvem mais impressionante de Marte",
+        "caption_en": "Mars Express views the most striking cloud on Mars",
+        "alt": "Mars Express vê a nuvem mais impressionante de Marte",
+        "alt_pt": "Mars Express vê a nuvem mais impressionante de Marte",
+        "alt_en": "Mars Express views the most striking cloud on Mars"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "A nuvem mais estranha de Marte pode ser ainda mais estranha do que pensávamos",
+    "title_pt": "A nuvem mais estranha de Marte pode ser ainda mais estranha do que pensávamos",
+    "title_en": "Mars’s oddest cloud may be even odder than we thought",
+    "sub": "Cientistas que utilizaram o Mars Express da Agência Espacial Europeia, em combinação com um modelo meteorológico de última geração do Planeta Vermelho, descobriram que pode haver.",
+    "sub_pt": "Cientistas que utilizaram o Mars Express da Agência Espacial Europeia, em combinação com um modelo meteorológico de última geração do Planeta Vermelho, descobriram que pode haver.",
+    "sub_en": "Scientists using the European Space Agency's Mars Express, in combination with a state-of-the-art meteorological model of the Red Planet, have found that there may be some very.",
+    "excerpt": "Cientistas que utilizaram o Mars Express da Agência Espacial Europeia, em combinação com um modelo meteorológico de última geração do Planeta Vermelho, descobriram que pode haver alguma física muito exótica por trás da nuvem mais curiosa de Marte.",
+    "excerpt_pt": "Cientistas que utilizaram o Mars Express da Agência Espacial Europeia, em combinação com um modelo meteorológico de última geração do Planeta Vermelho, descobriram que pode haver alguma física muito exótica por trás da nuvem mais curiosa de Marte.",
+    "excerpt_en": "Scientists using the European Space Agency's Mars Express, in combination with a state-of-the-art meteorological model of the Red Planet, have found that there may be some very exotic physics behind Mars’s most curious cloud.",
+    "body": "<p>Cientistas que utilizaram o Mars Express da Agência Espacial Europeia, em combinação com um modelo meteorológico de última geração do Planeta Vermelho, descobriram que pode haver alguma física muito exótica por trás da nuvem mais curiosa de Marte. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Todas as primaveras e verões no hemisfério sul de Marte, durante a estação poeirenta marciana, vemos surgir uma nuvem espetacular: a Nuvem Alongada de Arsia Mons (AMEC), a nuvem. A Mars Express revelou o AMEC pela primeira vez em 2018 e tem visualizado a nuvem recorrente repetidamente desde então.</p><p>Os investigadores exploraram a sua evolução, dinâmica vívida e comportamento intrigante, determinando que se trata de uma nuvem orográfica: um tipo de nuvem também vista na Terra. “Assim que incluímos esta física nas nossas simulações, o AMEC surgiu tal como esperávamos.” Na Terra e em outros lugares, as nuvens normalmente se formam quando o ar úmido esfria.</p><p>A sua raridade deve-se ao facto de exigir circunstâncias excepcionais, com níveis extremos de humidade relativa superiores a 100 000 vezes os normalmente observados na nossa vida.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Mars_s_oddest_cloud_may_be_even_odder_than_we_thought\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Cientistas que utilizaram o Mars Express da Agência Espacial Europeia, em combinação com um modelo meteorológico de última geração do Planeta Vermelho, descobriram que pode haver alguma física muito exótica por trás da nuvem mais curiosa de Marte. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A diferença é quase sempre resolvida por replicação independente com instrumentos diferentes e sistemáticos distintos. Todas as primaveras e verões no hemisfério sul de Marte, durante a estação poeirenta marciana, vemos surgir uma nuvem espetacular: a Nuvem Alongada de Arsia Mons (AMEC), a nuvem. A Mars Express revelou o AMEC pela primeira vez em 2018 e tem visualizado a nuvem recorrente repetidamente desde então.</p><p>Os investigadores exploraram a sua evolução, dinâmica vívida e comportamento intrigante, determinando que se trata de uma nuvem orográfica: um tipo de nuvem também vista na Terra. “Assim que incluímos esta física nas nossas simulações, o AMEC surgiu tal como esperávamos.” Na Terra e em outros lugares, as nuvens normalmente se formam quando o ar úmido esfria.</p><p>A sua raridade deve-se ao facto de exigir circunstâncias excepcionais, com níveis extremos de humidade relativa superiores a 100 000 vezes os normalmente observados na nossa vida.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Mars_s_oddest_cloud_may_be_even_odder_than_we_thought\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Scientists using the European Space Agency&#x27;s Mars Express, in combination with a state-of-the-art meteorological model of the Red Planet, have found that there may be some very exotic physics behind Mars’s most curious cloud. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because physics only takes a result seriously when the measurement chain remains robust under scrutiny. Experimental particle physics and precision metrology both operate in regimes where the signal sits far below the background noise, and where systematic uncertainties can mimic new physics if not controlled rigorously. The history of the field contains numerous anomalies that generated theoretical excitement before better data showed them to be artifacts, and it also contains genuine discoveries that were initially dismissed as noise. The difference is almost always resolved by independent replication with different instruments and different systematics. Every spring and summer in Mars’s southern hemisphere, during the martian dusty season, we see a spectacular cloud emerge: the Arsia Mons Elongated Cloud (AMEC), the most visually. Mars Express first revealed the AMEC in 2018, and has viewed the recurrent cloud repeatedly since.</p><p>Explored its evolution, vivid dynamics and intriguing behaviour, determining it to be an orographic cloud: a type of cloud also seen on Earth that forms as wind. “Once we included this physics in our simulations, the AMEC emerged just as we hoped.” On Earth and elsewhere, clouds typically form when moist air cools and water vapour.</p><p>Its rarity is due to it requiring exceptional circumstances, with extreme relative humidity levels of over 100 000 times those usually experienced in our daily life on Earth. Jorge and colleagues found that the AMEC sits in a unique position where Mars’s thin atmosphere and the towering height of the nearby Arsia Mons volcano come together to create.</p><p>This cools the atmosphere rapidly, causing temperatures to drop by 30 degrees in just 10 minutes and relative humidity levels to spike. “We don’t have nearly as much information about Mars’s atmosphere as we do about Earth&#x27;s, so reproducing the AMEC to this degree is a big success for the model.” The researchers.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>Mars Express can image large swathes of the martian surface at high resolution, and it is one of the few Mars-orbiting spacecraft, alongside ESA’s ExoMars Trace Gas Orbiter, able. “While clouds on Earth and Mars seem to be governed by the same ‘rules’, understanding this exotic martian cloud required exotic physics, and this may be true elsewhere in the.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Mars_s_oddest_cloud_may_be_even_odder_than_we_thought\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Cientistas que utilizaram o Mars Express da Agência Espacial Europeia, em combinação com um modelo meteorológico de última geração do Planeta.",
+      "Dado-chave: Cientistas que utilizaram o Mars Express da Agência Espacial Europeia, em combinação com um modelo meteorológico de última geração do Planeta.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Cientistas que utilizaram o Mars Express da Agência Espacial Europeia, em combinação com um modelo meteorológico de última geração do Planeta.",
+      "Dado-chave: Cientistas que utilizaram o Mars Express da Agência Espacial Europeia, em combinação com um modelo meteorológico de última geração do Planeta.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Scientists using the European Space Agency's Mars Express, in combination with a state-of-the-art meteorological model of the Red Planet, have found.",
+      "Key detail: Scientists using the European Space Agency's Mars Express, in combination with a state-of-the-art meteorological model of the Red Planet, have.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "07 out 2026",
+    "date_pt": "07 out 2026",
+    "date_en": "07 Oct 2026",
+    "time": "15h00",
+    "time_pt": "15h00",
+    "time_en": "15:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-10-07T15:00:00+00:00",
+    "lastModifiedIso": "2026-10-07T15:00:00+00:00",
+    "source": "ESA Space Science",
+    "sourceDomain": "www.esa.int",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Física",
+      "ESA Space Science",
+      "Cosmos Week",
+      "A nuvem mais estranha de Marte pode ser ainda mais estranha do que pensávamos"
+    ],
+    "keywords_pt": [
+      "Física",
+      "ESA Space Science",
+      "Cosmos Week",
+      "A nuvem mais estranha de Marte pode ser ainda mais estranha do que pensávamos"
+    ],
+    "keywords_en": [
+      "Physical",
+      "ESA Space Science",
+      "Cosmos Week",
+      "The strangest cloud on Mars may be even stranger than we thought"
+    ],
+    "srcUrl": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Mars_s_oddest_cloud_may_be_even_odder_than_we_thought",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=mars-s-oddest-cloud-may-be-even-odder-than-we-thought",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=mars-s-oddest-cloud-may-be-even-odder-than-we-thought",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=mars-s-oddest-cloud-may-be-even-odder-than-we-thought&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 73,
+    "scoreBreakdown": {
+      "source": 90,
+      "evidence": 88,
+      "relevance": 64,
+      "accessibility": 60,
+      "novelty": 46
+    }
+  },
+  {
+    "id": 24,
+    "slug": "science-release-hubble-details-early-galaxy-transforming-neighbourhood",
+    "cat": "Astronomia",
+    "catCls": "astronomia",
+    "img": "https://cdn.esahubble.org/archives/images/screen/heic2609a.jpg",
+    "inline_images": [
+      {
+        "src": "https://cdn.esahubble.org/archives/images/newsfeature/heic2609a.jpg",
+        "caption": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
+        "caption_pt": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
+        "caption_en": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)",
+        "alt": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
+        "alt_pt": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
+        "alt_en": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)"
+      },
+      {
+        "src": "https://cdn.esahubble.org/archives/images/news/heic2609a.jpg",
+        "caption": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
+        "caption_pt": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
+        "caption_en": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)",
+        "alt": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
+        "alt_pt": "Pioneiro galáctico MXDFz4.4 (imagem anotada de Hubble e Webb)",
+        "alt_en": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)"
+      },
+      {
+        "src": "https://cdn.esahubble.org/archives/images/news/heic2609b.jpg",
+        "caption": "Campo Galaxy de MXDFz4.4 (imagem limpa do Hubble e Webb)",
+        "caption_pt": "Campo Galaxy de MXDFz4.4 (imagem limpa do Hubble e Webb)",
+        "caption_en": "Galaxy field of MXDFz4.4 (Hubble and Webb clean image)",
+        "alt": "Campo Galaxy de MXDFz4.4 (imagem limpa do Hubble e Webb)",
+        "alt_pt": "Campo Galaxy de MXDFz4.4 (imagem limpa do Hubble e Webb)",
+        "alt_en": "Galaxy field of MXDFz4.4 (Hubble and Webb clean image)"
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Lançamento científico: Hubble detalha a vizinhança em transformação da galáxia inicial",
+    "title_pt": "Lançamento científico: Hubble detalha a vizinhança em transformação da galáxia inicial",
+    "title_en": "Science Release: Hubble details early galaxy transforming neighbourhood",
+    "sub": "Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que existiu apenas 1,4 mil milhões de.",
+    "sub_pt": "Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que existiu apenas 1,4 mil milhões de.",
+    "sub_en": "Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4 billion years after the Big.",
+    "excerpt": "Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que existiu apenas 1,4 mil milhões de anos após o Big Bang. Essa galáxia contém estrelas jovens fortemente agrupadas.",
+    "excerpt_pt": "Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que existiu apenas 1,4 mil milhões de anos após o Big Bang. Essa galáxia contém estrelas jovens fortemente agrupadas.",
+    "excerpt_en": "Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4 billion years after the Big Bang. That galaxy contains tightly clustered young stars that.",
+    "body": "<p>Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que existiu apenas 1,4 mil milhões de anos após o Big Bang. Essa galáxia contém estrelas jovens fortemente agrupadas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Um artigo que descreve esta descoberta foi publicado em 23 de junho de 2026 no Astrophysical Journal. À medida que esta luz viajou durante mais de 12 mil milhões de anos para chegar ao Hubble, o espaço expandiu-se e a luz esticou-se ou desviou-se para o vermelho em luz visível.</p><p>A cobertura do comprimento de onda do Hubble, combinada com a sensibilidade e resolução do seu ponto de vista baseado no espaço, torna-o no único telescópio capaz de capturar esta. “Os astrónomos encontraram muitas galáxias que existiam neste ponto da história do Universo, mas não detetámos fotões ionizantes de nenhuma delas, tornando o MXDFz4.4 único”.</p><p>As longas exposições do Hubble, extraídas de várias pesquisas existentes, revelaram que as estrelas jovens e massivas da galáxia são a fonte da luz ultravioleta, que clareou o.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2609/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que existiu apenas 1,4 mil milhões de anos após o Big Bang. Essa galáxia contém estrelas jovens fortemente agrupadas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Um artigo que descreve esta descoberta foi publicado em 23 de junho de 2026 no Astrophysical Journal. À medida que esta luz viajou durante mais de 12 mil milhões de anos para chegar ao Hubble, o espaço expandiu-se e a luz esticou-se ou desviou-se para o vermelho em luz visível.</p><p>A cobertura do comprimento de onda do Hubble, combinada com a sensibilidade e resolução do seu ponto de vista baseado no espaço, torna-o no único telescópio capaz de capturar esta. “Os astrónomos encontraram muitas galáxias que existiam neste ponto da história do Universo, mas não detetámos fotões ionizantes de nenhuma delas, tornando o MXDFz4.4 único”.</p><p>As longas exposições do Hubble, extraídas de várias pesquisas existentes, revelaram que as estrelas jovens e massivas da galáxia são a fonte da luz ultravioleta, que clareou o.</p><p>O que dá peso à história não é apenas o objeto em si, mas a maneira como a medição reduz o espaço das explicações físicas plausíveis. A astronomia acumulou casos suficientes para saber que os resultados mais interessantes raramente são os que confirmam expectativas de forma limpa; são os que confirmam algumas expectativas enquanto complicam outras, ou que abrem um espaço de parâmetros que instrumentos anteriores não podiam alcançar. A comunidade científica avalia essas contribuições perguntando se os novos dados restringem um modelo de uma forma que dados mais antigos não podiam, e se essas restrições sobrevivem à revisão sistemática.</p><p>Como o relato se origina de ESA Hubble News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é verificar se outros instrumentos e outros comprimentos de onda contam a mesma história. Campanhas com o JWST, o VLT, os futuros Telescópios Extremamente Grandes e arranjos de rádio fornecerão a cobertura espectral e a resolução espacial necessárias para passar da detecção à caracterização física. O cronograma para esse tipo de confirmação é tipicamente medido em anos, não meses, o que vale ter em mente ao ler o resultado atual.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2609/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4 billion years after the Big Bang. That galaxy contains tightly clustered young stars that. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because astronomy does not advance on single detections. The field builds confidence by accumulating independent observations across different wavelengths, instruments and epochs until isolated signals become defensible conclusions. What looks convincing in one dataset can dissolve when a second instrument looks at the same target, and what looks marginal can solidify when follow-up campaigns confirm the original reading. The current standard requires that a result survive this triangulation before the community treats it as settled. A paper describing this discovery was published 23 June 2026 in the Astrophysical Journal. As this light traveled for over 12 billion years to reach Hubble, space expanded, and the light stretched or redshifted into visible light.</p><p>Hubble’s wavelength coverage, combined with the sensitivity and resolution of its space-based vantage point, makes it the only telescope capable of capturing this ultraviolet. “Astronomers have found many galaxies that existed at this point in the history of the Universe, but we haven’t detected ionising photons from any of them, making MXDFz4.4 one of.</p><p>Hubble’s long exposures, pulled from several existing surveys, revealed that the galaxy’s young, massive stars are the source of the ultraviolet light, which cleared the. These conclusions are supported by survey data taken by the NASA/ESA/CSA James Webb Space Telescope in near-infrared light and the MUSE eXtremely Deep Field or MXDF, the galaxy’s.</p><p>Before this discovery, researchers had only identified a galaxy emitting ionised light from a time when the Universe was 1.6 billion years old. These insights into MXDFz4.4 were possible thanks to the powerful combination of Hubble, Webb and the VLT,&quot; said co-author Alexander Beckett, a postdoctoral fellow at the.</p><p>What gives the story weight is not just the object itself, but the way the measurement trims the range of plausible physical explanations. Astronomy has accumulated enough cases to know that the most interesting results are rarely the ones that confirm expectations cleanly; they are the ones that confirm some expectations while complicating others, or that open a parameter space that previous instruments could not reach. The scientific community evaluates these contributions by asking whether the new data constrain a model in a way that older data could not, and whether those constraints survive systematic review.</p><p>In 2023, researchers using Webb showed that galaxies’ stars emitted enough light to heat and ionise the gas around them 900 million years after the Big Bang. This was a breakthrough, but astronomers need galaxies like MXDFz4.4 to fully explain how the process happened, since it shows how the high-energy light from young stars managed.</p><p>Because the account originates with ESA Hubble News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to see whether other instruments and other wavelengths tell the same story. Campaigns with JWST, the VLT, the forthcoming Extremely Large Telescopes and radio arrays will provide the spectral coverage and spatial resolution needed to move from detection to physical characterization. The timeline for that kind of confirmation is typically measured in years, not months, which is worth keeping in mind when reading the current result.</p><p class=\"art-source\"><a href=\"https://esahubble.org/news/heic2609/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que.",
+      "Dado-chave: Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que.",
+      "Dado-chave: Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que.",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed just 1.4.",
+      "Key detail: Astronomers using the NASA/ESA Hubble Space Telescope have found something they never expected: ultraviolet light from a galaxy that existed.",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "23 jun 2026",
+    "date_pt": "23 jun 2026",
+    "date_en": "23 Jun 2026",
+    "time": "14h00",
+    "time_pt": "14h00",
+    "time_en": "14:00 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-06-23T14:00:00+00:00",
+    "lastModifiedIso": "2026-06-23T14:00:00+00:00",
+    "source": "ESA Hubble News",
+    "sourceDomain": "esahubble.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Astronomia",
+      "ESA Hubble News",
+      "Cosmos Week",
+      "Lançamento científico",
+      "Hubble detalha a vizinhança em transformação da galáxia inicial"
+    ],
+    "keywords_pt": [
+      "Astronomia",
+      "ESA Hubble News",
+      "Cosmos Week",
+      "Lançamento científico",
+      "Hubble detalha a vizinhança em transformação da galáxia inicial"
+    ],
+    "keywords_en": [
+      "Astronomy",
+      "ESA Hubble News",
+      "Cosmos Week",
+      "Scientific launch",
+      "Hubble Details Early Galaxy's Changing Neighborhood"
+    ],
+    "srcUrl": "https://esahubble.org/news/heic2609/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-details-early-galaxy-transforming-neighbourhood",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-details-early-galaxy-transforming-neighbourhood",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-details-early-galaxy-transforming-neighbourhood&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 79,
+    "scoreBreakdown": {
+      "source": 89,
+      "evidence": 88,
+      "relevance": 88,
       "accessibility": 60,
       "novelty": 46
     }
@@ -3119,35 +3112,7 @@ window.postsData = [
     "cat": "Ciências da Terra",
     "catCls": "terra",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/cat_s_head_nebula_hubble_wfc3_webb_nircam_and_webb_miri_images/27592599-1-eng-GB/Cat_s_Head_Nebula_Hubble_WFC3_Webb_NIRCam_and_Webb_MIRI_images_card_full.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/cat_s_head_nebula_hubble_wfc3_webb_nircam_and_webb_miri_images/27592599-1-eng-GB/Cat_s_Head_Nebula_Hubble_WFC3_Webb_NIRCam_and_Webb_MIRI_images_article.jpg",
-        "caption": "Nebulosa Cabeça de Gato (imagens Hubble e Webb)",
-        "caption_pt": "Nebulosa Cabeça de Gato (imagens Hubble e Webb)",
-        "caption_en": "Cat’s Head Nebula (Hubble & Webb images)",
-        "alt": "Nebulosa Cabeça de Gato (imagens Hubble e Webb)",
-        "alt_pt": "Nebulosa Cabeça de Gato (imagens Hubble e Webb)",
-        "alt_en": "Cat’s Head Nebula (Hubble & Webb images)"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/cat_s_head_nebula_hubble_wfc3_image/27592693-1-eng-GB/Cat_s_Head_Nebula_Hubble_WFC3_image_article.jpg",
-        "caption": "Nebulosa da Cabeça de Gato (imagem do Hubble)",
-        "caption_pt": "Nebulosa da Cabeça de Gato (imagem do Hubble)",
-        "caption_en": "Cat’s Head Nebula (Hubble image)",
-        "alt": "Nebulosa da Cabeça de Gato (imagem do Hubble)",
-        "alt_pt": "Nebulosa da Cabeça de Gato (imagem do Hubble)",
-        "alt_en": "Cat’s Head Nebula (Hubble image)"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/cat_s_head_nebula_webb_nircam_image/27592740-1-eng-GB/Cat_s_Head_Nebula_Webb_NIRCam_image_article.jpg",
-        "caption": "Nebulosa da Cabeça de Gato (imagem Webb NIRCam)",
-        "caption_pt": "Nebulosa da Cabeça de Gato (imagem Webb NIRCam)",
-        "caption_en": "Cat’s Head Nebula (Webb NIRCam image)",
-        "alt": "Nebulosa da Cabeça de Gato (imagem Webb NIRCam)",
-        "alt_pt": "Nebulosa da Cabeça de Gato (imagem Webb NIRCam)",
-        "alt_en": "Cat’s Head Nebula (Webb NIRCam image)"
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "A Nebulosa Cabeça de Gato Fantasmagórico se esconde à vista do Hubble e do Webb",
@@ -3159,9 +3124,9 @@ window.postsData = [
     "excerpt": "O Hubble da NASA/ESA e os Telescópios Espaciais James Webb da NASA/ESA/CSA observaram recentemente uma estranha cena de formação de estrelas dentro da Nebulosa Carina, uma enorme nuvem de gás e poeira localizada a aproximadamente 7.500 anos-luz de distância.",
     "excerpt_pt": "O Hubble da NASA/ESA e os Telescópios Espaciais James Webb da NASA/ESA/CSA observaram recentemente uma estranha cena de formação de estrelas dentro da Nebulosa Carina, uma enorme nuvem de gás e poeira localizada a aproximadamente 7.500 anos-luz de distância.",
     "excerpt_en": "The NASA/ESA Hubble and the NASA/ESA/CSA James Webb Space Telescopes recently stared at an eerie star-forming scene within the Carina Nebula, a massive gas and dust cloud located approximately 7500 light-years away from Earth. The two.",
-    "body": "<p>O Hubble da NASA/ESA e os Telescópios Espaciais James Webb da NASA/ESA/CSA observaram recentemente uma estranha cena de formação de estrelas dentro da Nebulosa Carina, uma enorme nuvem de gás e poeira localizada a aproximadamente 7.500 anos-luz de distância da Terra. Os dois. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. A visão de luz visível do Hubble mostra o gato como um pilar de poeira escuro e alongado. A visão de luz visível do Hubble mostra o gato como um pilar de poeira escuro e alongado e sugestões de jovens estrelas em formação, enquanto as imagens de luz infravermelha de.</p><p>Como uma forma espectral surgindo de uma névoa fria, os Telescópios Espaciais Hubble e James Webb encontraram uma cena de formação de estrelas assustadoramente dinâmica dentro da. A pequena e seleta área observada por ambos os telescópios é apelidada de Nebulosa Cabeça de Gato devido à sua semelhança com um gato sentado de costas para o observador.</p><p>A visão de luz visível do Hubble mostra a nebulosa como um pilar de poeira opaco e marrom escuro.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Ghostly_Cat_s_Head_Nebula_lurks_within_sight_of_Hubble_and_Webb\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>O Hubble da NASA/ESA e os Telescópios Espaciais James Webb da NASA/ESA/CSA observaram recentemente uma estranha cena de formação de estrelas dentro da Nebulosa Carina, uma enorme nuvem de gás e poeira localizada a aproximadamente 7.500 anos-luz de distância da Terra. Os dois. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. A visão de luz visível do Hubble mostra o gato como um pilar de poeira escuro e alongado. A visão de luz visível do Hubble mostra o gato como um pilar de poeira escuro e alongado e sugestões de jovens estrelas em formação, enquanto as imagens de luz infravermelha de.</p><p>Como uma forma espectral surgindo de uma névoa fria, os Telescópios Espaciais Hubble e James Webb encontraram uma cena de formação de estrelas assustadoramente dinâmica dentro da. A pequena e seleta área observada por ambos os telescópios é apelidada de Nebulosa Cabeça de Gato devido à sua semelhança com um gato sentado de costas para o observador.</p><p>A visão de luz visível do Hubble mostra a nebulosa como um pilar de poeira opaco e marrom escuro.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Ghostly_Cat_s_Head_Nebula_lurks_within_sight_of_Hubble_and_Webb\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The NASA/ESA Hubble and the NASA/ESA/CSA James Webb Space Telescopes recently stared at an eerie star-forming scene within the Carina Nebula, a massive gas and dust cloud located approximately 7500 light-years away from Earth. The two. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Hubble’s visible-light view shows the cat as a dark, elongated dust pillar. Hubble’s visible-light view shows the cat as a dark, elongated dust pillar and hints of young forming stars, while Webb’s infrared-light imagery unveils many stars and other.</p><p>Like a spectral form rising out of a cold mist, the Hubble and James Webb Space Telescopes have come across a hauntingly dynamic star-forming scene within the vast Carina Nebula. The small, select area that was observed by both telescopes is nicknamed the Cat’s Head Nebula because of its resemblance to a cat sitting with its back toward the viewer.</p><p>Hubble’s visible-light view shows the nebula as an opaque, dark brown pillar of dust. Hubble’s filters capture light emitted by oxygen, hydrogen, and sulfur, along with starlight scattered by dust.</p><p>The bright optical nebulosity visible to Hubble becomes less prominent in Webb’s near-infrared image. Hubble and Webb’s complementary views of the Cat’s Head Nebula are helping astronomers learn more about the elusive, chaotic, and complex process known as star formation.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>The Hubble Space Telescope is a project of international cooperation between ESA and NASA. Under an international collaboration agreement, ESA provided the telescope’s launch service, using the Ariane 5 launch vehicle.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Ghostly_Cat_s_Head_Nebula_lurks_within_sight_of_Hubble_and_Webb\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>O Hubble da NASA/ESA e os Telescópios Espaciais James Webb da NASA/ESA/CSA observaram recentemente uma estranha cena de formação de estrelas dentro da Nebulosa Carina, uma enorme nuvem de gás e poeira localizada a aproximadamente 7.500 anos-luz de distância da Terra. Os dois. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. A visão de luz visível do Hubble mostra o gato como um pilar de poeira escuro e alongado. Os dois telescópios oferecem imagens complementares da forma sombria, apelidada de Nebulosa Cabeça de Gato, que reflete o processo “mágico” de formação estelar.</p><p>A visão de luz visível do Hubble mostra o gato como um pilar de poeira escuro e alongado e sugestões de jovens estrelas em formação, enquanto as imagens de luz infravermelha de.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Ghostly_Cat_s_Head_Nebula_lurks_within_sight_of_Hubble_and_Webb\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>O Hubble da NASA/ESA e os Telescópios Espaciais James Webb da NASA/ESA/CSA observaram recentemente uma estranha cena de formação de estrelas dentro da Nebulosa Carina, uma enorme nuvem de gás e poeira localizada a aproximadamente 7.500 anos-luz de distância da Terra. Os dois. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. A visão de luz visível do Hubble mostra o gato como um pilar de poeira escuro e alongado. Os dois telescópios oferecem imagens complementares da forma sombria, apelidada de Nebulosa Cabeça de Gato, que reflete o processo “mágico” de formação estelar.</p><p>A visão de luz visível do Hubble mostra o gato como um pilar de poeira escuro e alongado e sugestões de jovens estrelas em formação, enquanto as imagens de luz infravermelha de.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Ghostly_Cat_s_Head_Nebula_lurks_within_sight_of_Hubble_and_Webb\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The NASA/ESA Hubble and the NASA/ESA/CSA James Webb Space Telescopes recently stared at an eerie star-forming scene within the Carina Nebula, a massive gas and dust cloud located approximately 7500 light-years away from Earth. The two. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Hubble’s visible-light view shows the cat as a dark, elongated dust pillar. The two telescopes offer complementary views of the shadowy form, nicknamed the Cat’s Head Nebula, which reflects the &#x27;magical&#x27;&#x27; process of star formation.</p><p>Hubble’s visible-light view shows the cat as a dark, elongated dust pillar and hints of young forming stars, while Webb’s infrared-light imagery unveils many stars and other.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Webb/Ghostly_Cat_s_Head_Nebula_lurks_within_sight_of_Hubble_and_Webb\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: O Hubble da NASA/ESA e os Telescópios Espaciais James Webb da NASA/ESA/CSA observaram recentemente uma estranha cena de formação de estrelas dentro.",
       "Dado-chave: A visão de luz visível do Hubble mostra o gato como um pilar de poeira escuro e alongado.",
@@ -3398,7 +3363,26 @@ window.postsData = [
     "cat": "Ciências da Terra",
     "catCls": "terra",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/mmx_from_launch_to_phobos/27573728-1-eng-GB/MMX_from_launch_to_Phobos_card_full.png",
-    "inline_images": [],
+    "inline_images": [
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/mmx_at_mars_and_phobos/27573775-1-eng-GB/MMX_at_Mars_and_Phobos_article.png",
+        "caption": "MMX em Marte e Fobos",
+        "caption_pt": "MMX em Marte e Fobos",
+        "caption_en": "MMX at Mars and Phobos",
+        "alt": "MMX em Marte e Fobos",
+        "alt_pt": "MMX em Marte e Fobos",
+        "alt_en": "MMX at Mars and Phobos"
+      },
+      {
+        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/the_martian_moons_exploration_mmx_mission/27573443-1-eng-GB/The_Martian_Moons_eXploration_MMX_mission_article.png",
+        "caption": "A missão Martian Moons eXploration (MMX)",
+        "caption_pt": "A missão Martian Moons eXploration (MMX)",
+        "caption_en": "The Martian Moons eXploration (MMX) mission",
+        "alt": "A missão Martian Moons eXploration (MMX)",
+        "alt_pt": "A missão Martian Moons eXploration (MMX)",
+        "alt_en": "The Martian Moons eXploration (MMX) mission"
+      }
+    ],
     "video": null,
     "audio": null,
     "title": "Módulo lunar de Marte será lançado em 19 de outubro",
@@ -3410,22 +3394,22 @@ window.postsData = [
     "excerpt": "A missão Martian Moons eXploration está programada para ser lançada ao espaço em um foguete H3 do Centro Espacial Tanegashima às 04:41 JST em 20 de outubro de 2026. A MMX será a primeira missão a coletar uma amostra da lua de Marte, Fobos, e trazê-la.",
     "excerpt_pt": "A missão Martian Moons eXploration está programada para ser lançada ao espaço em um foguete H3 do Centro Espacial Tanegashima às 04:41 JST em 20 de outubro de 2026. A MMX será a primeira missão a coletar uma amostra da lua de Marte, Fobos, e trazê-la.",
     "excerpt_en": "The Martian Moons eXploration mission is set to launch into space on a H3 rocket from the Tanegashima Space Center at 04: 41 JST on 20 October 2026. MMX will be the first mission to collect a sample from Mars’s moon Phobos and bring it.",
-    "body": "<p>A missão Martian Moons eXploration está programada para ser lançada ao espaço em um foguete H3 do Centro Espacial Tanegashima às 04: 41 JST em 20 de outubro de 2026. A MMX será a primeira missão a coletar uma amostra da lua de Marte, Fobos, e trazê-la. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. A MMX é liderada pela Agência de Exploração Aeroespacial do Japão (JAXA), em colaboração com a Administração Nacional de Aeronáutica e Espaço (NASA), o espaço francês. A missão Martian Moons eXploration (MMX) está programada para ser lançada ao espaço em um foguete H3 do Centro Espacial Tanegashima às 04: 41 JST de 20 de outubro de 2026 (20: 41.</p><p>A MMX será a primeira missão a coletar uma amostra da lua de Marte, Fobos, e trazê-la de volta à Terra. A MMX é liderada pela Agência de Exploração Aeroespacial do Japão (JAXA), em colaboração com a Administração Nacional de Aeronáutica e Espaço (NASA), a agência espacial francesa.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A missão Martian Moons eXploration está programada para ser lançada ao espaço em um foguete H3 do Centro Espacial Tanegashima às 04: 41 JST em 20 de outubro de 2026. A MMX será a primeira missão a coletar uma amostra da lua de Marte, Fobos, e trazê-la. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. A MMX é liderada pela Agência de Exploração Aeroespacial do Japão (JAXA), em colaboração com a Administração Nacional de Aeronáutica e Espaço (NASA), o espaço francês. A missão Martian Moons eXploration (MMX) está programada para ser lançada ao espaço em um foguete H3 do Centro Espacial Tanegashima às 04: 41 JST de 20 de outubro de 2026 (20: 41.</p><p>A MMX será a primeira missão a coletar uma amostra da lua de Marte, Fobos, e trazê-la de volta à Terra. A MMX é liderada pela Agência de Exploração Aeroespacial do Japão (JAXA), em colaboração com a Administração Nacional de Aeronáutica e Espaço (NASA), a agência espacial francesa.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The Martian Moons eXploration mission is set to launch into space on a H3 rocket from the Tanegashima Space Center at 04: 41 JST on 20 October 2026. MMX will be the first mission to collect a sample from Mars’s moon Phobos and bring it. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. MMX is led by the Japan Aerospace Exploration Agency (JAXA), in collaboration with the National Aeronautics and Space Administration (NASA), the French space. The Martian Moons eXploration ( MMX ) mission is set to launch into space on a H3 rocket from the Tanegashima Space Center at 04: 41 JST on 20 October 2026 (20: 41 BST / 21: 41.</p><p>MMX will be the first mission to collect a sample from Mars’s moon Phobos and bring it back to Earth. MMX is led by the Japan Aerospace Exploration Agency (JAXA), in collaboration with the National Aeronautics and Space Administration (NASA), the French space agency (CNES), the.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>A missão Martian Moons eXploration está programada para ser lançada ao espaço em um foguete H3 do Centro Espacial Tanegashima às 04: 41 JST em 20 de outubro de 2026. A MMX será a primeira missão a coletar uma amostra da lua de Marte, Fobos, e trazê-la. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. A missão Martian Moons eXploration (MMX) está programada para ser lançada ao espaço em um foguete H3 do Centro Espacial Tanegashima às 04: 41 JST de 20 de outubro de 2026 (20: 41. A MMX será a primeira missão a coletar uma amostra da lua de Marte, Fobos, e trazê-la de volta à Terra.</p><p>Tal como a Terra, Marte mudou muito desde a sua formação, há 4,5 mil milhões de anos. A MMX será a primeira espaçonave a orbitar Fobos (em uma &#x27;órbita quase-satélite&#x27;) e a primeira a coletar amostras da superfície de uma lua diferente da nossa.</p><p>Depois de conseguir tudo isso, a MMX será a primeira missão a retornar à Terra após visitar o sistema de Marte. A capacidade de fazer essas viagens de ida e volta pode ser interessante para futuras missões robóticas que tragam amostras do próprio Marte e, potencialmente, até mesmo para.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A missão Martian Moons eXploration está programada para ser lançada ao espaço em um foguete H3 do Centro Espacial Tanegashima às 04: 41 JST em 20 de outubro de 2026. A MMX será a primeira missão a coletar uma amostra da lua de Marte, Fobos, e trazê-la. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. A missão Martian Moons eXploration (MMX) está programada para ser lançada ao espaço em um foguete H3 do Centro Espacial Tanegashima às 04: 41 JST de 20 de outubro de 2026 (20: 41. A MMX será a primeira missão a coletar uma amostra da lua de Marte, Fobos, e trazê-la de volta à Terra.</p><p>Tal como a Terra, Marte mudou muito desde a sua formação, há 4,5 mil milhões de anos. A MMX será a primeira espaçonave a orbitar Fobos (em uma &#x27;órbita quase-satélite&#x27;) e a primeira a coletar amostras da superfície de uma lua diferente da nossa.</p><p>Depois de conseguir tudo isso, a MMX será a primeira missão a retornar à Terra após visitar o sistema de Marte. A capacidade de fazer essas viagens de ida e volta pode ser interessante para futuras missões robóticas que tragam amostras do próprio Marte e, potencialmente, até mesmo para.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The Martian Moons eXploration mission is set to launch into space on a H3 rocket from the Tanegashima Space Center at 04: 41 JST on 20 October 2026. MMX will be the first mission to collect a sample from Mars’s moon Phobos and bring it. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. The Martian Moons eXploration ( MMX ) mission is set to launch into space on a H3 rocket from the Tanegashima Space Center at 04: 41 JST on 20 October 2026 (20: 41 BST / 21: 41. MMX will be the first mission to collect a sample from Mars’s moon Phobos and bring it back to Earth.</p><p>Just like Earth, Mars has changed a lot since it formed 4.5 billion years ago. MMX will be the first spacecraft to orbit Phobos (in a &#x27;quasi-satellite orbit&#x27;), and the first to collect samples from a moon&#x27;s surface other than our own.</p><p>After achieving all that, MMX will be the first mission that returns to Earth after visiting the Mars system. The ability to make such round trips could be interesting for future robotic missions that bring back samples from Mars itself, and potentially even visiting Mars with humans in.</p><p>The main MMX spacecraft will study Phobos from a distance, then deploy a rover called Idefix to the moon&#x27;s surface, before finally landing on Phobos to collect samples to return. The mission carries a total of 11 science instruments: seven on the main spacecraft, and four on the rover.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>With ESA’s Mars Express spacecraft confirmed to operate at Mars until at least 2029, the long-running orbiter may be able to support MMX’s observations. ESA&#x27;s upcoming ExoMars Rosalind Franklin rover will nicely complement MMX by collecting samples from Mars&#x27;s subsurface and analysing them with an onboard laboratory.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: A missão Martian Moons eXploration está programada para ser lançada ao espaço em um foguete H3 do Centro Espacial Tanegashima às 04: 41 JST em 20 de.",
-      "Dado-chave: A MMX é liderada pela Agência de Exploração Aeroespacial do Japão (JAXA), em colaboração com a Administração Nacional de Aeronáutica e Espaço.",
+      "Dado-chave: A missão Martian Moons eXploration (MMX) está programada para ser lançada ao espaço em um foguete H3 do Centro Espacial Tanegashima às 04: 41.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_pt": [
       "Ponto central: A missão Martian Moons eXploration está programada para ser lançada ao espaço em um foguete H3 do Centro Espacial Tanegashima às 04: 41 JST em 20 de.",
-      "Dado-chave: A MMX é liderada pela Agência de Exploração Aeroespacial do Japão (JAXA), em colaboração com a Administração Nacional de Aeronáutica e Espaço.",
+      "Dado-chave: A missão Martian Moons eXploration (MMX) está programada para ser lançada ao espaço em um foguete H3 do Centro Espacial Tanegashima às 04: 41.",
       "Origem institucional: distinguir anúncio de evidência."
     ],
     "highlights_en": [
       "Core point: The Martian Moons eXploration mission is set to launch into space on a H3 rocket from the Tanegashima Space Center at 04: 41 JST on 20 October 2026.",
-      "Key detail: MMX is led by the Japan Aerospace Exploration Agency (JAXA), in collaboration with the National Aeronautics and Space Administration (NASA), the.",
+      "Key detail: The Martian Moons eXploration ( MMX ) mission is set to launch into space on a H3 rocket from the Tanegashima Space Center at 04: 41 JST on 20.",
       "Institutional origin: separate announcement from evidence."
     ],
     "date": "13 out 2026",
@@ -3903,35 +3887,7 @@ window.postsData = [
     "cat": "Ciências da Terra",
     "catCls": "terra",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/hera_s_first_view_of_the_separate_didymos_and_dimorphos_asteroids/27592324-1-eng-GB/Hera_s_first_view_of_the_separate_Didymos_and_Dimorphos_asteroids_card_full.png",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/hera_spacecraft_with_asteroid_framing_camera_facing_front/27592465-1-eng-GB/Hera_spacecraft_with_Asteroid_Framing_Camera_facing_front_article.png",
-        "caption": "Nave espacial Hera com câmera de enquadramento de asteroide voltada para frente",
-        "caption_pt": "Nave espacial Hera com câmera de enquadramento de asteroide voltada para frente",
-        "caption_en": "Hera spacecraft with Asteroid Framing Camera facing front",
-        "alt": "Nave espacial Hera com câmera de enquadramento de asteroide voltada para frente",
-        "alt_pt": "Nave espacial Hera com câmera de enquadramento de asteroide voltada para frente",
-        "alt_en": "Hera spacecraft with Asteroid Framing Camera facing front"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/hera_s_first_view_of_the_separate_didymos_and_dimorphos_asteroids/27592324-1-eng-GB/Hera_s_first_view_of_the_separate_Didymos_and_Dimorphos_asteroids_article.png",
-        "caption": "A primeira visão de Hera dos asteróides Didymos e Dimorphos separados",
-        "caption_pt": "A primeira visão de Hera dos asteróides Didymos e Dimorphos separados",
-        "caption_en": "Hera's first view of the separate Didymos and Dimorphos asteroids",
-        "alt": "A primeira visão de Hera dos asteróides Didymos e Dimorphos separados",
-        "alt_pt": "A primeira visão de Hera dos asteróides Didymos e Dimorphos separados",
-        "alt_en": "Hera's first view of the separate Didymos and Dimorphos asteroids"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/didymos_and_dimorphos_seen_by_dart/24726150-1-eng-GB/Didymos_and_Dimorphos_seen_by_DART_article.png",
-        "caption": "Didymos e Dimorphos vistos pelo DART da NASA em 2022",
-        "caption_pt": "Didymos e Dimorphos vistos pelo DART da NASA em 2022",
-        "caption_en": "Didymos and Dimorphos as seen by NASA's DART in 2022",
-        "alt": "Didymos e Dimorphos vistos pela NASA",
-        "alt_pt": "Didymos e Dimorphos vistos pela NASA",
-        "alt_en": "Didymos and Dimorphos as seen by NASA"
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "Primeira luz: Hera resolve dois asteróides em vez de um",
@@ -3943,9 +3899,9 @@ window.postsData = [
     "excerpt": "A nave espacial Hera da Agência Espacial Europeia para defesa planetária identificou os seus dois asteróides alvo separadamente pela primeira vez, revelando a natureza binária do sistema Didymos, actualmente a cerca de 197 milhões de quilómetros de distância.",
     "excerpt_pt": "A nave espacial Hera da Agência Espacial Europeia para defesa planetária identificou os seus dois asteróides alvo separadamente pela primeira vez, revelando a natureza binária do sistema Didymos, actualmente a cerca de 197 milhões de quilómetros de distância.",
     "excerpt_en": "The European Space Agency’s Hera spacecraft for planetary defence has resolved its two target asteroids separately for the very first time, revealing the binary nature of the Didymos system, currently some 197 million km away from Earth.",
-    "body": "<p>A nave espacial Hera da Agência Espacial Europeia para defesa planetária identificou os seus dois asteróides alvo separadamente pela primeira vez, revelando a natureza binária do sistema Didymos, actualmente a cerca de 197 milhões de quilómetros de distância da Terra. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Hera fotografou Didymos e Dimorphos com a sua Asteroid Framing Camera monocromática na noite de sexta-feira, 18 de outubro, a uma distância de 1280 km do par de asteroides. “Com esta imagem, o asteróide Dimorphos mais pequeno torna-se visível pela primeira vez,” explica Michael Kueppers.</p><p>Mas agora, embora Dimorphos seja composto por apenas cerca de um pixel nesta imagem inicial, está claramente bem separado do seu corpo original.” Esta primeira imagem surgiu após. Dois disparos de propulsores com uma semana de intervalo desaceleraram a espaçonave para apenas 20 m/s em relação aos seus dois asteróides alvo, permitindo que ela se aproximasse.</p><p>Com 151 m de diâmetro, Dimorphos tem aproximadamente o tamanho da Grande Pirâmide de Gizé, enquanto o asteroide Didymos, com 780 m de diâmetro, é um pouco menor que o arranha-céu.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Space_Safety/Hera/First_light_Hera_resolves_two_asteroids_instead_of_one\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>A nave espacial Hera da Agência Espacial Europeia para defesa planetária identificou os seus dois asteróides alvo separadamente pela primeira vez, revelando a natureza binária do sistema Didymos, actualmente a cerca de 197 milhões de quilómetros de distância da Terra. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Hera fotografou Didymos e Dimorphos com a sua Asteroid Framing Camera monocromática na noite de sexta-feira, 18 de outubro, a uma distância de 1280 km do par de asteroides. “Com esta imagem, o asteróide Dimorphos mais pequeno torna-se visível pela primeira vez,” explica Michael Kueppers.</p><p>Mas agora, embora Dimorphos seja composto por apenas cerca de um pixel nesta imagem inicial, está claramente bem separado do seu corpo original.” Esta primeira imagem surgiu após. Dois disparos de propulsores com uma semana de intervalo desaceleraram a espaçonave para apenas 20 m/s em relação aos seus dois asteróides alvo, permitindo que ela se aproximasse.</p><p>Com 151 m de diâmetro, Dimorphos tem aproximadamente o tamanho da Grande Pirâmide de Gizé, enquanto o asteroide Didymos, com 780 m de diâmetro, é um pouco menor que o arranha-céu.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Space_Safety/Hera/First_light_Hera_resolves_two_asteroids_instead_of_one\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>The European Space Agency’s Hera spacecraft for planetary defence has resolved its two target asteroids separately for the very first time, revealing the binary nature of the Didymos system, currently some 197 million km away from Earth. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. Hera imaged Didymos and Dimorphos with its monochromatic Asteroid Framing Camera on the evening of Friday 18 October, at a distance of 1280 km away from the asteroid pair. “With this image the smaller Dimorphos asteroid becomes visible for the first time,” explains Michael Kueppers.</p><p>But now, even though Dimorphos is made up of only around one pixel in this initial image, it is clearly well separated from its parent body.” This first image came following the. A pair of thruster firings a week apart slowed the spacecraft to just 20 m/s relative to its two target asteroids, allowing it to come gradually closer on a fine-tuned basis.</p><p>At 151 m across Dimorphos is about the size of the Great Pyramid of Giza, while the 780-m diameter Didymos asteroid is a little smaller than Dubai’s Burj Khalifa skyscraper, the. The pair orbit an average 1.15 km apart from each other, with Dimorphos orbiting its parent at about 18 cm/s.</p><p>“For the very first time we are seeing through Hera’s own eyes the very double asteroid system that the mission was designed and built for,” adds mission manager Ian Carnelli. We will unveil the first detailed images of Dimorphos, the first object in the Solar System to have had its orbit measurably shifted by human action, on 25 November.” On 26.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>The resulting collision sent out a plume of debris across 10 000 km of space while also slowing the asteroid’s orbit by around 33 minutes. But key unknowns remain to turn this ‘kinetic impact’ method into a well-understood planetary defence technique: what did the impact do to the asteroid itself.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Space_Safety/Hera/First_light_Hera_resolves_two_asteroids_instead_of_one\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>A nave espacial Hera da Agência Espacial Europeia para defesa planetária identificou os seus dois asteróides alvo separadamente pela primeira vez, revelando a natureza binária do sistema Didymos, actualmente a cerca de 197 milhões de quilómetros de distância da Terra. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Space_Safety/Hera/First_light_Hera_resolves_two_asteroids_instead_of_one\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>A nave espacial Hera da Agência Espacial Europeia para defesa planetária identificou os seus dois asteróides alvo separadamente pela primeira vez, revelando a natureza binária do sistema Didymos, actualmente a cerca de 197 milhões de quilómetros de distância da Terra. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Space_Safety/Hera/First_light_Hera_resolves_two_asteroids_instead_of_one\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>The European Space Agency’s Hera spacecraft for planetary defence has resolved its two target asteroids separately for the very first time, revealing the binary nature of the Didymos system, currently some 197 million km away from Earth. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Space_Safety/Hera/First_light_Hera_resolves_two_asteroids_instead_of_one\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: A nave espacial Hera da Agência Espacial Europeia para defesa planetária identificou os seus dois asteróides alvo separadamente pela primeira vez.",
       "Dado-chave: A nave espacial Hera da Agência Espacial Europeia para defesa planetária identificou os seus dois asteróides alvo separadamente pela primeira.",
@@ -4145,7 +4101,7 @@ window.postsData = [
       "evidence": 82,
       "relevance": 70,
       "accessibility": 60,
-      "novelty": 52
+      "novelty": 49
     }
   },
   {
@@ -4154,35 +4110,7 @@ window.postsData = [
     "cat": "Biologia",
     "catCls": "biologia",
     "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/testing_cristal_s_solar_panel_deployment/27590593-1-eng-GB/Testing_CRISTAL_s_solar_panel_deployment_card_full.jpg",
-    "inline_images": [
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/testing_cristal_s_solar_panel_deployment/27590593-1-eng-GB/Testing_CRISTAL_s_solar_panel_deployment_article.jpg",
-        "caption": "Testando a implantação do painel solar da CRISTAL",
-        "caption_pt": "Testando a implantação do painel solar da CRISTAL",
-        "caption_en": "Testing CRISTAL’s solar panel deployment",
-        "alt": "Testando a implantação do painel solar da CRISTAL",
-        "alt_pt": "Testando a implantação do painel solar da CRISTAL",
-        "alt_en": "Testing CRISTAL’s solar panel deployment"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/testing_cristal_on_its_launch_adapter/27590546-1-eng-GB/Testing_CRISTAL_on_its_launch_adapter_article.jpg",
-        "caption": "Testando CRISTAL em seu adaptador de lançamento",
-        "caption_pt": "Testando CRISTAL em seu adaptador de lançamento",
-        "caption_en": "Testing CRISTAL on its launch adapter",
-        "alt": "Testando CRISTAL em seu adaptador de lançamento",
-        "alt_pt": "Testando CRISTAL em seu adaptador de lançamento",
-        "alt_en": "Testing CRISTAL on its launch adapter"
-      },
-      {
-        "src": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2020/09/cristal/22203251-1-eng-GB/CRISTAL_article.jpg",
-        "caption": "",
-        "caption_pt": "",
-        "caption_en": "",
-        "alt": "",
-        "alt_pt": "",
-        "alt_en": ""
-      }
-    ],
+    "inline_images": [],
     "video": null,
     "audio": null,
     "title": "Missão de gelo CRISTAL abre suas asas",
@@ -4194,9 +4122,9 @@ window.postsData = [
     "excerpt": "Com os seus painéis solares integrados e as principais revisões de qualificação em curso, o novo satélite europeu de monitorização de gelo, CRISTAL, está a passar da fase de montagem para a exigente fase de testes que demonstrará a sua prontidão para os.",
     "excerpt_pt": "Com os seus painéis solares integrados e as principais revisões de qualificação em curso, o novo satélite europeu de monitorização de gelo, CRISTAL, está a passar da fase de montagem para a exigente fase de testes que demonstrará a sua prontidão para os.",
     "excerpt_en": "With its solar arrays integrated and key qualification reviews under way, Europe’s new ice-monitoring satellite, CRISTAL, is moving from assembly into the demanding testing phase that will demonstrate its readiness for the rigours of.",
-    "body": "<p>Com os seus painéis solares integrados e as principais revisões de qualificação em curso, o novo satélite europeu de monitorização de gelo, CRISTAL, está a passar da fase de montagem para a exigente fase de testes que demonstrará a sua prontidão para os rigores da. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Em setembro, os engenheiros das instalações da Airbus em Friedrichshafen, na Alemanha, terminaram a montagem do satélite, marcando um marco importante na sua jornada rumo ao. A equipe então passou para uma nova fase de testes, testando os sistemas do satélite.</p><p>Conduzida em colaboração com o fornecedor de serviços de lançamento AVIO, outra etapa importante envolveu a verificação de que o satélite não só se encaixa no seu adaptador de. O Gestor do Projecto CRISTAL da ESA, Kristof Gantois, disse: “Tudo está a progredir muito bem e o satélite passou nestes testes com louvor, pelo que gostaria de agradecer a todos.</p><p>CRISTAL está prestes a se tornar a primeira missão de expansão Copernicus Sentinel a alcançar a órbita.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Ice_mission_CRISTAL_opens_its_wings\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Com os seus painéis solares integrados e as principais revisões de qualificação em curso, o novo satélite europeu de monitorização de gelo, CRISTAL, está a passar da fase de montagem para a exigente fase de testes que demonstrará a sua prontidão para os rigores da. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Em setembro, os engenheiros das instalações da Airbus em Friedrichshafen, na Alemanha, terminaram a montagem do satélite, marcando um marco importante na sua jornada rumo ao. A equipe então passou para uma nova fase de testes, testando os sistemas do satélite.</p><p>Conduzida em colaboração com o fornecedor de serviços de lançamento AVIO, outra etapa importante envolveu a verificação de que o satélite não só se encaixa no seu adaptador de. O Gestor do Projecto CRISTAL da ESA, Kristof Gantois, disse: “Tudo está a progredir muito bem e o satélite passou nestes testes com louvor, pelo que gostaria de agradecer a todos.</p><p>CRISTAL está prestes a se tornar a primeira missão de expansão Copernicus Sentinel a alcançar a órbita.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Ice_mission_CRISTAL_opens_its_wings\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>With its solar arrays integrated and key qualification reviews under way, Europe’s new ice-monitoring satellite, CRISTAL, is moving from assembly into the demanding testing phase that will demonstrate its readiness for the rigours of. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because biology becomes more informative when an observed effect begins to look like a mechanism rather than an isolated pattern. The gap between identifying a correlation in biological data and understanding the causal chain that produces it is routinely underestimated, and the history of biomedical research is populated with associations that collapsed when the mechanism was sought and not found. A result that comes with a proposed mechanism, even a partial one, is more useful than a purely descriptive finding because it generates testable predictions that can narrow the hypothesis space. In September, engineers at Airbus’ facilities in Friedrichshafen in Germany finished assembling the satellite, marking a major milestone on its journey towards launch. The team then moved on to a new phase of testing, putting the satellite’s systems through their paces.</p><p>Conducted in collaboration with launch service provider AVIO, another key step involved checking that the satellite not only fits on its launch adapter, which is the component. ESA’s CRISTAL Project Manager, Kristof Gantois, said, “Everything is progressing very well and the satellite passed these tests with flying colours, for which I would like to.</p><p>CRISTAL is set to become be the first Copernicus Sentinel Expansion mission to reach orbit. Short for Copernicus Polar Ice and Snow Topography Altimeter, CRISTAL carries the first dual-frequency radar altimeter along with a microwave radiometer that will measure and.</p><p>The CRISTAL mission will ensure the long-term continuation of radar altimetry ice elevation and topographic change records for the next two decades at least, following on from. CRISTAL-B is therefore planned to launch towards the end of CRISTAL-A’s operational lifetime.</p><p>The broader interest lies in whether the reported effect points toward a real mechanism and not merely a reproducible but unexplained association. Biology has learned from decades of biomarker failures that correlation, even robust correlation, is not a substitute for mechanistic understanding. A pathway that can be traced from molecular interaction to cellular response to organismal phenotype provides a far stronger foundation for intervention than a statistical association discovered in a large dataset, however well the statistics are done.</p><p>This approach will help sustain the mission’s observations and provide valuable data for understanding changes in the polar regions and their wider implications for our planet. As operational mission, CRISTAL will deliver data to support maritime activities in the polar oceans, applications related to coastal and inland waters and the monitoring of ocean.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to test whether the effect repeats across different methods, cell types, model organisms and experimental conditions. Reproducibility is the first test, but mechanistic dissection is the second, and a result that passes both has a substantially better chance of translating into something clinically or biotechnologically useful. The path from a laboratory finding to an applied outcome typically takes a decade or more, and most findings do not complete it; the current result sits at the beginning of that process.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Ice_mission_CRISTAL_opens_its_wings\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "body": "<p>Com os seus painéis solares integrados e as principais revisões de qualificação em curso, o novo satélite europeu de monitorização de gelo, CRISTAL, está a passar da fase de montagem para a exigente fase de testes que demonstrará a sua prontidão para os rigores da. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Ice_mission_CRISTAL_opens_its_wings\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Com os seus painéis solares integrados e as principais revisões de qualificação em curso, o novo satélite europeu de monitorização de gelo, CRISTAL, está a passar da fase de montagem para a exigente fase de testes que demonstrará a sua prontidão para os rigores da. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>O interesse mais amplo está em saber se o efeito relatado aponta para um mecanismo real e não apenas para uma associação reproduzível mas inexplicada. A biologia aprendeu com décadas de fracassos de biomarcadores que correlação, mesmo correlação robusta, não substitui compreensão mecanística. Uma via que pode ser rastreada da interação molecular à resposta celular ao fenótipo do organismo fornece uma base muito mais sólida para intervenção do que uma associação estatística descoberta em um grande conjunto de dados, por melhores que sejam as estatísticas.</p><p>Como o relato se origina de ESA Space News, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é testar se o efeito se repete em diferentes métodos, tipos celulares, organismos modelo e condições experimentais. A reprodutibilidade é o primeiro teste, mas a dissecção mecanística é o segundo, e um resultado que passa em ambos tem uma chance substancialmente melhor de se traduzir em algo clinicamente ou biotecnologicamente útil. O caminho de uma descoberta laboratorial para um resultado aplicado tipicamente leva uma década ou mais, e a maioria das descobertas não o completa; o resultado atual está no início desse processo.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Ice_mission_CRISTAL_opens_its_wings\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>With its solar arrays integrated and key qualification reviews under way, Europe’s new ice-monitoring satellite, CRISTAL, is moving from assembly into the demanding testing phase that will demonstrate its readiness for the rigours of. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>The broader interest lies in whether the reported effect points toward a real mechanism and not merely a reproducible but unexplained association. Biology has learned from decades of biomarker failures that correlation, even robust correlation, is not a substitute for mechanistic understanding. A pathway that can be traced from molecular interaction to cellular response to organismal phenotype provides a far stronger foundation for intervention than a statistical association discovered in a large dataset, however well the statistics are done.</p><p>Because the account originates with ESA Space News, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to test whether the effect repeats across different methods, cell types, model organisms and experimental conditions. Reproducibility is the first test, but mechanistic dissection is the second, and a result that passes both has a substantially better chance of translating into something clinically or biotechnologically useful. The path from a laboratory finding to an applied outcome typically takes a decade or more, and most findings do not complete it; the current result sits at the beginning of that process.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Ice_mission_CRISTAL_opens_its_wings\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
     "highlights": [
       "Ponto central: Com os seus painéis solares integrados e as principais revisões de qualificação em curso, o novo satélite europeu de monitorização de gelo, CRISTAL.",
       "Dado-chave: Com os seus painéis solares integrados e as principais revisões de qualificação em curso, o novo satélite europeu de monitorização de gelo.",
@@ -4416,111 +4344,6 @@ window.postsData = [
   },
   {
     "id": 36,
-    "slug": "mars-s-oddest-cloud-may-be-even-odder-than-we-thought",
-    "cat": "Física",
-    "catCls": "fisica",
-    "img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/the_arsia_mons_elongated_cloud_as_seen_by_mars_express/27546706-1-eng-GB/The_Arsia_Mons_Elongated_Cloud_as_seen_by_Mars_Express_card_full.png",
-    "inline_images": [],
-    "video": null,
-    "audio": null,
-    "title": "A nuvem mais estranha de Marte pode ser ainda mais estranha do que pensávamos",
-    "title_pt": "A nuvem mais estranha de Marte pode ser ainda mais estranha do que pensávamos",
-    "title_en": "Mars’s oddest cloud may be even odder than we thought",
-    "sub": "Cientistas que utilizaram o Mars Express da Agência Espacial Europeia, em combinação com um modelo meteorológico de última geração do Planeta Vermelho, descobriram que pode haver.",
-    "sub_pt": "Cientistas que utilizaram o Mars Express da Agência Espacial Europeia, em combinação com um modelo meteorológico de última geração do Planeta Vermelho, descobriram que pode haver.",
-    "sub_en": "Scientists using the European Space Agency's Mars Express, in combination with a state-of-the-art meteorological model of the Red Planet, have found that there may be some very.",
-    "excerpt": "Cientistas que utilizaram o Mars Express da Agência Espacial Europeia, em combinação com um modelo meteorológico de última geração do Planeta Vermelho, descobriram que pode haver alguma física muito exótica por trás da nuvem mais curiosa de Marte.",
-    "excerpt_pt": "Cientistas que utilizaram o Mars Express da Agência Espacial Europeia, em combinação com um modelo meteorológico de última geração do Planeta Vermelho, descobriram que pode haver alguma física muito exótica por trás da nuvem mais curiosa de Marte.",
-    "excerpt_en": "Scientists using the European Space Agency's Mars Express, in combination with a state-of-the-art meteorological model of the Red Planet, have found that there may be some very exotic physics behind Mars’s most curious cloud.",
-    "body": "<p>Cientistas que utilizaram o Mars Express da Agência Espacial Europeia, em combinação com um modelo meteorológico de última geração do Planeta Vermelho, descobriram que pode haver alguma física muito exótica por trás da nuvem mais curiosa de Marte. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Mars_s_oddest_cloud_may_be_even_odder_than_we_thought\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_pt": "<p>Cientistas que utilizaram o Mars Express da Agência Espacial Europeia, em combinação com um modelo meteorológico de última geração do Planeta Vermelho, descobriram que pode haver alguma física muito exótica por trás da nuvem mais curiosa de Marte. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>O interesse mais amplo está tanto no método quanto no número principal, porque um procedimento de medição duradouro pode viajar mais longe do que um único resultado. Quando físicos experimentais desenvolvem uma técnica que alcança nova sensibilidade ou controla um sistemático anteriormente não caracterizado, essa contribuição metodológica persiste mesmo que a medição específica seja revisada posteriormente. Essa é uma das razões pelas quais experimentos de física de precisão frequentemente geram valor de longo prazo que não é imediatamente visível na publicação original.</p><p>Como o relato se origina de ESA Space Science, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é mais medição, controle sistemático mais rigoroso e escrutínio de grupos cujas configurações experimentais são genuinamente independentes. Em física de partículas experimental e metrologia de precisão, o limiar para uma afirmação de descoberta é um excesso de cinco sigma sobrevivendo a múltiplas análises; um sinal intrigante em significância menor é razão para executar mais experimentos, não para revisar os livros-texto. Experimentos de próxima geração atualmente em construção ou comissionamento revisitarão várias das questões abertas que dão ao resultado atual seu contexto.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Mars_s_oddest_cloud_may_be_even_odder_than_we_thought\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
-    "body_en": "<p>Scientists using the European Space Agency&#x27;s Mars Express, in combination with a state-of-the-art meteorological model of the Red Planet, have found that there may be some very exotic physics behind Mars’s most curious cloud. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>The broader interest lies as much in the method as in the headline number, because a durable measurement procedure can travel farther than a single result. When experimental physicists develop a technique that achieves new sensitivity or controls a previously uncharacterized systematic, that methodological contribution persists even if the specific measurement is later revised. This is one reason why precision physics experiments often generate long-term value that is not immediately visible in the original publication.</p><p>Because the account originates with ESA Space Science, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is more measurement, tighter systematic control and scrutiny from groups whose experimental setups are genuinely independent. In experimental particle physics and precision metrology, the threshold for a discovery claim is a five-sigma excess surviving multiple analyses; an intriguing signal at lower significance is a reason to run more experiments, not a reason to revise the textbooks. Next-generation experiments currently under construction or commissioning will revisit several of the open questions that give the current result its context.</p><p class=\"art-source\"><a href=\"https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Mars_s_oddest_cloud_may_be_even_odder_than_we_thought\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
-    "highlights": [
-      "Ponto central: Cientistas que utilizaram o Mars Express da Agência Espacial Europeia, em combinação com um modelo meteorológico de última geração do Planeta.",
-      "Dado-chave: Cientistas que utilizaram o Mars Express da Agência Espacial Europeia, em combinação com um modelo meteorológico de última geração do Planeta.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_pt": [
-      "Ponto central: Cientistas que utilizaram o Mars Express da Agência Espacial Europeia, em combinação com um modelo meteorológico de última geração do Planeta.",
-      "Dado-chave: Cientistas que utilizaram o Mars Express da Agência Espacial Europeia, em combinação com um modelo meteorológico de última geração do Planeta.",
-      "Origem institucional: distinguir anúncio de evidência."
-    ],
-    "highlights_en": [
-      "Core point: Scientists using the European Space Agency's Mars Express, in combination with a state-of-the-art meteorological model of the Red Planet, have found.",
-      "Key detail: Scientists using the European Space Agency's Mars Express, in combination with a state-of-the-art meteorological model of the Red Planet, have.",
-      "Institutional origin: separate announcement from evidence."
-    ],
-    "date": "07 out 2026",
-    "date_pt": "07 out 2026",
-    "date_en": "07 Oct 2026",
-    "time": "15h00",
-    "time_pt": "15h00",
-    "time_en": "15:00 UTC",
-    "read": "4 min de leitura",
-    "read_pt": "4 min de leitura",
-    "read_en": "4 min read",
-    "publishedIso": "2026-10-07T15:00:00+00:00",
-    "lastModifiedIso": "2026-10-07T15:00:00+00:00",
-    "source": "ESA Space Science",
-    "sourceDomain": "www.esa.int",
-    "sourceType": "agency",
-    "sourceTypeLabel": "Fonte institucional",
-    "sourceTypeLabel_pt": "Fonte institucional",
-    "sourceTypeLabel_en": "Institutional source",
-    "sourceNote": "Fonte primária institucional.",
-    "sourceNote_pt": "Fonte primária institucional.",
-    "sourceNote_en": "Primary institutional source.",
-    "evidenceKey": "institutional_update",
-    "evidenceLabel": "Atualização institucional",
-    "evidenceLabel_pt": "Atualização institucional",
-    "evidenceLabel_en": "Institutional update",
-    "editorialBand": "standard",
-    "editorialBandLabel": "Prioridade editorial",
-    "editorialBandLabel_pt": "Prioridade editorial",
-    "editorialBandLabel_en": "Editorial priority",
-    "keywords": [
-      "Física",
-      "ESA Space Science",
-      "Cosmos Week",
-      "A nuvem mais estranha de Marte pode ser ainda mais estranha do que pensávamos"
-    ],
-    "keywords_pt": [
-      "Física",
-      "ESA Space Science",
-      "Cosmos Week",
-      "A nuvem mais estranha de Marte pode ser ainda mais estranha do que pensávamos"
-    ],
-    "keywords_en": [
-      "Physical",
-      "ESA Space Science",
-      "Cosmos Week",
-      "The strangest cloud on Mars may be even stranger than we thought"
-    ],
-    "srcUrl": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Mars_s_oddest_cloud_may_be_even_odder_than_we_thought",
-    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=mars-s-oddest-cloud-may-be-even-odder-than-we-thought",
-    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=mars-s-oddest-cloud-may-be-even-odder-than-we-thought",
-    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=mars-s-oddest-cloud-may-be-even-odder-than-we-thought&lang=en",
-    "defaultLanguage": "pt-BR",
-    "availableLanguages": [
-      "pt-BR",
-      "en-US"
-    ],
-    "featured": false,
-    "trending": false,
-    "isPreprint": false,
-    "geminiReviewed": true,
-    "geminiModel": "gemini-2.0-flash",
-    "score": 73,
-    "scoreBreakdown": {
-      "source": 90,
-      "evidence": 88,
-      "relevance": 64,
-      "accessibility": 60,
-      "novelty": 46
-    }
-  },
-  {
-    "id": 37,
     "slug": "new-dwarf-planet-discovered-by-rubin",
     "cat": "Ciências da Terra",
     "catCls": "terra",
@@ -4635,7 +4458,7 @@ window.postsData = [
     }
   },
   {
-    "id": 38,
+    "id": 37,
     "slug": "nsf-announces-3-additional-topics-as-part-of-the-nsf-x-labs-initiative-to-pursue-generational-br",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4771,7 +4594,7 @@ window.postsData = [
     }
   },
   {
-    "id": 39,
+    "id": 38,
     "slug": "nsf-leadership-in-a-new-golden-age-of-science",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -4895,7 +4718,7 @@ window.postsData = [
     }
   },
   {
-    "id": 40,
+    "id": 39,
     "slug": "nsf-launches-20m-pilot-to-accelerate-commercialization-of-promising-deep-technologies-from-small",
     "cat": "Astronomia",
     "catCls": "astronomia",
@@ -5016,6 +4839,124 @@ window.postsData = [
       "relevance": 74,
       "accessibility": 42,
       "novelty": 46
+    }
+  },
+  {
+    "id": 40,
+    "slug": "ghostly-white-animals-what-s-the-cause",
+    "cat": "Ciências da Terra",
+    "catCls": "terra",
+    "img": "https://earthsky.org/upl/2026/10/Leucistic_Starling_Wikimedia-Commons-800px.jpg",
+    "inline_images": [
+      {
+        "src": "https://earthsky.org/wp-content/themes/earthsky-testing-6c8e0a978c578089f4b8b6-2/images/user.svg",
+        "caption": "",
+        "caption_pt": "",
+        "caption_en": "",
+        "alt": "",
+        "alt_pt": "",
+        "alt_en": ""
+      }
+    ],
+    "video": null,
+    "audio": null,
+    "title": "Animais brancos fantasmagóricos: Qual é a causa?",
+    "title_pt": "Animais brancos fantasmagóricos: Qual é a causa?",
+    "title_en": "Ghostly white animals: What’s the cause?",
+    "sub": "Feliz Dia das Bruxas! Eles podem parecer fantasmagóricos, mas os animais brancos não são fantasmas. Aqui está a ciência por trás do motivo pelo qual algumas criaturas perdem a.",
+    "sub_pt": "Feliz Dia das Bruxas! Eles podem parecer fantasmagóricos, mas os animais brancos não são fantasmas. Aqui está a ciência por trás do motivo pelo qual algumas criaturas perdem a.",
+    "sub_en": "Happy Halloween! They might look ghostly, but white animals are not ghosts. Here's the science behind why some creatures lose their color. The post Ghostly white animals: What’s.",
+    "excerpt": "Feliz Dia das Bruxas! Eles podem parecer fantasmagóricos, mas os animais brancos não são fantasmas. Aqui está a ciência por trás do motivo pelo qual algumas criaturas perdem a cor. O post Animais brancos fantasmagóricos: Qual é a causa? apareceu pela primeira.",
+    "excerpt_pt": "Feliz Dia das Bruxas! Eles podem parecer fantasmagóricos, mas os animais brancos não são fantasmas. Aqui está a ciência por trás do motivo pelo qual algumas criaturas perdem a cor. O post Animais brancos fantasmagóricos: Qual é a causa? apareceu pela primeira.",
+    "excerpt_en": "Happy Halloween! They might look ghostly, but white animals are not ghosts. Here's the science behind why some creatures lose their color. The post Ghostly white animals: What’s the cause? first appeared on EarthSky.",
+    "body": "<p>Feliz Dia das Bruxas! Eles podem parecer fantasmagóricos, mas os animais brancos não são fantasmas. Aqui está a ciência por trás do motivo pelo qual algumas criaturas perdem a cor. O post Animais brancos fantasmagóricos: Qual é a causa? apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Por exemplo, algumas criaturas se camuflam para se esconder de predadores, como mariposas que parecem casca de árvore (nada para ver aqui!). Aqui está a ciência por trás da cor dos animais e como alguns animais acabam ficando brancos como fantasmas.</p><p>Outro tipo, chamado feomelanina, produz aqueles marrom-avermelhados, laranjas e amarelos, como os encontrados no cabelo do orangotango e nas listras do tigre. Por exemplo, as cores amarelas brilhantes do pintassilgo americano ( Spinus tristis ) vêm dos carotenóides luteína e zeaxantina consumidos em alimentos como ásteres, dentes de.</p><p>As penas azuis brilhantes dos gaios-azuis (Cyanocitta cristata) são criadas por estruturas microscópicas que espalham (desviam aleatoriamente) certos comprimentos de onda de luz. Em animais leucísticos, as células que produzem melanina, chamadas melanócitos, não se formam ou não migram adequadamente para os destinos pretendidos durante o desenvolvimento.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/earth/ghostly-white-animals-cause-albinism-leucism/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_pt": "<p>Feliz Dia das Bruxas! Eles podem parecer fantasmagóricos, mas os animais brancos não são fantasmas. Aqui está a ciência por trás do motivo pelo qual algumas criaturas perdem a cor. O post Animais brancos fantasmagóricos: Qual é a causa? apareceu pela primeira vez no EarthSky. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão.</p><p>Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Por exemplo, algumas criaturas se camuflam para se esconder de predadores, como mariposas que parecem casca de árvore (nada para ver aqui!). Aqui está a ciência por trás da cor dos animais e como alguns animais acabam ficando brancos como fantasmas.</p><p>Outro tipo, chamado feomelanina, produz aqueles marrom-avermelhados, laranjas e amarelos, como os encontrados no cabelo do orangotango e nas listras do tigre. Por exemplo, as cores amarelas brilhantes do pintassilgo americano ( Spinus tristis ) vêm dos carotenóides luteína e zeaxantina consumidos em alimentos como ásteres, dentes de.</p><p>As penas azuis brilhantes dos gaios-azuis (Cyanocitta cristata) são criadas por estruturas microscópicas que espalham (desviam aleatoriamente) certos comprimentos de onda de luz. Em animais leucísticos, as células que produzem melanina, chamadas melanócitos, não se formam ou não migram adequadamente para os destinos pretendidos durante o desenvolvimento.</p><p>O interesse mais amplo está em ligar a observação a dinâmicas climáticas, geofísicas ou ambientais que se estendem muito além do evento ou local imediato. As ciências da Terra são incomuns porque suas questões mais importantes operam em escalas de tempo que nenhuma carreira científica pode observar diretamente, tornando o registro de arquivo, seja em gelo, sedimento, rocha ou dados de satélite, tão importante quanto qualquer nova medição. Resultados que podem ser incorporados a esse registro e que confirmam ou desafiam os padrões que ele revela carregam peso científico desproporcional.</p><p>Como o relato se origina de EarthSky, ele funciona melhor como um relatório institucional primário próximo dos dados e das operações, não como validação científica independente. Comunicações institucionais são produzidas por organizações com interesses legítimos em apresentar seu trabalho de forma favorável, o que não as torna não confiáveis, mas as torna parciais. Detalhes que complicam a narrativa, incluindo limitações de instrumentos, falhas inesperadas e resultados abaixo das projeções, tendem a ser minimizados em relação às mensagens de progresso. Documentação técnica e publicações revisadas por pares, quando existem, fornecem a camada complementar que releases institucionais não podem substituir.</p><p>O próximo passo é situar o resultado em séries temporais mais longas e compará-lo com instrumentos independentes e locais independentes. Observações do sistema terrestre obtêm a maior parte de seu poder interpretativo da densidade da rede e da profundidade temporal, não de qualquer medição única por mais precisa que seja. Simulações de modelos que assimilam os novos dados ajudarão a esclarecer se a observação se encaixa confortavelmente dentro da variabilidade natural conhecida ou representa uma mudança que os modelos existentes não reproduzem.</p><p class=\"art-source\"><a href=\"https://earthsky.org/earth/ghostly-white-animals-cause-albinism-leucism/\" target=\"_blank\" rel=\"noopener noreferrer\">Fonte</a></p>",
+    "body_en": "<p>Happy Halloween! They might look ghostly, but white animals are not ghosts. Here&#x27;s the science behind why some creatures lose their color. The post Ghostly white animals: What’s the cause? first appeared on EarthSky. The institutional report frames the development in practical terms and ties it to the broader mission or observing effort.</p><p>That matters because Earth science becomes stronger when local observations can be placed inside a broader physical pattern that spans time and geography. The planet operates as a coupled system in which atmospheric, oceanic, cryospheric and solid-Earth processes interact across timescales from days to millions of years. A measurement that captures one variable at one location and one moment has limited interpretive value until it is embedded in the longer series and wider spatial coverage that allow natural variability to be separated from forced change. For example, some creatures camouflage themselves to hide from predators, like moths that look like tree bark (nothing to see here!). Here’s the science behind animal color, and how some animals end up ghostly white.</p><p>Another type, called pheomelanin, makes those reddish-browns, oranges, and yellows, such as those found in orangutan hair and tiger stripes. As example, the bright yellow colors of American goldfinch ( Spinus tristis ) come from the carotenoids lutein and zeaxanthin consumed in foods like asters, dandelions, sunflower.</p><p>The brilliant blue feathers of bluejays ( Cyanocitta cristata ) are created by microscopic structures that scatter (randomly deflect) certain wavelengths of light. In leucistic animals, the cells that produce melanin, called melanocytes, don’t form, or don’t migrate properly to the intended destinations during embryonic development.</p><p>Leucistic fawns with their tawny brown mother. White-tailed deer ( Odocoileus virginianus ), Forest Lawn Cemetery, Buffalo, New York.</p><p>The broader interest lies in linking the observation to climatic, geophysical or environmental dynamics that extend well beyond the immediate event or location. Earth science is unusual in that its most important questions operate on timescales that no single research career can observe directly, making the archival record, whether in ice, sediment, rock or satellite data, as important as any new measurement. Results that can be embedded in that record, and that either confirm or challenge the patterns it reveals, carry disproportionate scientific weight.</p><p>Both pigments start from the same precursor, dopaquinone. In an experiment with captive cane toads ( Rhinella marina ), Alexander Funk and colleagues used CRISPR-Cas9 gene editing to knock out the gene for the enzyme that makes melanin.</p><p>Because the account originates with EarthSky, it functions best as a primary institutional report that is close to the data and operations, not as independent scientific validation. Institutional communications are produced by organizations with legitimate interests in presenting their work in a favorable light, which does not make them unreliable but does make them partial. Details that complicate the narrative, including instrument limitations, unexpected failures and results below projections, tend to be minimized relative to progress messages. Technical documentation and peer-reviewed publications, where they exist, provide the complementary layer that institutional releases cannot substitute.</p><p>The next step is to place the result inside longer time series and to compare it with independent instruments and independent sites. Earth system observations gain most of their interpretive power from network density and temporal depth, not from any single measurement however precise. Model simulations that assimilate the new data will help clarify whether the observation fits comfortably within known natural variability or represents a shift that existing models do not reproduce.</p><p class=\"art-source\"><a href=\"https://earthsky.org/earth/ghostly-white-animals-cause-albinism-leucism/\" target=\"_blank\" rel=\"noopener noreferrer\">Source</a></p>",
+    "highlights": [
+      "Ponto central: Feliz Dia das Bruxas! Eles podem parecer fantasmagóricos, mas os animais brancos não são fantasmas. Aqui está a ciência por trás do motivo pelo qual.",
+      "Dado-chave: Por exemplo, algumas criaturas se camuflam para se esconder de predadores, como mariposas que parecem casca de árvore (nada para ver aqui!).",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_pt": [
+      "Ponto central: Feliz Dia das Bruxas! Eles podem parecer fantasmagóricos, mas os animais brancos não são fantasmas. Aqui está a ciência por trás do motivo pelo qual.",
+      "Dado-chave: Por exemplo, algumas criaturas se camuflam para se esconder de predadores, como mariposas que parecem casca de árvore (nada para ver aqui!).",
+      "Origem institucional: distinguir anúncio de evidência."
+    ],
+    "highlights_en": [
+      "Core point: Happy Halloween! They might look ghostly, but white animals are not ghosts. Here's the science behind why some creatures lose their color. The post.",
+      "Key detail: For example, some creatures camouflage themselves to hide from predators, like moths that look like tree bark (nothing to see here!).",
+      "Institutional origin: separate announcement from evidence."
+    ],
+    "date": "30 out 2026",
+    "date_pt": "30 out 2026",
+    "date_en": "30 Oct 2026",
+    "time": "11h18",
+    "time_pt": "11h18",
+    "time_en": "11:18 UTC",
+    "read": "4 min de leitura",
+    "read_pt": "4 min de leitura",
+    "read_en": "4 min read",
+    "publishedIso": "2026-10-30T11:18:00+00:00",
+    "lastModifiedIso": "2026-10-30T11:18:00+00:00",
+    "source": "EarthSky",
+    "sourceDomain": "earthsky.org",
+    "sourceType": "agency",
+    "sourceTypeLabel": "Fonte institucional",
+    "sourceTypeLabel_pt": "Fonte institucional",
+    "sourceTypeLabel_en": "Institutional source",
+    "sourceNote": "Fonte primária institucional.",
+    "sourceNote_pt": "Fonte primária institucional.",
+    "sourceNote_en": "Primary institutional source.",
+    "evidenceKey": "institutional_update",
+    "evidenceLabel": "Atualização institucional",
+    "evidenceLabel_pt": "Atualização institucional",
+    "evidenceLabel_en": "Institutional update",
+    "editorialBand": "standard",
+    "editorialBandLabel": "Prioridade editorial",
+    "editorialBandLabel_pt": "Prioridade editorial",
+    "editorialBandLabel_en": "Editorial priority",
+    "keywords": [
+      "Ciências da Terra",
+      "EarthSky",
+      "Cosmos Week",
+      "Animais brancos fantasmagóricos",
+      "Qual é a causa?"
+    ],
+    "keywords_pt": [
+      "Ciências da Terra",
+      "EarthSky",
+      "Cosmos Week",
+      "Animais brancos fantasmagóricos",
+      "Qual é a causa?"
+    ],
+    "keywords_en": [
+      "Earth Sciences",
+      "EarthSky",
+      "Cosmos Week",
+      "Ghostly white animals",
+      "What is the cause?"
+    ],
+    "srcUrl": "https://earthsky.org/earth/ghostly-white-animals-cause-albinism-leucism/",
+    "canonicalUrl": "https://marambaiajunior.github.io/cosmos-week1/?article=ghostly-white-animals-what-s-the-cause",
+    "canonicalUrl_pt": "https://marambaiajunior.github.io/cosmos-week1/?article=ghostly-white-animals-what-s-the-cause",
+    "canonicalUrl_en": "https://marambaiajunior.github.io/cosmos-week1/?article=ghostly-white-animals-what-s-the-cause&lang=en",
+    "defaultLanguage": "pt-BR",
+    "availableLanguages": [
+      "pt-BR",
+      "en-US"
+    ],
+    "featured": false,
+    "trending": false,
+    "isPreprint": false,
+    "geminiReviewed": true,
+    "geminiModel": "gemini-2.0-flash",
+    "score": 69,
+    "scoreBreakdown": {
+      "source": 72,
+      "evidence": 88,
+      "relevance": 62,
+      "accessibility": 60,
+      "novelty": 49
     }
   }
 ];

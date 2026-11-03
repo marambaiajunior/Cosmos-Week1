@@ -5,13 +5,13 @@
     <link>https://marambaiajunior.github.io/cosmos-week1/</link>
     <description>Portal de jornalismo científico com foco em astronomia, astrofísica, cosmologia e ciência de fronteira.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 02 Nov 2026 23:55:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 06:37:09 +0000</lastBuildDate>
     <generator>CosmosWeekBot 5.0</generator>
     <item>
               <title>Medicamento modificado para HIV reverte perda de visão e paralisia em modelo de esclerose múltipla</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=modified-hiv-drug-reverses-vision-loss-and-paralysis-in-multiple-sclerosis-model</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=modified-hiv-drug-reverses-vision-loss-and-paralysis-in-multiple-sclerosis-model</guid>
-              <pubDate>Mon, 02 Nov 2026 23:51:11 +0000</pubDate>
+              <pubDate>Tue, 03 Nov 2026 06:35:08 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Um novo estudo financiado pelos Institutos Nacionais de Saúde indica que o medicamento experimental kamuvudina-9 facilita a recuperação da perda de visão e paralisia pré-existentes em modelos animais de esclerose múltipla.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Medicamento modificado para HIV reverte perda de visão e paralisia em modelo de esclerose múltipla</category>
@@ -21,7 +21,7 @@
               <title>NIH lança nova ferramenta PubMed para fortalecer a replicação e reprodutibilidade da pesquisa</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nih-launches-new-pubmed-tool-to-strengthen-research-replication-and-reproducibility</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nih-launches-new-pubmed-tool-to-strengthen-research-replication-and-reproducibility</guid>
-              <pubDate>Mon, 02 Nov 2026 23:51:11 +0000</pubDate>
+              <pubDate>Tue, 03 Nov 2026 06:35:08 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Linked Discoveries é uma ferramenta experimental para ajudar os cientistas a ver como os resultados de pesquisas individuais se relacionam com o corpo mais amplo de evidências biomédicas.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>NIH lança nova ferramenta PubMed para fortalecer a replicação e reprodutibilidade da pesquisa</category>
@@ -31,7 +31,7 @@
               <title>NIH une esforços para construir dados prontos para SI para modelos preditivos de biologia humana</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nih-joins-effort-to-build-si-ready-data-for-predictive-models-of-human-biology</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nih-joins-effort-to-build-si-ready-data-for-predictive-models-of-human-biology</guid>
-              <pubDate>Mon, 02 Nov 2026 23:51:11 +0000</pubDate>
+              <pubDate>Tue, 03 Nov 2026 06:35:08 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>A Missão Bio Genesis liderada pelo NIH aproveitará os recursos de dados biomédicos existentes para acelerar a descoberta habilitada para SI e melhorar a saúde humana.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>NIH une esforços para construir dados prontos para SI para modelos preditivos de biologia humana</category>
@@ -41,7 +41,7 @@
               <title>Organoides pulmonares humanos com sistema imunológico integrado podem transformar a pesquisa de doenças respiratórias</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=human-lung-organoids-with-a-built-in-immune-system-could-transform-respiratory-disease-research</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=human-lung-organoids-with-a-built-in-immune-system-could-transform-respiratory-disease-research</guid>
-              <pubDate>Mon, 02 Nov 2026 23:51:11 +0000</pubDate>
+              <pubDate>Tue, 03 Nov 2026 06:35:08 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>No estudo financiado pelo NIH, os modelos orquestraram respostas imunes adaptativas à infecção viral.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Organoides pulmonares humanos com sistema imunológico integrado podem transformar a pesquisa de doenças respiratórias</category>
@@ -51,12 +51,52 @@
               <title>Modelo de aprendizagem profunda usando ECGs durante estudos do sono pode prever resultados cardiovasculares</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=deep-learning-model-using-ecgs-during-sleep-studies-can-predict-cardiovascular-outcomes</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=deep-learning-model-using-ecgs-during-sleep-studies-can-predict-cardiovascular-outcomes</guid>
-              <pubDate>Mon, 02 Nov 2026 23:51:11 +0000</pubDate>
+              <pubDate>Tue, 03 Nov 2026 06:35:08 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>A integração de ECGs na triagem de distúrbios do sono poderia melhorar a detecção e orientar a tomada de decisões clínicas.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Modelo de aprendizagem profunda usando ECGs durante estudos do sono pode prever resultados cardiovasculares</category>
               <source url="https://www.nih.gov/news-events/news-releases/deep-learning-model-using-ecgs-during-sleep-studies-can-predict-cardiovascular-outcomes">NIH News Releases</source>
               <content:encoded>A integração de ECGs na triagem de distúrbios do sono poderia melhorar a detecção e orientar a tomada de decisões clínicas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Uma equipe de pesquisa apoiada pelos Instituto</content:encoded>
+            </item><item>
+              <title>A movimentada temporada de tempestades no Pacífico</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=the-pacific-s-busy-storm-season</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=the-pacific-s-busy-storm-season</guid>
+              <pubDate>Tue, 03 Nov 2026 05:01:00 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>O Super Tufão In-fa desenvolveu um olho incomumente grande, e os remanescentes do Tufão Champi fizeram a transição para uma tempestade extratropical que atingiu o Alasca.</description>
+              <category>Astronomia</category><category>NASA News Releases</category><category>Cosmos Week</category><category>A movimentada temporada de tempestades no Pacífico</category>
+              <source url="https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season/">NASA News Releases</source>
+              <content:encoded>O Super Tufão In-fa desenvolveu um olho incomumente grande, e os remanescentes do Tufão Champi fizeram a transição para uma tempestade extratropical que atingiu o Alasca. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. O MODI</content:encoded>
+            </item><item>
+              <title>O gelo de água de Ceres pode mascarar enormes depósitos de sal na superfície</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=ceres-water-ice-can-mask-massive-surface-salt-deposits</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=ceres-water-ice-can-mask-massive-surface-salt-deposits</guid>
+              <pubDate>Tue, 03 Nov 2026 02:20:01 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>O planeta anão Ceres é indiscutivelmente um dos objetos planetários mais negligenciados e subestimados do sistema solar. Isso pode ocorrer porque, embora Ceres tenha a mesma designação de planeta anão que Plutão, Ceres é amplamente considerado um planeta anão.</description>
+              <category>Cosmologia</category><category>Phys.org Space</category><category>Cosmos Week</category><category>O gelo de água de Ceres pode mascarar enormes depósitos de sal na superfície</category>
+              <source url="https://phys.org/news/2026-11-ceres-ice-mask-massive-surface.html">Phys.org Space</source>
+              <content:encoded>O planeta anão Ceres é indiscutivelmente um dos objetos planetários mais negligenciados e subestimados do sistema solar. Isso pode ocorrer porque, embora Ceres tenha a mesma designação de planeta anão que Plutão, Ceres é amplamente considerado um planeta anão. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com si</content:encoded>
+            </item><item>
+              <title>O Vera Rubin encontrou mais dois satélites escuros da Via Láctea</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=the-vera-rubin-has-found-two-more-of-the-milky-way-s-dim-satellites</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=the-vera-rubin-has-found-two-more-of-the-milky-way-s-dim-satellites</guid>
+              <pubDate>Tue, 03 Nov 2026 01:33:59 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>O Observatório Vera Rubin detectou mais dois satélites escuros e difíceis de ver da Via Láctea. Uma é uma galáxia anã ultrafraca e a outra é um aglomerado globular. Cada um deles é uma peça que faltava no quebra-cabeça da fusão da Via Láctea.</description>
+              <category>Cosmologia</category><category>Universe Today</category><category>Cosmos Week</category><category>O Vera Rubin encontrou mais dois satélites escuros da Via Láctea</category>
+              <source url="https://www.universetoday.com/articles/the-vera-rubin-has-found-two-more-of-the-milky-ways-dim-satellites">Universe Today</source>
+              <content:encoded>O Observatório Vera Rubin detectou mais dois satélites escuros e difíceis de ver da Via Láctea. Uma é uma galáxia anã ultrafraca e a outra é um aglomerado globular. Cada um deles é uma peça que faltava no quebra-cabeça da fusão da Via Láctea. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos indepen</content:encoded>
+            </item><item>
+              <title>Alunos da Queen's University Belfast encontram os esquivos asteróides troianos de Netuno</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=queen-s-university-belfast-students-find-neptune-s-elusive-trojan-asteroids</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=queen-s-university-belfast-students-find-neptune-s-elusive-trojan-asteroids</guid>
+              <pubDate>Tue, 03 Nov 2026 01:00:01 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Uma equipe internacional liderada por pesquisadores da Queen's University Belfast fez uma descoberta que escapou aos astrônomos durante décadas. Começando em 1906, as observações do telescópio revelaram uma população de asteróides à frente e atrás de Júpiter.</description>
+              <category>Astronomia</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Alunos da Queen's University Belfast encontram os esquivos asteróides troianos de Netuno</category>
+              <source url="https://phys.org/news/2026-11-queen-university-belfast-students-neptune.html">Phys.org Space</source>
+              <content:encoded>Uma equipe internacional liderada por pesquisadores da Queen's University Belfast fez uma descoberta que escapou aos astrônomos durante décadas. Começando em 1906, as observações do telescópio revelaram uma população de asteróides à frente e atrás de Júpiter. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resulta</content:encoded>
             </item><item>
               <title>Felizes 65 anos: o Centro Espacial Johnson da NASA antes e agora</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=happy-65-years-nasa-s-johnson-space-center-then-and-now</link>
@@ -68,46 +108,6 @@
               <source url="https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/">NASA News Releases</source>
               <content:encoded>Há sessenta e cinco anos, uma visão ousada criou raízes em Houston: um centro da NASA dedicado a voos espaciais tripulados. Desde a sua fundação, o Centro Espacial Johnson da NASA ajudou a liderar o programa de voos espaciais tripulados do país, apoiando missões de. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta</content:encoded>
             </item><item>
-              <title>TB 26-09 Entradas Medidas de Martelo</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=tb-26-09-measured-hammer-tap-inputs</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=tb-26-09-measured-hammer-tap-inputs</guid>
-              <pubDate>Mon, 02 Nov 2026 20:47:41 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Para obter mais informações, entre em contato com Joel W. Sills, Centro de Pesquisa Langley, joel. c. soleiras@nasa. governo Baixe a versão em PDF Um teste de martelo instrumentado não requer uma forma de onda semi-senoidal única idealizada. Quando a força.</description>
-              <category>Astronomia</category><category>NASA News Releases</category><category>Cosmos Week</category><category>TB 26</category>
-              <source url="https://www.nasa.gov/centers-and-facilities/nesc/tb-26-09-measured-hammer-tap-inputs/">NASA News Releases</source>
-              <content:encoded>Para obter mais informações, entre em contato com Joel W. Sills, Centro de Pesquisa Langley, joel. c. soleiras@nasa. governo Baixe a versão em PDF Um teste de martelo instrumentado não requer uma forma de onda semi-senoidal única idealizada. Quando a força completa e. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que u</content:encoded>
-            </item><item>
-              <title>As estrelas produzem oxigênio para pequenas galáxias, mas perdem a maior parte dele</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=stars-make-oxygen-for-small-galaxies-but-they-lose-most-of-it</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=stars-make-oxygen-for-small-galaxies-but-they-lose-most-of-it</guid>
-              <pubDate>Mon, 02 Nov 2026 20:00:02 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Cientistas que examinaram dados recolhidos pelo Telescópio Espacial Hubble da NASA descobriram que dezenas de pequenas galáxias contêm muito menos oxigénio do que se estima que as suas estrelas tenham produzido. Os pesquisadores, incluindo um astrofísico da.</description>
-              <category>Ciências da Terra</category><category>Phys.org Space</category><category>Cosmos Week</category><category>As estrelas produzem oxigênio para pequenas galáxias</category>
-              <source url="https://phys.org/news/2026-11-stars-oxygen-small-galaxies.html">Phys.org Space</source>
-              <content:encoded>Cientistas que examinaram dados recolhidos pelo Telescópio Espacial Hubble da NASA descobriram que dezenas de pequenas galáxias contêm muito menos oxigénio do que se estima que as suas estrelas tenham produzido. Os pesquisadores, incluindo um astrofísico da Rutgers. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mai</content:encoded>
-            </item><item>
-              <title>O JWST pode ter encontrado onde as sementes pesadas do buraco negro se formaram</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=the-jwst-may-have-found-where-heavy-black-hole-seeds-formed</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=the-jwst-may-have-found-where-heavy-black-hole-seeds-formed</guid>
-              <pubDate>Mon, 02 Nov 2026 19:28:28 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Os astrofísicos pensam que os buracos negros crescem através de uma estrutura hierárquica de fusão. Mas os indescritíveis Buracos Negros de Massa Intermediária são o elo perdido entre os buracos negros de massa estelar e os gigantescos buracos negros.</description>
-              <category>Astrofísica</category><category>Universe Today</category><category>Cosmos Week</category><category>O JWST pode ter encontrado onde as sementes pesadas do buraco negro se formaram</category>
-              <source url="https://www.universetoday.com/articles/the-jwst-may-have-found-where-heavy-black-hole-seeds-formed">Universe Today</source>
-              <content:encoded>Os astrofísicos pensam que os buracos negros crescem através de uma estrutura hierárquica de fusão. Mas os indescritíveis Buracos Negros de Massa Intermediária são o elo perdido entre os buracos negros de massa estelar e os gigantescos buracos negros supermassivos como o. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal</content:encoded>
-            </item><item>
-              <title>O gelo da cratera polar marciana muda com a geada sazonal</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=martian-polar-crater-ice-shifts-with-seasonal-frost</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=martian-polar-crater-ice-shifts-with-seasonal-frost</guid>
-              <pubDate>Mon, 02 Nov 2026 19:00:01 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Marte compartilha muitos acidentes geográficos e padrões climáticos com a Terra, incluindo mudanças de estações, vulcões, desfiladeiros, tempestades de poeira, redemoinhos de poeira e gelo de água. Outra característica que a Terra e Marte compartilham são as.</description>
-              <category>Ciências da Terra</category><category>Phys.org Space</category><category>Cosmos Week</category><category>O gelo da cratera polar marciana muda com a geada sazonal</category>
-              <source url="https://phys.org/news/2026-11-martian-polar-crater-ice-shifts.html">Phys.org Space</source>
-              <content:encoded>Marte compartilha muitos acidentes geográficos e padrões climáticos com a Terra, incluindo mudanças de estações, vulcões, desfiladeiros, tempestades de poeira, redemoinhos de poeira e gelo de água. Outra característica que a Terra e Marte compartilham são as calotas polares. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura esp</content:encoded>
-            </item><item>
               <title>NASA convida mídia para lançamento de reabastecimento da estação Northrop Grumman CRS-25</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch</guid>
@@ -118,16 +118,6 @@
               <source url="https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch/">NASA News Releases</source>
               <content:encoded>O credenciamento da mídia está aberto para o próximo lançamento para entregar investigações científicas, suprimentos e equipamentos da NASA à Estação Espacial Internacional. Uma espaçonave Northrop Grumman Cygnus XL será lançada em novembro para o laboratório orbital. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que u</content:encoded>
             </item><item>
-              <title>Hubble da NASA descobre caso de falta de oxigênio em galáxias anãs próximas</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies</guid>
-              <pubDate>Mon, 02 Nov 2026 15:00:39 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>O Hubble da NASA estudou 37 galáxias anãs próximas e descobriu que falta muito do oxigénio que esperavam ver.</description>
-              <category>Astronomia</category><category>NASA News Releases</category><category>Cosmos Week</category><category>Hubble da NASA descobre caso de falta de oxigênio em galáxias anãs próximas</category>
-              <source url="https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/">NASA News Releases</source>
-              <content:encoded>O Hubble da NASA estudou 37 galáxias anãs próximas e descobriu que falta muito do oxigénio que esperavam ver. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação antes de a comunidade tratá-lo como estabelecido. Esta é uma imagem obtida pelo Telescópio Espacial Hubble da NASA de</content:encoded>
-            </item><item>
               <title>Lançamento científico: Hubble identifica uma das galáxias mais escuras conhecidas</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-identifies-one-of-darkest-known-galaxies</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-identifies-one-of-darkest-known-galaxies</guid>
@@ -137,26 +127,6 @@
               <category>Cosmologia</category><category>ESA Hubble News</category><category>Cosmos Week</category><category>Lançamento científico</category>
               <source url="https://esahubble.org/news/heic2605/">ESA Hubble News</source>
               <content:encoded>A maioria das galáxias no Universo próximo são bastante luminosas, mas algumas são tão ténues que são quase invisíveis. Os astrónomos, usando o Telescópio Espacial Hubble da NASA/ESA em combinação com outros observatórios, identificaram uma galáxia que parece ser. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território co</content:encoded>
-            </item><item>
-              <title>A radiação cósmica de fundo em micro-ondas oferece evidências de fluxo de gás em aglomerados de galáxias</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=cosmic-microwave-background-offers-evidence-of-gas-flowing-in-galaxy-clusters</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=cosmic-microwave-background-offers-evidence-of-gas-flowing-in-galaxy-clusters</guid>
-              <pubDate>Thu, 29 Oct 2026 16:10:01 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>A radiação cósmica de fundo é um brilho fraco no universo que remonta a cerca de 380.000 anos após o Big Bang, muito antes do surgimento de estrelas ou galáxias. Detectar esta luz e mapear as suas flutuações fornece informações valiosas.</description>
-              <category>Cosmologia</category><category>Phys.org Space</category><category>Cosmos Week</category><category>A radiação cósmica de fundo em micro</category>
-              <source url="https://phys.org/news/2026-10-cosmic-microwave-background-evidence-gas.html">Phys.org Space</source>
-              <content:encoded>A radiação cósmica de fundo é um brilho fraco no universo que remonta a cerca de 380.000 anos após o Big Bang, muito antes do surgimento de estrelas ou galáxias. Detectar esta luz e mapear as suas flutuações fornece informações valiosas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independente</content:encoded>
-            </item><item>
-              <title>Sonda Hera vê par de asteroides separadamente pela primeira vez</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=hera-probe-sees-asteroid-pair-separately-for-first-time</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=hera-probe-sees-asteroid-pair-separately-for-first-time</guid>
-              <pubDate>Sat, 31 Oct 2026 01:52:53 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>A defesa planetária é uma preocupação crescente entre a comunidade científica, à medida que têm sido feitos esforços para conceber e implementar missões destinadas a desviar as ameaças que chegam à Terra com bastante antecedência. Em 2022, a NASA colidiu.</description>
-              <category>Cosmologia</category><category>Universe Today</category><category>Cosmos Week</category><category>Sonda Hera vê par de asteroides separadamente pela primeira vez</category>
-              <source url="https://www.universetoday.com/articles/hera-probe-sees-asteroid-pair-separately-for-first-time">Universe Today</source>
-              <content:encoded>A defesa planetária é uma preocupação crescente entre a comunidade científica, à medida que têm sido feitos esforços para conceber e implementar missões destinadas a desviar as ameaças que chegam à Terra com bastante antecedência. Em 2022, a NASA colidiu intencionalmente. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse terri</content:encoded>
             </item><item>
               <title>Lançamento científico: Hubble descobre o primeiro buraco negro desaparecido do aglomerado de estrelas</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-discovers-first-of-star-cluster-s-missing-black-holes</link>
@@ -178,6 +148,16 @@
               <source url="https://www.universetoday.com/articles/this-gamma-ray-burst-wasnt-dim-it-was-just-misunderstood">Universe Today</source>
               <content:encoded>Em março de 2026, o Telescópio Espacial de Raios Gama Fermi da NASA detectou um GRB com uma assinatura de luz incomum. Sua radiação gama inicial era fraca e o brilho residual exibia picos incomuns e retardados. Acontece que estávamos vendo isso de lado. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantit</content:encoded>
             </item><item>
+              <title>O JWST pode ter encontrado onde as sementes pesadas do buraco negro se formaram</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=the-jwst-may-have-found-where-heavy-black-hole-seeds-formed</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=the-jwst-may-have-found-where-heavy-black-hole-seeds-formed</guid>
+              <pubDate>Mon, 02 Nov 2026 19:28:28 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Os astrofísicos pensam que os buracos negros crescem através de uma estrutura hierárquica de fusão. Mas os indescritíveis Buracos Negros de Massa Intermediária são o elo perdido entre os buracos negros de massa estelar e os gigantescos buracos negros.</description>
+              <category>Astrofísica</category><category>Universe Today</category><category>Cosmos Week</category><category>O JWST pode ter encontrado onde as sementes pesadas do buraco negro se formaram</category>
+              <source url="https://www.universetoday.com/articles/the-jwst-may-have-found-where-heavy-black-hole-seeds-formed">Universe Today</source>
+              <content:encoded>Os astrofísicos pensam que os buracos negros crescem através de uma estrutura hierárquica de fusão. Mas os indescritíveis Buracos Negros de Massa Intermediária são o elo perdido entre os buracos negros de massa estelar e os gigantescos buracos negros supermassivos como o. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal</content:encoded>
+            </item><item>
               <title>Este excêntrico mundo de lava reflexiva é difícil de entender</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=this-oddball-reflective-lava-world-is-challenging-to-understand</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=this-oddball-reflective-lava-world-is-challenging-to-understand</guid>
@@ -193,20 +173,40 @@
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=this-ancient-meteorite-hints-at-mars-warm-wet-past</guid>
               <pubDate>Fri, 30 Oct 2026 19:14:01 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Os antigos meteoritos marcianos são como cápsulas do tempo do passado do planeta. Eles são entregues a nós por impactos que os lançam no espaço, onde alguns deles chegam à Terra. Um meteorito recentemente descoberto encontrado no Saara.</description>
+              <description>Os antigos meteoritos marcianos são como cápsulas do tempo do passado do planeta. Eles nos são entregues por impactos que os lançam no espaço, onde alguns deles chegam à Terra. Um meteorito recentemente descoberto encontrado no Saara.</description>
               <category>Exoplanetas</category><category>Universe Today</category><category>Cosmos Week</category><category>Este antigo meteorito sugere o passado quente e úmido de Marte</category>
               <source url="https://www.universetoday.com/articles/this-ancient-meteorite-hints-at-mars-warm-wet-past">Universe Today</source>
-              <content:encoded>Os antigos meteoritos marcianos são como cápsulas do tempo do passado do planeta. Eles são entregues a nós por impactos que os lançam no espaço, onde alguns deles chegam à Terra. Um meteorito recentemente descoberto encontrado no Saara. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não q</content:encoded>
+              <content:encoded>Os antigos meteoritos marcianos são como cápsulas do tempo do passado do planeta. Eles nos são entregues por impactos que os lançam no espaço, onde alguns deles chegam à Terra. Um meteorito recentemente descoberto encontrado no Saara. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não qua</content:encoded>
             </item><item>
-              <title>Habitats lunares podem usar Mylar em camadas para bloquear calor extremo</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=moon-habitats-may-use-layered-mylar-to-block-extreme-heat</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=moon-habitats-may-use-layered-mylar-to-block-extreme-heat</guid>
-              <pubDate>Thu, 29 Oct 2026 02:24:08 +0000</pubDate>
+              <title>Os objetos de interesse TESS da zona habitável estão realmente lá? Resolução de período do arquivo completo</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=are-habitable-zone-tess-objects-of-interest-really-there-period-resolution-from-the-full-archive</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=are-habitable-zone-tess-objects-of-interest-really-there-period-resolution-from-the-full-archive</guid>
+              <pubDate>Mon, 02 Nov 2026 12:17:59 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Viver na Lua, com astronautas treinados ou civis regulares, poderá tornar-se uma ocorrência regular num futuro próximo. No entanto, é mais fácil falar do que fazer, à medida que cientistas e engenheiros continuam a desenvolver formas novas e avançadas de.</description>
-              <category>Exoplanetas</category><category>Universe Today</category><category>Cosmos Week</category><category>Habitats lunares podem usar Mylar em camadas para bloquear calor extremo</category>
-              <source url="https://www.universetoday.com/articles/moon-habitats-may-use-layered-mylar-to-block-extreme-heat">Universe Today</source>
-              <content:encoded>Viver na Lua, com astronautas treinados ou civis regulares, poderá tornar-se uma ocorrência regular num futuro próximo. No entanto, é mais fácil falar do que fazer, à medida que cientistas e engenheiros continuam a desenvolver formas novas e avançadas de fazer isso. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a ess</content:encoded>
+              <description>Os objetos de interesse do TESS vistos como trânsitos simples ou duplos carregam um período de catálogo que é indefinido ou igual à separação dos dois eventos, e sua insolação e qualquer rótulo de zona habitável o herdam. Reanalisamos todos os 187 TOIs.</description>
+              <category>Exoplanetas</category><category>arXiv Earth &amp; Planetary</category><category>Cosmos Week</category><category>Os objetos de interesse TESS da zona habitável estão realmente lá? Resolução de período do arquivo completo</category>
+              <source url="https://arxiv.org/abs/2611.03019v1">arXiv Earth &amp; Planetary</source>
+              <content:encoded>Os objetos de interesse do TESS vistos como trânsitos simples ou duplos carregam um período de catálogo que é indefinido ou igual à separação dos dois eventos, e sua insolação e qualquer rótulo de zona habitável o herdam. Reanalisamos todos os 187 TOIs. A análise ainda aguarda revisão por pares, mas já apresenta com clareza o ponto central da história. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quando exi</content:encoded>
+            </item><item>
+              <title>Os primeiros resultados do TRACERS da NASA oferecem uma visão do violento processo magnético</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-tracers-first-results-offer-peek-into-violent-magnetic-process</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-tracers-first-results-offer-peek-into-violent-magnetic-process</guid>
+              <pubDate>Fri, 30 Oct 2026 13:40:05 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>A missão TRACERS da NASA reuniu as primeiras pistas sobre como o clima espacial afeta o campo magnético da Terra. Num novo artigo publicado no Journal of Geophysical Research: Space Physics, os investigadores explicam como funcionam estas interações.</description>
+              <category>Física</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Os primeiros resultados do TRACERS da NASA oferecem uma visão do violento processo magnético</category>
+              <source url="https://phys.org/news/2026-10-nasa-tracers-results-peek-violent.html">Phys.org Space</source>
+              <content:encoded>A missão TRACERS da NASA reuniu as primeiras pistas sobre como o clima espacial afeta o campo magnético da Terra. Num novo artigo publicado no Journal of Geophysical Research: Space Physics, os investigadores explicam como funcionam estas interações. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialm</content:encoded>
+            </item><item>
+              <title>Grand Theft Astro: as histórias criminais das estrelas podem remodelar as estimativas de seus campos magnéticos internos</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=grand-theft-astro-stars-criminal-histories-could-reshape-estimates-of-their-internal-magnetic-fi</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=grand-theft-astro-stars-criminal-histories-could-reshape-estimates-of-their-internal-magnetic-fi</guid>
+              <pubDate>Thu, 29 Oct 2026 15:20:16 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Os campos magnéticos existem em muitas estrelas, incluindo o Sol. No entanto, continuam a ser demasiado pouco compreendidos para serem incluídos de forma fiável em modelos de evolução estelar, limitando a sua precisão. Agora, um novo estudo realizado por.</description>
+              <category>Física</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Grand Theft Astro</category>
+              <source url="https://phys.org/news/2026-10-grand-theft-astro-stars-criminal.html">Phys.org Space</source>
+              <content:encoded>Os campos magnéticos existem em muitas estrelas, incluindo o Sol. No entanto, continuam a ser demasiado pouco compreendidos para serem incluídos de forma fiável em modelos de evolução estelar, limitando a sua precisão. Agora, um novo estudo realizado por pesquisadores do. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobe</content:encoded>
             </item>
   </channel>
 </rss>

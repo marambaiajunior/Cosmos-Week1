@@ -5,13 +5,13 @@
     <link>https://marambaiajunior.github.io/cosmos-week1/</link>
     <description>Portal de jornalismo científico com foco em astronomia, astrofísica, cosmologia e ciência de fronteira.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 04 Nov 2026 22:12:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 02:48:27 +0000</lastBuildDate>
     <generator>CosmosWeekBot 5.0</generator>
     <item>
               <title>NIH lança nova ferramenta PubMed para fortalecer a replicação e reprodutibilidade da pesquisa</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nih-launches-new-pubmed-tool-to-strengthen-research-replication-and-reproducibility</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nih-launches-new-pubmed-tool-to-strengthen-research-replication-and-reproducibility</guid>
-              <pubDate>Wed, 04 Nov 2026 22:08:03 +0000</pubDate>
+              <pubDate>Thu, 05 Nov 2026 02:43:39 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Linked Discoveries é uma ferramenta experimental para ajudar os cientistas a ver como os resultados de pesquisas individuais se relacionam com o corpo mais amplo de evidências biomédicas.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>NIH lança nova ferramenta PubMed para fortalecer a replicação e reprodutibilidade da pesquisa</category>
@@ -21,7 +21,7 @@
               <title>NIH une esforços para construir dados prontos para SI para modelos preditivos de biologia humana</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nih-joins-effort-to-build-si-ready-data-for-predictive-models-of-human-biology</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nih-joins-effort-to-build-si-ready-data-for-predictive-models-of-human-biology</guid>
-              <pubDate>Wed, 04 Nov 2026 22:08:03 +0000</pubDate>
+              <pubDate>Thu, 05 Nov 2026 02:43:39 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>A Missão Bio Genesis liderada pelo NIH aproveitará os recursos de dados biomédicos existentes para acelerar a descoberta habilitada para SI e melhorar a saúde humana.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>NIH une esforços para construir dados prontos para SI para modelos preditivos de biologia humana</category>
@@ -31,7 +31,7 @@
               <title>Organoides pulmonares humanos com sistema imunológico integrado podem transformar a pesquisa de doenças respiratórias</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=human-lung-organoids-with-a-built-in-immune-system-could-transform-respiratory-disease-research</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=human-lung-organoids-with-a-built-in-immune-system-could-transform-respiratory-disease-research</guid>
-              <pubDate>Wed, 04 Nov 2026 22:08:03 +0000</pubDate>
+              <pubDate>Thu, 05 Nov 2026 02:43:39 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>No estudo financiado pelo NIH, os modelos orquestraram respostas imunes adaptativas à infecção viral.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Organoides pulmonares humanos com sistema imunológico integrado podem transformar a pesquisa de doenças respiratórias</category>
@@ -41,7 +41,7 @@
               <title>Modelo de aprendizagem profunda usando ECGs durante estudos do sono pode prever resultados cardiovasculares</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=deep-learning-model-using-ecgs-during-sleep-studies-can-predict-cardiovascular-outcomes</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=deep-learning-model-using-ecgs-during-sleep-studies-can-predict-cardiovascular-outcomes</guid>
-              <pubDate>Wed, 04 Nov 2026 22:08:03 +0000</pubDate>
+              <pubDate>Thu, 05 Nov 2026 02:43:39 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>A integração de ECGs na triagem de distúrbios do sono poderia melhorar a detecção e orientar a tomada de decisões clínicas.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Modelo de aprendizagem profunda usando ECGs durante estudos do sono pode prever resultados cardiovasculares</category>
@@ -51,12 +51,52 @@
               <title>Os pacientes interagem com o monitor de epilepsia em tempo real, melhorando a detecção de crises</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=patients-engage-with-epilepsy-monitor-in-real-time-improving-seizure-detection</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=patients-engage-with-epilepsy-monitor-in-real-time-improving-seizure-detection</guid>
-              <pubDate>Wed, 04 Nov 2026 22:08:03 +0000</pubDate>
+              <pubDate>Thu, 05 Nov 2026 02:43:39 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>O estudo clínico financiado pelo NIH mostra que a SI conversacional pode facilitar a comunicação bidirecional.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Os pacientes interagem com o monitor de epilepsia em tempo real</category>
               <source url="https://www.nih.gov/news-events/news-releases/patients-engage-epilepsy-monitor-real-time-improving-seizure-detection">NIH News Releases</source>
               <content:encoded>O estudo clínico financiado pelo NIH mostra que a SI conversacional pode facilitar a comunicação bidirecional. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Uma equipe científica financiada pelos Institutos Nacionais</content:encoded>
+            </item><item>
+              <title>NASA anuncia aeronave experimental X-70 para avançar na pesquisa de voo</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-announces-x-70-experimental-aircraft-to-advance-flight-research</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-announces-x-70-experimental-aircraft-to-advance-flight-research</guid>
+              <pubDate>Thu, 05 Nov 2026 01:43:21 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Na quarta-feira, a NASA revelou sua mais nova aeronave experimental, o X-70 Fractal, durante a UP. Summit no Centro Espacial Kennedy da agência, na Flórida. Esta plataforma de pesquisa de alto desempenho e altamente adaptável foi projetada para acelerar o.</description>
+              <category>Cosmologia</category><category>NASA News Releases</category><category>Cosmos Week</category><category>NASA anuncia aeronave experimental X</category>
+              <source url="https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/">NASA News Releases</source>
+              <content:encoded>Na quarta-feira, a NASA revelou sua mais nova aeronave experimental, o X-70 Fractal, durante a UP. Summit no Centro Espacial Kennedy da agência, na Flórida. Esta plataforma de pesquisa de alto desempenho e altamente adaptável foi projetada para acelerar o. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistem</content:encoded>
+            </item><item>
+              <title>Orbitador europeu detecta novos indícios de atividade vulcânica em Marte</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=european-orbiter-detects-fresh-hints-of-volcanic-activity-on-mars</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=european-orbiter-detects-fresh-hints-of-volcanic-activity-on-mars</guid>
+              <pubDate>Thu, 05 Nov 2026 00:40:07 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Novas evidências de vazamento de gás acima de fendas vulcânicas sugerem que Marte não está geologicamente morto em seu interior, mas apenas adormecido. Fissuras recentes ao longo da região de Alba Mons sugerem pontos ativos sob a superfície, por onde passam.</description>
+              <category>Astronomia</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Orbitador europeu detecta novos indícios de atividade vulcânica em Marte</category>
+              <source url="https://phys.org/news/2026-11-european-orbiter-fresh-hints-volcanic.html">Phys.org Space</source>
+              <content:encoded>Novas evidências de vazamento de gás acima de fendas vulcânicas sugerem que Marte não está geologicamente morto em seu interior, mas apenas adormecido. Fissuras recentes ao longo da região de Alba Mons sugerem pontos ativos sob a superfície, por onde passam gases de dentro. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige</content:encoded>
+            </item><item>
+              <title>Experimento de navegação da NASA mostra promessa para pousos planetários</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-navigation-experiment-shows-promise-for-planetary-landings</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-navigation-experiment-shows-promise-for-planetary-landings</guid>
+              <pubDate>Wed, 04 Nov 2026 23:20:07 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>A NASA demonstrou com sucesso tecnologia projetada para ajudar naves espaciais a navegar de forma autônoma para locais de pouso seguros na Lua e em outros planetas. Um drone Alta-X equipado com Pouso Seguro e Preciso, Integrado da agência.</description>
+              <category>Cosmologia</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Experimento de navegação da NASA mostra promessa para pousos planetários</category>
+              <source url="https://phys.org/news/2026-11-nasa-planetary.html">Phys.org Space</source>
+              <content:encoded>A NASA demonstrou com sucesso tecnologia projetada para ajudar naves espaciais a navegar de forma autônoma para locais de pouso seguros na Lua e em outros planetas. Um drone Alta-X equipado com Pouso Seguro e Preciso, Integrado da agência. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos independen</content:encoded>
+            </item><item>
+              <title>A medição do hidrogênio cósmico marca um avanço no mapeamento do universo</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=cosmic-hydrogen-measurement-marks-breakthrough-in-mapping-the-universe</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=cosmic-hydrogen-measurement-marks-breakthrough-in-mapping-the-universe</guid>
+              <pubDate>Wed, 04 Nov 2026 22:20:01 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Um projeto de pesquisa internacional está aproximando os cientistas do mapeamento do universo. A Colaboração MeerKLASS relatou sua primeira medição do agrupamento em grande escala de hidrogênio cósmico, avançando uma técnica que poderia.</description>
+              <category>Astronomia</category><category>Phys.org Space</category><category>Cosmos Week</category><category>A medição do hidrogênio cósmico marca um avanço no mapeamento do universo</category>
+              <source url="https://phys.org/news/2026-11-cosmic-hydrogen-breakthrough-universe.html">Phys.org Space</source>
+              <content:encoded>Um projeto de pesquisa internacional está aproximando os cientistas do mapeamento do universo. A Colaboração MeerKLASS relatou sua primeira medição do agrupamento em grande escala de hidrogênio cósmico, avançando uma técnica que poderia. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa tr</content:encoded>
             </item><item>
               <title>China revela seu plano para pouso tripulado na Lua</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=china-unveils-their-plan-for-a-crewed-moon-landing</link>
@@ -77,76 +117,6 @@
               <category>Astronomia</category><category>NASA News Releases</category><category>Cosmos Week</category><category>NASA compartilha planos para acelerar Artemis e retornar à Lua</category>
               <source url="https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/">NASA News Releases</source>
               <content:encoded>Numa atualização de 23 de outubro, o administrador da NASA, Jared Isaacman, e outros líderes da agência compartilharam o caminho da agência para devolver os americanos à superfície lunar em 2028. A liderança da agência forneceu atualizações sobre a aceleração anunciada. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que</content:encoded>
-            </item><item>
-              <title>A Teoria dos Jogos Ajuda o SETI a Procurar Civilizações Alienígenas</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=game-theory-helps-seti-search-for-alien-civilizations</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=game-theory-helps-seti-search-for-alien-civilizations</guid>
-              <pubDate>Wed, 04 Nov 2026 20:50:16 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>O SETI pode ser mais eficaz quanto mais refinados os alvos da pesquisa. O mais novo esforço de pesquisa do SETI utiliza a teoria dos jogos para informar sua pesquisa. Baseia-se na ideia de que outros ETIs quase certamente usariam o método de trânsito para.</description>
-              <category>Exoplanetas</category><category>Universe Today</category><category>Cosmos Week</category><category>A Teoria dos Jogos Ajuda o SETI a Procurar Civilizações Alienígenas</category>
-              <source url="https://www.universetoday.com/articles/game-theory-helps-seti-search-for-alien-civilizations">Universe Today</source>
-              <content:encoded>O SETI pode ser mais eficaz quanto mais refinados os alvos da pesquisa. O mais novo esforço de pesquisa do SETI utiliza a teoria dos jogos para informar sua pesquisa. Baseia-se na ideia de que outros ETIs quase certamente usariam o método de trânsito para detectar. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esse</content:encoded>
-            </item><item>
-              <title>Telescópio espacial da NASA mergulha na Terra após duas décadas estudando explosões cósmicas</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-space-telescope-plunges-to-earth-after-two-decades-studying-cosmic-explosions</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-space-telescope-plunges-to-earth-after-two-decades-studying-cosmic-explosions</guid>
-              <pubDate>Wed, 04 Nov 2026 20:40:11 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Um dos principais telescópios espaciais da NASA mergulhou na Terra na quarta-feira, encerrando a sua investigação de 22 anos sobre as maiores explosões do Universo.</description>
-              <category>Ciências da Terra</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Telescópio espacial da NASA mergulha na Terra após duas décadas estudando explosões cósmicas</category>
-              <source url="https://phys.org/news/2026-11-nasa-space-telescope-plunges-earth.html">Phys.org Space</source>
-              <content:encoded>Um dos principais telescópios espaciais da NASA mergulhou na Terra na quarta-feira, encerrando a sua investigação de 22 anos sobre as maiores explosões do Universo. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Este artigo foi revisado de aco</content:encoded>
-            </item><item>
-              <title>Os satélites vazam ruído que interfere nos telescópios e no GPS. Veja como consertar</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=satellites-leak-noise-that-interferes-with-telescopes-and-gps-here-s-how-to-fix-it</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=satellites-leak-noise-that-interferes-with-telescopes-and-gps-here-s-how-to-fix-it</guid>
-              <pubDate>Wed, 04 Nov 2026 17:20:22 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Há menos de uma década, havia cerca de 2.000 satélites operacionais orbitando a Terra. Hoje são mais de 15.000. Outros milhões estão planejados.</description>
-              <category>Ciências da Terra</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Os satélites vazam ruído que interfere nos telescópios e no GPS. Veja como consertar</category>
-              <source url="https://phys.org/news/2026-11-satellites-leak-noise-telescopes-gps.html">Phys.org Space</source>
-              <content:encoded>Há menos de uma década, havia cerca de 2.000 satélites operacionais orbitando a Terra. Hoje são mais de 15.000. Outros milhões estão planejados. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separar variabilidade natural de mudança forçada. Há menos de uma década, havia cerca de 2.000 satéli</content:encoded>
-            </item><item>
-              <title>Lançamento científico: Hubble detalha a vizinhança em transformação da galáxia inicial</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-details-early-galaxy-transforming-neighbourhood</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-details-early-galaxy-transforming-neighbourhood</guid>
-              <pubDate>Tue, 23 Jun 2026 14:00:00 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que existiu apenas 1,4 mil milhões de anos após o Big Bang. Essa galáxia contém estrelas jovens fortemente agrupadas.</description>
-              <category>Astronomia</category><category>ESA Hubble News</category><category>Cosmos Week</category><category>Lançamento científico</category>
-              <source url="https://esahubble.org/news/heic2609/">ESA Hubble News</source>
-              <content:encoded>Os astrónomos que utilizaram o Telescópio Espacial Hubble da NASA/ESA encontraram algo que nunca esperaram: luz ultravioleta de uma galáxia que existiu apenas 1,4 mil milhões de anos após o Big Bang. Essa galáxia contém estrelas jovens fortemente agrupadas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado</content:encoded>
-            </item><item>
-              <title>Divulgação Científica: Hubble inesperadamente captura cometa se rompendo</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-unexpectedly-catches-comet-breaking-up</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-unexpectedly-catches-comet-breaking-up</guid>
-              <pubDate>Wed, 18 Mar 2026 14:00:00 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias antes, o K1 se fragmentou em pelo menos quatro pedaços enquanto a NASA/ESA.</description>
-              <category>Astronomia</category><category>ESA Hubble News</category><category>Cosmos Week</category><category>Divulgação Científica</category>
-              <source url="https://esahubble.org/news/heic2606/">ESA Hubble News</source>
-              <content:encoded>O Cometa K1, cujo nome completo é Cometa C/2025 K1, tinha acabado de passar a sua maior aproximação ao Sol e estava a sair do Sistema Solar. Embora estivesse intacto poucos dias antes, o K1 se fragmentou em pelo menos quatro pedaços enquanto a NASA/ESA. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sob</content:encoded>
-            </item><item>
-              <title>Lançamento científico: Hubble identifica uma das galáxias mais escuras conhecidas</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-identifies-one-of-darkest-known-galaxies</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-identifies-one-of-darkest-known-galaxies</guid>
-              <pubDate>Wed, 18 Feb 2026 15:00:00 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>A maioria das galáxias no Universo próximo são bastante luminosas, mas algumas são tão ténues que são quase invisíveis. Os astrónomos, usando o Telescópio Espacial Hubble da NASA/ESA em combinação com outros observatórios, identificaram uma galáxia que parece.</description>
-              <category>Cosmologia</category><category>ESA Hubble News</category><category>Cosmos Week</category><category>Lançamento científico</category>
-              <source url="https://esahubble.org/news/heic2605/">ESA Hubble News</source>
-              <content:encoded>A maioria das galáxias no Universo próximo são bastante luminosas, mas algumas são tão ténues que são quase invisíveis. Os astrónomos, usando o Telescópio Espacial Hubble da NASA/ESA em combinação com outros observatórios, identificaram uma galáxia que parece ser. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território co</content:encoded>
-            </item><item>
-              <title>O Vera Rubin encontrou mais dois satélites escuros da Via Láctea</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=the-vera-rubin-has-found-two-more-of-the-milky-way-s-dim-satellites</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=the-vera-rubin-has-found-two-more-of-the-milky-way-s-dim-satellites</guid>
-              <pubDate>Tue, 03 Nov 2026 01:33:59 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>O Observatório Vera Rubin detectou mais dois satélites escuros e difíceis de ver da Via Láctea. Uma é uma galáxia anã ultrafraca e a outra é um aglomerado globular. Cada um deles é uma peça que faltava no quebra-cabeça da fusão da Via Láctea.</description>
-              <category>Cosmologia</category><category>Universe Today</category><category>Cosmos Week</category><category>O Vera Rubin encontrou mais dois satélites escuros da Via Láctea</category>
-              <source url="https://www.universetoday.com/articles/the-vera-rubin-has-found-two-more-of-the-milky-ways-dim-satellites">Universe Today</source>
-              <content:encoded>O Observatório Vera Rubin detectou mais dois satélites escuros e difíceis de ver da Via Láctea. Uma é uma galáxia anã ultrafraca e a outra é um aglomerado globular. Cada um deles é uma peça que faltava no quebra-cabeça da fusão da Via Láctea. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a cosmologia opera na fronteira do que os instrumentos atuais conseguem medir, onde erros sistemáticos e suposições de modelo nunca são triviais. Pequenas discrepâncias entre medições independentes historicamente apontaram para física ausente em vez de simples erros de calibração, e a tensão em curso na constante de Hubble é um exemplo vivo de como um desacordo persistente entre métodos pode remodelar o panorama teórico. Cada novo conjunto de dados que se aproxima desse território com sistemáticos indepen</content:encoded>
             </item><item>
               <title>Lançamento científico: Hubble descobre o primeiro buraco negro desaparecido do aglomerado de estrelas</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-discovers-first-of-star-cluster-s-missing-black-holes</link>
@@ -178,6 +148,16 @@
               <source url="https://phys.org/news/2026-11-jwst-heavy-black-hole-seeds.html">Phys.org Space</source>
               <content:encoded>Os astrofísicos pensam que os buracos negros supermassivos que vemos no universo moderno são o resultado de um processo longo e demorado. Esse processo é conhecido como estrutura hierárquica de fusões de buracos negros. Explica como algumas pequenas e médias empresas podem fazer. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que</content:encoded>
             </item><item>
+              <title>A Teoria dos Jogos Ajuda o SETI a Procurar Civilizações Alienígenas</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=game-theory-helps-seti-search-for-alien-civilizations</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=game-theory-helps-seti-search-for-alien-civilizations</guid>
+              <pubDate>Wed, 04 Nov 2026 20:50:16 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>O SETI pode ser mais eficaz quanto mais refinados os alvos da pesquisa. O mais novo esforço de pesquisa do SETI utiliza a teoria dos jogos para informar sua pesquisa. Baseia-se na ideia de que outros ETIs quase certamente usariam o método de trânsito para.</description>
+              <category>Exoplanetas</category><category>Universe Today</category><category>Cosmos Week</category><category>A Teoria dos Jogos Ajuda o SETI a Procurar Civilizações Alienígenas</category>
+              <source url="https://www.universetoday.com/articles/game-theory-helps-seti-search-for-alien-civilizations">Universe Today</source>
+              <content:encoded>O SETI pode ser mais eficaz quanto mais refinados os alvos da pesquisa. O mais novo esforço de pesquisa do SETI utiliza a teoria dos jogos para informar sua pesquisa. Baseia-se na ideia de que outros ETIs quase certamente usariam o método de trânsito para detectar. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esse</content:encoded>
+            </item><item>
               <title>Uma Terra virtual sem vida ajudará os cientistas a encontrar vida em exoplanetas</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=a-virtual-lifeless-earth-will-help-scientists-find-life-on-exoplanets</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=a-virtual-lifeless-earth-will-help-scientists-find-life-on-exoplanets</guid>
@@ -188,25 +168,45 @@
               <source url="https://www.universetoday.com/articles/a-virtual-lifeless-earth-will-help-scientists-find-life-on-exoplanets">Universe Today</source>
               <content:encoded>Os pesquisadores criaram um modelo de Terra sem vida que une a atmosfera aos processos planetários internos. O modelo pode reproduzir o estado habitável moderno da Terra sem incluir a vida, mostrando que um planeta parece habitável. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quand</content:encoded>
             </item><item>
-              <title>Este excêntrico mundo de lava reflexiva é difícil de entender</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=this-oddball-reflective-lava-world-is-challenging-to-understand</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=this-oddball-reflective-lava-world-is-challenging-to-understand</guid>
-              <pubDate>Sun, 01 Nov 2026 00:30:01 +0000</pubDate>
+              <title>Este antigo meteorito sugere o passado quente e úmido de Marte</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=this-ancient-meteorite-hints-at-mars-warm-wet-past</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=this-ancient-meteorite-hints-at-mars-warm-wet-past</guid>
+              <pubDate>Fri, 30 Oct 2026 19:14:01 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Entre as muitas descobertas surpreendentes de exoplanetas do Kepler e do TESS estão os planetas de período ultracurto. Esses planetas se movem muito rapidamente e completam uma órbita em menos de 24 horas. Os astrônomos antigos pensavam que Mercúrio era tão.</description>
-              <category>Exoplanetas</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Este excêntrico mundo de lava reflexiva é difícil de entender</category>
-              <source url="https://phys.org/news/2026-10-oddball-lava-world.html">Phys.org Space</source>
-              <content:encoded>Entre as muitas descobertas surpreendentes de exoplanetas do Kepler e do TESS estão os planetas de período ultracurto. Esses planetas se movem muito rapidamente e completam uma órbita em menos de 24 horas. Os astrônomos antigos pensavam que Mercúrio era tão rápido que vai embora. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem res</content:encoded>
+              <description>Os antigos meteoritos marcianos são como cápsulas do tempo do passado do planeta. Eles nos são entregues por impactos que os lançam no espaço, onde alguns deles chegam à Terra. Um meteorito recentemente descoberto encontrado no Saara.</description>
+              <category>Exoplanetas</category><category>Universe Today</category><category>Cosmos Week</category><category>Este antigo meteorito sugere o passado quente e úmido de Marte</category>
+              <source url="https://www.universetoday.com/articles/this-ancient-meteorite-hints-at-mars-warm-wet-past">Universe Today</source>
+              <content:encoded>Os antigos meteoritos marcianos são como cápsulas do tempo do passado do planeta. Eles nos são entregues por impactos que os lançam no espaço, onde alguns deles chegam à Terra. Um meteorito recentemente descoberto encontrado no Saara. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não qua</content:encoded>
             </item><item>
-              <title>Além de apenas um toro? Recontextualizando o paradigma do tipo AGN usando histórias de extinção de galáxias hospedeiras baseadas em dados</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=beyond-just-a-torus-re-contextualising-the-agn-type-paradigm-using-data-driven-host-galaxy-quenc</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=beyond-just-a-torus-re-contextualising-the-agn-type-paradigm-using-data-driven-host-galaxy-quenc</guid>
-              <pubDate>Tue, 03 Nov 2026 18:52:02 +0000</pubDate>
+              <title>Uma estrutura de avaliação multidimensional para previsões do estado dos oceanos baseadas em inteligência artificial</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=a-multidimensional-evaluation-framework-for-artificial-intelligence-based-ocean-state-forecasts</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=a-multidimensional-evaluation-framework-for-artificial-intelligence-based-ocean-state-forecasts</guid>
+              <pubDate>Tue, 03 Nov 2026 13:39:32 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>A orientação de um toro empoeirado dentro de um modelo unificado explica a presença ou ausência de amplas linhas de emissão nos espectros de Núcleos Galácticos Ativos. Este modelo unificado baseado na orientação, no entanto, não consegue explicar as.</description>
-              <category>Física</category><category>arXiv Astrophysics</category><category>Cosmos Week</category><category>Além de apenas um toro? Recontextualizando o paradigma do tipo AGN usando histórias de extinção de galáxias hospedeiras baseadas em dados</category>
-              <source url="https://arxiv.org/abs/2611.05353v1">arXiv Astrophysics</source>
-              <content:encoded>A orientação de um toro empoeirado dentro de um modelo unificado explica a presença ou ausência de amplas linhas de emissão nos espectros de Núcleos Galácticos Ativos. Este modelo unificado baseado na orientação, no entanto, não consegue explicar as diferenças na galáxia. A análise ainda aguarda revisão por pares, mas já apresenta com clareza o ponto central da história. Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente</content:encoded>
+              <description>As previsões do estado dos oceanos baseadas em inteligência artificial agora se aproximam ou superam aquelas produzidas por sistemas operacionais de previsão dos oceanos, conforme medido por métricas pontuais convencionais. No entanto, essas métricas podem.</description>
+              <category>Física</category><category>arXiv Geophysics</category><category>Cosmos Week</category><category>Uma estrutura de avaliação multidimensional para previsões do estado dos oceanos baseadas em inteligência artificial</category>
+              <source url="https://arxiv.org/abs/2611.04892v1">arXiv Geophysics</source>
+              <content:encoded>As previsões do estado dos oceanos baseadas em inteligência artificial agora se aproximam ou superam aquelas produzidas por sistemas operacionais de previsão dos oceanos, conforme medido por métricas pontuais convencionais. No entanto, essas métricas podem favorecer a suavização. A análise ainda aguarda revisão por pares, mas já apresenta com clareza o ponto central da história. Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inic</content:encoded>
+            </item><item>
+              <title>Da altura da superfície do mar à velocidade - uma abordagem de aprendizado de máquina</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=from-sea-surface-height-to-velocity-a-machine-learning-approach</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=from-sea-surface-height-to-velocity-a-machine-learning-approach</guid>
+              <pubDate>Tue, 03 Nov 2026 03:58:05 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Inferir a velocidade da parte superior do oceano a partir da altura altimétrica da superfície do mar continua a ser um desafio abaixo de 50 km, escalas agora resolvidas pela missão Surface Water and Ocean Topography. Os métodos convencionais baseiam-se no.</description>
+              <category>Física</category><category>arXiv Geophysics</category><category>Cosmos Week</category><category>Da altura da superfície do mar à velocidade</category>
+              <source url="https://arxiv.org/abs/2611.04270v1">arXiv Geophysics</source>
+              <content:encoded>Inferir a velocidade da parte superior do oceano a partir da altura altimétrica da superfície do mar continua a ser um desafio abaixo de 50 km, escalas agora resolvidas pela missão Surface Water and Ocean Topography. Os métodos convencionais baseiam-se no equilíbrio geostrófico. A análise ainda aguarda revisão por pares, mas já apresenta com clareza o ponto central da história. Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inici</content:encoded>
+            </item><item>
+              <title>Sensibilidade da taxa de múons atmosféricos do IceCube às tendências decadais na temperatura atmosférica efetiva</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=sensitivity-of-the-icecube-atmospheric-muon-rate-to-decadal-trends-in-the-effective-atmospheric-</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=sensitivity-of-the-icecube-atmospheric-muon-rate-to-decadal-trends-in-the-effective-atmospheric-</guid>
+              <pubDate>Sat, 31 Oct 2026 13:19:40 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>As mudanças decadais na estratosfera antártica, geralmente associadas à recuperação do ozônio e às mudanças na circulação polar, são de amplo interesse geofísico. No entanto, medições independentes de longo prazo da atmosfera acima da Antártica.</description>
+              <category>Física</category><category>arXiv Earth &amp; Planetary</category><category>Cosmos Week</category><category>Sensibilidade da taxa de múons atmosféricos do IceCube às tendências decadais na temperatura atmosférica efetiva</category>
+              <source url="https://arxiv.org/abs/2611.00918v1">arXiv Earth &amp; Planetary</source>
+              <content:encoded>As mudanças decadais na estratosfera antártica, geralmente associadas à recuperação do ozônio e às mudanças na circulação polar, são de amplo interesse geofísico. No entanto, medições independentes de longo prazo da atmosfera acima da Antártica. A análise ainda aguarda revisão por pares, mas já apresenta com clareza o ponto central da história. Isso importa porque a física só leva um resultado a sério quando a cadeia de medição permanece robusta sob escrutínio. A física de partículas experimental e a metrologia de precisão operam em regimes onde o sinal está muito abaixo do ruído de fundo, e onde incertezas sistemáticas podem imitar nova física se não forem controladas rigorosamente. A história do campo contém inúmeras anomalias que geraram entusiasmo teórico antes de dados melhores mostrarem que eram artefatos, e também contém descobertas genuínas inicialmente descartadas como ruído. A </content:encoded>
             </item>
   </channel>
 </rss>

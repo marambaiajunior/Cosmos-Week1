@@ -5,23 +5,13 @@
     <link>https://marambaiajunior.github.io/cosmos-week1/</link>
     <description>Portal de jornalismo científico com foco em astronomia, astrofísica, cosmologia e ciência de fronteira.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 05 Nov 2026 18:43:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 00:12:47 +0000</lastBuildDate>
     <generator>CosmosWeekBot 5.0</generator>
     <item>
-              <title>NIH lança nova ferramenta PubMed para fortalecer a replicação e reprodutibilidade da pesquisa</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=nih-launches-new-pubmed-tool-to-strengthen-research-replication-and-reproducibility</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nih-launches-new-pubmed-tool-to-strengthen-research-replication-and-reproducibility</guid>
-              <pubDate>Thu, 05 Nov 2026 18:40:33 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Linked Discoveries é uma ferramenta experimental para ajudar os cientistas a ver como os resultados de pesquisas individuais se relacionam com o corpo mais amplo de evidências biomédicas.</description>
-              <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>NIH lança nova ferramenta PubMed para fortalecer a replicação e reprodutibilidade da pesquisa</category>
-              <source url="https://www.nih.gov/news-events/news-releases/nih-launches-new-pubmed-tool-strengthen-research-replication-reproducibility">NIH News Releases</source>
-              <content:encoded>Linked Discoveries é uma ferramenta experimental para ajudar os cientistas a ver como os resultados de pesquisas individuais se relacionam com o corpo mais amplo de evidências biomédicas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o esp</content:encoded>
-            </item><item>
               <title>NIH une esforços para construir dados prontos para SI para modelos preditivos de biologia humana</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nih-joins-effort-to-build-si-ready-data-for-predictive-models-of-human-biology</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nih-joins-effort-to-build-si-ready-data-for-predictive-models-of-human-biology</guid>
-              <pubDate>Thu, 05 Nov 2026 18:40:33 +0000</pubDate>
+              <pubDate>Fri, 06 Nov 2026 00:06:34 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>A Missão Bio Genesis liderada pelo NIH aproveitará os recursos de dados biomédicos existentes para acelerar a descoberta habilitada para SI e melhorar a saúde humana.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>NIH une esforços para construir dados prontos para SI para modelos preditivos de biologia humana</category>
@@ -31,7 +21,7 @@
               <title>Organoides pulmonares humanos com sistema imunológico integrado podem transformar a pesquisa de doenças respiratórias</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=human-lung-organoids-with-a-built-in-immune-system-could-transform-respiratory-disease-research</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=human-lung-organoids-with-a-built-in-immune-system-could-transform-respiratory-disease-research</guid>
-              <pubDate>Thu, 05 Nov 2026 18:40:33 +0000</pubDate>
+              <pubDate>Fri, 06 Nov 2026 00:06:34 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>No estudo financiado pelo NIH, os modelos orquestraram respostas imunes adaptativas à infecção viral.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Organoides pulmonares humanos com sistema imunológico integrado podem transformar a pesquisa de doenças respiratórias</category>
@@ -41,7 +31,7 @@
               <title>Modelo de aprendizagem profunda usando ECGs durante estudos do sono pode prever resultados cardiovasculares</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=deep-learning-model-using-ecgs-during-sleep-studies-can-predict-cardiovascular-outcomes</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=deep-learning-model-using-ecgs-during-sleep-studies-can-predict-cardiovascular-outcomes</guid>
-              <pubDate>Thu, 05 Nov 2026 18:40:33 +0000</pubDate>
+              <pubDate>Fri, 06 Nov 2026 00:06:34 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>A integração de ECGs na triagem de distúrbios do sono poderia melhorar a detecção e orientar a tomada de decisões clínicas.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Modelo de aprendizagem profunda usando ECGs durante estudos do sono pode prever resultados cardiovasculares</category>
@@ -51,12 +41,42 @@
               <title>Os pacientes interagem com o monitor de epilepsia em tempo real, melhorando a detecção de crises</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=patients-engage-with-epilepsy-monitor-in-real-time-improving-seizure-detection</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=patients-engage-with-epilepsy-monitor-in-real-time-improving-seizure-detection</guid>
-              <pubDate>Thu, 05 Nov 2026 18:40:33 +0000</pubDate>
+              <pubDate>Fri, 06 Nov 2026 00:06:34 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>O estudo clínico financiado pelo NIH mostra que a SI conversacional pode facilitar a comunicação bidirecional.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Os pacientes interagem com o monitor de epilepsia em tempo real</category>
               <source url="https://www.nih.gov/news-events/news-releases/patients-engage-epilepsy-monitor-real-time-improving-seizure-detection">NIH News Releases</source>
               <content:encoded>O estudo clínico financiado pelo NIH mostra que a SI conversacional pode facilitar a comunicação bidirecional. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Uma equipe científica financiada pelos Institutos Nacionais</content:encoded>
+            </item><item>
+              <title>Um medicamento para pressão arterial pode ativar a gordura marrom que promove a saúde</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=a-blood-pressure-drug-may-activate-health-promoting-brown-fat</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=a-blood-pressure-drug-may-activate-health-promoting-brown-fat</guid>
+              <pubDate>Fri, 06 Nov 2026 00:06:34 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Num estudo financiado pelo Instituto Nacional de Saúde, os cientistas demonstraram que o medicamento losartan, comumente prescrito para hipertensão, aumenta a atividade do tecido adiposo marrom em ratos, melhorando o seu metabolismo.</description>
+              <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Um medicamento para pressão arterial pode ativar a gordura marrom que promove a saúde</category>
+              <source url="https://www.nih.gov/news-events/news-releases/blood-pressure-drug-may-activate-health-promoting-brown-fat">NIH News Releases</source>
+              <content:encoded>Num estudo financiado pelo Instituto Nacional de Saúde, os cientistas demonstraram que o medicamento losartan, comumente prescrito para hipertensão, aumenta a atividade do tecido adiposo marrom em ratos, melhorando o seu metabolismo. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera</content:encoded>
+            </item><item>
+              <title>Conectando a inteligência artificial com as ferramentas da pesquisa astrofísica</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=connecting-artificial-intelligence-with-the-tools-of-astrophysical-research</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=connecting-artificial-intelligence-with-the-tools-of-astrophysical-research</guid>
+              <pubDate>Thu, 05 Nov 2026 22:00:07 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Investigar uma questão científica costuma ser um processo complexo. Como astrofísico que estuda alguns dos fenômenos mais energéticos do universo, sei que encontrar respostas exige muito mais do que ler artigos científicos ou.</description>
+              <category>Astronomia</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Conectando a inteligência artificial com as ferramentas da pesquisa astrofísica</category>
+              <source url="https://phys.org/news/2026-11-artificial-intelligence-tools-astrophysical.html">Phys.org Space</source>
+              <content:encoded>Investigar uma questão científica costuma ser um processo complexo. Como astrofísico que estuda alguns dos fenômenos mais energéticos do universo, sei que encontrar respostas exige muito mais do que ler artigos científicos ou. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação </content:encoded>
+            </item><item>
+              <title>As formas estranhas dos asteroides tornam seu desvio um desafio</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=asteroids-oddball-shapes-make-deflecting-them-challenging</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=asteroids-oddball-shapes-make-deflecting-them-challenging</guid>
+              <pubDate>Thu, 05 Nov 2026 19:26:56 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Em caso de emergência, poderíamos usar uma explosão nuclear isolada para redirecionar um asteroide perigoso em um curto espaço de tempo. Não há onda de choque atmosférica no espaço, mas o pulso de raios X ainda pode desviar a rocha espacial. Mas os asteróides.</description>
+              <category>Ciências da Terra</category><category>Universe Today</category><category>Cosmos Week</category><category>As formas estranhas dos asteroides tornam seu desvio um desafio</category>
+              <source url="https://www.universetoday.com/articles/asteroids-oddball-shapes-make-deflecting-them-challenging">Universe Today</source>
+              <content:encoded>Em caso de emergência, poderíamos usar uma explosão nuclear isolada para redirecionar um asteroide perigoso em um curto espaço de tempo. Não há onda de choque atmosférica no espaço, mas o pulso de raios X ainda pode desviar a rocha espacial. Mas os asteróides não são redondos e. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura</content:encoded>
             </item><item>
               <title>O telescópio Swift da NASA queimou, meses depois que um robô enviado para salvá-lo falhou</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-s-swift-telescope-has-burned-up-months-after-a-robot-sent-to-save-it-failed</link>
@@ -87,26 +107,6 @@
               <category>Ciências da Terra</category><category>NASA News Releases</category><category>Cosmos Week</category><category>Astronautas da NASA responderão a perguntas de estudantes da Flórida</category>
               <source url="https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2/">NASA News Releases</source>
               <content:encoded>Os estudantes na Flórida ouvirão os astronautas da NASA Jessica Watkins e Luke Delaney enquanto respondem a perguntas STEM pré-gravadas a bordo da Estação Espacial Internacional. A chamada Terra-Espaço começará às 10h40. m. EST terça-feira. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que permitem separ</content:encoded>
-            </item><item>
-              <title>Visitante interestelar 3I/ATLAS mostra que o gelo da água se comporta da mesma forma em sistemas estelares alienígenas</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=interstellar-visitor-3i-atlas-shows-water-ice-behaves-the-same-across-alien-star-systems</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=interstellar-visitor-3i-atlas-shows-water-ice-behaves-the-same-across-alien-star-systems</guid>
-              <pubDate>Thu, 05 Nov 2026 15:08:44 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Alvos de oportunidade às vezes acontecem na astronomia, e tivemos um grande quando o terceiro objeto interestelar, 3I/ATLAS, foi descoberto em julho de 2025. E acontece que nos anos intermediários entre o último conhecido.</description>
-              <category>Astronomia</category><category>Universe Today</category><category>Cosmos Week</category><category>Visitante interestelar 3I/ATLAS mostra que o gelo da água se comporta da mesma forma em sistemas estelares alienígenas</category>
-              <source url="https://www.universetoday.com/articles/interstellar-visitor-3iatlas-shows-water-ice-behaves-the-same-across-alien-star-systems">Universe Today</source>
-              <content:encoded>Alvos de oportunidade às vezes acontecem na astronomia, e tivemos um grande quando o terceiro objeto interestelar, 3I/ATLAS, foi descoberto em julho de 2025. E acontece que nos anos intermediários entre o último conhecido. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação ante</content:encoded>
-            </item><item>
-              <title>Os pequenos pontos vermelhos do Telescópio Espacial Webb podem ser a chave para os primeiros buracos negros</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=webb-space-telescope-s-little-red-dots-could-hold-key-to-first-black-holes</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=webb-space-telescope-s-little-red-dots-could-hold-key-to-first-black-holes</guid>
-              <pubDate>Thu, 05 Nov 2026 14:20:02 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Os investigadores da Johns Hopkins que procuram na extensão do Universo a existência dos primeiros buracos negros estão a concentrar-se em pequenos pontos vermelhos que podem conter a chave para o fenómeno teórico.</description>
-              <category>Astrofísica</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Os pequenos pontos vermelhos do Telescópio Espacial Webb podem ser a chave para os primeiros buracos negros</category>
-              <source url="https://phys.org/news/2026-11-webb-space-telescope-red-dots.html">Phys.org Space</source>
-              <content:encoded>Os investigadores da Johns Hopkins que procuram na extensão do Universo a existência dos primeiros buracos negros estão a concentrar-se em pequenos pontos vermelhos que podem conter a chave para o fenómeno teórico. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico c</content:encoded>
             </item><item>
               <title>NASA compartilha planos para acelerar Artemis e retornar à Lua</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-shares-plans-to-accelerate-artemis-return-to-moon</link>
@@ -141,7 +141,7 @@
               <title>China revela seu plano para pouso tripulado na Lua</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=china-unveils-their-plan-for-a-crewed-moon-landing</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=china-unveils-their-plan-for-a-crewed-moon-landing</guid>
-              <pubDate>Wed, 04 Nov 2026 21:29:39 +0000</pubDate>
+              <pubDate>Wed, 04 Nov 2026 21:29:00 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Ontem, dia 3 de novembro, o projetista-chefe adjunto do programa espacial tripulado da China e projetista-chefe do programa de exploração lunar divulgou uma declaração oficial detalhando seus [planos para uma missão tripulada à Lua].</description>
               <category>Cosmologia</category><category>Universe Today</category><category>Cosmos Week</category><category>China revela seu plano para pouso tripulado na Lua</category>
@@ -178,6 +178,16 @@
               <source url="https://phys.org/news/2026-11-pulsars-mass-limits-supermassive-black.html">Phys.org Space</source>
               <content:encoded>Até agora, observações realizadas por instrumentos, incluindo o Telescópio Espacial James Webb, revelaram a presença de buracos negros surpreendentemente massivos no Universo primitivo. Ainda menos de um bilhão de anos após o Big Bang, alguns desses corpos. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa qua</content:encoded>
             </item><item>
+              <title>Os pequenos pontos vermelhos do Telescópio Espacial Webb podem ser a chave para os primeiros buracos negros</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=webb-space-telescope-s-little-red-dots-could-hold-key-to-first-black-holes</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=webb-space-telescope-s-little-red-dots-could-hold-key-to-first-black-holes</guid>
+              <pubDate>Thu, 05 Nov 2026 14:20:02 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Os investigadores da Johns Hopkins que procuram na extensão do Universo a existência dos primeiros buracos negros estão a concentrar-se em pequenos pontos vermelhos que podem conter a chave para o fenómeno teórico.</description>
+              <category>Astrofísica</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Os pequenos pontos vermelhos do Telescópio Espacial Webb podem ser a chave para os primeiros buracos negros</category>
+              <source url="https://phys.org/news/2026-11-webb-space-telescope-red-dots.html">Phys.org Space</source>
+              <content:encoded>Os investigadores da Johns Hopkins que procuram na extensão do Universo a existência dos primeiros buracos negros estão a concentrar-se em pequenos pontos vermelhos que podem conter a chave para o fenómeno teórico. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantitativamente dentro de um quadro físico c</content:encoded>
+            </item><item>
               <title>A Teoria dos Jogos Ajuda o SETI a Procurar Civilizações Alienígenas</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=game-theory-helps-seti-search-for-alien-civilizations</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=game-theory-helps-seti-search-for-alien-civilizations</guid>
@@ -197,16 +207,6 @@
               <category>Exoplanetas</category><category>Universe Today</category><category>Cosmos Week</category><category>Os exoplanetas não podem se esconder do ‘gêmeo digital’ do JWST</category>
               <source url="https://www.universetoday.com/articles/exoplanets-cant-hide-from-the-jwsts-digital-twin">Universe Today</source>
               <content:encoded>Encontrar exoplanetas escuros escondidos no brilho das suas estrelas é um desafio constante na astronomia. Os telescópios usam coronógrafos para bloquear a luz das estrelas, mas mesmo eles têm suas limitações. Os pesquisadores desenvolveram uma nova técnica com o. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses</content:encoded>
-            </item><item>
-              <title>Uma Terra virtual sem vida ajudará os cientistas a encontrar vida em exoplanetas</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=a-virtual-lifeless-earth-will-help-scientists-find-life-on-exoplanets</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=a-virtual-lifeless-earth-will-help-scientists-find-life-on-exoplanets</guid>
-              <pubDate>Wed, 04 Nov 2026 13:22:25 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Os pesquisadores criaram um modelo de Terra sem vida que une a atmosfera aos processos planetários internos. O modelo pode reproduzir o estado habitável moderno da Terra sem incluir a vida, mostrando que um planeta parece habitável.</description>
-              <category>Exoplanetas</category><category>Universe Today</category><category>Cosmos Week</category><category>Uma Terra virtual sem vida ajudará os cientistas a encontrar vida em exoplanetas</category>
-              <source url="https://www.universetoday.com/articles/a-virtual-lifeless-earth-will-help-scientists-find-life-on-exoplanets">Universe Today</source>
-              <content:encoded>Os pesquisadores criaram um modelo de Terra sem vida que une a atmosfera aos processos planetários internos. O modelo pode reproduzir o estado habitável moderno da Terra sem incluir a vida, mostrando que um planeta parece habitável. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quand</content:encoded>
             </item>
   </channel>
 </rss>

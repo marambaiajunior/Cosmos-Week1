@@ -5,13 +5,13 @@
     <link>https://marambaiajunior.github.io/cosmos-week1/</link>
     <description>Portal de jornalismo científico com foco em astronomia, astrofísica, cosmologia e ciência de fronteira.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 13 Nov 2026 18:36:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 23:52:18 +0000</lastBuildDate>
     <generator>CosmosWeekBot 5.0</generator>
     <item>
               <title>Organoides pulmonares humanos com sistema imunológico integrado podem transformar a pesquisa de doenças respiratórias</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=human-lung-organoids-with-a-built-in-immune-system-could-transform-respiratory-disease-research</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=human-lung-organoids-with-a-built-in-immune-system-could-transform-respiratory-disease-research</guid>
-              <pubDate>Fri, 13 Nov 2026 18:28:53 +0000</pubDate>
+              <pubDate>Fri, 13 Nov 2026 23:49:41 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>No estudo financiado pelo NIH, os modelos orquestraram respostas imunes adaptativas à infecção viral.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Organoides pulmonares humanos com sistema imunológico integrado podem transformar a pesquisa de doenças respiratórias</category>
@@ -21,7 +21,7 @@
               <title>Modelo de aprendizagem profunda usando ECGs durante estudos do sono pode prever resultados cardiovasculares</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=deep-learning-model-using-ecgs-during-sleep-studies-can-predict-cardiovascular-outcomes</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=deep-learning-model-using-ecgs-during-sleep-studies-can-predict-cardiovascular-outcomes</guid>
-              <pubDate>Fri, 13 Nov 2026 18:28:53 +0000</pubDate>
+              <pubDate>Fri, 13 Nov 2026 23:49:41 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>A integração de ECGs na triagem de distúrbios do sono poderia melhorar a detecção e orientar a tomada de decisões clínicas.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Modelo de aprendizagem profunda usando ECGs durante estudos do sono pode prever resultados cardiovasculares</category>
@@ -31,7 +31,7 @@
               <title>Os pacientes interagem com o monitor de epilepsia em tempo real, melhorando a detecção de crises</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=patients-engage-with-epilepsy-monitor-in-real-time-improving-seizure-detection</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=patients-engage-with-epilepsy-monitor-in-real-time-improving-seizure-detection</guid>
-              <pubDate>Fri, 13 Nov 2026 18:28:53 +0000</pubDate>
+              <pubDate>Fri, 13 Nov 2026 23:49:41 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>O estudo clínico financiado pelo NIH mostra que a SI conversacional pode facilitar a comunicação bidirecional.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Os pacientes interagem com o monitor de epilepsia em tempo real</category>
@@ -41,7 +41,7 @@
               <title>Um medicamento para pressão arterial pode ativar a gordura marrom que promove a saúde</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=a-blood-pressure-drug-may-activate-health-promoting-brown-fat</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=a-blood-pressure-drug-may-activate-health-promoting-brown-fat</guid>
-              <pubDate>Fri, 13 Nov 2026 18:28:53 +0000</pubDate>
+              <pubDate>Fri, 13 Nov 2026 23:49:41 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>Num estudo financiado pelo Instituto Nacional de Saúde, os cientistas demonstraram que o medicamento losartan, comumente prescrito para hipertensão, aumenta a atividade do tecido adiposo marrom em ratos, melhorando o seu metabolismo.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Um medicamento para pressão arterial pode ativar a gordura marrom que promove a saúde</category>
@@ -51,22 +51,32 @@
               <title>Uma terapia de precisão com células T impede cânceres resistentes ao tratamento em ensaio clínico</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=a-precision-t-cell-therapy-stalls-treatment-resistant-cancers-in-clinical-trial</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=a-precision-t-cell-therapy-stalls-treatment-resistant-cancers-in-clinical-trial</guid>
-              <pubDate>Fri, 13 Nov 2026 18:28:53 +0000</pubDate>
+              <pubDate>Fri, 13 Nov 2026 23:49:41 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
               <description>A droga experimental invika interrompe a progressão de tumores refratários ao estimular seletivamente as células T que combatem os tumores.</description>
               <category>Biologia</category><category>NIH News Releases</category><category>Cosmos Week</category><category>Uma terapia de precisão com células T impede cânceres resistentes ao tratamento em ensaio clínico</category>
               <source url="https://www.nih.gov/news-events/news-releases/precision-t-cell-therapy-stalls-treatment-resistant-cancers-clinical-trial">NIH News Releases</source>
               <content:encoded>A droga experimental invika interrompe a progressão de tumores refratários ao estimular seletivamente as células T que combatem os tumores. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramente descritiva porque gera previsões testáveis que podem estreitar o espaço de hipóteses. Restam poucas opções quando se</content:encoded>
             </item><item>
+              <title>Uma provável estrela de nêutrons supermassiva pode lançar luz sobre a diferença de massa entre estrelas de nêutrons e buracos negros</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=a-likely-supermassive-neutron-star-might-shed-light-on-the-mass-gap-between-neutron-stars-and-bl</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=a-likely-supermassive-neutron-star-might-shed-light-on-the-mass-gap-between-neutron-stars-and-bl</guid>
+              <pubDate>Fri, 13 Nov 2026 18:50:01 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>Uma equipe de astrônomos identificou recentemente uma estrela gigante vermelha com uma companheira binária invisível depois de examinar dados do Telescópio Espectroscópico de Fibra MultiObject da Large Sky Area e do Apache Point Observatory Galactic Evolution.</description>
+              <category>Astrofísica</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Uma provável estrela de nêutrons supermassiva pode lançar luz sobre a diferença de massa entre estrelas de nêutrons e buracos negros</category>
+              <source url="https://phys.org/news/2026-11-supermassive-neutron-star-mass-gap.html">Phys.org Space</source>
+              <content:encoded>Uma equipe de astrônomos identificou recentemente uma estrela gigante vermelha com uma companheira binária invisível depois de examinar dados do Telescópio Espectroscópico de Fibra MultiObject da Large Sky Area e do Apache Point Observatory Galactic Evolution. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa </content:encoded>
+            </item><item>
               <title>Densos aglomerados de galáxias promovem mecanismos que aceleram a formação de estrelas</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=dense-galaxy-clusters-foster-mechanisms-that-throttle-star-formation</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=dense-galaxy-clusters-foster-mechanisms-that-throttle-star-formation</guid>
               <pubDate>Fri, 13 Nov 2026 17:51:07 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>O Meio-dia Cósmico foi quando a Era Estelífera do Universo começou, e a formação de estrelas foi prodigiosa durante essa época. Mas desde então, a formação de estrelas desacelerou para um ritmo relativo, apesar de podermos observá-las se formando em regiões.</description>
+              <description>O Meio-dia Cósmico foi quando a Era Estelífera do Universo começou, e a formação de estrelas foi prodigiosa durante essa época. Mas desde então, a formação de estrelas desacelerou até um ritmo relativamente lento, apesar de podermos observá-las se formando em.</description>
               <category>Biologia</category><category>Universe Today</category><category>Cosmos Week</category><category>Densos aglomerados de galáxias promovem mecanismos que aceleram a formação de estrelas</category>
               <source url="https://www.universetoday.com/articles/dense-galaxy-clusters-foster-mechanisms-that-throttle-star-formation">Universe Today</source>
-              <content:encoded>O Meio-dia Cósmico foi quando a Era Estelífera do Universo começou, e a formação de estrelas foi prodigiosa durante essa época. Mas desde então, a formação de estrelas desacelerou para um ritmo relativo, apesar de podermos observá-las se formando em regiões. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descoberta puramen</content:encoded>
+              <content:encoded>O Meio-dia Cósmico foi quando a Era Estelífera do Universo começou, e a formação de estrelas foi prodigiosa durante essa época. Mas desde então, a formação de estrelas desacelerou até um ritmo relativamente lento, apesar de podermos observá-las se formando em regiões. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a biologia se torna mais informativa quando um efeito observado começa a parecer um mecanismo e não um padrão isolado. A distância entre identificar uma correlação em dados biológicos e compreender a cadeia causal que a produz é rotineiramente subestimada, e a história da pesquisa biomédica está repleta de associações que desmoronaram quando o mecanismo foi buscado e não encontrado. Um resultado que vem com um mecanismo proposto, mesmo que parcial, é mais útil do que uma descober</content:encoded>
             </item><item>
               <title>"Lesmas" robóticas que mudam de forma podem um dia rastejar por mundos alienígenas</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=shape-shifting-robotic-slugs-could-one-day-crawl-across-alien-worlds</link>
@@ -98,16 +108,6 @@
               <source url="https://phys.org/news/2026-11-space-junk-crisis-isnt-trash.html">Phys.org Space</source>
               <content:encoded>Se as pessoas alguma vez pensam em limpar detritos espaciais, normalmente pensam em algo equivalente a um caminhão de lixo gigante no céu, coletando ferramentas perdidas de astronautas e satélites mortos e, em seguida, transportando-os de volta à Terra. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque as ciências da Terra ficam mais fortes quando observações locais podem ser encaixadas em um padrão físico mais amplo que abrange tempo e geografia. O planeta opera como um sistema acoplado no qual processos atmosféricos, oceânicos, criosféricos e da Terra sólida interagem em escalas de tempo de dias a milhões de anos. Uma medição que captura uma variável em um local e um momento tem valor interpretativo limitado até ser incorporada nas séries mais longas e na cobertura espacial mais ampla que p</content:encoded>
             </item><item>
-              <title>Lágrimas do Leão: Capturando os Meteoros Leônidas de 2026</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=tears-of-the-lion-catching-the-2026-leonid-meteors</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=tears-of-the-lion-catching-the-2026-leonid-meteors</guid>
-              <pubDate>Fri, 13 Nov 2026 13:21:00 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>Sempre vale a pena estar vigilante ao observar o céu em meados ou no final de novembro. Todos os anos, alguns meteoros Leônidas pontuam o céu da manhã de novembro por volta do dia 17. Esses arautos silenciosos são apenas uma dica da verdadeira tempestade da.</description>
-              <category>Astronomia</category><category>Universe Today</category><category>Cosmos Week</category><category>Lágrimas do Leão</category>
-              <source url="https://www.universetoday.com/articles/tears-of-the-lion-catching-the-2026-leonid-meteors">Universe Today</source>
-              <content:encoded>Sempre vale a pena estar vigilante ao observar o céu em meados ou no final de novembro. Todos os anos, alguns meteoros Leônidas pontuam o céu da manhã de novembro por volta do dia 17. Esses arautos silenciosos são apenas uma dica da verdadeira tempestade da chuva. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um re</content:encoded>
-            </item><item>
               <title>Estrelas do mês da NASA Ames: novembro de 2026</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-ames-stars-of-the-month-november-2026</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=nasa-ames-stars-of-the-month-november-2026</guid>
@@ -117,6 +117,16 @@
               <category>Astronomia</category><category>NASA News Releases</category><category>Cosmos Week</category><category>Estrelas do mês da NASA Ames</category>
               <source url="https://www.nasa.gov/general/nasa-ames-stars-of-the-month-november-2026/">NASA News Releases</source>
               <content:encoded>A Diretoria Científica Ames da NASA reconhece as contribuições notáveis ​​​​de Alyssa Villanueva, Steve Howell e Samuel LeBlanc. Seu compromisso com a missão da NASA representa o espírito empreendedor, conhecimento técnico e. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual exige que um resultado sobreviva a essa triangulação a</content:encoded>
+            </item><item>
+              <title>Pelas lentes da NASA: capturando a mudança do ônibus espacial Endeavour para Los Angeles</title>
+              <link>https://marambaiajunior.github.io/cosmos-week1/?article=through-nasa-s-lens-capturing-space-shuttle-endeavour-s-move-to-la</link>
+              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=through-nasa-s-lens-capturing-space-shuttle-endeavour-s-move-to-la</guid>
+              <pubDate>Thu, 12 Nov 2026 13:00:00 +0000</pubDate>
+              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
+              <description>À medida que uma nova exposição é aberta apresentando o ônibus espacial Endeavour da NASA, os fotógrafos da NASA relembram a missão final. Esses fotógrafos documentaram as imagens icônicas compartilhadas ao redor do mundo em 21 de setembro de 2012, enquanto.</description>
+              <category>Astronomia</category><category>NASA News Releases</category><category>Cosmos Week</category><category>Pelas lentes da NASA</category>
+              <source url="https://www.nasa.gov/centers-and-facilities/armstrong/through-nasas-lens-capturing-space-shuttle-endeavours-move-to-la/">NASA News Releases</source>
+              <content:encoded>À medida que uma nova exposição é aberta apresentando o ônibus espacial Endeavour da NASA, os fotógrafos da NASA relembram a missão final. Esses fotógrafos documentaram as imagens icônicas compartilhadas ao redor do mundo em 21 de setembro de 2012, enquanto milhões de pessoas. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astronomia não avança com detecções isoladas. O campo constrói confiança acumulando observações independentes em diferentes comprimentos de onda, instrumentos e épocas até que sinais isolados se tornem conclusões defensáveis. O que parece convincente em um conjunto de dados pode se dissolver quando um segundo instrumento olha para o mesmo alvo, e o que parece marginal pode se solidificar quando campanhas de acompanhamento confirmam a leitura original. O padrão atual ex</content:encoded>
             </item><item>
               <title>Lançamento científico: Hubble identifica uma das galáxias mais escuras conhecidas</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=science-release-hubble-identifies-one-of-darkest-known-galaxies</link>
@@ -158,16 +168,6 @@
               <source url="https://phys.org/news/2026-11-black-hole-rapidly-star.html">Phys.org Space</source>
               <content:encoded>Às vezes, estrelas massivas podem imitar o comportamento de um buraco negro e induzir os astrónomos a interpretar mal a sua natureza. Tal é o caso de um estranho par de estrelas no aglomerado da Grande Nuvem de Magalhães NGC 1850. O sistema era inicialmente. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa qu</content:encoded>
             </item><item>
-              <title>Centaurus A em destaque: simulações de plasma reproduzem misteriosas bordas brilhantes de jatos de buracos negros</title>
-              <link>https://marambaiajunior.github.io/cosmos-week1/?article=centaurus-a-in-the-spotlight-plasma-simulations-reproduce-black-hole-jets-mysterious-bright-edge</link>
-              <guid>https://marambaiajunior.github.io/cosmos-week1/?article=centaurus-a-in-the-spotlight-plasma-simulations-reproduce-black-hole-jets-mysterious-bright-edge</guid>
-              <pubDate>Wed, 11 Nov 2026 17:40:04 +0000</pubDate>
-              <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>A cerca de 12 milhões de anos-luz de distância, o buraco negro supermassivo da galáxia Centaurus A está a lançar dois enormes jactos de plasma para o espaço quase à velocidade da luz. Esses chamados jatos são mais brilhantes nas bordas do que no centro.</description>
-              <category>Astrofísica</category><category>Phys.org Space</category><category>Cosmos Week</category><category>Centaurus A em destaque</category>
-              <source url="https://phys.org/news/2026-11-centaurus-spotlight-plasma-simulations-black.html">Phys.org Space</source>
-              <content:encoded>A cerca de 12 milhões de anos-luz de distância, o buraco negro supermassivo da galáxia Centaurus A está a lançar dois enormes jactos de plasma para o espaço quase à velocidade da luz. Esses chamados jatos são mais brilhantes nas bordas do que no centro. O relato institucional enquadra o desenvolvimento de forma concreta e o conecta ao esforço mais amplo de observação ou missão. Isso importa porque a astrofísica se torna convincente apenas quando um sinal observado pode ser ligado a uma explicação física defensável. Objetos compactos como estrelas de nêutrons e buracos negros são laboratórios naturais para física extrema, mas a distância e a complexidade desses sistemas tornam a interpretação difícil sem cobertura em múltiplos comprimentos de onda e modelagem cuidadosa. Uma detecção sem mecanismo é apenas metade de um resultado. a outra metade vem de mostrar que o sinal se encaixa quantit</content:encoded>
-            </item><item>
               <title>Os planetas não simplesmente desaparecem, mas podem desaparecer de vista se seu vizinho estiver próximo o suficiente</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=planets-don-t-just-disappear-but-they-can-wobble-out-of-sight-if-their-neighbour-is-close-enough</link>
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=planets-don-t-just-disappear-but-they-can-wobble-out-of-sight-if-their-neighbour-is-close-enough</guid>
@@ -193,10 +193,10 @@
               <guid>https://marambaiajunior.github.io/cosmos-week1/?article=jwst-rocky-worlds-ddt-observations-of-ltt-1445-a-b-and-c-in-secondary-eclipse-using-miri-f1500w</guid>
               <pubDate>Thu, 12 Nov 2026 18:55:27 +0000</pubDate>
               <author>redacao@cosmosweek.com.br (Cosmos Week)</author>
-              <description>O programa Tempo Discricionário do Diretor do JWST Rocky Worlds usa observações de eclipses secundários para determinar as condições sob as quais os exoplanetas rochosos em torno das anãs M retêm suas atmosferas. Apresentamos observações do RWDDT MIRI/F1500W.</description>
+              <description>O programa Tempo Discricionário do Diretor do JWST Rocky Worlds usa observações secundárias de eclipses para determinar as condições sob as quais os exoplanetas rochosos em torno das anãs M retêm suas atmosferas. Apresentamos observações do RWDDT MIRI/F1500W.</description>
               <category>Exoplanetas</category><category>arXiv Astrophysics</category><category>Cosmos Week</category><category>Observações JWST Rocky Worlds DDT de LTT 1445 A b e c no Eclipse Secundário Usando MIRI/F1500W</category>
               <source url="https://arxiv.org/abs/2611.17300v1">arXiv Astrophysics</source>
-              <content:encoded>O programa Tempo Discricionário do Diretor do JWST Rocky Worlds usa observações de eclipses secundários para determinar as condições sob as quais os exoplanetas rochosos em torno das anãs M retêm suas atmosferas. Apresentamos observações do RWDDT MIRI/F1500W. A análise ainda aguarda revisão por pares, mas já apresenta com clareza o ponto central da história. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quan</content:encoded>
+              <content:encoded>O programa Tempo Discricionário do Diretor do JWST Rocky Worlds usa observações secundárias de eclipses para determinar as condições sob as quais os exoplanetas rochosos em torno das anãs M retêm suas atmosferas. Apresentamos observações do RWDDT MIRI/F1500W. A análise ainda aguarda revisão por pares, mas já apresenta com clareza o ponto central da história. Isso importa porque a ciência de exoplanetas passou da era das descobertas simples para um período de caracterização comparativa. Com mais de cinco mil planetas confirmados conhecidos, as questões cientificamente produtivas agora dizem respeito à composição atmosférica, estrutura interna, história orbital e propriedades estatísticas de populações, e não mais à existência de mundos individuais. Uma nova detecção ou medição espectral é mais valiosa quando adiciona um ponto de dados bem restringido a esses quadros comparativos, não quan</content:encoded>
             </item><item>
               <title>A mineração de asteróides destruirá o mercado de platina, mas isso é uma boa notícia para a Terra</title>
               <link>https://marambaiajunior.github.io/cosmos-week1/?article=asteroid-mining-will-crash-the-platinum-market-but-that-s-good-news-for-earth</link>
